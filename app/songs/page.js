@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { BHOJPURI_SONGS, BHOJPURI_GENRES } from '@/data/songs';
 import { useAudio } from '@/components/AudioContext';
@@ -9,7 +9,7 @@ import SongGrid from '@/components/SongGrid';
 
 const PAGE_SIZE = 40;
 
-export default function AllSongsPage() {
+function AllSongsContent() {
   const searchParams = useSearchParams();
   const initialQuery = searchParams?.get('q') || '';
 
@@ -129,5 +129,13 @@ export default function AllSongsPage() {
         onShuffleAll={handleShuffleAll}
       />
     </section>
+  );
+}
+
+export default function AllSongsPage() {
+  return (
+    <Suspense fallback={<section className="view-content-pane"><div style={{ padding: '40px', textAlign: 'center', color: 'var(--text-dim)' }}>Loading songs...</div></section>}>
+      <AllSongsContent />
+    </Suspense>
   );
 }
