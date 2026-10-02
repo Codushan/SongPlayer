@@ -19,7 +19,7 @@
 
 .artist-section .artist-card {
   backdrop-filter: var(--glass-blur-sm);
-  -webkit-backdrop-filter: var(--glass-blur-sm);
+  /* -webkit-backdrop-filter: var(--glass-blur-sm); */
 }
 
 .artists-scroll-wrap {
@@ -32,7 +32,7 @@
   background: linear-gradient(162deg, rgba(255, 255, 255, 0.42) 0%, rgba(255, 255, 255, 0.28) 100%);
   border: 1px solid rgba(255, 255, 255, 0.5);
   backdrop-filter: var(--glass-blur-md);
-  -webkit-backdrop-filter: var(--glass-blur-md);
+  /* -webkit-backdrop-filter: var(--glass-blur-md); */
   border-radius: var(--radius-lg);
   padding: 24px 16px 20px;
   display: flex;

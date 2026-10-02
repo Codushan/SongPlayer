@@ -184,7 +184,7 @@
   background: linear-gradient(170deg, rgba(255, 255, 255, 0.26) 0%, rgba(255, 255, 255, 0.14) 100%);
   border: 1px solid rgba(255, 255, 255, 0.46);
   backdrop-filter: var(--glass-blur-lg);
-  -webkit-backdrop-filter: var(--glass-blur-lg);
+  /* -webkit-backdrop-filter: var(--glass-blur-lg); */
   box-shadow:
     0 20px 48px -18px rgba(15, 23, 42, 0.3),
     var(--glass-bevel);
@@ -448,7 +448,7 @@
   background: linear-gradient(162deg, rgba(255, 255, 255, 0.32) 0%, rgba(255, 255, 255, 0.18) 100%);
   border: 1px solid rgba(255, 255, 255, 0.46);
   backdrop-filter: var(--glass-blur-md);
-  -webkit-backdrop-filter: var(--glass-blur-md);
+  /* -webkit-backdrop-filter: var(--glass-blur-md); */
   border-radius: var(--radius-lg);
   padding: 14px;
   cursor: pointer;
@@ -644,7 +644,8 @@
 
   .song-bar-main-info {
     flex: 1;
-    min-width: 0; /* Crucial for ellipsis text truncation inside flexbox */
+    min-width: 0;
+    /* Crucial for ellipsis text truncation inside flexbox */
     overflow: hidden;
   }
 
@@ -765,7 +766,8 @@
   }
 
   .bar-action-btn.btn-bar-like {
-    display: none !important; /* Keep YouTube and Play button on narrow mobile screens */
+    display: none !important;
+    /* Keep YouTube and Play button on narrow mobile screens */
   }
 
   .drilldown-context-hero {

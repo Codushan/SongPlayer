@@ -218,7 +218,7 @@
     border-top: 1px solid rgba(255, 255, 255, 0.55);
     background-color: rgba(255, 255, 255, 0.94);
     backdrop-filter: var(--glass-blur-lg);
-    -webkit-backdrop-filter: var(--glass-blur-lg);
+    /* -webkit-backdrop-filter: var(--glass-blur-lg); */
     box-shadow: 0 -4px 20px rgba(15, 23, 42, 0.08);
     height: calc(68px + env(safe-area-inset-bottom, 0px));
     position: relative;

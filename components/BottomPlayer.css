@@ -77,7 +77,7 @@
   inset: 0;
   border-radius: inherit;
   backdrop-filter: blur(9px) saturate(10%) hue-rotate(-6deg);
-  -webkit-backdrop-filter: blur(9px) saturate(10%) hue-rotate(-6deg);
+  /* -webkit-backdrop-filter: blur(9px) saturate(10%) hue-rotate(-6deg); */
   -webkit-mask: radial-gradient(130% 130% at 50% 50%, transparent 52%, #000 92%);
   mask: radial-gradient(130% 130% at 50% 50%, transparent 52%, #000 92%);
   pointer-events: none;
@@ -327,7 +327,7 @@
   inset: 0;
   background: rgba(15, 23, 42, 0.35);
   backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
+  /* -webkit-backdrop-filter: blur(20px); */
   z-index: 150;
   animation: fadeIn 0.3s ease;
 }

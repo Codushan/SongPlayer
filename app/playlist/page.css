@@ -190,7 +190,7 @@
 .playlist-sorting-bar {
   background: var(--bg-glass-card);
   backdrop-filter: var(--glass-blur-lg);
-  -webkit-backdrop-filter: var(--glass-blur-lg);
+  /* -webkit-backdrop-filter: var(--glass-blur-lg); */
   border: 1px solid var(--border-glass);
   border-radius: var(--radius-lg);
   padding: 16px 20px;
