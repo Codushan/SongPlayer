@@ -60,7 +60,7 @@ export const CURATED_CATEGORIES = [
     gradient: 'linear-gradient(135deg, #ef4444 0%, #f97316 100%)',
     accent: '#ef4444',
     tag: 'Navratri Special',
-    keywords: ['devi', 'devi geet', 'durga', 'pachra', 'maiya', 'sheetla', 'navratri', 'shakti'],
+    keywords: ['devi_geet', 'devi pachra', 'durga', 'pachra', 'sherawali', 'sheetla', 'navratri', 'shakti', 'jagadamba', 'vindhyachal', 'maihar', 'sato bahiniya', 'bhawani', 'mata bhajan'],
   },
   {
     id: 'chhath_geet',
@@ -72,7 +72,7 @@ export const CURATED_CATEGORIES = [
     gradient: 'linear-gradient(135deg, #f59e0b 0%, #d97706 100%)',
     accent: '#f59e0b',
     tag: 'Sacred Festival',
-    keywords: ['chhath', 'chhath geet', 'surya', 'ganga', 'arghya', 'bahangiya', 'soop', 'deenanath'],
+    keywords: ['chhath', 'chhath geet', 'surya', 'ganga', 'arghya', 'bahangiya', 'soop', 'deenanath', 'chhathi maiya'],
   },
   {
     id: 'bolbum',
@@ -218,7 +218,23 @@ export function songMatchesCategory(song, categoryId) {
     ...(cat.keywords || []).map((k) => k.toLowerCase()),
   ];
 
-  // 1. Direct check in song.genre or song.genres
+  const isChhath =
+    song.genreId === 'chhath' ||
+    (song.rawGenre && song.rawGenre.toLowerCase().includes('chhath')) ||
+    (song.title && song.title.toLowerCase().includes('chhath')) ||
+    (song.album && song.album.toLowerCase().includes('chhath'));
+
+  // 1. Chhath Geet playlist is strictly for Chhath Mahaparv songs
+  if (cat.id === 'chhath_geet') {
+    return isChhath;
+  }
+
+  // 2. Chhath songs must NEVER leak into Devi Geet, Bhakti, Bolbum or other playlists
+  if (isChhath) {
+    return false;
+  }
+
+  // 3. Direct check in song.genre or song.genres
   const rawGenre = (song.genre || song.genres || '').toString().toLowerCase();
   if (rawGenre) {
     const userTags = rawGenre
@@ -236,16 +252,12 @@ export function songMatchesCategory(song, categoryId) {
     }
   }
 
-  // 2. Fallback to existing metadata (genreId, rawGenre, genreName, title)
+  // 4. Fallback to existing metadata (genreId, rawGenre, genreName, title)
   const legacyId = (song.genreId || '').toLowerCase();
   const legacyRaw = (song.rawGenre || '').toLowerCase();
   const legacyName = (song.genreName || '').toLowerCase();
-  const fullText = `${legacyId} ${legacyRaw} ${legacyName} ${(song.title || '').toLowerCase()}`;
-
-  // Direct keyword containment in raw metadata
-  if (targetKeywords.some((kw) => kw.length > 2 && fullText.includes(kw))) {
-    return true;
-  }
+  const songTitle = (song.title || '').toLowerCase();
+  const fullText = `${legacyId} ${legacyRaw} ${legacyName} ${songTitle}`;
 
   // Legacy genreId smart mappings for older records without explicit 'genre' field
   switch (cat.id) {
@@ -256,39 +268,42 @@ export function songMatchesCategory(song, categoryId) {
     case 'love_song':
       return legacyId === 'romantic' || legacyRaw.includes('romantic') || legacyRaw.includes('duet');
     case 'bhakti':
-      return legacyId === 'bhakti' || legacyId === 'chhath' || legacyId === 'bolbam';
+      return legacyId === 'bhakti';
     case 'devi_geet':
       return (
-        (legacyId === 'bhakti' && (legacyRaw.includes('devi') || fullText.includes('maiya') || fullText.includes('durga'))) ||
-        fullText.includes('devi')
+        legacyRaw.includes('devi') ||
+        legacyRaw.includes('pachra') ||
+        legacyRaw.includes('durga') ||
+        legacyRaw.includes('navratri') ||
+        legacyRaw.includes('aradhana') ||
+        songTitle.includes('durga') ||
+        songTitle.includes('pachra') ||
+        songTitle.includes('navratri') ||
+        songTitle.includes('sheetla') ||
+        songTitle.includes('jagadamba') ||
+        songTitle.includes('vindhyachal') ||
+        songTitle.includes('maihar') ||
+        songTitle.includes('sato bahiniya') ||
+        songTitle.includes('sherawali') ||
+        songTitle.includes('bhawani') ||
+        (legacyId === 'bhakti' && (songTitle.includes('maai') || songTitle.includes('maiya') || songTitle.includes('mata')))
       );
-    case 'chhath_geet':
-      return legacyId === 'chhath';
     case 'bolbum':
-      return legacyId === 'bolbam' || fullText.includes('shiv') || fullText.includes('deoghar');
+      return legacyId === 'bolbam' || fullText.includes('shiv') || fullText.includes('deoghar') || fullText.includes('bhole');
     case 'nirgun':
-      return legacyId === 'lokgeet' || legacyRaw.includes('nirgun') || legacyId === 'classics';
+      return legacyId === 'lokgeet' && (legacyRaw.includes('nirgun') || fullText.includes('nirgun'));
     case 'sohar':
       return fullText.includes('sohar') || fullText.includes('badhai') || fullText.includes('babua');
     case 'kajari':
-      return (
-        fullText.includes('kajari') ||
-        fullText.includes('kajri') ||
-        (legacyId === 'lokgeet' && fullText.includes('bansuriya'))
-      );
+      return fullText.includes('kajari') || fullText.includes('kajri');
     case 'biraha':
       return legacyRaw.includes('biraha') || fullText.includes('biraha') || fullText.includes('birha');
     case 'holi_phagua':
       return legacyId === 'holi' || fullText.includes('phagua') || fullText.includes('jogira');
     case 'vivah':
-      return (
-        legacyId === 'vivah' ||
-        fullText.includes('vivah') ||
-        fullText.includes('dulha') ||
-        fullText.includes('haldi')
-      );
+      return legacyId === 'vivah' || fullText.includes('vivah') || fullText.includes('dulha') || fullText.includes('haldi');
     case 'jhijiya_parcha':
-      return fullText.includes('jhijiya') || fullText.includes('parcha') || fullText.includes('parch');
+      return fullText.includes('jhijiya') || fullText.includes('parcha');
     case 'political':
       return fullText.includes('political') || fullText.includes('chunav') || fullText.includes('neta');
     case 'holi':

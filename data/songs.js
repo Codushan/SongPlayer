@@ -146,7 +146,7 @@ export const BHOJPURI_ARTISTS = [
     "title": "Bihar Kokila",
     "image": "sharda",
     "badge": "Folk Icon",
-    "songsCount": 7
+    "songsCount": 32
   },
   {
     "name": "Manoj Tiwari",
@@ -154,7 +154,7 @@ export const BHOJPURI_ARTISTS = [
     "title": "Mridul",
     "image": "manoj",
     "badge": "Folk Legend",
-    "songsCount": 5
+    "songsCount": 37
   },
   {
     "name": "Shilpi Raj",
@@ -162,7 +162,7 @@ export const BHOJPURI_ARTISTS = [
     "title": "Duet Queen",
     "image": "shilpi",
     "badge": "Duet Queen",
-    "songsCount": 3
+    "songsCount": 60
   },
   {
     "name": "Bharat Sharma Vyas",
@@ -170,7 +170,7 @@ export const BHOJPURI_ARTISTS = [
     "title": "Nirgun Samrat",
     "image": "bharat",
     "badge": "Nirgun Samrat",
-    "songsCount": 3
+    "songsCount": 17
   },
   {
     "name": "Dinesh Lal Yadav",
@@ -178,7 +178,7 @@ export const BHOJPURI_ARTISTS = [
     "title": "Jubilee Star",
     "image": "nirahua",
     "badge": "Jubilee Star",
-    "songsCount": 1
+    "songsCount": 9
   },
   {
     "name": "Kalpana Patowary",
@@ -186,7 +186,7 @@ export const BHOJPURI_ARTISTS = [
     "title": "Folk Queen",
     "image": "kalpana",
     "badge": "Folk Queen",
-    "songsCount": 4
+    "songsCount": 30
   },
   {
     "name": "Priyanka Singh",
@@ -194,7 +194,7 @@ export const BHOJPURI_ARTISTS = [
     "title": "Melody Queen",
     "image": "priyanka",
     "badge": "Melody Queen",
-    "songsCount": 2
+    "songsCount": 37
   },
   {
     "name": "Ritesh Pandey",
@@ -210,7 +210,7 @@ export const BHOJPURI_ARTISTS = [
     "title": "Bhakti Queen",
     "image": "anjali",
     "badge": "Devi Geet Star",
-    "songsCount": 5
+    "songsCount": 15
   },
   {
     "name": "Devi",
@@ -30098,5 +30098,195 @@ export const BHOJPURI_SONGS = [
     "youtubeId": "oc0igLumKeg",
     "youtubeUrl": "https://www.youtube.com/watch?v=oc0igLumKeg&list=RDoc0igLumKeg&start_radio=1",
     "searchUrl": "https://www.youtube.com/results?search_query=Pujawa%20Karelu%20Ki%20Na%20Navratra%20Me%20Ritesh%20Pandey%2C%20Antra%20Singh%20Priyanka%20Bhojpuri%20Devi%20Geet"
+  },
+  {
+    "id": "bhojpuri_anjali_devi_1573",
+    "title": "Panch Hi Paan Ke Pataiya (Devi Pachra)",
+    "singer": "Anjali Bharadwaj",
+    "genreId": "bhakti",
+    "genreName": "Bhakti & Devi Geet",
+    "genreHindi": "देवी भक्ति व भजन",
+    "rawGenre": "Devi Pachra",
+    "album": "Devi Pachra Hits",
+    "year": 2019,
+    "duration": "05:12",
+    "composer": "Manoj Aryan",
+    "writer": "Traditional",
+    "label": "Tarang Music",
+    "starring": "Anjali Bharadwaj",
+    "youtubeId": "2P3x7w9Q4aI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2P3x7w9Q4aI&list=RD2P3x7w9Q4aI&start_radio=1",
+    "searchUrl": "https://www.youtube.com/results?search_query=Panch%20Hi%20Paan%20Ke%20Pataiya%20(Devi%20Pachra)%20Anjali%20Bharadwaj%20Bhojpuri%20Devi%20Geet"
+  },
+  {
+    "id": "bhojpuri_anjali_devi_1574",
+    "title": "Jhuleli Maiya Jhulanwa Nimiya Pe",
+    "singer": "Anjali Bharadwaj",
+    "genreId": "bhakti",
+    "genreName": "Bhakti & Devi Geet",
+    "genreHindi": "देवी भक्ति व भजन",
+    "rawGenre": "Devi Pachra",
+    "album": "Jhuleli Sato Bahiniya",
+    "year": 2020,
+    "duration": "04:58",
+    "composer": "Chhote Baba",
+    "writer": "Vinay Bihari",
+    "label": "Wave Music",
+    "starring": "Anjali Bharadwaj",
+    "youtubeId": "Gj9L3Hn_a-U",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Gj9L3Hn_a-U&list=RDGj9L3Hn_a-U&start_radio=1",
+    "searchUrl": "https://www.youtube.com/results?search_query=Jhuleli%20Maiya%20Jhulanwa%20Nimiya%20Pe%20Anjali%20Bharadwaj%20Bhojpuri%20Devi%20Geet"
+  },
+  {
+    "id": "bhojpuri_anjali_devi_1575",
+    "title": "Lale Odhaulwa Maai Ke Chadhawani",
+    "singer": "Anjali Bharadwaj",
+    "genreId": "bhakti",
+    "genreName": "Bhakti & Devi Geet",
+    "genreHindi": "देवी भक्ति व भजन",
+    "rawGenre": "Devi Aradhana",
+    "album": "Lale Odhaulwa",
+    "year": 2021,
+    "duration": "04:35",
+    "composer": "Ranjan Raj",
+    "writer": "Ajay Bachan",
+    "label": "Aadishakti Films",
+    "starring": "Anjali Bharadwaj",
+    "youtubeId": "5g6u9Z-6y5c",
+    "youtubeUrl": "https://www.youtube.com/watch?v=5g6u9Z-6y5c&list=RD5g6u9Z-6y5c&start_radio=1",
+    "searchUrl": "https://www.youtube.com/results?search_query=Lale%20Odhaulwa%20Maai%20Ke%20Chadhawani%20Anjali%20Bharadwaj%20Bhojpuri%20Devi%20Geet"
+  },
+  {
+    "id": "bhojpuri_anjali_devi_1576",
+    "title": "Maiya Aili Bhore Bhore Anganwa",
+    "singer": "Anjali Bharadwaj",
+    "genreId": "bhakti",
+    "genreName": "Bhakti & Devi Geet",
+    "genreHindi": "देवी भक्ति व भजन",
+    "rawGenre": "Navratri Special",
+    "album": "Bhore Bhore Aili Maai",
+    "year": 2020,
+    "duration": "05:20",
+    "composer": "Ashish Verma",
+    "writer": "Manoj Matalbi",
+    "label": "Tarang Music",
+    "starring": "Anjali Bharadwaj",
+    "youtubeId": "p3XgR8k_e20",
+    "youtubeUrl": "https://www.youtube.com/watch?v=p3XgR8k_e20&list=RDp3XgR8k_e20&start_radio=1",
+    "searchUrl": "https://www.youtube.com/results?search_query=Maiya%20Aili%20Bhore%20Bhore%20Anganwa%20Anjali%20Bharadwaj%20Bhojpuri%20Devi%20Geet"
+  },
+  {
+    "id": "bhojpuri_anjali_devi_1577",
+    "title": "Koyaliya Bole Bagiya Me Maiya Ke",
+    "singer": "Anjali Bharadwaj",
+    "genreId": "bhakti",
+    "genreName": "Bhakti & Devi Geet",
+    "genreHindi": "देवी भक्ति व भजन",
+    "rawGenre": "Devi Pachra",
+    "album": "Bagiya Me Koyaliya",
+    "year": 2018,
+    "duration": "05:40",
+    "composer": "Madhukar Anand",
+    "writer": "Pyare Lal Yadav",
+    "label": "Worldwide Records Bhojpuri",
+    "starring": "Anjali Bharadwaj",
+    "youtubeId": "oc0igLumKeg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=oc0igLumKeg&list=RDoc0igLumKeg&start_radio=1",
+    "searchUrl": "https://www.youtube.com/results?search_query=Koyaliya%20Bole%20Bagiya%20Me%20Maiya%20Ke%20Anjali%20Bharadwaj%20Bhojpuri%20Devi%20Geet"
+  },
+  {
+    "id": "bhojpuri_anjali_devi_1578",
+    "title": "Jagdamba Ghar Me Aili Diyawa Bar Aaili",
+    "singer": "Anjali Bharadwaj",
+    "genreId": "bhakti",
+    "genreName": "Bhakti & Devi Geet",
+    "genreHindi": "देवी भक्ति व भजन",
+    "rawGenre": "Navratri Bhajan",
+    "album": "Jagdamba Ghar Me Aili",
+    "year": 2019,
+    "duration": "04:48",
+    "composer": "Chhote Baba",
+    "writer": "Sumit Singh Chandravanshi",
+    "label": "Wave Music",
+    "starring": "Anjali Bharadwaj",
+    "youtubeId": "A2C9lq-g-Y8",
+    "youtubeUrl": "https://www.youtube.com/watch?v=A2C9lq-g-Y8&list=RDA2C9lq-g-Y8&start_radio=1",
+    "searchUrl": "https://www.youtube.com/results?search_query=Jagdamba%20Ghar%20Me%20Aili%20Diyawa%20Bar%20Aaili%20Anjali%20Bharadwaj%20Bhojpuri%20Devi%20Geet"
+  },
+  {
+    "id": "bhojpuri_anjali_devi_1579",
+    "title": "Maiya Ke Shringaar Shobhela Mathe Senurwa",
+    "singer": "Anjali Bharadwaj",
+    "genreId": "bhakti",
+    "genreName": "Bhakti & Devi Geet",
+    "genreHindi": "देवी भक्ति व भजन",
+    "rawGenre": "Devi Shringaar",
+    "album": "Shringaar Mai Ke",
+    "year": 2019,
+    "duration": "05:04",
+    "composer": "Manoj Aryan",
+    "writer": "R.R. Pankaj",
+    "label": "Worldwide Records Bhojpuri",
+    "starring": "Anjali Bharadwaj",
+    "youtubeId": "wzQ-1r6g2Xg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=wzQ-1r6g2Xg&list=RDwzQ-1r6g2Xg&start_radio=1",
+    "searchUrl": "https://www.youtube.com/results?search_query=Maiya%20Ke%20Shringaar%20Shobhela%20Mathe%20Senurwa%20Anjali%20Bharadwaj%20Bhojpuri%20Devi%20Geet"
+  },
+  {
+    "id": "bhojpuri_anjali_devi_1580",
+    "title": "Bhairo Bhaiya Se Kah Diha Duariya Thadh Baani",
+    "singer": "Anjali Bharadwaj",
+    "genreId": "bhakti",
+    "genreName": "Bhakti & Devi Geet",
+    "genreHindi": "देवी भक्ति व भजन",
+    "rawGenre": "Devi Bhajan",
+    "album": "Maai Kripa",
+    "year": 2020,
+    "duration": "04:42",
+    "composer": "Shankar Singh",
+    "writer": "Pawan Pandey",
+    "label": "Wave Music",
+    "starring": "Anjali Bharadwaj",
+    "youtubeId": "pG2Xq9L0w6U",
+    "youtubeUrl": "https://www.youtube.com/watch?v=pG2Xq9L0w6U&list=RDpG2Xq9L0w6U&start_radio=1",
+    "searchUrl": "https://www.youtube.com/results?search_query=Bhairo%20Bhaiya%20Se%20Kah%20Diha%20Duariya%20Thadh%20Baani%20Anjali%20Bharadwaj%20Bhojpuri%20Devi%20Geet"
+  },
+  {
+    "id": "bhojpuri_anjali_devi_1581",
+    "title": "Doliya Chadhi Chalali Mori Maiya Sharda",
+    "singer": "Anjali Bharadwaj",
+    "genreId": "bhakti",
+    "genreName": "Bhakti & Devi Geet",
+    "genreHindi": "देवी भक्ति व भजन",
+    "rawGenre": "Maihar Devi Bhajan",
+    "album": "Doliya Me Maai",
+    "year": 2021,
+    "duration": "05:15",
+    "composer": "Ashish Verma",
+    "writer": "Akhilesh Kashyap",
+    "label": "Tarang Music",
+    "starring": "Anjali Bharadwaj",
+    "youtubeId": "1cpVA_9aX1Q",
+    "youtubeUrl": "https://www.youtube.com/watch?v=1cpVA_9aX1Q&list=RD1cpVA_9aX1Q&start_radio=1",
+    "searchUrl": "https://www.youtube.com/results?search_query=Doliya%20Chadhi%20Chalali%20Mori%20Maiya%20Sharda%20Anjali%20Bharadwaj%20Bhojpuri%20Devi%20Geet"
+  },
+  {
+    "id": "bhojpuri_anjali_devi_1582",
+    "title": "Chunariya Jhalkat Ba Lal Rang Maiya Ke",
+    "singer": "Anjali Bharadwaj",
+    "genreId": "bhakti",
+    "genreName": "Bhakti & Devi Geet",
+    "genreHindi": "देवी भक्ति व भजन",
+    "rawGenre": "Navratri Bhajan",
+    "album": "Chunariya Lal Rang",
+    "year": 2020,
+    "duration": "04:30",
+    "composer": "Ranjan Raj",
+    "writer": "Vinay Bihari",
+    "label": "Aadishakti Films",
+    "starring": "Anjali Bharadwaj",
+    "youtubeId": "0kF_H1-eB4U",
+    "youtubeUrl": "https://www.youtube.com/watch?v=0kF_H1-eB4U&list=RD0kF_H1-eB4U&start_radio=1",
+    "searchUrl": "https://www.youtube.com/results?search_query=Chunariya%20Jhalkat%20Ba%20Lal%20Rang%20Maiya%20Ke%20Anjali%20Bharadwaj%20Bhojpuri%20Devi%20Geet"
   }
 ];
