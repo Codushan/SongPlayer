@@ -71,7 +71,7 @@ export default function SingerProfilePage() {
         favorites={favorites}
         onPlaySong={(song) => {
           if (currentSong && currentSong.id === song.id) togglePlayPause();
-          else playSong(song);
+          else playSong(song, true, filteredSongs, artistName);
         }}
         onToggleFavorite={toggleFavorite}
         activeArtist={artistName}

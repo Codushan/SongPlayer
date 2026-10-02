@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
+import { useAudio } from '@/components/AudioContext';
 import './SidebarDock.css';
 
 export default function SidebarDock({
@@ -11,6 +12,18 @@ export default function SidebarDock({
   favoritesCount = 0,
 }) {
   const pathname = usePathname() || '/';
+  const { setIsPlayerExpanded } = useAudio();
+  const prevPathRef = useRef(pathname);
+
+  // Collapse player only after new page has mounted upon route change
+  useEffect(() => {
+    if (prevPathRef.current !== pathname) {
+      prevPathRef.current = pathname;
+      if (setIsPlayerExpanded) {
+        setIsPlayerExpanded(false);
+      }
+    }
+  }, [pathname, setIsPlayerExpanded]);
 
   const navItems = useMemo(
     () => [
@@ -150,6 +163,9 @@ export default function SidebarDock({
               data-nav-id={item.id}
               onClick={() => {
                 if (onSelectNav) onSelectNav(item.id);
+                if (pathname === item.href && setIsPlayerExpanded) {
+                  setIsPlayerExpanded(false);
+                }
               }}
               title={item.label}
               aria-label={item.label}

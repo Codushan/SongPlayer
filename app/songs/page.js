@@ -115,7 +115,7 @@ function AllSongsContent() {
         favorites={favorites}
         onPlaySong={(song) => {
           if (currentSong && currentSong.id === song.id) togglePlayPause();
-          else playSong(song);
+          else playSong(song, true, filteredSongs, 'All Songs');
         }}
         onToggleFavorite={toggleFavorite}
         onLoadMore={() => setPage((p) => p + 1)}

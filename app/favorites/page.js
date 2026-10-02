@@ -36,7 +36,7 @@ export default function FavoritesPage() {
         favorites={favorites}
         onPlaySong={(song) => {
           if (currentSong && currentSong.id === song.id) togglePlayPause();
-          else playSong(song);
+          else playSong(song, true, favoriteSongs, 'Liked Songs');
         }}
         onToggleFavorite={toggleFavorite}
         title={`💖 Liked Songs (${favorites.size})`}

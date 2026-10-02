@@ -110,7 +110,7 @@ export default function PlaylistDetailPage() {
         favorites={favorites}
         onPlaySong={(song) => {
           if (currentSong && currentSong.id === song.id) togglePlayPause();
-          else playSong(song);
+          else playSong(song, true, filteredSongs, playlist?.name || playlist?.title);
         }}
         onToggleFavorite={toggleFavorite}
         activePlaylist={playlist}

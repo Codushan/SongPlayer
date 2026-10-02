@@ -43,7 +43,7 @@ export default function GenresPage() {
           favorites={favorites}
           onPlaySong={(song) => {
             if (currentSong && currentSong.id === song.id) togglePlayPause();
-            else playSong(song);
+            else playSong(song, true, genreSongs, genreObj.name);
           }}
           onToggleFavorite={toggleFavorite}
           activeGenreObj={genreObj}

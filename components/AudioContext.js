@@ -33,6 +33,8 @@ export function AudioProvider({ children }) {
   const [duration, setDuration] = useState(0);
   const [favorites, setFavorites] = useState(() => new Set());
   const [queue, setQueue] = useState(BHOJPURI_SONGS);
+  const [queueTitle, setQueueTitle] = useState('Bhojpuri Hits');
+  const [isPlayerExpanded, setIsPlayerExpanded] = useState(false);
 
   // Global Toast State
   const [toast, setToast] = useState({ message: '', show: false });
@@ -113,10 +115,16 @@ export function AudioProvider({ children }) {
     [persistFavorites, showToast]
   );
 
-  // Play a song
+  // Play a song with optional custom playlist queue and title
   const playSong = useCallback(
-    (song, autoPlay = true) => {
+    (song, autoPlay = true, newQueue = null, newQueueTitle = null) => {
       if (!song) return;
+      if (newQueue && Array.isArray(newQueue) && newQueue.length > 0) {
+        setQueue(newQueue);
+      }
+      if (newQueueTitle) {
+        setQueueTitle(newQueueTitle);
+      }
       setCurrentSong(song);
       currentSongRef.current = song;
       setCurrentTime(0);
@@ -220,9 +228,10 @@ export function AudioProvider({ children }) {
   );
 
   const handleShuffleAll = useCallback(
-    (tracksToShuffle) => {
+    (tracksToShuffle, customTitle = null) => {
       const source = tracksToShuffle && tracksToShuffle.length > 0 ? tracksToShuffle : BHOJPURI_SONGS;
       setQueue(source);
+      if (customTitle) setQueueTitle(customTitle);
       setIsShuffle(true);
       const randIdx = Math.floor(Math.random() * source.length);
       playSong(source[randIdx]);
@@ -232,9 +241,10 @@ export function AudioProvider({ children }) {
   );
 
   const handlePlayAll = useCallback(
-    (trackList) => {
+    (trackList, customTitle = null) => {
       if (trackList && trackList.length > 0) {
         setQueue(trackList);
+        if (customTitle) setQueueTitle(customTitle);
         playSong(trackList[0]);
       }
     },
@@ -286,6 +296,10 @@ export function AudioProvider({ children }) {
     duration,
     favorites,
     queue,
+    queueTitle,
+    setQueueTitle,
+    isPlayerExpanded,
+    setIsPlayerExpanded,
     currentGenreObj,
     playSong,
     togglePlayPause,
@@ -340,9 +354,12 @@ export function AudioProvider({ children }) {
         onVolumeChange={setVolume}
         onToggleMute={toggleMute}
         queue={queue}
+        queueTitle={queueTitle}
         onPlaySong={playSong}
         onToggleFavorite={toggleFavorite}
         favorites={favorites}
+        isExpanded={isPlayerExpanded}
+        setIsExpanded={setIsPlayerExpanded}
       />
 
       {/* Toast notifications */}

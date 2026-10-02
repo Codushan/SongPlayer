@@ -45,7 +45,7 @@ export default function PlaylistsPage() {
                   onClick={(e) => {
                     e.preventDefault();
                     e.stopPropagation();
-                    if (plSongs.length > 0) playSong(plSongs[0]);
+                    if (plSongs.length > 0) playSong(plSongs[0], true, plSongs, pl.name);
                   }}
                 >
                   <i className="fa-solid fa-play" />

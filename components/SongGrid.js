@@ -55,7 +55,7 @@ export default function SongGrid({
     if (e.target.closest('.btn-card-like') || e.target.closest('a') || e.target.closest('button')) {
       return;
     }
-    onPlaySong(song);
+    onPlaySong(song, songs);
   };
 
   const quickFilterTabs = [
@@ -447,7 +447,7 @@ export default function SongGrid({
                         title={playing ? 'Pause' : 'Play Track'}
                         onClick={(e) => {
                           e.stopPropagation();
-                          onPlaySong(song);
+                          onPlaySong(song, songs);
                         }}
                       >
                         <i className={`fa-solid ${playing ? 'fa-pause' : 'fa-circle-play'}`} />
@@ -457,7 +457,7 @@ export default function SongGrid({
                 </div>
               );
             })
-            : /* MODERN VISION-OS SONG BARS */
+          : /* MODERN VISION-OS SONG BARS */
             visibleSongs.map((song, idx) => {
               const playing = isPlaying && currentSong && currentSong.id === song.id;
               const liked = favorites ? favorites.has(song.id) : false;
@@ -490,7 +490,7 @@ export default function SongGrid({
                           title={`Play "${song.title}"`}
                           onClick={(e) => {
                             e.stopPropagation();
-                            onPlaySong(song);
+                            onPlaySong(song, songs);
                           }}
                         >
                           <i className="fa-solid fa-play" />
@@ -583,7 +583,7 @@ export default function SongGrid({
                       title={playing ? 'Pause' : 'Play Track'}
                       onClick={(e) => {
                         e.stopPropagation();
-                        onPlaySong(song);
+                        onPlaySong(song, songs);
                       }}
                     >
                       <i className={`fa-solid ${playing ? 'fa-circle-pause' : 'fa-circle-play'}`} />

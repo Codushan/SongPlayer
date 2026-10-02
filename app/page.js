@@ -86,7 +86,7 @@ export default function HomePage() {
                     onClick={(e) => {
                       e.preventDefault();
                       e.stopPropagation();
-                      if (plSongs.length > 0) playSong(plSongs[0]);
+                      if (plSongs.length > 0) playSong(plSongs[0], true, plSongs, pl.name);
                     }}
                   >
                     <i className="fa-solid fa-play" />
@@ -136,7 +136,7 @@ export default function HomePage() {
           favorites={favorites}
           onPlaySong={(song) => {
             if (currentSong && currentSong.id === song.id) togglePlayPause();
-            else playSong(song);
+            else playSong(song, true, homeTrendingSongs, 'Trending Today');
           }}
           onToggleFavorite={toggleFavorite}
         />

@@ -30,33 +30,64 @@ export default function BottomPlayer({
   onVolumeChange,
   onToggleMute,
   queue,
+  queueTitle = 'Bhojpuri Hits',
   onPlaySong,
   onToggleFavorite,
   favorites,
+  isExpanded: controlledExpanded,
+  setIsExpanded: setControlledExpanded,
 }) {
-  const [isExpanded, setIsExpanded] = useState(false);
+  const [internalExpanded, setInternalExpanded] = useState(false);
+  const isExpanded = controlledExpanded !== undefined ? controlledExpanded : internalExpanded;
+  const setIsExpanded = setControlledExpanded || setInternalExpanded;
   const [activeTab, setActiveTab] = useState('upnext');
-  const [playbackSpeed, setPlaybackSpeed] = useState(1);
-  const listRef = useRef(null);
+  const [activeMobileSheet, setActiveMobileSheet] = useState(null);
+  const desktopListRef = useRef(null);
+  const mobileListRef = useRef(null);
 
-  // Auto-scroll active song into view when panel opens
+  // Auto-scroll active song into view inside desktop queue container only
   useEffect(() => {
-    if (isExpanded && listRef.current && song) {
-      const activeEl = listRef.current.querySelector('.queue-item.active');
+    if (isExpanded && desktopListRef.current && song) {
+      const container = desktopListRef.current;
+      const activeEl = container.querySelector('.exp-queue-card.active');
       if (activeEl) {
-        activeEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        const topOffset = activeEl.offsetTop - container.offsetTop - (container.clientHeight / 2) + (activeEl.clientHeight / 2);
+        container.scrollTo({ top: Math.max(0, topOffset), behavior: 'smooth' });
       }
     }
   }, [isExpanded, song]);
 
+  // Auto-scroll active song into view inside mobile sheet container only
+  useEffect(() => {
+    if (activeMobileSheet === 'playlist' && mobileListRef.current && song) {
+      const container = mobileListRef.current;
+      const activeEl = container.querySelector('.exp-queue-card.active');
+      if (activeEl) {
+        const topOffset = activeEl.offsetTop - container.offsetTop - (container.clientHeight / 2) + (activeEl.clientHeight / 2);
+        container.scrollTo({ top: Math.max(0, topOffset), behavior: 'smooth' });
+      }
+    }
+  }, [activeMobileSheet, song]);
+
+  // Ensure modal panel root scrollTop is always locked to 0 when opened
+  useEffect(() => {
+    if (isExpanded) {
+      const panel = document.getElementById('player-expanded-panel');
+      if (panel) panel.scrollTop = 0;
+    }
+  }, [isExpanded]);
+
   // Close on Escape key
   useEffect(() => {
     const handler = (e) => {
-      if (e.key === 'Escape' && isExpanded) setIsExpanded(false);
+      if (e.key === 'Escape') {
+        if (activeMobileSheet) setActiveMobileSheet(null);
+        else if (isExpanded) setIsExpanded(false);
+      }
     };
     window.addEventListener('keydown', handler);
     return () => window.removeEventListener('keydown', handler);
-  }, [isExpanded]);
+  }, [isExpanded, activeMobileSheet]);
 
   if (!song) return null;
 
@@ -82,7 +113,10 @@ export default function BottomPlayer({
       {isExpanded && (
         <div
           className="player-panel-overlay"
-          onClick={() => setIsExpanded(false)}
+          onClick={() => {
+            setActiveMobileSheet(null);
+            setIsExpanded(false);
+          }}
           aria-hidden="true"
         />
       )}
@@ -108,8 +142,12 @@ export default function BottomPlayer({
         <div className="expanded-top-bar">
           <button
             className="expanded-close-btn"
-            onClick={() => setIsExpanded(false)}
-            title="Minimize Player"
+            onClick={() => {
+              setActiveMobileSheet(null);
+              setIsExpanded(false);
+            }}
+            title="Collapse Player (Esc)"
+            aria-label="Collapse Player"
           >
             <i className="fa-solid fa-chevron-down" />
           </button>
@@ -138,6 +176,17 @@ export default function BottomPlayer({
             >
               <i className="fa-brands fa-youtube" />
             </a>
+            <button
+              className="panel-action-btn close-btn"
+              onClick={() => {
+                setActiveMobileSheet(null);
+                setIsExpanded(false);
+              }}
+              title="Close Player (Esc)"
+              aria-label="Close Player"
+            >
+              <i className="fa-solid fa-xmark" />
+            </button>
           </div>
         </div>
 
@@ -262,9 +311,37 @@ export default function BottomPlayer({
                 <span className="stage-vol-pct">{volume}%</span>
               </div>
             </div>
+
+            {/* Mobile Action Pill Buttons (Playlist, Song Details, Sur Vibes) */}
+            <div className="expanded-mobile-actions-row">
+              <button
+                type="button"
+                className={`mobile-action-pill${activeMobileSheet === 'playlist' ? ' active' : ''}`}
+                onClick={() => setActiveMobileSheet('playlist')}
+              >
+                <i className="fa-solid fa-list-ul" />
+                <span>{queueTitle || 'Playlist'} ({queue ? queue.length : 0})</span>
+              </button>
+              <button
+                type="button"
+                className={`mobile-action-pill${activeMobileSheet === 'details' ? ' active' : ''}`}
+                onClick={() => setActiveMobileSheet('details')}
+              >
+                <i className="fa-solid fa-circle-info" />
+                <span>Song Details</span>
+              </button>
+              <button
+                type="button"
+                className={`mobile-action-pill${activeMobileSheet === 'vibes' ? ' active' : ''}`}
+                onClick={() => setActiveMobileSheet('vibes')}
+              >
+                <i className="fa-solid fa-sparkles" />
+                <span>Sur Vibes</span>
+              </button>
+            </div>
           </div>
 
-          {/* Right Side: Tabbed Glass Details & Queue Drawer */}
+          {/* Right Side: Tabbed Glass Details & Queue Drawer (for Desktop / Tablets) */}
           <div className="expanded-side-panel">
             {/* Tabs */}
             <div className="expanded-tabs-nav">
@@ -273,15 +350,15 @@ export default function BottomPlayer({
                 onClick={() => setActiveTab('upnext')}
               >
                 <i className="fa-solid fa-list-ul" />
-                <span className="tab-label-full">Up Next ({queue ? queue.length : 0})</span>
-                <span className="tab-label-short">Queue ({queue ? queue.length : 0})</span>
+                <span className="tab-label-full">{queueTitle || 'Up Next'} ({queue ? queue.length : 0})</span>
+                <span className="tab-label-short">Playlist ({queue ? queue.length : 0})</span>
               </button>
               <button
                 className={`exp-tab-btn${activeTab === 'details' ? ' active' : ''}`}
                 onClick={() => setActiveTab('details')}
               >
                 <i className="fa-solid fa-circle-info" />
-                <span className="tab-label-full">Credits &amp; Details</span>
+                <span className="tab-label-full">Song Details</span>
                 <span className="tab-label-short">Details</span>
               </button>
               <button
@@ -296,7 +373,7 @@ export default function BottomPlayer({
 
             {/* TAB 1: Up Next Queue */}
             {activeTab === 'upnext' && (
-              <div className="exp-queue-container" ref={listRef}>
+              <div className="exp-queue-container" ref={desktopListRef}>
                 {(queue || []).map((s, idx) => {
                   const isActive = s.id === song.id;
                   const isLikedSong = favorites ? favorites.has(s.id) : false;
@@ -304,7 +381,7 @@ export default function BottomPlayer({
                     <div
                       key={s.id}
                       className={`exp-queue-card${isActive ? ' active' : ''}`}
-                      onClick={() => onPlaySong && onPlaySong(s)}
+                      onClick={() => onPlaySong && onPlaySong(s, true, queue, queueTitle)}
                     >
                       <div className="queue-card-idx">
                         {isActive ? (
@@ -419,6 +496,164 @@ export default function BottomPlayer({
             )}
           </div>
         </div>
+
+        {/* MOBILE SLIDE-UP BOTTOM SHEET (For Playlist, Details, Vibes) */}
+        {activeMobileSheet && (
+          <div className="mobile-sheet-overlay" onClick={() => setActiveMobileSheet(null)}>
+            <div className="mobile-sheet-panel" onClick={(e) => e.stopPropagation()}>
+              <div className="mobile-sheet-header">
+                <div className="mobile-sheet-title">
+                  {activeMobileSheet === 'playlist' && (
+                    <>
+                      <i className="fa-solid fa-list-ul" style={{ color: 'var(--accent-primary)' }} />
+                      <span>{queueTitle || 'Playlist'} ({queue ? queue.length : 0} Tracks)</span>
+                    </>
+                  )}
+                  {activeMobileSheet === 'details' && (
+                    <>
+                      <i className="fa-solid fa-circle-info" style={{ color: 'var(--accent-cyan)' }} />
+                      <span>Song Details &amp; Credits</span>
+                    </>
+                  )}
+                  {activeMobileSheet === 'vibes' && (
+                    <>
+                      <i className="fa-solid fa-sparkles" style={{ color: 'var(--accent-gold)' }} />
+                      <span>Sur Vibes &amp; Specs</span>
+                    </>
+                  )}
+                </div>
+                <button
+                  type="button"
+                  className="mobile-sheet-close-btn"
+                  onClick={() => setActiveMobileSheet(null)}
+                  title="Close sheet"
+                >
+                  <i className="fa-solid fa-xmark" />
+                </button>
+              </div>
+
+              <div className="mobile-sheet-content">
+                {activeMobileSheet === 'playlist' && (
+                  <div className="exp-queue-container" ref={mobileListRef}>
+                    {(queue || []).map((s, idx) => {
+                      const isActive = s.id === song.id;
+                      const isLikedSong = favorites ? favorites.has(s.id) : false;
+                      return (
+                        <div
+                          key={s.id}
+                          className={`exp-queue-card${isActive ? ' active' : ''}`}
+                          onClick={() => onPlaySong && onPlaySong(s, true, queue, queueTitle)}
+                        >
+                          <div className="queue-card-idx">
+                            {isActive ? (
+                              isPlaying ? (
+                                <div className="queue-eq-bars">
+                                  <span className="q-bar" />
+                                  <span className="q-bar" />
+                                  <span className="q-bar" />
+                                </div>
+                              ) : (
+                                <i className="fa-solid fa-play" style={{ color: 'var(--accent-primary)' }} />
+                              )
+                            ) : (
+                              <span>{(idx + 1).toString().padStart(2, '0')}</span>
+                            )}
+                          </div>
+
+                          <div className="queue-card-thumb">
+                            <img
+                              src={`https://img.youtube.com/vi/${s.youtubeId}/mqdefault.jpg`}
+                              alt={s.title}
+                              loading="lazy"
+                              onError={(e) => {
+                                e.currentTarget.style.display = 'none';
+                              }}
+                            />
+                          </div>
+
+                          <div className="queue-card-text">
+                            <div className="queue-card-title">{s.title}</div>
+                            <div className="queue-card-artist">
+                              {s.singer} &middot; {s.year}
+                            </div>
+                          </div>
+
+                          <div className="queue-card-actions">
+                            <button
+                              className={`queue-card-heart${isLikedSong ? ' liked' : ''}`}
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                if (onToggleFavorite) onToggleFavorite(s.id);
+                              }}
+                            >
+                              <i className={isLikedSong ? 'fa-solid fa-heart' : 'fa-regular fa-heart'} />
+                            </button>
+                            <span className="queue-card-duration">{s.duration}</span>
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                )}
+
+                {activeMobileSheet === 'details' && (
+                  <div className="exp-details-container">
+                    <div className="credits-card">
+                      <div className="credits-grid">
+                        {[
+                          { label: 'Song Title', val: song.title, icon: 'fa-music' },
+                          { label: 'Lead Singer(s)', val: song.singer, icon: 'fa-microphone' },
+                          { label: 'Album / Film', val: song.album, icon: 'fa-compact-disc' },
+                          { label: 'Genre Category', val: song.genreName, icon: 'fa-layer-group' },
+                          { label: 'Release Year', val: song.year, icon: 'fa-calendar' },
+                          { label: 'Duration', val: song.duration, icon: 'fa-clock' },
+                          { label: 'Music Director', val: song.composer, icon: 'fa-wand-magic-sparkles' },
+                          { label: 'Lyricist / Writer', val: song.writer, icon: 'fa-pen-nib' },
+                          { label: 'Starring Cast', val: song.starring, icon: 'fa-star' },
+                          { label: 'Record Label', val: song.label, icon: 'fa-building' },
+                        ].map(({ label, val, icon }) => (
+                          <div className="credits-item" key={label}>
+                            <div className="credits-item-label">
+                              <i className={`fa-solid ${icon}`} /> {label}
+                            </div>
+                            <div className="credits-item-val">{val || '—'}</div>
+                          </div>
+                        ))}
+                      </div>
+
+                      <div className="credits-footer-action">
+                        <a
+                          href={ytWatchUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="btn-primary credits-yt-btn"
+                        >
+                          <i className="fa-brands fa-youtube" /> Watch Official Video
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                )}
+
+                {activeMobileSheet === 'vibes' && (
+                  <div className="exp-vibes-container">
+                    <div className="vibes-card">
+                      <div className="vibes-icon">{genreObj?.icon || '✨'}</div>
+                      <h3>{genreObj?.name || 'Bhojpuri Sur'}</h3>
+                      <p className="vibes-desc">
+                        {genreObj?.description || 'Authentic regional folk, classical melodies and modern chartbusters.'}
+                      </p>
+                      <div className="vibes-stats-badge">
+                        <span>⚡ 24-bit 48kHz HD Audio Engine</span>
+                        <span>📻 Stereo Spatial Immersion</span>
+                      </div>
+                    </div>
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+        )}
       </div>
 
       {/* FLOATING MINI BOTTOM PLAYER BAR (VISION-OS CAPSULE) */}

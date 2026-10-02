@@ -28,14 +28,14 @@ export default function AlbumsPage() {
           favorites={favorites}
           onPlaySong={(song) => {
             if (currentSong && currentSong.id === song.id) togglePlayPause();
-            else playSong(song);
+            else playSong(song, true, albumSongs, activeAlbum);
           }}
           onToggleFavorite={toggleFavorite}
           activeAlbum={activeAlbum}
           onBack={() => setActiveAlbum(null)}
           backLabel="Back to Albums"
-          onPlayAll={handlePlayAll}
-          onShuffleAll={handleShuffleAll}
+          onPlayAll={(list) => handlePlayAll(list || albumSongs, activeAlbum)}
+          onShuffleAll={(list) => handleShuffleAll(list || albumSongs, activeAlbum)}
         />
       ) : (
         <AlbumSection
@@ -43,7 +43,9 @@ export default function AlbumsPage() {
           activeAlbum={activeAlbum}
           onSelectAlbum={setActiveAlbum}
           onClearAlbum={() => setActiveAlbum(null)}
-          onPlayAlbum={(firstSong) => firstSong && playSong(firstSong)}
+          onPlayAlbum={(firstSong, albumName, songsInAlbum) =>
+            firstSong && playSong(firstSong, true, songsInAlbum || [firstSong], albumName || activeAlbum)
+          }
         />
       )}
     </section>

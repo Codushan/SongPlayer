@@ -223,7 +223,7 @@ export default function Header({
                               title={`Play "${song.title}"`}
                               onClick={(e) => {
                                 e.stopPropagation();
-                                playSong(song);
+                                playSong(song, true, searchResults.songs, 'Search Results');
                                 setIsOpen(false);
                               }}
                             >
