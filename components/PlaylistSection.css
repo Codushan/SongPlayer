@@ -201,3 +201,14 @@
     gap: 14px;
   }
 }
+
+@media (max-width: 480px) {
+  .playlist-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .playlist-card {
+    padding: 16px;
+  }
+}

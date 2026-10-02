@@ -349,3 +349,24 @@
     gap: 12px;
   }
 }
+
+@media (max-width: 480px) {
+  .playlist-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .home-playlist-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .playlist-card {
+    padding: 16px;
+  }
+
+  .playlist-card-title {
+    font-size: 1.02rem;
+  }
+}
+

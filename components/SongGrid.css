@@ -605,34 +605,184 @@
     grid-template-columns: 32px 46px minmax(180px, 2fr) minmax(120px, 1fr) 50px 100px;
   }
 
-  .song-bar-genre-badge {
-    display: none;
+  .song-bar-genre {
+    display: none !important;
   }
 }
 
 @media (max-width: 768px) {
-  .song-bar-item {
-    grid-template-columns: 28px 42px 1fr 80px;
-    padding: 8px 12px;
-    gap: 10px;
+  .songs-bar-list {
+    padding: 6px 4px;
+    gap: 5px;
   }
 
+  .song-bar-item {
+    display: flex !important;
+    align-items: center;
+    padding: 8px 10px;
+    gap: 10px;
+    border-radius: var(--radius-sm);
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+
+  .song-bar-index {
+    width: 22px;
+    font-size: 0.76rem;
+    flex-shrink: 0;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .song-bar-thumb-box {
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+    flex-shrink: 0;
+  }
+
+  .song-bar-main-info {
+    flex: 1;
+    min-width: 0; /* Crucial for ellipsis text truncation inside flexbox */
+    overflow: hidden;
+  }
+
+  .song-bar-title {
+    font-size: 0.88rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .song-bar-artist {
+    font-size: 0.75rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  /* Completely hide secondary elements on mobile */
   .song-bar-album,
+  .song-bar-genre,
+  .song-bar-genre-badge,
   .song-bar-duration {
-    display: none;
+    display: none !important;
+  }
+
+  .song-bar-actions {
+    display: flex !important;
+    align-items: center;
+    gap: 4px;
+    flex-shrink: 0;
+    margin-left: auto;
+  }
+
+  .bar-action-btn {
+    width: 30px;
+    height: 30px;
+    font-size: 0.85rem;
+  }
+
+  .bar-action-btn.btn-bar-play {
+    font-size: 1.15rem;
   }
 
   .drilldown-context-hero {
-    padding: 20px 16px;
+    padding: 16px 14px;
+    border-radius: var(--radius-lg);
+    margin-bottom: 16px;
+  }
+
+  .drilldown-hero-content {
+    gap: 14px;
+  }
+
+  .drilldown-details {
+    min-width: 0;
+    width: 100%;
   }
 
   .drilldown-title {
-    font-size: 1.4rem;
+    font-size: 1.35rem;
+  }
+
+  .drilldown-subtitle {
+    font-size: 0.82rem;
   }
 
   .drilldown-avatar {
-    width: 64px;
-    height: 64px;
-    font-size: 1.7rem;
+    width: 58px;
+    height: 58px;
+    font-size: 1.5rem;
+  }
+
+  .drilldown-actions {
+    width: 100%;
+    display: flex;
+    gap: 8px;
+  }
+
+  .drilldown-play-btn,
+  .drilldown-shuffle-btn {
+    flex: 1;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .song-bar-item {
+    padding: 6px 8px;
+    gap: 8px;
+  }
+
+  .song-bar-index {
+    width: 18px;
+    font-size: 0.7rem;
+  }
+
+  .song-bar-thumb-box {
+    width: 38px;
+    height: 38px;
+  }
+
+  .song-bar-title {
+    font-size: 0.82rem;
+  }
+
+  .song-bar-artist {
+    font-size: 0.7rem;
+  }
+
+  .song-bar-actions {
+    gap: 2px;
+  }
+
+  .bar-action-btn {
+    width: 28px;
+    height: 28px;
+    font-size: 0.8rem;
+  }
+
+  .bar-action-btn.btn-bar-like {
+    display: none !important; /* Keep YouTube and Play button on narrow mobile screens */
+  }
+
+  .drilldown-context-hero {
+    padding: 14px 12px;
+  }
+
+  .drilldown-title {
+    font-size: 1.15rem;
+  }
+
+  .drilldown-meta-pills {
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .meta-pill {
+    padding: 3px 8px;
+    font-size: 0.7rem;
   }
 }
