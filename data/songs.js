@@ -1995,11 +1995,11 @@ export const BHOJPURI_SONGS = [
     "writer": NaN,
     "label": NaN,
     "starring": NaN
-  }
+  },
 
-//pawan
+  //pawan
   {
-    "id": NaN,
+    "id": "chhath_track_1961_1",
     "title": "Supwe Nariyar Wale Bajhli Mori Maiya",
     "singer": "Usha Mangeshkar",
     "genre": "chhath",
@@ -2009,7 +2009,7 @@ export const BHOJPURI_SONGS = [
     "year": 1961,
     "language": "Magahi",
     "composer": "Chitragupt",
-    "youtubeId": NaN,
+    "youtubeId": "Jpcgl0zbnqU",
     "youtubeUrl": "https://www.youtube.com/watch?v=Jpcgl0zbnqU&list=RDJpcgl0zbnqU&start_radio=1",
     "likeViews": 116.0,
     "duration": "03:17",
@@ -2017,7 +2017,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1962_1",
     "title": "Hey Ganga Maiya Tohe Piyari Chadhaibo",
     "singer": "Lata Mangeshkar & Usha Mangeshkar",
     "genre": "chhath",
@@ -2027,7 +2027,7 @@ export const BHOJPURI_SONGS = [
     "year": 1962,
     "language": "Bhojpuri",
     "composer": "Chitragupt",
-    "youtubeId": NaN,
+    "youtubeId": "APeG-tGMsNA",
     "youtubeUrl": "https://www.youtube.com/watch?v=APeG-tGMsNA&t=6s",
     "likeViews": 2303.0,
     "duration": "03:19",
@@ -2035,7 +2035,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1979_1",
     "title": "Arre maala japo re chhathh maiyya ke naam kee",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2045,7 +2045,7 @@ export const BHOJPURI_SONGS = [
     "year": 1979,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Bhupen Hazarika",
-    "youtubeId": NaN,
+    "youtubeId": "R19xAIPZJYQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=R19xAIPZJYQ&t=25s",
     "likeViews": 38.0,
     "duration": "04:37",
@@ -2053,7 +2053,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1979_2",
     "title": "Ugahe Suraj Dev Bhela Bhinu",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2063,7 +2063,7 @@ export const BHOJPURI_SONGS = [
     "year": 1979,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Bhupen Hazarika",
-    "youtubeId": NaN,
+    "youtubeId": "JCMjg5rw24E",
     "youtubeUrl": "https://www.youtube.com/watch?v=JCMjg5rw24E&t=4s",
     "likeViews": 173.0,
     "duration": "02:50",
@@ -2071,7 +2071,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1979_3",
     "title": "Satahi Ghorawa Suraj Dev",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2081,7 +2081,7 @@ export const BHOJPURI_SONGS = [
     "year": 1979,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Bhupen Hazarika",
-    "youtubeId": NaN,
+    "youtubeId": "qWyjxTn4tLE",
     "youtubeUrl": "https://www.youtube.com/watch?v=qWyjxTn4tLE&list=RDJCMjg5rw24E&index=15",
     "likeViews": 417.0,
     "duration": "02:57",
@@ -2089,7 +2089,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1979_4",
     "title": "Patna Ki Hat Par Nariyar",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2099,7 +2099,7 @@ export const BHOJPURI_SONGS = [
     "year": 1979,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Bhupen Hazarika",
-    "youtubeId": NaN,
+    "youtubeId": "TJUsKGAF8-E",
     "youtubeUrl": "https://www.youtube.com/watch?v=TJUsKGAF8-E&list=PLff1mnUpy-iQ4NdCSSDpSrkCEYp2IO8HU&index=14",
     "likeViews": 92.0,
     "duration": "02:17",
@@ -2107,7 +2107,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1979_5",
     "title": "Kekar Naiya Men Irchi Mirichia",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2117,7 +2117,7 @@ export const BHOJPURI_SONGS = [
     "year": 1979,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Bhupen Hazarika",
-    "youtubeId": NaN,
+    "youtubeId": "WIZG4J6Ntvc",
     "youtubeUrl": "https://www.youtube.com/watch?v=WIZG4J6Ntvc",
     "likeViews": 205.0,
     "duration": "02:07",
@@ -2125,7 +2125,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1981_1",
     "title": "Domini Beti Sup Lele Thar Chhe",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2135,7 +2135,7 @@ export const BHOJPURI_SONGS = [
     "year": 1981,
     "language": "Bhojpuri/Maithili tradition",
     "composer": "Charanjit Ahuja",
-    "youtubeId": NaN,
+    "youtubeId": "bVQ7-RJ-ApM",
     "youtubeUrl": "https://www.youtube.com/watch?v=bVQ7-RJ-ApM&list=RDbVQ7-RJ-ApM&start_radio=1",
     "likeViews": 6.0,
     "duration": "03:16",
@@ -2143,7 +2143,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1981_2",
     "title": "Angna Mein Pokhari Khanaib, Chhathi Maiya Aithin Aaj",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2153,7 +2153,7 @@ export const BHOJPURI_SONGS = [
     "year": 1981,
     "language": "Bhojpuri/Maithili tradition",
     "composer": "Charanjit Ahuja",
-    "youtubeId": NaN,
+    "youtubeId": "90gqpbvol1A",
     "youtubeUrl": "https://www.youtube.com/watch?v=90gqpbvol1A",
     "likeViews": 1.0,
     "duration": "02:45",
@@ -2161,7 +2161,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1981_3",
     "title": "Mora Bhaiya Jaila Munger",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2171,7 +2171,7 @@ export const BHOJPURI_SONGS = [
     "year": 1981,
     "language": "Bhojpuri/Maithili tradition",
     "composer": "Charanjit Ahuja",
-    "youtubeId": NaN,
+    "youtubeId": "e0g7tTtKYNU",
     "youtubeUrl": "https://www.youtube.com/watch?v=e0g7tTtKYNU",
     "likeViews": 3.0,
     "duration": "02:45",
@@ -2179,7 +2179,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1981_4",
     "title": "Shyama Khele Gaila Hali O Bhaiya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2189,7 +2189,7 @@ export const BHOJPURI_SONGS = [
     "year": 1981,
     "language": "Bhojpuri/Maithili tradition",
     "composer": "Charanjit Ahuja",
-    "youtubeId": NaN,
+    "youtubeId": "CGhLs_GOl0M",
     "youtubeUrl": "https://www.youtube.com/watch?v=CGhLs_GOl0M",
     "likeViews": 7.0,
     "duration": "02:56",
@@ -2197,7 +2197,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1981_5",
     "title": "Chhathi Maiya Ayetan Aaj",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2207,7 +2207,7 @@ export const BHOJPURI_SONGS = [
     "year": 1981,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Charanjit Ahuja",
-    "youtubeId": NaN,
+    "youtubeId": "WEblIApTGVc",
     "youtubeUrl": "https://www.youtube.com/watch?v=WEblIApTGVc&list=RDWEblIApTGVc&start_radio=1",
     "likeViews": 14.0,
     "duration": "02:52",
@@ -2215,7 +2215,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1983_1",
     "title": "Sunori Gori",
     "singer": "Ina Mukherjee",
     "genre": "chhath",
@@ -2225,7 +2225,7 @@ export const BHOJPURI_SONGS = [
     "year": 1983,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Benoy Bhoosan",
-    "youtubeId": NaN,
+    "youtubeId": "QFBxZmaMDpk",
     "youtubeUrl": "https://www.youtube.com/watch?v=QFBxZmaMDpk&list=OLAK5uy_nLYYElNCI4VHnYXNISv-9hgtbCOS4zrYE&index=6",
     "likeViews": 0.0,
     "duration": "02:17",
@@ -2233,7 +2233,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1983_2",
     "title": "Chhath Bration Ki Tolly",
     "singer": "H.A. Amar",
     "genre": "chhath",
@@ -2243,7 +2243,7 @@ export const BHOJPURI_SONGS = [
     "year": 1983,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Benoy Bhoosan",
-    "youtubeId": NaN,
+    "youtubeId": "Bhf1UwCj5ec",
     "youtubeUrl": "https://www.youtube.com/watch?v=Bhf1UwCj5ec&list=OLAK5uy_nLYYElNCI4VHnYXNISv-9hgtbCOS4zrYE",
     "likeViews": 0.0,
     "duration": "04:52",
@@ -2251,7 +2251,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1986_1",
     "title": "Baanjhin Kewdawa Dhaile Thaadh",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2261,7 +2261,7 @@ export const BHOJPURI_SONGS = [
     "year": 1986,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "MEnyozGodAU",
     "youtubeUrl": "https://www.youtube.com/watch?v=MEnyozGodAU&list=RDMEnyozGodAU&start_radio=1",
     "likeViews": 124698.0,
     "duration": "09:00",
@@ -2269,7 +2269,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1986_2",
     "title": "Hey Chhathi Maiya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2279,7 +2279,7 @@ export const BHOJPURI_SONGS = [
     "year": 1986,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "x9_3sARy_Kw",
     "youtubeUrl": "https://www.youtube.com/watch?v=x9_3sARy_Kw&list=RDx9_3sARy_Kw&start_radio=1",
     "likeViews": 42759.0,
     "duration": "04:58",
@@ -2287,7 +2287,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1986_3",
     "title": "Ho Deenanath",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2297,7 +2297,7 @@ export const BHOJPURI_SONGS = [
     "year": 1986,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "j74EcjyN1WQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=j74EcjyN1WQ&list=RDj74EcjyN1WQ&start_radio=1",
     "likeViews": 117261.0,
     "duration": "06:51",
@@ -2305,7 +2305,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1986_4",
     "title": "Kelwa Ke Paat Par",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2315,7 +2315,7 @@ export const BHOJPURI_SONGS = [
     "year": 1986,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "E29cq_eZQuo",
     "youtubeUrl": "https://www.youtube.com/watch?v=E29cq_eZQuo&list=RDE29cq_eZQuo&start_radio=1",
     "likeViews": 4.0,
     "duration": "08:24",
@@ -2323,7 +2323,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1986_5",
     "title": "Ugihen Suraj Gosaiyan Hey",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2333,7 +2333,7 @@ export const BHOJPURI_SONGS = [
     "year": 1986,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "CqKat91cXWs",
     "youtubeUrl": "https://www.youtube.com/watch?v=CqKat91cXWs&list=RDCqKat91cXWs&start_radio=1",
     "likeViews": 19915.0,
     "duration": "04:53",
@@ -2341,7 +2341,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1986_6",
     "title": "Utha Suruj Bhaile Bihaan",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2351,7 +2351,7 @@ export const BHOJPURI_SONGS = [
     "year": 1986,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "j9G3caThH98",
     "youtubeUrl": "https://www.youtube.com/watch?v=j9G3caThH98&list=RDj9G3caThH98&start_radio=1",
     "likeViews": 98148.0,
     "duration": "05:18",
@@ -2359,7 +2359,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1986_7",
     "title": "Hey Chhathi Maiya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2369,7 +2369,7 @@ export const BHOJPURI_SONGS = [
     "year": 1986,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "Kv_Urhtcrkg",
     "youtubeUrl": "https://www.youtube.com/watch?v=Kv_Urhtcrkg",
     "likeViews": 1392.0,
     "duration": "05:15",
@@ -2377,7 +2377,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1988_1",
     "title": "Kripa Karna Hey Chhathi Maiya",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -2387,7 +2387,7 @@ export const BHOJPURI_SONGS = [
     "year": 1988,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Amar Utpal",
-    "youtubeId": NaN,
+    "youtubeId": "ZtFxDZrygtI",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZtFxDZrygtI&list=RDZtFxDZrygtI&start_radio=1",
     "likeViews": 3407.0,
     "duration": "05:34",
@@ -2395,7 +2395,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1989_1",
     "title": "Kelwa Ke Paat Par Ugalan Suruj",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -2405,7 +2405,7 @@ export const BHOJPURI_SONGS = [
     "year": 1989,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "ShcgbDRQsqc",
     "youtubeUrl": "https://www.youtube.com/watch?v=ShcgbDRQsqc",
     "likeViews": 20751.0,
     "duration": "05:39",
@@ -2413,7 +2413,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1992_1",
     "title": "Suni e suruj dev",
     "singer": "Bharat Sharma Vyas",
     "genre": "chhath",
@@ -2423,7 +2423,7 @@ export const BHOJPURI_SONGS = [
     "year": 1992,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Bharat Sharma Vyas",
-    "youtubeId": NaN,
+    "youtubeId": "_1HPD-QsF1w",
     "youtubeUrl": "https://www.youtube.com/watch?v=_1HPD-QsF1w&list=RD_1HPD-QsF1w&start_radio=1",
     "likeViews": 562.0,
     "duration": "06:09",
@@ -2431,7 +2431,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1993_1",
     "title": "Pooju Chhath Maiya",
     "singer": "Bela Sulakhe",
     "genre": "chhath",
@@ -2441,7 +2441,7 @@ export const BHOJPURI_SONGS = [
     "year": 1993,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "aZn0loJwciY",
     "youtubeUrl": "https://www.youtube.com/watch?v=aZn0loJwciY&list=RDaZn0loJwciY&start_radio=1",
     "likeViews": 5.0,
     "duration": "07:10",
@@ -2449,7 +2449,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1993_2",
     "title": "Hey Channahi Kaath Ker Naiya",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2459,7 +2459,7 @@ export const BHOJPURI_SONGS = [
     "year": 1993,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sohan Lal",
-    "youtubeId": NaN,
+    "youtubeId": "jbS0dFh6I6g",
     "youtubeUrl": "https://www.youtube.com/watch?v=jbS0dFh6I6g&list=OLAK5uy_lX8BmbkGi09M244PdB-HAHAnFdQxxIp40",
     "likeViews": 386.0,
     "duration": "07:56",
@@ -2467,7 +2467,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1993_3",
     "title": "Kaahe Ke Hai Naiya Ke Barti",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2477,7 +2477,7 @@ export const BHOJPURI_SONGS = [
     "year": 1993,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sohan Lal",
-    "youtubeId": NaN,
+    "youtubeId": "-096-JWNLFc",
     "youtubeUrl": "https://www.youtube.com/watch?v=-096-JWNLFc&list=OLAK5uy_lX8BmbkGi09M244PdB-HAHAnFdQxxIp40&index=2",
     "likeViews": 313.0,
     "duration": "05:43",
@@ -2485,7 +2485,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1993_4",
     "title": "Sone Ke Kharauaa Ho Deenanath",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2495,7 +2495,7 @@ export const BHOJPURI_SONGS = [
     "year": 1993,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sohan Lal",
-    "youtubeId": NaN,
+    "youtubeId": "vVeBHG5G5jQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=vVeBHG5G5jQ&list=OLAK5uy_lX8BmbkGi09M244PdB-HAHAnFdQxxIp40&index=3",
     "likeViews": 3900.0,
     "duration": "05:55",
@@ -2503,7 +2503,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1993_5",
     "title": "Kaahe Ke Hai Naiya Ke BartiKartik Maas Iho Punit Mahinwa",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2513,7 +2513,7 @@ export const BHOJPURI_SONGS = [
     "year": 1993,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sohan Lal",
-    "youtubeId": NaN,
+    "youtubeId": "3UhPkzTF4-U",
     "youtubeUrl": "https://www.youtube.com/watch?v=3UhPkzTF4-U&list=OLAK5uy_lX8BmbkGi09M244PdB-HAHAnFdQxxIp40&index=4",
     "likeViews": 262.0,
     "duration": "10:19",
@@ -2521,7 +2521,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1993_6",
     "title": "Kelwa Je Farye Ghavad",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2531,7 +2531,7 @@ export const BHOJPURI_SONGS = [
     "year": 1993,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sohan Lal",
-    "youtubeId": NaN,
+    "youtubeId": "Y-mQkWbYS10",
     "youtubeUrl": "https://www.youtube.com/watch?v=Y-mQkWbYS10&list=OLAK5uy_lX8BmbkGi09M244PdB-HAHAnFdQxxIp40&index=5",
     "likeViews": 631.0,
     "duration": "10:52",
@@ -2539,7 +2539,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1993_7",
     "title": "Hajipur Naariyar",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2549,7 +2549,7 @@ export const BHOJPURI_SONGS = [
     "year": 1993,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sohan Lal",
-    "youtubeId": NaN,
+    "youtubeId": "RFJbwQWsf4E",
     "youtubeUrl": "https://www.youtube.com/watch?v=RFJbwQWsf4E&list=OLAK5uy_lX8BmbkGi09M244PdB-HAHAnFdQxxIp40&index=6",
     "likeViews": 364.0,
     "duration": "05:38",
@@ -2557,7 +2557,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1993_8",
     "title": "Rimjhimi Bundawa Baarasi",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2567,7 +2567,7 @@ export const BHOJPURI_SONGS = [
     "year": 1993,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sohan Lal",
-    "youtubeId": NaN,
+    "youtubeId": "wtuQxC8foPs",
     "youtubeUrl": "https://www.youtube.com/watch?v=wtuQxC8foPs&list=OLAK5uy_lX8BmbkGi09M244PdB-HAHAnFdQxxIp40&index=7",
     "likeViews": 1272.0,
     "duration": "08:29",
@@ -2575,7 +2575,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1993_9",
     "title": "Hey Ganga Maiya",
     "singer": "Vindhyavasini Devi",
     "genre": "chhath",
@@ -2585,7 +2585,7 @@ export const BHOJPURI_SONGS = [
     "year": 1993,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sohan Lal",
-    "youtubeId": NaN,
+    "youtubeId": "WBFmu9_aMpE",
     "youtubeUrl": "https://www.youtube.com/watch?v=WBFmu9_aMpE&list=OLAK5uy_lX8BmbkGi09M244PdB-HAHAnFdQxxIp40&index=8",
     "likeViews": 390.0,
     "duration": "05:42",
@@ -2593,7 +2593,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1994_1",
     "title": "Chhuti Moothi Mori Anganiya",
     "singer": "Shila Rawal / Ritu Chowhan / Soni Chowhan",
     "genre": "chhath",
@@ -2603,7 +2603,7 @@ export const BHOJPURI_SONGS = [
     "year": 1994,
     "language": "Bhojpuri / Bihar folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "AqdZVpn_cUw",
     "youtubeUrl": "https://www.youtube.com/watch?v=AqdZVpn_cUw&list=RDAqdZVpn_cUw&start_radio=1",
     "likeViews": 6.0,
     "duration": "05:35",
@@ -2611,7 +2611,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1994_2",
     "title": "Dinanath Ke Dhyan",
     "singer": "Shila Rawal / Ritu Chowhan / Soni Chowhan",
     "genre": "chhath",
@@ -2621,7 +2621,7 @@ export const BHOJPURI_SONGS = [
     "year": 1994,
     "language": "Bhojpuri / Bihar folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "FHUqjv18oVY",
     "youtubeUrl": "https://www.youtube.com/watch?v=FHUqjv18oVY&list=RDFHUqjv18oVY&start_radio=1",
     "likeViews": 7.0,
     "duration": "06:13",
@@ -2629,7 +2629,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1994_3",
     "title": "Hari Hari Paan Ki Pattariyan",
     "singer": "Shila Rawal / Ritu Chowhan / Soni Chowhan",
     "genre": "chhath",
@@ -2639,7 +2639,7 @@ export const BHOJPURI_SONGS = [
     "year": 1994,
     "language": "Bhojpuri / Bihar folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "HNNfG10owxw",
     "youtubeUrl": "https://www.youtube.com/watch?v=HNNfG10owxw&list=RDHNNfG10owxw&start_radio=1",
     "likeViews": 13.0,
     "duration": "06:47",
@@ -2647,7 +2647,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1994_4",
     "title": "Hari Om Suryaya Namah",
     "singer": "Shila Rawal / Ritu Chowhan / Soni Chowhan",
     "genre": "chhath",
@@ -2657,7 +2657,7 @@ export const BHOJPURI_SONGS = [
     "year": 1994,
     "language": "Bhojpuri / Bihar folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pG0hzBblXrY",
     "youtubeUrl": "https://www.youtube.com/watch?v=pG0hzBblXrY&list=RDpG0hzBblXrY&start_radio=1",
     "likeViews": 13.0,
     "duration": "07:36",
@@ -2665,7 +2665,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1994_5",
     "title": "Kareli Jagat Ujiyaar",
     "singer": "Shila Rawal / Ritu Chowhan / Soni Chowhan",
     "genre": "chhath",
@@ -2675,7 +2675,7 @@ export const BHOJPURI_SONGS = [
     "year": 1994,
     "language": "Bhojpuri / Bihar folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "mDsx3zNujgY",
     "youtubeUrl": "https://www.youtube.com/watch?v=mDsx3zNujgY&list=RDmDsx3zNujgY&start_radio=1",
     "likeViews": 1.0,
     "duration": "06:22",
@@ -2683,7 +2683,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1994_6",
     "title": "Kavna Bane Upjeva Nariyar",
     "singer": "Shila Rawal / Ritu Chowhan / Soni Chowhan",
     "genre": "chhath",
@@ -2693,7 +2693,7 @@ export const BHOJPURI_SONGS = [
     "year": 1994,
     "language": "Bhojpuri / Bihar folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Btmzjb0ZDhA",
     "youtubeUrl": "https://www.youtube.com/watch?v=Btmzjb0ZDhA&list=RDBtmzjb0ZDhA&start_radio=1",
     "likeViews": 2.0,
     "duration": "06:44",
@@ -2701,7 +2701,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1994_7",
     "title": "Sasurji Ke Bagiyan Mein",
     "singer": "Shila Rawal / Ritu Chowhan / Soni Chowhan",
     "genre": "chhath",
@@ -2711,7 +2711,7 @@ export const BHOJPURI_SONGS = [
     "year": 1994,
     "language": "Bhojpuri / Bihar folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "QTV1Oli90TQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=QTV1Oli90TQ&list=RDQTV1Oli90TQ&start_radio=1",
     "likeViews": 2.0,
     "duration": "06:23",
@@ -2719,7 +2719,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1994_8",
     "title": "Ugi Hey Surajmal",
     "singer": "Shila Rawal / Ritu Chowhan / Soni Chowhan",
     "genre": "chhath",
@@ -2729,7 +2729,7 @@ export const BHOJPURI_SONGS = [
     "year": 1994,
     "language": "Bhojpuri / Bihar folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LH9o9t0k2mg",
     "youtubeUrl": "https://www.youtube.com/watch?v=LH9o9t0k2mg&list=RDLH9o9t0k2mg&start_radio=1",
     "likeViews": 5.0,
     "duration": "05:16",
@@ -2737,7 +2737,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_1",
     "title": "Ukhiya ke Khambhia gadaibe he",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -2747,7 +2747,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Eirm5vt29XY",
     "youtubeUrl": "https://www.youtube.com/watch?v=Eirm5vt29XY&list=RDEirm5vt29XY&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:31",
@@ -2755,7 +2755,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_2",
     "title": "Chaar pahar raati jal thal",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -2765,7 +2765,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "89Npqiz7Qpg",
     "youtubeUrl": "https://www.youtube.com/watch?v=89Npqiz7Qpg&list=RD89Npqiz7Qpg&start_radio=1",
     "likeViews": 14.0,
     "duration": "06:23",
@@ -2773,7 +2773,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_3",
     "title": "Kaanch hi baas ke bahangiya",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -2783,7 +2783,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "GKXErESeEM8",
     "youtubeUrl": "https://www.youtube.com/watch?v=GKXErESeEM8&list=RDGKXErESeEM8&start_radio=1",
     "likeViews": 1.0,
     "duration": "06:44",
@@ -2791,7 +2791,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_4",
     "title": "Kopi kopi bolele suruj dev",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -2801,7 +2801,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "uCQ-KZDPPkk",
     "youtubeUrl": "https://www.youtube.com/watch?v=uCQ-KZDPPkk&list=RDuCQ-KZDPPkk&start_radio=1",
     "likeViews": 6.0,
     "duration": "05:20",
@@ -2809,7 +2809,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_5",
     "title": "Nadiya ke teere teere",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -2819,7 +2819,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "EYUMGaij0Yk",
     "youtubeUrl": "https://www.youtube.com/watch?v=EYUMGaij0Yk&list=RDEYUMGaij0Yk&start_radio=1",
     "likeViews": 8.0,
     "duration": "07:28",
@@ -2827,7 +2827,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_6",
     "title": "Rayini ke matal suruj",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -2837,7 +2837,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "kja9dKLW-tM",
     "youtubeUrl": "https://www.youtube.com/watch?v=kja9dKLW-tM&list=RDkja9dKLW-tM&start_radio=1",
     "likeViews": 0.0,
     "duration": "06:54",
@@ -2845,7 +2845,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_7",
     "title": "Kathiya Ke Nayiya Hey Dinanath",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -2855,7 +2855,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri / Bihar folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xZ71ciYO41U",
     "youtubeUrl": "https://www.youtube.com/watch?v=xZ71ciYO41U&list=RDxZ71ciYO41U&start_radio=1",
     "likeViews": 25.0,
     "duration": "06:41",
@@ -2863,7 +2863,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_8",
     "title": "Sone Ke Kothriya Mein Sutle Suruj Dev",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -2873,7 +2873,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri / Bihar folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "I67WA0HnsUA",
     "youtubeUrl": "https://www.youtube.com/watch?v=I67WA0HnsUA&list=RDI67WA0HnsUA&start_radio=1",
     "likeViews": 7.0,
     "duration": "10:19",
@@ -2881,7 +2881,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_9",
     "title": "Ghatwa Ke Aari Aari",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -2891,7 +2891,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "L1MHLfAwx1c",
     "youtubeUrl": "https://www.youtube.com/watch?v=L1MHLfAwx1c&list=OLAK5uy_mKABTsk5mKWL9it4h70v6p8tFQBDdk8m4&index=2",
     "likeViews": 102.0,
     "duration": "03:38",
@@ -2899,7 +2899,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_10",
     "title": "Goad Khadaoo E Aditmal",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -2909,7 +2909,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DBmDSOiU5S0",
     "youtubeUrl": "https://www.youtube.com/watch?v=DBmDSOiU5S0&list=OLAK5uy_mKABTsk5mKWL9it4h70v6p8tFQBDdk8m4&index=3",
     "likeViews": 205.0,
     "duration": "04:43",
@@ -2917,7 +2917,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_11",
     "title": "Hathwa me phulwa Dalaiya",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -2927,7 +2927,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "IbyFwil2fOI",
     "youtubeUrl": "https://www.youtube.com/watch?v=IbyFwil2fOI&list=OLAK5uy_mKABTsk5mKWL9it4h70v6p8tFQBDdk8m4&index=4",
     "likeViews": 141.0,
     "duration": "05:02",
@@ -2935,7 +2935,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_12",
     "title": "Katik maas eho punit mahinawa",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -2945,7 +2945,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "06l2obMbH_o",
     "youtubeUrl": "https://www.youtube.com/watch?v=06l2obMbH_o&list=OLAK5uy_mKABTsk5mKWL9it4h70v6p8tFQBDdk8m4&index=6",
     "likeViews": 269.0,
     "duration": "06:15",
@@ -2953,7 +2953,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1995_13",
     "title": "Sone ke khadaoonwa he dinanath",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -2963,7 +2963,7 @@ export const BHOJPURI_SONGS = [
     "year": 1995,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "l6pl6gvtB0w",
     "youtubeUrl": "https://www.youtube.com/watch?v=l6pl6gvtB0w&list=OLAK5uy_mKABTsk5mKWL9it4h70v6p8tFQBDdk8m4&index=12",
     "likeViews": 2487.0,
     "duration": "05:00",
@@ -2971,7 +2971,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_1",
     "title": "Abke Bariswa Jo Babua Khelaayib",
     "singer": "Meenu Arora / Meena Singh Rana / Allwin Brown / Motilal Manjul / Radhika Manjul",
     "genre": "chhath",
@@ -2981,7 +2981,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "MdxmhzMtWh8",
     "youtubeUrl": "https://www.youtube.com/watch?v=MdxmhzMtWh8&list=RDMdxmhzMtWh8&start_radio=1",
     "likeViews": 7.0,
     "duration": "07:49",
@@ -2989,7 +2989,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_2",
     "title": "Ban Jaayi Dulhaniya Na",
     "singer": "Meenu Arora / Meena Singh Rana / Allwin Brown",
     "genre": "chhath",
@@ -2999,7 +2999,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "BeCTEiYZD1g",
     "youtubeUrl": "https://www.youtube.com/watch?v=BeCTEiYZD1g&list=RDBeCTEiYZD1g&start_radio=1",
     "likeViews": 5.0,
     "duration": "06:32",
@@ -3007,7 +3007,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_3",
     "title": "Cham Cham Chamke Maang K Senura",
     "singer": "Meenu Arora / Meena Singh Rana / Allwin Brown",
     "genre": "chhath",
@@ -3017,7 +3017,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "oh-sLK8lFtY",
     "youtubeUrl": "https://www.youtube.com/watch?v=oh-sLK8lFtY&list=RDoh-sLK8lFtY&start_radio=1",
     "likeViews": 9.0,
     "duration": "06:13",
@@ -3025,7 +3025,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_4",
     "title": "Chath Poojan Jaay",
     "singer": "Meenu Arora / Meena Singh Rana / Allwin Brown",
     "genre": "chhath",
@@ -3035,7 +3035,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "tlcWKspmj7M",
     "youtubeUrl": "https://www.youtube.com/watch?v=tlcWKspmj7M&list=RDtlcWKspmj7M&start_radio=1",
     "likeViews": 40.0,
     "duration": "05:33",
@@ -3043,7 +3043,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_5",
     "title": "Chathi Ke Din Pooja Karbe",
     "singer": "Meenu Arora / Meena Singh Rana / Allwin Brown",
     "genre": "chhath",
@@ -3053,7 +3053,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "K5OH3Axz7Vc",
     "youtubeUrl": "https://www.youtube.com/watch?v=K5OH3Axz7Vc&list=RDK5OH3Axz7Vc&start_radio=1",
     "likeViews": 38.0,
     "duration": "06:36",
@@ -3061,7 +3061,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_6",
     "title": "Ganga Maharani",
     "singer": "Meenu Arora / Meena Singh Rana / Allwin Brown",
     "genre": "chhath",
@@ -3071,7 +3071,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Uqhefo4_-5Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=Uqhefo4_-5Q&list=RDUqhefo4_-5Q&start_radio=1",
     "likeViews": 33.0,
     "duration": "06:01",
@@ -3079,7 +3079,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_7",
     "title": "Gode Khadoova e aditmal",
     "singer": "Meenu Arora / Meena Singh Rana / Allwin Brown",
     "genre": "chhath",
@@ -3089,7 +3089,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "aYC74aCrca8",
     "youtubeUrl": "https://www.youtube.com/watch?v=aYC74aCrca8&list=RDaYC74aCrca8&start_radio=1",
     "likeViews": 28.0,
     "duration": "06:51",
@@ -3097,7 +3097,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_8",
     "title": "He Chhath Maai Tohre Kripa Se",
     "singer": "Meenu Arora / Meena Singh Rana / Allwin Brown",
     "genre": "chhath",
@@ -3107,7 +3107,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Iz-KnxENttk",
     "youtubeUrl": "https://www.youtube.com/watch?v=Iz-KnxENttk&list=RDIz-KnxENttk&start_radio=1",
     "likeViews": 17.0,
     "duration": "04:39",
@@ -3115,7 +3115,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_9",
     "title": "Maiya Hokha Tu Sahaay",
     "singer": "Meenu Arora / Meena Singh Rana / Allwin Brown",
     "genre": "chhath",
@@ -3125,7 +3125,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "r3vJsOWqLuk",
     "youtubeUrl": "https://www.youtube.com/watch?v=r3vJsOWqLuk&list=RDr3vJsOWqLuk&start_radio=1",
     "likeViews": 6.0,
     "duration": "06:54",
@@ -3133,7 +3133,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_10",
     "title": "Piya Kaanch Kanwar Lachkat Jaaye",
     "singer": "Meenu Arora / Meena Singh Rana / Allwin Brown",
     "genre": "chhath",
@@ -3143,7 +3143,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "4sxxWUm7hv4",
     "youtubeUrl": "https://www.youtube.com/watch?v=4sxxWUm7hv4&list=RD4sxxWUm7hv4&start_radio=1",
     "likeViews": 13.0,
     "duration": "05:41",
@@ -3151,7 +3151,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_11",
     "title": "Sita Rani",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3161,7 +3161,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6dcXuCYKT88",
     "youtubeUrl": "https://www.youtube.com/watch?v=6dcXuCYKT88&list=RDW8ByoJGm3ho&index=49",
     "likeViews": 645.0,
     "duration": "07:57",
@@ -3169,7 +3169,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_12",
     "title": "Kaise Me Karbo Chhathi ke Pujanwa he Bhauji",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3179,7 +3179,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "W8ByoJGm3ho",
     "youtubeUrl": "https://www.youtube.com/watch?v=W8ByoJGm3ho&list=RDW8ByoJGm3ho&start_radio=1",
     "likeViews": 279.0,
     "duration": "06:54",
@@ -3187,7 +3187,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_13",
     "title": "Ganga ghate boleli Chhathi maiya",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3197,7 +3197,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DJRv9u8D_9o",
     "youtubeUrl": "https://www.youtube.com/watch?v=DJRv9u8D_9o",
     "likeViews": 14.0,
     "duration": "05:08",
@@ -3205,7 +3205,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_14",
     "title": "Panwa pasarat ghar ke baderiya",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3215,7 +3215,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "_3EwhJRkcuY",
     "youtubeUrl": "https://www.youtube.com/watch?v=_3EwhJRkcuY",
     "likeViews": 11.0,
     "duration": "05:00",
@@ -3223,7 +3223,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_15",
     "title": "Jagamag Diyara Se Angana Ujiyar",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3233,7 +3233,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "hw9utNYyhBY",
     "youtubeUrl": "https://www.youtube.com/watch?v=hw9utNYyhBY",
     "likeViews": 13.0,
     "duration": "07:56",
@@ -3241,7 +3241,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_16",
     "title": "Kartik Mahinawa me",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3251,7 +3251,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Y_LTDUI2S5o",
     "youtubeUrl": "https://www.youtube.com/watch?v=Y_LTDUI2S5o",
     "likeViews": 18.0,
     "duration": "09:00",
@@ -3259,7 +3259,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_17",
     "title": "Kawan Sakhi Mangeli godi me balakwa",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3269,7 +3269,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "HtQwTSErFCA",
     "youtubeUrl": "https://www.youtube.com/watch?v=HtQwTSErFCA",
     "likeViews": 17.0,
     "duration": "08:22",
@@ -3277,7 +3277,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_18",
     "title": "Amwa ke daari pe",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3287,7 +3287,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LlMOrkLXQq4",
     "youtubeUrl": "https://www.youtube.com/watch?v=LlMOrkLXQq4",
     "likeViews": 30.0,
     "duration": "09:13",
@@ -3295,7 +3295,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1996_19",
     "title": "Ghare ghare jyoti jhare",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3305,7 +3305,7 @@ export const BHOJPURI_SONGS = [
     "year": 1996,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "_ieEZKVywdI",
     "youtubeUrl": "https://www.youtube.com/watch?v=_ieEZKVywdI&list=RD_ieEZKVywdI&start_radio=1",
     "likeViews": 204.0,
     "duration": "06:11",
@@ -3313,7 +3313,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1997_1",
     "title": "Kartik Maas Ijoriya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -3323,7 +3323,7 @@ export const BHOJPURI_SONGS = [
     "year": 1997,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not fully confirmed (album credited)",
-    "youtubeId": NaN,
+    "youtubeId": "JcCjw_P_gaM",
     "youtubeUrl": "https://www.youtube.com/watch?v=JcCjw_P_gaM",
     "likeViews": 9389.0,
     "duration": "06:47",
@@ -3331,7 +3331,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1997_2",
     "title": "Ganga Ji Ke Paniya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -3341,7 +3341,7 @@ export const BHOJPURI_SONGS = [
     "year": 1997,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not fully confirmed (album credited)",
-    "youtubeId": NaN,
+    "youtubeId": "wJ7p79QWgLg",
     "youtubeUrl": "https://www.youtube.com/watch?v=wJ7p79QWgLg",
     "likeViews": 2169.0,
     "duration": "05:54",
@@ -3349,7 +3349,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1997_3",
     "title": "Rahiya nihareli tiwayi",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3359,7 +3359,7 @@ export const BHOJPURI_SONGS = [
     "year": 1997,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "L7B1J3ZF_YA",
     "youtubeUrl": "https://www.youtube.com/watch?v=L7B1J3ZF_YA&list=RDW8ByoJGm3ho&index=17",
     "likeViews": 198.0,
     "duration": "07:04",
@@ -3367,7 +3367,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1997_4",
     "title": "Sugna Kahela hum chahkavi",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3377,7 +3377,7 @@ export const BHOJPURI_SONGS = [
     "year": 1997,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jUKqlCYMH9E",
     "youtubeUrl": "https://www.youtube.com/watch?v=jUKqlCYMH9E&list=RDW8ByoJGm3ho&index=25",
     "likeViews": 366.0,
     "duration": "06:43",
@@ -3385,7 +3385,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1997_5",
     "title": "Kerwa je pharela ghawadh se",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3395,7 +3395,7 @@ export const BHOJPURI_SONGS = [
     "year": 1997,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DgHGC95Qd78",
     "youtubeUrl": "https://www.youtube.com/watch?v=DgHGC95Qd78&list=RDW8ByoJGm3ho&index=27",
     "likeViews": 417.0,
     "duration": "08:56",
@@ -3403,7 +3403,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1997_6",
     "title": "Hali hali ugi he surujmal",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3413,7 +3413,7 @@ export const BHOJPURI_SONGS = [
     "year": 1997,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "byhX6SazmVE",
     "youtubeUrl": "https://www.youtube.com/watch?v=byhX6SazmVE&list=RDW8ByoJGm3ho&index=28",
     "likeViews": 211.0,
     "duration": "09:14",
@@ -3421,7 +3421,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1997_7",
     "title": "Ayi he chhathi maiya mora nagan",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3431,7 +3431,7 @@ export const BHOJPURI_SONGS = [
     "year": 1997,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "hTKt8XlRcac",
     "youtubeUrl": "https://www.youtube.com/watch?v=hTKt8XlRcac&list=RDW8ByoJGm3ho&index=27",
     "likeViews": 167.0,
     "duration": "08:54",
@@ -3439,7 +3439,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1997_8",
     "title": "Suna ho khewaiya bhaiya",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3449,7 +3449,7 @@ export const BHOJPURI_SONGS = [
     "year": 1997,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "wNb_MkeBODo",
     "youtubeUrl": "https://www.youtube.com/watch?v=wNb_MkeBODo&list=RDW8ByoJGm3ho&index=28",
     "likeViews": 262.0,
     "duration": "09:07",
@@ -3457,7 +3457,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_1",
     "title": "Aragh Ke Ber",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -3467,7 +3467,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Surinder Kohli",
-    "youtubeId": NaN,
+    "youtubeId": "sp_UdM7Aqfc",
     "youtubeUrl": "https://www.youtube.com/watch?v=sp_UdM7Aqfc",
     "likeViews": 1377.0,
     "duration": "06:10",
@@ -3475,7 +3475,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_2",
     "title": "Uga Ho Surujdev Bhel Bhinsarva",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -3485,7 +3485,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Surinder Kohli",
-    "youtubeId": NaN,
+    "youtubeId": "6e6Hp6R5SVU",
     "youtubeUrl": "https://www.youtube.com/watch?v=6e6Hp6R5SVU",
     "likeViews": 1851045.0,
     "duration": "05:52",
@@ -3493,7 +3493,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_3",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -3503,7 +3503,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Surinder Kohli",
-    "youtubeId": NaN,
+    "youtubeId": "HlwdeEK2rY8",
     "youtubeUrl": "https://www.youtube.com/watch?v=HlwdeEK2rY8",
     "likeViews": 8959.0,
     "duration": "05:27",
@@ -3511,7 +3511,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_4",
     "title": "Ho Dinanath",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -3521,7 +3521,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "sH1bqkui-pA",
     "youtubeUrl": "https://www.youtube.com/watch?v=sH1bqkui-pA",
     "likeViews": 26209.0,
     "duration": "06:50",
@@ -3529,7 +3529,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_5",
     "title": "Uga Hai Suraj Dev",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -3539,7 +3539,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Surinder Kohli",
-    "youtubeId": NaN,
+    "youtubeId": "qK1O3NQHtvI",
     "youtubeUrl": "https://www.youtube.com/watch?v=qK1O3NQHtvI",
     "likeViews": 7850.0,
     "duration": "55:56",
@@ -3547,7 +3547,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_6",
     "title": "Chhath Pooja Ke Geet (Audio Jukebox)",
     "singer": "Anuradha Paudwal, Kavita Paudwal",
     "genre": "chhath",
@@ -3557,7 +3557,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Surinder Kohli",
-    "youtubeId": NaN,
+    "youtubeId": "3xE8-cSXO8E",
     "youtubeUrl": "https://www.youtube.com/watch?v=3xE8-cSXO8E",
     "likeViews": 92602.0,
     "duration": "01:00:50",
@@ -3565,7 +3565,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_7",
     "title": "Asiya Puran Hoy",
     "singer": "Kavita Paudwal",
     "genre": "chhath",
@@ -3575,7 +3575,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Surinder Kohli",
-    "youtubeId": NaN,
+    "youtubeId": "er0EO-Zp904",
     "youtubeUrl": "https://www.youtube.com/watch?v=er0EO-Zp904",
     "likeViews": 30433.0,
     "duration": "04:34",
@@ -3583,7 +3583,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_8",
     "title": "Ugihen e dinesha, uginhe gosaiyan",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3593,7 +3593,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Qi5dwieiAHA",
     "youtubeUrl": "https://www.youtube.com/watch?v=Qi5dwieiAHA&list=RDW8ByoJGm3ho&index=2",
     "likeViews": 158.0,
     "duration": "07:50",
@@ -3601,7 +3601,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_9",
     "title": "Katik ke mahinava lalsa jagal",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3611,7 +3611,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "qN6HY7JcvGU",
     "youtubeUrl": "https://www.youtube.com/watch?v=qN6HY7JcvGU&list=RDW8ByoJGm3ho&index=3",
     "likeViews": 98.0,
     "duration": "06:25",
@@ -3619,7 +3619,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_10",
     "title": "he deva he deva",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3629,7 +3629,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "473vnOUTes8",
     "youtubeUrl": "https://www.youtube.com/watch?v=473vnOUTes8&list=RDW8ByoJGm3ho&index=6",
     "likeViews": 261.0,
     "duration": "06:55",
@@ -3637,7 +3637,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_11",
     "title": "Mor Pichhuariya imli ke gachhiya",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3647,7 +3647,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "wrld-sHu6z4",
     "youtubeUrl": "https://www.youtube.com/watch?v=wrld-sHu6z4&list=RDW8ByoJGm3ho&index=5",
     "likeViews": 742.0,
     "duration": "07:54",
@@ -3655,7 +3655,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_12",
     "title": "Abki chhathi ke pujanwa",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3665,7 +3665,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "C-boygitPIs",
     "youtubeUrl": "https://www.youtube.com/watch?v=C-boygitPIs&list=RDW8ByoJGm3ho&index=7",
     "likeViews": 187.0,
     "duration": "09:23",
@@ -3673,7 +3673,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_13",
     "title": "Ganga ji ke unchi arariya tiwaiya",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3683,7 +3683,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nvqLJikASyk",
     "youtubeUrl": "https://www.youtube.com/watch?v=nvqLJikASyk&list=RDW8ByoJGm3ho&index=14",
     "likeViews": 333.0,
     "duration": "07:39",
@@ -3691,7 +3691,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_14",
     "title": "Ganga ji ke nirmal paniya",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -3701,7 +3701,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "GZZgxIZbla4",
     "youtubeUrl": "https://www.youtube.com/watch?v=GZZgxIZbla4&list=RDW8ByoJGm3ho&index=15",
     "likeViews": 560.0,
     "duration": "07:30",
@@ -3709,7 +3709,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_15",
     "title": "Chhathi Mai Ke Pujani",
     "singer": "Kumari Sudha",
     "genre": "chhath",
@@ -3719,7 +3719,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "eD-Kc85i24k",
     "youtubeUrl": "https://www.youtube.com/watch?v=eD-Kc85i24k&list=RDeD-Kc85i24k&start_radio=1",
     "likeViews": 0.0,
     "duration": "02:39",
@@ -3727,7 +3727,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_16",
     "title": "Chhathi Maiya Avla Pukare",
     "singer": "Kumari Sudha",
     "genre": "chhath",
@@ -3737,7 +3737,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "SUVsEXkf8T0",
     "youtubeUrl": "https://www.youtube.com/watch?v=SUVsEXkf8T0&list=RDSUVsEXkf8T0&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:55",
@@ -3745,7 +3745,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_17",
     "title": "Chhoti Moti Naiya",
     "singer": "Kumari Sudha",
     "genre": "chhath",
@@ -3755,7 +3755,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ZurKJRAmMDs",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZurKJRAmMDs&list=RDZurKJRAmMDs&start_radio=1",
     "likeViews": 0.0,
     "duration": "03:41",
@@ -3763,7 +3763,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_18",
     "title": "Dinanath Ayilan",
     "singer": "Kumari Sudha",
     "genre": "chhath",
@@ -3773,7 +3773,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "yTB7ZigFho0",
     "youtubeUrl": "https://www.youtube.com/watch?v=yTB7ZigFho0&list=RDyTB7ZigFho0&start_radio=1",
     "likeViews": 0.0,
     "duration": "06:26",
@@ -3781,7 +3781,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_19",
     "title": "Gao Ke Adhikari Chakeba Bhaiya",
     "singer": "Kumari Sudha",
     "genre": "chhath",
@@ -3791,7 +3791,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "uLODWp50rdY",
     "youtubeUrl": "https://www.youtube.com/watch?v=uLODWp50rdY&list=RDuLODWp50rdY&start_radio=1",
     "likeViews": 1.0,
     "duration": "03:18",
@@ -3799,7 +3799,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_20",
     "title": "Kathi Ke Naiya Ho",
     "singer": "Kumari Sudha",
     "genre": "chhath",
@@ -3809,7 +3809,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3zslzVWdX8c",
     "youtubeUrl": "https://www.youtube.com/watch?v=3zslzVWdX8c&list=RD3zslzVWdX8c&start_radio=1",
     "likeViews": 0.0,
     "duration": "03:57",
@@ -3817,7 +3817,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_21",
     "title": "Lali Lai Diliya He Chhathi Maiya",
     "singer": "Kumari Sudha",
     "genre": "chhath",
@@ -3827,7 +3827,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0NDMCDBWdN0",
     "youtubeUrl": "https://www.youtube.com/watch?v=0NDMCDBWdN0&list=RD0NDMCDBWdN0&start_radio=1",
     "likeViews": 0.0,
     "duration": "06:16",
@@ -3835,7 +3835,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_22",
     "title": "Mahima Agam Apar",
     "singer": "Kumari Sudha",
     "genre": "chhath",
@@ -3845,7 +3845,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "WpmtFJ0WSx4",
     "youtubeUrl": "https://www.youtube.com/watch?v=WpmtFJ0WSx4&list=RDWpmtFJ0WSx4&start_radio=1",
     "likeViews": 0.0,
     "duration": "02:31",
@@ -3853,7 +3853,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_23",
     "title": "Nariyal Ke Gachhiya",
     "singer": "Kumari Sudha",
     "genre": "chhath",
@@ -3863,7 +3863,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3pE8W1uAI1s",
     "youtubeUrl": "https://www.youtube.com/watch?v=3pE8W1uAI1s&list=RD3pE8W1uAI1s&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:11",
@@ -3871,7 +3871,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_24",
     "title": "Pan More Khaile Bhaiya",
     "singer": "Kumari Sudha",
     "genre": "chhath",
@@ -3881,7 +3881,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "zlzo4cl1yZc",
     "youtubeUrl": "https://www.youtube.com/watch?v=zlzo4cl1yZc&list=RDzlzo4cl1yZc&start_radio=1",
     "likeViews": 1.0,
     "duration": "04:07",
@@ -3889,7 +3889,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_25",
     "title": "Pujile Chhathi Maiya",
     "singer": "Kumari Sudha",
     "genre": "chhath",
@@ -3899,7 +3899,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "k1A2fp-gYro",
     "youtubeUrl": "https://www.youtube.com/watch?v=k1A2fp-gYro&list=RDk1A2fp-gYro&start_radio=1",
     "likeViews": 1.0,
     "duration": "04:42",
@@ -3907,7 +3907,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_26",
     "title": "Sebak Gaile Bajariya",
     "singer": "Kumari Sudha",
     "genre": "chhath",
@@ -3917,7 +3917,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "9hA6s3aDivg",
     "youtubeUrl": "https://www.youtube.com/watch?v=9hA6s3aDivg&list=RD9hA6s3aDivg&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:35",
@@ -3925,7 +3925,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_27",
     "title": "Aahe Taahi Paisee Sute",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -3935,7 +3935,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Rp6e0BUuJ7M",
     "youtubeUrl": "https://www.youtube.com/watch?v=Rp6e0BUuJ7M&list=RDRp6e0BUuJ7M&start_radio=1",
     "likeViews": 358.0,
     "duration": "04:31",
@@ -3943,7 +3943,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_28",
     "title": "Babua Ja Jhad Ke",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -3953,7 +3953,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "EnjILzHH5DA",
     "youtubeUrl": "https://www.youtube.com/watch?v=EnjILzHH5DA&list=RDEnjILzHH5DA&start_radio=1",
     "likeViews": 723.0,
     "duration": "06:56",
@@ -3961,7 +3961,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_29",
     "title": "Chathi Maiya Ke Daura",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -3971,7 +3971,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rThtdHmMDaY",
     "youtubeUrl": "https://www.youtube.com/watch?v=rThtdHmMDaY&list=RDrThtdHmMDaY&start_radio=1",
     "likeViews": 2321.0,
     "duration": "04:34",
@@ -3979,7 +3979,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_30",
     "title": "Chhathi Maiya Kahan Gel Khin",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -3989,7 +3989,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Rh3pA5r7SGk",
     "youtubeUrl": "https://www.youtube.com/watch?v=Rh3pA5r7SGk&list=RDRh3pA5r7SGk&start_radio=1",
     "likeViews": 7985.0,
     "duration": "05:00",
@@ -3997,7 +3997,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_31",
     "title": "Dhaan Kootoa He Bahina",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -4007,7 +4007,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "FncJ90fpTaQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=FncJ90fpTaQ&list=RDFncJ90fpTaQ&start_radio=1",
     "likeViews": 7531.0,
     "duration": "04:40",
@@ -4015,7 +4015,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_32",
     "title": "Dohri Kalsupve Savita",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -4025,7 +4025,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "29R26Nle3x0",
     "youtubeUrl": "https://www.youtube.com/watch?v=29R26Nle3x0&list=RDFncJ90fpTaQ&index=3",
     "likeViews": 995.0,
     "duration": "04:17",
@@ -4033,7 +4033,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_33",
     "title": "Gahoonaa Besahen Galaiye",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -4043,7 +4043,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "m9EaCqcOTCI",
     "youtubeUrl": "https://www.youtube.com/watch?v=m9EaCqcOTCI&list=RDm9EaCqcOTCI&start_radio=1",
     "likeViews": 7569.0,
     "duration": "05:01",
@@ -4051,7 +4051,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_34",
     "title": "Kaanch Hee Baans Ke Bahengiya",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -4061,7 +4061,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "CxxgZm6RWsc",
     "youtubeUrl": "https://www.youtube.com/watch?v=CxxgZm6RWsc&list=RDCxxgZm6RWsc&start_radio=1",
     "likeViews": 29.0,
     "duration": "05:28",
@@ -4069,7 +4069,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_35",
     "title": "Maarbou Re Soogta Dhanush Se",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -4079,7 +4079,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2Lp-8o1dCX0",
     "youtubeUrl": "https://www.youtube.com/watch?v=2Lp-8o1dCX0&list=RD2Lp-8o1dCX0&start_radio=1",
     "likeViews": 50.0,
     "duration": "04:29",
@@ -4087,7 +4087,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_36",
     "title": "Nindiya Ke Maatal Dev",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -4097,7 +4097,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "UfJPSi3fCUc",
     "youtubeUrl": "https://www.youtube.com/watch?v=UfJPSi3fCUc&list=RDUfJPSi3fCUc&start_radio=1",
     "likeViews": 20831.0,
     "duration": "04:31",
@@ -4105,7 +4105,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_37",
     "title": "Oogoa - Oogoa Ne Ho Suruj",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -4115,7 +4115,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DOhgbJIE-uw",
     "youtubeUrl": "https://www.youtube.com/watch?v=DOhgbJIE-uw&list=RDDOhgbJIE-uw&start_radio=1",
     "likeViews": 5192.0,
     "duration": "06:45",
@@ -4123,7 +4123,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1998_38",
     "title": "Tulsi Chabutara Pe Oogaiyle",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -4133,7 +4133,7 @@ export const BHOJPURI_SONGS = [
     "year": 1998,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ivIPMOlqv1A",
     "youtubeUrl": "https://www.youtube.com/watch?v=ivIPMOlqv1A&list=RDivIPMOlqv1A&start_radio=1",
     "likeViews": 940.0,
     "duration": "05:03",
@@ -4141,7 +4141,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_1",
     "title": "Abki Hum Karbaiy Sajna",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari / Tripti Shakya",
     "genre": "chhath",
@@ -4151,7 +4151,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "04YnS-WCxLU",
     "youtubeUrl": "https://www.youtube.com/watch?v=04YnS-WCxLU&list=RD04YnS-WCxLU&start_radio=1",
     "likeViews": 5365.0,
     "duration": "06:31",
@@ -4159,7 +4159,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_2",
     "title": "Hey Chhathi Maiya Joda Supwa",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari / Tripti Shakya",
     "genre": "chhath",
@@ -4169,7 +4169,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "KyciPVDOZVQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=KyciPVDOZVQ&list=RDKyciPVDOZVQ&start_radio=1",
     "likeViews": 356.0,
     "duration": "04:41",
@@ -4177,7 +4177,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_3",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Anuradha Paudwal / Sunil Chhaila Bihari / Tripti Shakya",
     "genre": "chhath",
@@ -4187,7 +4187,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "CxxgZm6RWsc",
     "youtubeUrl": "https://www.youtube.com/watch?v=CxxgZm6RWsc&list=RDCxxgZm6RWsc&start_radio=1",
     "likeViews": 29.0,
     "duration": "05:28",
@@ -4195,7 +4195,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_4",
     "title": "Ankhiya Ho Jamela Jhankhad Se",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -4205,7 +4205,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "FxtiP0v9vKM",
     "youtubeUrl": "https://www.youtube.com/watch?v=FxtiP0v9vKM&list=RDFxtiP0v9vKM&start_radio=1",
     "likeViews": 144.0,
     "duration": "09:19",
@@ -4213,7 +4213,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_5",
     "title": "Chathi Maiya Ke Sakhi Ho Barat Karih",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -4223,7 +4223,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jjbjnMhLtss",
     "youtubeUrl": "https://www.youtube.com/watch?v=jjbjnMhLtss&list=RDjjbjnMhLtss&start_radio=1",
     "likeViews": 80.0,
     "duration": "07:41",
@@ -4231,7 +4231,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_6",
     "title": "Chhath Ason Karab Jaroor",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -4241,7 +4241,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3t7NsrerRek",
     "youtubeUrl": "https://www.youtube.com/watch?v=3t7NsrerRek&list=RD3t7NsrerRek&start_radio=1",
     "likeViews": 44.0,
     "duration": "09:34",
@@ -4249,7 +4249,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_7",
     "title": "Chhathi Mayi Dekhih Piya Par",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -4259,7 +4259,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "aFMz_x1IBk8",
     "youtubeUrl": "https://www.youtube.com/watch?v=aFMz_x1IBk8&list=RDaFMz_x1IBk8&start_radio=1",
     "likeViews": 58.0,
     "duration": "07:37",
@@ -4267,7 +4267,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_8",
     "title": "Godi Ke Balakava Chhathi Maiya",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -4277,7 +4277,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "YR5ZUg5cuGM",
     "youtubeUrl": "https://www.youtube.com/watch?v=YR5ZUg5cuGM&list=RDYR5ZUg5cuGM&start_radio=1",
     "likeViews": 478.0,
     "duration": "06:23",
@@ -4285,7 +4285,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_9",
     "title": "Hath Ke Sipuliya Ho Dhayile",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -4295,7 +4295,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "wBQ3EPLtypM",
     "youtubeUrl": "https://www.youtube.com/watch?v=wBQ3EPLtypM&list=RDwBQ3EPLtypM&start_radio=1",
     "likeViews": 64.0,
     "duration": "10:13",
@@ -4303,7 +4303,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_10",
     "title": "Marem Beta Ke Bazi",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -4313,7 +4313,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xN06SAieCN0",
     "youtubeUrl": "https://www.youtube.com/watch?v=xN06SAieCN0&list=RDxN06SAieCN0&start_radio=1",
     "likeViews": 63.0,
     "duration": "07:27",
@@ -4321,7 +4321,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_11",
     "title": "Chhathi Maiya Kal Jodi",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -4331,7 +4331,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "va8TnFsDKVQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=va8TnFsDKVQ&list=RDva8TnFsDKVQ&start_radio=1",
     "likeViews": 1.0,
     "duration": "06:46",
@@ -4339,7 +4339,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_12",
     "title": "Dinanath Ho Kahiya",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -4349,7 +4349,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "N-eM-39uEr8",
     "youtubeUrl": "https://www.youtube.com/watch?v=N-eM-39uEr8&list=RDN-eM-39uEr8&start_radio=1",
     "likeViews": 523.0,
     "duration": "07:43",
@@ -4357,7 +4357,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_13",
     "title": "Ganga Kinare Ek Nagariya",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -4367,7 +4367,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "hAx_4jo2b0M",
     "youtubeUrl": "https://www.youtube.com/watch?v=hAx_4jo2b0M&list=RDhAx_4jo2b0M&start_radio=1",
     "likeViews": 147.0,
     "duration": "09:41",
@@ -4375,7 +4375,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_14",
     "title": "Kahiya Sukhaeb Dinanath",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -4385,7 +4385,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "D0gP5EfJARM",
     "youtubeUrl": "https://www.youtube.com/watch?v=D0gP5EfJARM&list=RDD0gP5EfJARM&start_radio=1",
     "likeViews": 45.0,
     "duration": "06:05",
@@ -4393,7 +4393,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_15",
     "title": "Paatar Suruj Dev Ho",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -4403,7 +4403,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "o5W3BPtRdCI",
     "youtubeUrl": "https://www.youtube.com/watch?v=o5W3BPtRdCI&list=RDo5W3BPtRdCI&start_radio=1",
     "likeViews": 193.0,
     "duration": "07:45",
@@ -4411,7 +4411,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_16",
     "title": "Patna Ke Pakki Sadkiya",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -4421,7 +4421,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "q4NqqrkjyP0",
     "youtubeUrl": "https://www.youtube.com/watch?v=q4NqqrkjyP0&list=RDq4NqqrkjyP0&start_radio=1",
     "likeViews": 271.0,
     "duration": "07:02",
@@ -4429,7 +4429,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_17",
     "title": "Piyari Piyariya Pahir",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -4439,7 +4439,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rGwej0v5qZc",
     "youtubeUrl": "https://www.youtube.com/watch?v=rGwej0v5qZc&list=RDrGwej0v5qZc&start_radio=1",
     "likeViews": 186.0,
     "duration": "05:56",
@@ -4447,7 +4447,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_1999_18",
     "title": "Tohra Sevte Ho Dinanath",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -4457,7 +4457,7 @@ export const BHOJPURI_SONGS = [
     "year": 1999,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "_J90Jck72o4",
     "youtubeUrl": "https://www.youtube.com/watch?v=_J90Jck72o4&list=RD_J90Jck72o4&start_radio=1",
     "likeViews": 293.0,
     "duration": "06:08",
@@ -4465,7 +4465,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_1",
     "title": "Apna Chhathi Maai Ke Apna Ganga Maai Ke",
     "singer": "Tripti Shakya & Anand Mohan",
     "genre": "chhath",
@@ -4475,7 +4475,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ThSmL_VE0hk",
     "youtubeUrl": "https://www.youtube.com/watch?v=ThSmL_VE0hk&list=RDThSmL_VE0hk&start_radio=1",
     "likeViews": 21.0,
     "duration": "08:17",
@@ -4483,7 +4483,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_2",
     "title": "Chhathi Maai Ke Mahima Bhaari",
     "singer": "Tripti Shakya & Anand Mohan",
     "genre": "chhath",
@@ -4493,7 +4493,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "okWm_vD721M",
     "youtubeUrl": "https://www.youtube.com/watch?v=okWm_vD721M&list=RDokWm_vD721M&start_radio=1",
     "likeViews": 26.0,
     "duration": "06:20",
@@ -4501,7 +4501,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_3",
     "title": "Chhathi Maiya Ke Kosi Bhar",
     "singer": "Tripti Shakya & Anand Mohan",
     "genre": "chhath",
@@ -4511,7 +4511,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "es4FO4qzaaE",
     "youtubeUrl": "https://www.youtube.com/watch?v=es4FO4qzaaE&list=RDes4FO4qzaaE&start_radio=1",
     "likeViews": 8.0,
     "duration": "06:57",
@@ -4519,7 +4519,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_4",
     "title": "Maangi Duno Haathe Anchra Pasaar",
     "singer": "Tripti Shakya & Anand Mohan",
     "genre": "chhath",
@@ -4529,7 +4529,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "I3ik1GxwQ0k",
     "youtubeUrl": "https://www.youtube.com/watch?v=I3ik1GxwQ0k&list=RDI3ik1GxwQ0k&start_radio=1",
     "likeViews": 3.0,
     "duration": "07:19",
@@ -4537,7 +4537,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_5",
     "title": "Purub Oriya Se Ayilen Adityamal",
     "singer": "Tripti Shakya & Anand Mohan",
     "genre": "chhath",
@@ -4547,7 +4547,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7wQ_zVvn_ts",
     "youtubeUrl": "https://www.youtube.com/watch?v=7wQ_zVvn_ts&list=RD7wQ_zVvn_ts&start_radio=1",
     "likeViews": 54.0,
     "duration": "08:29",
@@ -4555,7 +4555,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_6",
     "title": "Sonwa Ke Rathwa Pe Chadke",
     "singer": "Tripti Shakya & Anand Mohan",
     "genre": "chhath",
@@ -4565,7 +4565,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "TDReYUYmzLg",
     "youtubeUrl": "https://www.youtube.com/watch?v=TDReYUYmzLg&list=RDTDReYUYmzLg&start_radio=1",
     "likeViews": 19.0,
     "duration": "06:47",
@@ -4573,7 +4573,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_7",
     "title": "Thekuwa Pakwale Baani",
     "singer": "Tripti Shakya & Anand Mohan",
     "genre": "chhath",
@@ -4583,7 +4583,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "b7_hUmX-cRI",
     "youtubeUrl": "https://www.youtube.com/watch?v=b7_hUmX-cRI&list=RDb7_hUmX-cRI&start_radio=1",
     "likeViews": 3.0,
     "duration": "05:37",
@@ -4591,7 +4591,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_8",
     "title": "Uth Bhore Bhayil Ab Raat Bital",
     "singer": "Tripti Shakya & Anand Mohan",
     "genre": "chhath",
@@ -4601,7 +4601,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LRnbomuGcZQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=LRnbomuGcZQ&list=RDLRnbomuGcZQ&start_radio=1",
     "likeViews": 1.0,
     "duration": "07:40",
@@ -4609,7 +4609,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_9",
     "title": "Chhath Maiya Ho Sabkar",
     "singer": "Manoj Tiwari & Vandana Bhardwaj",
     "genre": "chhath",
@@ -4619,7 +4619,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pfnYiKDDauY",
     "youtubeUrl": "https://www.youtube.com/watch?v=pfnYiKDDauY&list=RDpfnYiKDDauY&start_radio=1",
     "likeViews": 40.0,
     "duration": "10:28",
@@ -4627,7 +4627,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_10",
     "title": "Dag Dag Piya Ke",
     "singer": "Manoj Tiwari & Vandana Bhardwaj",
     "genre": "chhath",
@@ -4637,7 +4637,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "g9La6YNElHQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=g9La6YNElHQ&list=RDg9La6YNElHQ&start_radio=1",
     "likeViews": 122.0,
     "duration": "08:47",
@@ -4645,7 +4645,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_11",
     "title": "Dev Jahva Suraj Mandirya",
     "singer": "Manoj Tiwari & Vandana Bhardwaj",
     "genre": "chhath",
@@ -4655,7 +4655,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DIBNm5blmnI",
     "youtubeUrl": "https://www.youtube.com/watch?v=DIBNm5blmnI&list=RDDIBNm5blmnI&start_radio=1",
     "likeViews": 4.0,
     "duration": "03:27",
@@ -4663,7 +4663,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_12",
     "title": "Kaanch Kaanch Baswa Ke Bhangi Sohaya",
     "singer": "Manoj Tiwari & Vandana Bhardwaj",
     "genre": "chhath",
@@ -4673,7 +4673,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "1nR9yeWnJdU",
     "youtubeUrl": "https://www.youtube.com/watch?v=1nR9yeWnJdU&list=RD1nR9yeWnJdU&start_radio=1",
     "likeViews": 17.0,
     "duration": "08:11",
@@ -4681,7 +4681,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_13",
     "title": "Kerava Je Pherla",
     "singer": "Manoj Tiwari & Vandana Bhardwaj",
     "genre": "chhath",
@@ -4691,7 +4691,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Kf-AKrLSaZM",
     "youtubeUrl": "https://www.youtube.com/watch?v=Kf-AKrLSaZM&list=RDKf-AKrLSaZM&start_radio=1",
     "likeViews": 55.0,
     "duration": "09:07",
@@ -4699,7 +4699,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_14",
     "title": "Nirmal Beha Jaldhara",
     "singer": "Manoj Tiwari & Vandana Bhardwaj",
     "genre": "chhath",
@@ -4709,7 +4709,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "zIEJquoT-vU",
     "youtubeUrl": "https://www.youtube.com/watch?v=zIEJquoT-vU&list=RDzIEJquoT-vU&start_radio=1",
     "likeViews": 2.0,
     "duration": "05:29",
@@ -4717,7 +4717,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_15",
     "title": "Saat Hi Ghoda Ke",
     "singer": "Manoj Tiwari & Vandana Bhardwaj",
     "genre": "chhath",
@@ -4727,7 +4727,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "wnFeG4Lz1vE",
     "youtubeUrl": "https://www.youtube.com/watch?v=wnFeG4Lz1vE&list=RDwnFeG4Lz1vE&start_radio=1",
     "likeViews": 403.0,
     "duration": "07:12",
@@ -4735,7 +4735,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_16",
     "title": "Saat Kothirya Hey Deenanath",
     "singer": "Manoj Tiwari & Vandana Bhardwaj",
     "genre": "chhath",
@@ -4745,7 +4745,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Mc1s0mfPLiw",
     "youtubeUrl": "https://www.youtube.com/watch?v=Mc1s0mfPLiw&list=RDMc1s0mfPLiw&start_radio=1",
     "likeViews": 144.0,
     "duration": "09:08",
@@ -4753,7 +4753,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_17",
     "title": "Ae Chhathi Maiya",
     "singer": "Sushila Shrivastav",
     "genre": "chhath",
@@ -4763,7 +4763,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "UTnYdLZZtF4",
     "youtubeUrl": "https://www.youtube.com/watch?v=UTnYdLZZtF4&list=RDUTnYdLZZtF4&start_radio=1",
     "likeViews": 8.0,
     "duration": "05:24",
@@ -4771,7 +4771,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_18",
     "title": "Ganga Maayi Ke Oonchi Arriya",
     "singer": "Sushila Shrivastav",
     "genre": "chhath",
@@ -4781,7 +4781,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "8tEVj3BN2rI",
     "youtubeUrl": "https://www.youtube.com/watch?v=8tEVj3BN2rI&list=PL-A7XV-7srcx2vfw1An5BvQ1jyN-yC3jd",
     "likeViews": 31.0,
     "duration": "05:51",
@@ -4789,7 +4789,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_19",
     "title": "Chhoti Moti Chhati Maiya",
     "singer": "Sushila Shrivastav",
     "genre": "chhath",
@@ -4799,7 +4799,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "EjGrK47wz50",
     "youtubeUrl": "https://www.youtube.com/watch?v=EjGrK47wz50&list=PL-A7XV-7srcx2vfw1An5BvQ1jyN-yC3jd&index=2",
     "likeViews": 54.0,
     "duration": "05:31",
@@ -4807,7 +4807,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_20",
     "title": "Patre Surujdev",
     "singer": "Sushila Shrivastav",
     "genre": "chhath",
@@ -4817,7 +4817,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "G5YdZc8xDPw",
     "youtubeUrl": "https://www.youtube.com/watch?v=G5YdZc8xDPw&list=PL-A7XV-7srcx2vfw1An5BvQ1jyN-yC3jd&index=3",
     "likeViews": 47.0,
     "duration": "06:27",
@@ -4825,7 +4825,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_21",
     "title": "Kadam Juda Chhinyan e Chhathi Maiya",
     "singer": "Sushila Shrivastav",
     "genre": "chhath",
@@ -4835,7 +4835,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "KXOnHKSWmGY",
     "youtubeUrl": "https://www.youtube.com/watch?v=KXOnHKSWmGY&list=PL-A7XV-7srcx2vfw1An5BvQ1jyN-yC3jd&index=4",
     "likeViews": 21.0,
     "duration": "05:08",
@@ -4843,7 +4843,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_22",
     "title": "Patna Aisan Shahariya",
     "singer": "Sushila Shrivastav",
     "genre": "chhath",
@@ -4853,7 +4853,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nAWfN2DNXE8",
     "youtubeUrl": "https://www.youtube.com/watch?v=nAWfN2DNXE8&list=PL-A7XV-7srcx2vfw1An5BvQ1jyN-yC3jd&index=5",
     "likeViews": 13.0,
     "duration": "06:15",
@@ -4861,7 +4861,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_23",
     "title": "Adit Duariya",
     "singer": "Sushila Shrivastav",
     "genre": "chhath",
@@ -4871,7 +4871,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DWMziYDUOd8",
     "youtubeUrl": "https://www.youtube.com/watch?v=DWMziYDUOd8&list=PL-A7XV-7srcx2vfw1An5BvQ1jyN-yC3jd&index=6",
     "likeViews": 13.0,
     "duration": "06:07",
@@ -4879,7 +4879,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_24",
     "title": "Uga Na Su",
     "singer": "Sushila Shrivastav",
     "genre": "chhath",
@@ -4889,7 +4889,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "06sRW366NVQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=06sRW366NVQ&list=PL-A7XV-7srcx2vfw1An5BvQ1jyN-yC3jd&index=7",
     "likeViews": 15.0,
     "duration": "06:32",
@@ -4897,7 +4897,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_25",
     "title": "E Chhathi Maiya",
     "singer": "Sushila Shrivastav",
     "genre": "chhath",
@@ -4907,7 +4907,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "UTnYdLZZtF4",
     "youtubeUrl": "https://www.youtube.com/watch?v=UTnYdLZZtF4&list=PL-A7XV-7srcx2vfw1An5BvQ1jyN-yC3jd&index=8",
     "likeViews": 8.0,
     "duration": "05:24",
@@ -4915,7 +4915,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_26",
     "title": "Chhathi Maiya Sun La Arajiya",
     "singer": "Sushila Shrivastav",
     "genre": "chhath",
@@ -4925,7 +4925,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "KKoYULiaRps",
     "youtubeUrl": "https://www.youtube.com/watch?v=KKoYULiaRps&list=PL-A7XV-7srcx2vfw1An5BvQ1jyN-yC3jd&index=9",
     "likeViews": 9.0,
     "duration": "04:44",
@@ -4933,7 +4933,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_27",
     "title": "Karbo Chhtha Ke Baratiya",
     "singer": "Sushila Shrivastav",
     "genre": "chhath",
@@ -4943,7 +4943,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "uV_LhE2VFGc",
     "youtubeUrl": "https://www.youtube.com/watch?v=uV_LhE2VFGc&list=PL-A7XV-7srcx2vfw1An5BvQ1jyN-yC3jd&index=10",
     "likeViews": 9.0,
     "duration": "06:05",
@@ -4951,7 +4951,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_28",
     "title": "Aaj Humhoon Jaibe",
     "singer": "Parmeshwari / Rajesh Gupta / Shrikant Mishra",
     "genre": "chhath",
@@ -4961,7 +4961,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LyK8RRuB5dA",
     "youtubeUrl": "https://www.youtube.com/watch?v=LyK8RRuB5dA&list=RDLyK8RRuB5dA&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:42",
@@ -4969,7 +4969,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_29",
     "title": "Are Chala Ho Layike",
     "singer": "Parmeshwari / Rajesh Gupta / Shrikant Mishra",
     "genre": "chhath",
@@ -4979,7 +4979,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jr_7zqbjdMI",
     "youtubeUrl": "https://www.youtube.com/watch?v=jr_7zqbjdMI&list=OLAK5uy_nbfiBryUOqYtK0senKqGr_FqIDJFWzn5c&index=2",
     "likeViews": 1.0,
     "duration": "06:35",
@@ -4987,7 +4987,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_30",
     "title": "Daya Se Tohari",
     "singer": "Parmeshwari / Rajesh Gupta / Shrikant Mishra",
     "genre": "chhath",
@@ -4997,7 +4997,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "8TfeyVwR5hc",
     "youtubeUrl": "https://www.youtube.com/watch?v=8TfeyVwR5hc&list=RD8TfeyVwR5hc&start_radio=1",
     "likeViews": 0.0,
     "duration": "06:16",
@@ -5005,7 +5005,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_31",
     "title": "Ek Baar Je Kare Pukaar",
     "singer": "Parmeshwari / Rajesh Gupta / Shrikant Mishra",
     "genre": "chhath",
@@ -5015,7 +5015,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ZMOVxSMJ9LQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZMOVxSMJ9LQ&list=RDZMOVxSMJ9LQ&start_radio=1",
     "likeViews": 1.0,
     "duration": "04:53",
@@ -5023,7 +5023,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2000_32",
     "title": "Jai Chhathi Maiya",
     "singer": "Parmeshwari / Rajesh Gupta / Shrikant Mishra",
     "genre": "chhath",
@@ -5033,7 +5033,7 @@ export const BHOJPURI_SONGS = [
     "year": 2000,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": null,
     "youtubeUrl": "https://youtu.be/4ERMVo5GGKs?si=DVskiqtWSrPTxa3l",
     "likeViews": 0.0,
     "duration": "04:41",
@@ -5041,7 +5041,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_1",
     "title": "Chhath Mayiya Ke Dware",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -5051,7 +5051,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LOTt116lko4",
     "youtubeUrl": "https://www.youtube.com/watch?v=LOTt116lko4&list=RDLOTt116lko4&start_radio=1",
     "likeViews": 17.0,
     "duration": "07:10",
@@ -5059,7 +5059,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_2",
     "title": "Ganga Ji Ke Nirmal Jalwa",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -5069,7 +5069,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6RoExJ69wYk",
     "youtubeUrl": "https://www.youtube.com/watch?v=6RoExJ69wYk&list=RD6RoExJ69wYk&start_radio=1",
     "likeViews": 35.0,
     "duration": "05:05",
@@ -5077,7 +5077,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_3",
     "title": "Hote Bhorhariya Tiviya Naache",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -5087,7 +5087,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "gGLiJzy64vY",
     "youtubeUrl": "https://www.youtube.com/watch?v=gGLiJzy64vY&list=RDgGLiJzy64vY&start_radio=1",
     "likeViews": 5.0,
     "duration": "07:22",
@@ -5095,7 +5095,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_4",
     "title": "Kahan Paibo Sone Ke Katorva",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -5105,7 +5105,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "cOLVuWfKOB4",
     "youtubeUrl": "https://www.youtube.com/watch?v=cOLVuWfKOB4&list=RDcOLVuWfKOB4&start_radio=1",
     "likeViews": 45.0,
     "duration": "05:05",
@@ -5113,7 +5113,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_5",
     "title": "Kavne Avgunvan Suruj Nahin Uglein",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -5123,7 +5123,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "9NTkQOe7sto",
     "youtubeUrl": "https://www.youtube.com/watch?v=9NTkQOe7sto&list=RD9NTkQOe7sto&start_radio=1",
     "likeViews": 7.0,
     "duration": "09:05",
@@ -5131,7 +5131,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_6",
     "title": "Kekra Laagi Tu Karelu Chhath",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -5141,7 +5141,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xGbTT53xEmc",
     "youtubeUrl": "https://www.youtube.com/watch?v=xGbTT53xEmc&list=RDxGbTT53xEmc&start_radio=1",
     "likeViews": 57.0,
     "duration": "06:57",
@@ -5149,7 +5149,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_7",
     "title": "Laali Khadauan Ae Dinanath",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -5159,7 +5159,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "thuM4S8hbfc",
     "youtubeUrl": "https://www.youtube.com/watch?v=thuM4S8hbfc&list=RDthuM4S8hbfc&start_radio=1",
     "likeViews": 5.0,
     "duration": "07:09",
@@ -5167,7 +5167,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_8",
     "title": "Liplin Mein Potlin Anganva",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -5177,7 +5177,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "8FvcqoIYa0k",
     "youtubeUrl": "https://www.youtube.com/watch?v=8FvcqoIYa0k&list=RD8FvcqoIYa0k&start_radio=1",
     "likeViews": 2.0,
     "duration": "04:50",
@@ -5185,7 +5185,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_9",
     "title": "Nadiya Kinare",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -5195,7 +5195,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "I7dB7s7TmZo",
     "youtubeUrl": "https://www.youtube.com/watch?v=I7dB7s7TmZo&list=RDI7dB7s7TmZo&start_radio=1",
     "likeViews": 20.0,
     "duration": "07:38",
@@ -5203,7 +5203,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_10",
     "title": "Aadit Manaila",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -5213,7 +5213,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "X7Y3OX6TY4U",
     "youtubeUrl": "https://www.youtube.com/watch?v=X7Y3OX6TY4U&list=RDX7Y3OX6TY4U&start_radio=1",
     "likeViews": 25039.0,
     "duration": "05:33",
@@ -5221,7 +5221,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_11",
     "title": "Angna Mein Pokhri Khonaib",
     "singer": "Kavita Paudwal",
     "genre": "chhath",
@@ -5231,7 +5231,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "EmS0isAbJmQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=EmS0isAbJmQ&list=RDEmS0isAbJmQ&start_radio=1",
     "likeViews": 2309.0,
     "duration": "02:37",
@@ -5239,7 +5239,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_12",
     "title": "Aragh Ke Ber",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -5249,7 +5249,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "N3u5P5PjKQU",
     "youtubeUrl": "https://www.youtube.com/watch?v=N3u5P5PjKQU&list=RDN3u5P5PjKQU&start_radio=1",
     "likeViews": 27734.0,
     "duration": "05:58",
@@ -5257,7 +5257,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_13",
     "title": "Asiya Puran Hoy",
     "singer": "Kavita Paudwal",
     "genre": "chhath",
@@ -5267,7 +5267,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "er0EO-Zp904",
     "youtubeUrl": "https://www.youtube.com/watch?v=er0EO-Zp904&list=RDer0EO-Zp904&start_radio=1",
     "likeViews": 30433.0,
     "duration": "04:34",
@@ -5275,7 +5275,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_14",
     "title": "Beriya Ke Beri Tohe",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -5285,7 +5285,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6v9PSJFCEMo",
     "youtubeUrl": "https://www.youtube.com/watch?v=6v9PSJFCEMo&list=RD6v9PSJFCEMo&start_radio=1",
     "likeViews": 8259.0,
     "duration": "04:03",
@@ -5293,7 +5293,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_15",
     "title": "Darsan Dihin Na Apan",
     "singer": "Anuradha Paudwal, Kavita Paudwal",
     "genre": "chhath",
@@ -5303,7 +5303,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nHKzAi-KF1s",
     "youtubeUrl": "https://www.youtube.com/watch?v=nHKzAi-KF1s&list=RDnHKzAi-KF1s&start_radio=1",
     "likeViews": 1987.0,
     "duration": "03:17",
@@ -5311,7 +5311,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_16",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -5321,7 +5321,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Eyq7vfxu4iA",
     "youtubeUrl": "https://www.youtube.com/watch?v=Eyq7vfxu4iA&list=RDEyq7vfxu4iA&start_radio=1",
     "likeViews": 495045.0,
     "duration": "05:38",
@@ -5329,7 +5329,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_17",
     "title": "Kekar Naiya Mein",
     "singer": "Anuradha Paudwal, Kavita Paudwal",
     "genre": "chhath",
@@ -5339,7 +5339,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "740-dZt5KM4",
     "youtubeUrl": "https://www.youtube.com/watch?v=740-dZt5KM4&list=RD740-dZt5KM4&start_radio=1",
     "likeViews": 2824.0,
     "duration": "03:28",
@@ -5347,7 +5347,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_18",
     "title": "Marbo Re Sugwa Dhanukh",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -5357,7 +5357,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jRsXRee52xw",
     "youtubeUrl": "https://www.youtube.com/watch?v=jRsXRee52xw&list=RDjRsXRee52xw&start_radio=1",
     "likeViews": 251432.0,
     "duration": "06:43",
@@ -5365,7 +5365,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_19",
     "title": "Patna Ke Haat Per Naariyar",
     "singer": "Kavita Paudwal",
     "genre": "chhath",
@@ -5375,7 +5375,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "izIkAY6w8V8",
     "youtubeUrl": "https://www.youtube.com/watch?v=izIkAY6w8V8&list=RDizIkAY6w8V8&start_radio=1",
     "likeViews": 8935.0,
     "duration": "04:10",
@@ -5383,7 +5383,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_20",
     "title": "Rakho Sabhe Chhath Ke Barat",
     "singer": "Kavita Paudwal",
     "genre": "chhath",
@@ -5393,7 +5393,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "iTffu3kgU7s",
     "youtubeUrl": "https://www.youtube.com/watch?v=iTffu3kgU7s&list=RDiTffu3kgU7s&start_radio=1",
     "likeViews": 637.0,
     "duration": "03:39",
@@ -5401,7 +5401,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_21",
     "title": "Saat Hin Ghodva Suraj Dev",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -5411,7 +5411,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "usdgRYlkd2E",
     "youtubeUrl": "https://www.youtube.com/watch?v=usdgRYlkd2E&list=RDusdgRYlkd2E&start_radio=1",
     "likeViews": 46201.0,
     "duration": "05:09",
@@ -5419,7 +5419,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_22",
     "title": "Uga Ho Surujdev Bhel Bhinsarva",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -5429,7 +5429,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6e6Hp6R5SVU",
     "youtubeUrl": "https://www.youtube.com/watch?v=6e6Hp6R5SVU&list=RD6e6Hp6R5SVU&start_radio=1",
     "likeViews": 1851045.0,
     "duration": "05:52",
@@ -5437,7 +5437,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_23",
     "title": "Pachhim Munhein",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -5447,7 +5447,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7KGCNy1mCl4",
     "youtubeUrl": "https://www.youtube.com/watch?v=7KGCNy1mCl4&list=RDZ4DMUg95K-Q&index=3",
     "likeViews": 330.0,
     "duration": "05:47",
@@ -5455,7 +5455,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_24",
     "title": "Kawan Galti Bhayil E Aadit",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -5465,7 +5465,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "orpTWvjdrZE",
     "youtubeUrl": "https://www.youtube.com/watch?v=orpTWvjdrZE&list=RDZ4DMUg95K-Q&index=4",
     "likeViews": 1527.0,
     "duration": "07:33",
@@ -5473,7 +5473,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_25",
     "title": "Chhoti Muti Dhobin Bitiya",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -5483,7 +5483,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "T1g-Bnwi1CY",
     "youtubeUrl": "https://www.youtube.com/watch?v=T1g-Bnwi1CY&list=RDT1g-Bnwi1CY&start_radio=1",
     "likeViews": 246.0,
     "duration": "05:29",
@@ -5491,7 +5491,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_26",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -5501,7 +5501,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "N0qLhU2-4_E",
     "youtubeUrl": "https://www.youtube.com/watch?v=N0qLhU2-4_E&list=RDT1g-Bnwi1CY&index=2",
     "likeViews": 179.0,
     "duration": "05:47",
@@ -5509,7 +5509,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_27",
     "title": "Kerve Ke Lamhar Patiya",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -5519,7 +5519,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "z38_oN94-vI",
     "youtubeUrl": "https://www.youtube.com/watch?v=z38_oN94-vI&list=RDz38_oN94-vI&start_radio=1",
     "likeViews": 133.0,
     "duration": "09:32",
@@ -5527,7 +5527,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_28",
     "title": "Kauaa Bole Lagal Bhaile Bihan",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -5537,7 +5537,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "X6wUJE_XAm8",
     "youtubeUrl": "https://www.youtube.com/watch?v=X6wUJE_XAm8&list=RDX6wUJE_XAm8&start_radio=1",
     "likeViews": 78.0,
     "duration": "08:13",
@@ -5545,7 +5545,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2001_29",
     "title": "Nadiya ke Thad Hoke",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -5555,7 +5555,7 @@ export const BHOJPURI_SONGS = [
     "year": 2001,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "O9Mz1xIxWz8",
     "youtubeUrl": "https://www.youtube.com/watch?v=O9Mz1xIxWz8&list=RDO9Mz1xIxWz8&start_radio=1",
     "likeViews": 15.0,
     "duration": "05:46",
@@ -5563,7 +5563,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_1",
     "title": "Bajana Kahela Hum Bajaab",
     "singer": "Anuradha Paudwal, Anand Mohan, Kalpana Patowary",
     "genre": "chhath",
@@ -5573,7 +5573,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Qv0MHD0aq90",
     "youtubeUrl": "https://www.youtube.com/watch?v=Qv0MHD0aq90&list=PLeVhbYBxEs772qeCrXt86Lcox6s2TMLm0",
     "likeViews": 424.0,
     "duration": "07:27",
@@ -5581,7 +5581,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_2",
     "title": "Marbo Re Sugwa Dhanukh",
     "singer": "Anuradha Paudwal, Anand Mohan, Kalpana Patowary",
     "genre": "chhath",
@@ -5591,7 +5591,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "t5zuAIwfA3c",
     "youtubeUrl": "https://www.youtube.com/watch?v=t5zuAIwfA3c&list=PLeVhbYBxEs772qeCrXt86Lcox6s2TMLm0&index=2",
     "likeViews": 97.0,
     "duration": "10:11",
@@ -5599,7 +5599,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_3",
     "title": "Aail Chhathi Ke Mahinawa",
     "singer": "Anuradha Paudwal, Anand Mohan, Kalpana Patowary",
     "genre": "chhath",
@@ -5609,7 +5609,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "49OyNqhqzB8",
     "youtubeUrl": "https://www.youtube.com/watch?v=49OyNqhqzB8&list=PLeVhbYBxEs772qeCrXt86Lcox6s2TMLm0&index=3",
     "likeViews": 34.0,
     "duration": "05:56",
@@ -5617,7 +5617,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_4",
     "title": "Karab Chhati Ke Baratiya",
     "singer": "Anuradha Paudwal, Anand Mohan, Kalpana Patowary",
     "genre": "chhath",
@@ -5627,7 +5627,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Y_2rknQBSHM",
     "youtubeUrl": "https://www.youtube.com/watch?v=Y_2rknQBSHM&list=PLeVhbYBxEs772qeCrXt86Lcox6s2TMLm0&index=4",
     "likeViews": 20.0,
     "duration": "04:25",
@@ -5635,7 +5635,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_5",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Anuradha Paudwal, Anand Mohan, Kalpana Patowary",
     "genre": "chhath",
@@ -5645,7 +5645,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xTjwHWe4TJw",
     "youtubeUrl": "https://www.youtube.com/watch?v=xTjwHWe4TJw&list=PLeVhbYBxEs772qeCrXt86Lcox6s2TMLm0&index=5",
     "likeViews": 153.0,
     "duration": "07:35",
@@ -5653,7 +5653,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_6",
     "title": "Koyaliya Bole Ho Gaile Bhor",
     "singer": "Anuradha Paudwal, Anand Mohan, Kalpana Patowary",
     "genre": "chhath",
@@ -5663,7 +5663,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "T2rzsUTN41A",
     "youtubeUrl": "https://www.youtube.com/watch?v=T2rzsUTN41A&list=PLeVhbYBxEs772qeCrXt86Lcox6s2TMLm0&index=6",
     "likeViews": 630.0,
     "duration": "07:17",
@@ -5671,7 +5671,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_7",
     "title": "Aragh Le Lee Hey Chhathi Maiya",
     "singer": "Anuradha Paudwal, Anand Mohan, Kalpana Patowary",
     "genre": "chhath",
@@ -5681,7 +5681,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "H7_WTmXHyxg",
     "youtubeUrl": "https://www.youtube.com/watch?v=H7_WTmXHyxg&list=RDH7_WTmXHyxg&start_radio=1",
     "likeViews": 288.0,
     "duration": "11:16",
@@ -5689,7 +5689,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_8",
     "title": "Gaanve Hokhat Hoi Chhath",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -5699,7 +5699,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6o-PEmh47uk",
     "youtubeUrl": "https://www.youtube.com/watch?v=6o-PEmh47uk&list=RD6o-PEmh47uk&start_radio=1",
     "likeViews": 126.0,
     "duration": "04:34",
@@ -5707,7 +5707,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_9",
     "title": "Chhath Aitvaar",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -5717,7 +5717,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Z4DMUg95K-Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=Z4DMUg95K-Q&list=RDZ4DMUg95K-Q&start_radio=1",
     "likeViews": 1897.0,
     "duration": "07:37",
@@ -5725,7 +5725,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_10",
     "title": "Aadit Hoiehein Naraj",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -5735,7 +5735,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "dVS65N8jgaQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=dVS65N8jgaQ&list=RDZ4DMUg95K-Q&index=2",
     "likeViews": 1075.0,
     "duration": "08:31",
@@ -5743,7 +5743,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_11",
     "title": "Chhathi Mayi Katik Maase Aihein",
     "singer": "Tulsi Kumar / Shivani",
     "genre": "chhath",
@@ -5753,7 +5753,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "g4KBd_0HddU",
     "youtubeUrl": "https://www.youtube.com/watch?v=g4KBd_0HddU&list=RDg4KBd_0HddU&start_radio=1",
     "likeViews": 131.0,
     "duration": "06:19",
@@ -5761,7 +5761,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_12",
     "title": "Develi Aedhiya Ho Kekra Laagi",
     "singer": "Bharat Sharma Vyas",
     "genre": "chhath",
@@ -5771,7 +5771,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2i7uu6vl9HM",
     "youtubeUrl": "https://www.youtube.com/watch?v=2i7uu6vl9HM&list=RD2i7uu6vl9HM&start_radio=1",
     "likeViews": 31.0,
     "duration": "04:50",
@@ -5779,7 +5779,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_13",
     "title": "Dohri Nariyarva Suruj",
     "singer": "Tulsi Kumar / Shivani",
     "genre": "chhath",
@@ -5789,7 +5789,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rvyWhLWgRC4",
     "youtubeUrl": "https://www.youtube.com/watch?v=rvyWhLWgRC4&list=RDrvyWhLWgRC4&start_radio=1",
     "likeViews": 47.0,
     "duration": "06:14",
@@ -5797,7 +5797,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_14",
     "title": "Hajipur Hatiya Ae Hariji",
     "singer": "Tulsi Kumar / Shivani",
     "genre": "chhath",
@@ -5807,7 +5807,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "OIKLpqoyg4s",
     "youtubeUrl": "https://www.youtube.com/watch?v=OIKLpqoyg4s&list=RDOIKLpqoyg4s&start_radio=1",
     "likeViews": 38.0,
     "duration": "07:55",
@@ -5815,7 +5815,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_15",
     "title": "Hey Chhathi Mayiya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -5825,7 +5825,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Ki-SXeraDVc",
     "youtubeUrl": "https://www.youtube.com/watch?v=Ki-SXeraDVc&list=RDKi-SXeraDVc&start_radio=1",
     "likeViews": 3316.0,
     "duration": "05:17",
@@ -5833,7 +5833,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_16",
     "title": "Kahanva Se Aavele Suruj Dev",
     "singer": "Tulsi Kumar / Shivani",
     "genre": "chhath",
@@ -5843,7 +5843,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pVnCFZJUCxY",
     "youtubeUrl": "https://www.youtube.com/watch?v=pVnCFZJUCxY&list=RDpVnCFZJUCxY&start_radio=1",
     "likeViews": 35.0,
     "duration": "03:55",
@@ -5851,7 +5851,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_17",
     "title": "Kahe Laagi Rusal Baade Hathi",
     "singer": "Tulsi Kumar / Shivani",
     "genre": "chhath",
@@ -5861,7 +5861,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "BMe1ielSSIo",
     "youtubeUrl": "https://www.youtube.com/watch?v=BMe1ielSSIo&list=RDBMe1ielSSIo&start_radio=1",
     "likeViews": 23.0,
     "duration": "05:49",
@@ -5869,7 +5869,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_18",
     "title": "Lila Ghoda Chitkabar",
     "singer": "Tulsi Kumar / Shivani",
     "genre": "chhath",
@@ -5879,7 +5879,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0TFhX9fqgLY",
     "youtubeUrl": "https://www.youtube.com/watch?v=0TFhX9fqgLY&list=RD0TFhX9fqgLY&start_radio=1",
     "likeViews": 7.0,
     "duration": "05:14",
@@ -5887,7 +5887,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_19",
     "title": "Nirdhan Ke Develi Supwa",
     "singer": "Tulsi Kumar / Shivani",
     "genre": "chhath",
@@ -5897,7 +5897,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "AqG6icp7MM8",
     "youtubeUrl": "https://www.youtube.com/watch?v=AqG6icp7MM8&list=RDAqG6icp7MM8&start_radio=1",
     "likeViews": 6.0,
     "duration": "07:14",
@@ -5905,7 +5905,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_20",
     "title": "Sab Mili Aarti Ho Utar",
     "singer": "Tulsi Kumar / Shivani",
     "genre": "chhath",
@@ -5915,7 +5915,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "lFKAbcCczUI",
     "youtubeUrl": "https://www.youtube.com/watch?v=lFKAbcCczUI",
     "likeViews": 12.0,
     "duration": "07:31",
@@ -5923,7 +5923,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_21",
     "title": "Hoyke Billi Pe Sawaar: Aaja Aaja Chhathi Maiya",
     "singer": "Kalpana, Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -5933,7 +5933,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7krYn4F67SI",
     "youtubeUrl": "https://www.youtube.com/watch?v=7krYn4F67SI&list=RD7krYn4F67SI&start_radio=1",
     "likeViews": 1620.0,
     "duration": "02:49",
@@ -5941,7 +5941,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_22",
     "title": "A Bilayi Mausi",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -5951,7 +5951,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "p-g8phZuF2o",
     "youtubeUrl": "https://www.youtube.com/watch?v=p-g8phZuF2o&list=RDp-g8phZuF2o&start_radio=1",
     "likeViews": 15176.0,
     "duration": "02:51",
@@ -5959,7 +5959,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_23",
     "title": "Chaar Hi Chakwa Ke Motarwa",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -5969,7 +5969,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Kxqx7xjLCCo",
     "youtubeUrl": "https://www.youtube.com/watch?v=Kxqx7xjLCCo&list=RDKxqx7xjLCCo&start_radio=1",
     "likeViews": 46155.0,
     "duration": "04:42",
@@ -5977,7 +5977,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_24",
     "title": "Chhathi Maiya hamar",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -5987,7 +5987,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "R9_n6YvxxeQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=R9_n6YvxxeQ&list=RDR9_n6YvxxeQ&start_radio=1",
     "likeViews": 107.0,
     "duration": "04:18",
@@ -5995,7 +5995,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_25",
     "title": "Darshan Dihi Bhore bhore",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -6005,7 +6005,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "dPgpDk3x2nc",
     "youtubeUrl": "https://www.youtube.com/watch?v=dPgpDk3x2nc&list=RDdPgpDk3x2nc&start_radio=1",
     "likeViews": 5187.0,
     "duration": "03:55",
@@ -6013,7 +6013,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_26",
     "title": "Gaj Moti Chauka",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -6023,7 +6023,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "9Jmeu2P4YUc",
     "youtubeUrl": "https://www.youtube.com/watch?v=9Jmeu2P4YUc&list=RD9Jmeu2P4YUc&start_radio=1",
     "likeViews": 30183.0,
     "duration": "04:15",
@@ -6031,7 +6031,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_27",
     "title": "Jode Jode Supwa Tora",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -6041,7 +6041,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "G3PMFpftpbg",
     "youtubeUrl": "https://www.youtube.com/watch?v=G3PMFpftpbg&list=RDG3PMFpftpbg&start_radio=1",
     "likeViews": 121381.0,
     "duration": "05:14",
@@ -6049,7 +6049,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_28",
     "title": "Marbo Re Sugwa Dhanukh",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -6059,7 +6059,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "5fDrQtkXCpc",
     "youtubeUrl": "https://www.youtube.com/watch?v=5fDrQtkXCpc&list=RD5fDrQtkXCpc&start_radio=1",
     "likeViews": 168.0,
     "duration": "05:59",
@@ -6067,7 +6067,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_29",
     "title": "Chhathi Maayi Ke Ghatwa Sunar",
     "singer": "Chhaila Bihari",
     "genre": "chhath",
@@ -6077,7 +6077,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "t56S7h_ekys",
     "youtubeUrl": "https://www.youtube.com/watch?v=t56S7h_ekys&list=PLwgg4sAbXy0bIeF1_LIvQMHqA4wcb8KgH&index=7",
     "likeViews": 28.0,
     "duration": "04:21",
@@ -6085,7 +6085,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_30",
     "title": "Nindiya Ke matal Suruj",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -6095,7 +6095,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "CK7BkwqCVyA",
     "youtubeUrl": "https://www.youtube.com/watch?v=CK7BkwqCVyA&list=RDCK7BkwqCVyA&start_radio=1",
     "likeViews": 2287.0,
     "duration": "06:04",
@@ -6103,7 +6103,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_31",
     "title": "Patna Ke Ghaat Par Baaje",
     "singer": "Kalpana, Chhaila Bihari",
     "genre": "chhath",
@@ -6113,7 +6113,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "VkYrntXiEX8",
     "youtubeUrl": "https://www.youtube.com/watch?v=VkYrntXiEX8&list=PLwgg4sAbXy0bIeF1_LIvQMHqA4wcb8KgH&index=9",
     "likeViews": 99923.0,
     "duration": "04:46",
@@ -6121,7 +6121,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_32",
     "title": "Kathi Kera Ho Birichiya",
     "singer": "Kalpana, Chhaila Bihari",
     "genre": "chhath",
@@ -6131,7 +6131,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ZDLFuF-z6F8",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZDLFuF-z6F8&list=RDZDLFuF-z6F8&start_radio=1",
     "likeViews": 1299.0,
     "duration": "05:40",
@@ -6139,7 +6139,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_33",
     "title": "Suhavan lageSuruj Mandiriya",
     "singer": "Kalpana, Chhaila Bihari",
     "genre": "chhath",
@@ -6149,7 +6149,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "zq2jtyLCdjA",
     "youtubeUrl": "https://www.youtube.com/watch?v=zq2jtyLCdjA&list=PLwgg4sAbXy0bIeF1_LIvQMHqA4wcb8KgH&index=10",
     "likeViews": 2510.0,
     "duration": "05:04",
@@ -6157,7 +6157,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_34",
     "title": "Uga He Suruj Dev",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -6167,7 +6167,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "qVCW7PhpcNA",
     "youtubeUrl": "https://www.youtube.com/watch?v=qVCW7PhpcNA&list=RDqVCW7PhpcNA&start_radio=1",
     "likeViews": 7736.0,
     "duration": "06:07",
@@ -6175,7 +6175,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_35",
     "title": "Supwa Sona Ke",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -6185,7 +6185,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "WLzYp8PF814",
     "youtubeUrl": "https://www.youtube.com/watch?v=WLzYp8PF814&list=RDWLzYp8PF814&start_radio=1",
     "likeViews": 153.0,
     "duration": "05:12",
@@ -6193,7 +6193,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2002_36",
     "title": "Chhathi Maiya Ho Tohe Kosiya Bharaibo",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -6203,7 +6203,7 @@ export const BHOJPURI_SONGS = [
     "year": 2002,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "qoEhuI7JJ64",
     "youtubeUrl": "https://www.youtube.com/watch?v=qoEhuI7JJ64&list=RDqoEhuI7JJ64&start_radio=1",
     "likeViews": 36.0,
     "duration": "07:13",
@@ -6211,7 +6211,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2003_1",
     "title": "Hamro Pawan Bhaiya Agar",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -6221,7 +6221,7 @@ export const BHOJPURI_SONGS = [
     "year": 2003,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "QxSSGVD8Bpk",
     "youtubeUrl": "https://www.youtube.com/watch?v=QxSSGVD8Bpk&list=RDW8ByoJGm3ho&index=28",
     "likeViews": 205.0,
     "duration": "07:40",
@@ -6229,7 +6229,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2003_2",
     "title": "Mora ghare chhati ke pujan",
     "singer": "Sheela Rawal/Ritu Chauhan/Soni Chauhan",
     "genre": "chhath",
@@ -6239,7 +6239,7 @@ export const BHOJPURI_SONGS = [
     "year": 2003,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LE4vMfg8Tgs",
     "youtubeUrl": "https://www.youtube.com/watch?v=LE4vMfg8Tgs&list=RDW8ByoJGm3ho&index=27",
     "likeViews": 298.0,
     "duration": "08:10",
@@ -6247,7 +6247,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2003_3",
     "title": "Baja Bajwaei Debo Hey",
     "singer": "Anuradha Paudwal / Anand Mohan / Kalpana / Malini Awasthi / Sohan Lal Saini / Vinay Bihari",
     "genre": "chhath",
@@ -6257,7 +6257,7 @@ export const BHOJPURI_SONGS = [
     "year": 2003,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "NTO0_tXaTFU",
     "youtubeUrl": "https://www.youtube.com/watch?v=NTO0_tXaTFU&list=PLC3Ad7pjVm_4-w6AS4Uk2DexmkUQPumKC",
     "likeViews": 159.0,
     "duration": "08:02",
@@ -6265,7 +6265,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2003_4",
     "title": "Chhate Ghaate Chalih Papa",
     "singer": "Anuradha Paudwal / Anand Mohan / Kalpana / Malini Awasthi / Sohan Lal Saini / Vinay Bihari",
     "genre": "chhath",
@@ -6275,7 +6275,7 @@ export const BHOJPURI_SONGS = [
     "year": 2003,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "BKUvsAlWK34",
     "youtubeUrl": "https://www.youtube.com/watch?v=BKUvsAlWK34&list=PLC3Ad7pjVm_4-w6AS4Uk2DexmkUQPumKC&index=2",
     "likeViews": 206.0,
     "duration": "06:33",
@@ -6283,7 +6283,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2003_5",
     "title": "Jode Jode Supwa Tora",
     "singer": "Anuradha Paudwal / Anand Mohan / Kalpana / Malini Awasthi / Sohan Lal Saini / Vinay Bihari",
     "genre": "chhath",
@@ -6293,7 +6293,7 @@ export const BHOJPURI_SONGS = [
     "year": 2003,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "G3PMFpftpbg",
     "youtubeUrl": "https://www.youtube.com/watch?v=G3PMFpftpbg&list=PLC3Ad7pjVm_4-w6AS4Uk2DexmkUQPumKC&index=4",
     "likeViews": 121381.0,
     "duration": "05:14",
@@ -6301,7 +6301,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2003_6",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Anuradha Paudwal / Anand Mohan / Sohan Lal Saini / Vinay Bihari",
     "genre": "chhath",
@@ -6311,7 +6311,7 @@ export const BHOJPURI_SONGS = [
     "year": 2003,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3G4Ieyk7hV0",
     "youtubeUrl": "https://www.youtube.com/watch?v=3G4Ieyk7hV0&list=RD3G4Ieyk7hV0&start_radio=1",
     "likeViews": 1297.0,
     "duration": "05:31",
@@ -6319,7 +6319,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2003_7",
     "title": "Nihure Gode Lagem",
     "singer": "Anand Mohan",
     "genre": "chhath",
@@ -6329,7 +6329,7 @@ export const BHOJPURI_SONGS = [
     "year": 2003,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Am9tF1Pxs9Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=Am9tF1Pxs9Y&list=PLC3Ad7pjVm_4-w6AS4Uk2DexmkUQPumKC&index=8",
     "likeViews": 19.0,
     "duration": "05:44",
@@ -6337,7 +6337,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2003_8",
     "title": "Uga Suruj Dev Purab",
     "singer": "Anand Mohan",
     "genre": "chhath",
@@ -6347,7 +6347,7 @@ export const BHOJPURI_SONGS = [
     "year": 2003,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "B09ER1UP74E",
     "youtubeUrl": "https://www.youtube.com/watch?v=B09ER1UP74E&list=PLC3Ad7pjVm_4-w6AS4Uk2DexmkUQPumKC&index=9",
     "likeViews": 43.0,
     "duration": "06:43",
@@ -6355,7 +6355,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2003_9",
     "title": "Patna Ke Ghaat Shobe",
     "singer": "Anand Mohan",
     "genre": "chhath",
@@ -6365,7 +6365,7 @@ export const BHOJPURI_SONGS = [
     "year": 2003,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "8bPO-TNN5yw",
     "youtubeUrl": "https://www.youtube.com/watch?v=8bPO-TNN5yw&list=PLC3Ad7pjVm_4-w6AS4Uk2DexmkUQPumKC&index=10",
     "likeViews": 26.0,
     "duration": "05:40",
@@ -6373,7 +6373,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2003_10",
     "title": "Vinti Karela Hum Tohaar",
     "singer": "Anand Mohan",
     "genre": "chhath",
@@ -6383,7 +6383,7 @@ export const BHOJPURI_SONGS = [
     "year": 2003,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "owsK50QbB_I",
     "youtubeUrl": "https://www.youtube.com/watch?v=owsK50QbB_I&list=PLC3Ad7pjVm_4-w6AS4Uk2DexmkUQPumKC&index=11",
     "likeViews": 10.0,
     "duration": "04:36",
@@ -6391,7 +6391,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_1",
     "title": "Darshan Dihi na Apar",
     "singer": "Devi",
     "genre": "chhath",
@@ -6401,7 +6401,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "1745Y2D5ZhY",
     "youtubeUrl": "https://www.youtube.com/watch?v=1745Y2D5ZhY&list=PLx7JQ-LrAinpG5W_7knW2INNA3c8LxOJc",
     "likeViews": 1554.0,
     "duration": "07:54",
@@ -6409,7 +6409,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_2",
     "title": "Chanani Tane Tane Chale",
     "singer": "Devi",
     "genre": "chhath",
@@ -6419,7 +6419,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Eb1W8pX0to0",
     "youtubeUrl": "https://www.youtube.com/watch?v=Eb1W8pX0to0&list=RDEb1W8pX0to0&start_radio=1",
     "likeViews": 53896.0,
     "duration": "07:09",
@@ -6427,7 +6427,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_3",
     "title": "Kopi Kopi Boleli",
     "singer": "Devi",
     "genre": "chhath",
@@ -6437,7 +6437,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "YVrZBmI9_ag",
     "youtubeUrl": "https://www.youtube.com/watch?v=YVrZBmI9_ag&list=RDEMG4MHiSdxkwi1_xSplzbQmg&start_radio=1&rv=Eb1W8pX0to0",
     "likeViews": 181577.0,
     "duration": "06:25",
@@ -6445,7 +6445,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_4",
     "title": "Ganga Ji ke ghate",
     "singer": "Devi",
     "genre": "chhath",
@@ -6455,7 +6455,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "BP_Gg0B77Ls",
     "youtubeUrl": "https://www.youtube.com/watch?v=BP_Gg0B77Ls&list=RDBP_Gg0B77Ls&start_radio=1",
     "likeViews": 3664.0,
     "duration": "05:00",
@@ -6463,7 +6463,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_5",
     "title": "Jode Jode Nariyal",
     "singer": "Devi",
     "genre": "chhath",
@@ -6473,7 +6473,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2fFXDHk2TLs",
     "youtubeUrl": "https://www.youtube.com/watch?v=2fFXDHk2TLs&list=RD2fFXDHk2TLs&start_radio=1",
     "likeViews": 54888.0,
     "duration": "07:25",
@@ -6481,7 +6481,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_6",
     "title": "Kanch hi Bas ke Bahangiya",
     "singer": "Devi",
     "genre": "chhath",
@@ -6491,7 +6491,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0fZt65tj6L8",
     "youtubeUrl": "https://www.youtube.com/watch?v=0fZt65tj6L8",
     "likeViews": 17376.0,
     "duration": "07:18",
@@ -6499,7 +6499,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_7",
     "title": "Kerva Ke Paat Par",
     "singer": "Devi",
     "genre": "chhath",
@@ -6509,7 +6509,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nXdNsKczLXQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=nXdNsKczLXQ",
     "likeViews": 1759.0,
     "duration": "09:03",
@@ -6517,7 +6517,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_8",
     "title": "Mora Bhaiya Jayela",
     "singer": "Devi",
     "genre": "chhath",
@@ -6527,7 +6527,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri / Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ohmEM-8aA4w",
     "youtubeUrl": "https://www.youtube.com/watch?v=ohmEM-8aA4w",
     "likeViews": 5507.0,
     "duration": "07:28",
@@ -6535,7 +6535,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_9",
     "title": "Ab Na Kara Tu Der",
     "singer": "Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -6545,7 +6545,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "OGMDpPnn67o",
     "youtubeUrl": "https://www.youtube.com/watch?v=OGMDpPnn67o",
     "likeViews": 1422.0,
     "duration": "06:04",
@@ -6553,7 +6553,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_10",
     "title": "Dhan Daulat Se Bharal",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -6563,7 +6563,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "IjyD8SxSMOQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=IjyD8SxSMOQ",
     "likeViews": 5785.0,
     "duration": "05:19",
@@ -6571,7 +6571,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_11",
     "title": "Haali Haali Aava Ho",
     "singer": "Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -6581,7 +6581,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "UF4_CkOx9XI",
     "youtubeUrl": "https://www.youtube.com/watch?v=UF4_CkOx9XI",
     "likeViews": 317.0,
     "duration": "06:04",
@@ -6589,7 +6589,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_12",
     "title": "Hainhu Aake Aradh Diwai",
     "singer": "Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -6599,7 +6599,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "W5jh1jUda7U",
     "youtubeUrl": "https://www.youtube.com/watch?v=W5jh1jUda7U",
     "likeViews": 6.0,
     "duration": "05:38",
@@ -6607,7 +6607,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_13",
     "title": "Hamra Godiya Mein De D",
     "singer": "Bela Sulakhe",
     "genre": "chhath",
@@ -6617,7 +6617,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LrcgwbO2HWE",
     "youtubeUrl": "https://www.youtube.com/watch?v=LrcgwbO2HWE&list=RDLrcgwbO2HWE&start_radio=1",
     "likeViews": 323.0,
     "duration": "06:23",
@@ -6625,7 +6625,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_14",
     "title": "Hey Chhathi Maiya",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -6635,7 +6635,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "q2ScKnvAHCE",
     "youtubeUrl": "https://www.youtube.com/watch?v=q2ScKnvAHCE",
     "likeViews": 9.0,
     "duration": "03:36",
@@ -6643,7 +6643,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_15",
     "title": "Jhumat Jhumat Chala",
     "singer": "Bela Sulakhe",
     "genre": "chhath",
@@ -6653,7 +6653,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "41YiHEwzPlA",
     "youtubeUrl": "https://www.youtube.com/watch?v=41YiHEwzPlA&list=RD41YiHEwzPlA&start_radio=1",
     "likeViews": 67.0,
     "duration": "04:42",
@@ -6661,7 +6661,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_16",
     "title": "Kaise Kari Tor Baratiya",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -6671,7 +6671,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pyYSkoWuOpI",
     "youtubeUrl": "https://www.youtube.com/watch?v=pyYSkoWuOpI",
     "likeViews": 14.0,
     "duration": "06:49",
@@ -6679,7 +6679,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_17",
     "title": "Sanjhiye Se That Bani",
     "singer": "Bela Sulakhe",
     "genre": "chhath",
@@ -6689,7 +6689,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pTfTyEOK5cw",
     "youtubeUrl": "https://www.youtube.com/watch?v=pTfTyEOK5cw&list=RDpTfTyEOK5cw&start_radio=1",
     "likeViews": 8785.0,
     "duration": "06:00",
@@ -6697,7 +6697,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_18",
     "title": "Uga Uga Ho Suraj",
     "singer": "Bela Sulakhe",
     "genre": "chhath",
@@ -6707,7 +6707,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "OsO3s3QLjtE",
     "youtubeUrl": "https://www.youtube.com/watch?v=OsO3s3QLjtE&list=RDOsO3s3QLjtE&start_radio=1",
     "likeViews": 187.0,
     "duration": "07:18",
@@ -6715,7 +6715,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_19",
     "title": "Barti Chali Araghiya Ke Ber",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -6725,7 +6725,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "oCGLTmD7fNA",
     "youtubeUrl": "https://www.youtube.com/watch?v=oCGLTmD7fNA&list=RDoCGLTmD7fNA&start_radio=1",
     "likeViews": 183.0,
     "duration": "06:29",
@@ -6733,7 +6733,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_20",
     "title": "Beta Ego Rahite",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -6743,7 +6743,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "9CKWj0pEAug",
     "youtubeUrl": "https://www.youtube.com/watch?v=9CKWj0pEAug&list=RD9CKWj0pEAug&start_radio=1",
     "likeViews": 159.0,
     "duration": "05:22",
@@ -6751,7 +6751,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_21",
     "title": "Chhati Mayi Khol deli",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -6761,7 +6761,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "HH_hrxQf6-o",
     "youtubeUrl": "https://www.youtube.com/watch?v=HH_hrxQf6-o&list=RDHH_hrxQf6-o&start_radio=1",
     "likeViews": 170.0,
     "duration": "06:35",
@@ -6769,7 +6769,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_22",
     "title": "Hum Karab Chhath Etwar",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -6779,7 +6779,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "gUpvQvTsZRQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=gUpvQvTsZRQ&list=RDgUpvQvTsZRQ&start_radio=1",
     "likeViews": 63.0,
     "duration": "06:34",
@@ -6787,7 +6787,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_23",
     "title": "Kahli Anita Deyi Hum Chhath Karab ",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -6797,7 +6797,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "lbQF_vKb_J0",
     "youtubeUrl": "https://www.youtube.com/watch?v=lbQF_vKb_J0&list=RDlbQF_vKb_J0&start_radio=1",
     "likeViews": 198.0,
     "duration": "06:48",
@@ -6805,7 +6805,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_24",
     "title": "Kail Jai a Dhaniya Chhath Ke Baratiya",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -6815,7 +6815,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jv_XnVYnWCM",
     "youtubeUrl": "https://www.youtube.com/watch?v=jv_XnVYnWCM&list=RDjv_XnVYnWCM&start_radio=1",
     "likeViews": 52.0,
     "duration": "06:27",
@@ -6823,7 +6823,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_25",
     "title": "Purab se awale surujmal",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -6833,7 +6833,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "gzpuy-UosgA",
     "youtubeUrl": "https://www.youtube.com/watch?v=gzpuy-UosgA&list=RDgzpuy-UosgA&start_radio=1",
     "likeViews": 26.0,
     "duration": "04:39",
@@ -6841,7 +6841,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_26",
     "title": "Sabran Sharir Hola",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -6851,7 +6851,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "4JSxJAKR3NA",
     "youtubeUrl": "https://www.youtube.com/watch?v=4JSxJAKR3NA&list=RD4JSxJAKR3NA&start_radio=1",
     "likeViews": 14.0,
     "duration": "07:48",
@@ -6859,7 +6859,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_27",
     "title": "Chhot Devraniya se puchhe",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -6869,7 +6869,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "KxaZTq4vqlw",
     "youtubeUrl": "https://www.youtube.com/watch?v=KxaZTq4vqlw&list=RDKxaZTq4vqlw&start_radio=1&rv=KxaZTq4vqlw",
     "likeViews": 269.0,
     "duration": "06:49",
@@ -6877,7 +6877,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_28",
     "title": "Jhilmil Paniya Mein",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -6887,7 +6887,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "EuJM_rhRWfQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=EuJM_rhRWfQ&list=RDKxaZTq4vqlw&index=2",
     "likeViews": 1144.0,
     "duration": "07:43",
@@ -6895,7 +6895,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_29",
     "title": "Bhorahi sawere ugh",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -6905,7 +6905,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "y4ENG0WWlAM",
     "youtubeUrl": "https://www.youtube.com/watch?v=y4ENG0WWlAM&list=RDKxaZTq4vqlw&index=4",
     "likeViews": 1554.0,
     "duration": "08:10",
@@ -6913,7 +6913,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_30",
     "title": "Suraj Ke satoKaraniya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -6923,7 +6923,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "M_U7ztdKEf8",
     "youtubeUrl": "https://www.youtube.com/watch?v=M_U7ztdKEf8&list=RDKxaZTq4vqlw&index=6",
     "likeViews": 1402.0,
     "duration": "08:57",
@@ -6931,7 +6931,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_31",
     "title": "Chhathi Maiya sunia",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -6941,7 +6941,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "vTomFg4LgSA",
     "youtubeUrl": "https://www.youtube.com/watch?v=vTomFg4LgSA&list=RDKxaZTq4vqlw&index=7",
     "likeViews": 509.0,
     "duration": "06:57",
@@ -6949,7 +6949,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_32",
     "title": "Supwa Lela O babua",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -6959,7 +6959,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "5NrwVZbpV18",
     "youtubeUrl": "https://www.youtube.com/watch?v=5NrwVZbpV18&list=RDKxaZTq4vqlw&index=14",
     "likeViews": 510.0,
     "duration": "06:41",
@@ -6967,7 +6967,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2004_33",
     "title": "Kahawa se aayil nariyarwa",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -6977,7 +6977,7 @@ export const BHOJPURI_SONGS = [
     "year": 2004,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LciMtYxJic4",
     "youtubeUrl": "https://www.youtube.com/watch?v=LciMtYxJic4&list=RDKxaZTq4vqlw&index=13",
     "likeViews": 362.0,
     "duration": "05:49",
@@ -6985,7 +6985,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_1",
     "title": "Beetal Umariya Aradh Dihte",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -6995,7 +6995,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "CJUoinhkgJw",
     "youtubeUrl": "https://www.youtube.com/watch?v=CJUoinhkgJw",
     "likeViews": 29.0,
     "duration": "09:12",
@@ -7003,7 +7003,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_2",
     "title": "Bhaile Arghiya Ke Beriya",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -7013,7 +7013,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "J9DE1gunkJk",
     "youtubeUrl": "https://www.youtube.com/watch?v=J9DE1gunkJk&list=RDJ9DE1gunkJk&start_radio=1",
     "likeViews": 23.0,
     "duration": "05:40",
@@ -7021,7 +7021,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_3",
     "title": "Chhath Ke Bartiya Uthaib",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -7031,7 +7031,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nbgxqC--4Qw",
     "youtubeUrl": "https://www.youtube.com/watch?v=nbgxqC--4Qw&list=RDnbgxqC--4Qw&start_radio=1",
     "likeViews": 3.0,
     "duration": "08:23",
@@ -7039,7 +7039,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_4",
     "title": "Hamaar Jiya Kare Piya",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -7049,7 +7049,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "MAefWeWgp6s",
     "youtubeUrl": "https://www.youtube.com/watch?v=MAefWeWgp6s&list=RDMAefWeWgp6s&start_radio=1",
     "likeViews": 17.0,
     "duration": "06:07",
@@ -7057,7 +7057,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_5",
     "title": "Hare-Hare Basavaa",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -7067,7 +7067,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "cN4FqNp06YA",
     "youtubeUrl": "https://www.youtube.com/watch?v=cN4FqNp06YA&list=OLAK5uy_lkfAQlAjs3yfMnnwZKkwH3wQE8Men3hRQ&index=5",
     "likeViews": 22.0,
     "duration": "06:44",
@@ -7075,7 +7075,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_6",
     "title": "Hum Nirdhaniya",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -7085,7 +7085,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "A7OA0qzuLAc",
     "youtubeUrl": "https://www.youtube.com/watch?v=A7OA0qzuLAc&list=OLAK5uy_lkfAQlAjs3yfMnnwZKkwH3wQE8Men3hRQ&index=6",
     "likeViews": 24.0,
     "duration": "09:40",
@@ -7093,7 +7093,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_7",
     "title": "Suruj Aaj Jani",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -7103,7 +7103,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "AO_ubV9GiGk",
     "youtubeUrl": "https://www.youtube.com/watch?v=AO_ubV9GiGk&list=OLAK5uy_lkfAQlAjs3yfMnnwZKkwH3wQE8Men3hRQ&index=7",
     "likeViews": 6.0,
     "duration": "05:26",
@@ -7111,7 +7111,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_8",
     "title": "Ugg Ho Surajdev",
     "singer": "Vijaya Bharti & Ajay Prasanna",
     "genre": "chhath",
@@ -7121,7 +7121,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pFQ2ur8LCOw",
     "youtubeUrl": "https://www.youtube.com/watch?v=pFQ2ur8LCOw&list=OLAK5uy_lkfAQlAjs3yfMnnwZKkwH3wQE8Men3hRQ&index=8",
     "likeViews": 26.0,
     "duration": "06:38",
@@ -7129,7 +7129,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_9",
     "title": "Maai Ho sevkan ke rela",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -7139,7 +7139,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "WW2PLl0oFdw",
     "youtubeUrl": "https://www.youtube.com/watch?v=WW2PLl0oFdw&list=RDWW2PLl0oFdw&start_radio=1",
     "likeViews": 9.0,
     "duration": "05:13",
@@ -7147,7 +7147,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_10",
     "title": "Panch KhAND Ke pokhra",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -7157,7 +7157,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "t7iBzmTVLgQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=t7iBzmTVLgQ&list=RDt7iBzmTVLgQ&start_radio=1",
     "likeViews": 12.0,
     "duration": "06:11",
@@ -7165,7 +7165,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_11",
     "title": "Chhath Maharani mai",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -7175,7 +7175,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "62tJCCgAaIk",
     "youtubeUrl": "https://www.youtube.com/watch?v=62tJCCgAaIk&list=OLAK5uy_kiWWjq8CdlCQOSIpbcphhumZy9e7J170k&index=5",
     "likeViews": 5.0,
     "duration": "07:34",
@@ -7183,7 +7183,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_12",
     "title": "Kabse Barat kar Tani",
     "singer": "Manoja Tiwari",
     "genre": "chhath",
@@ -7193,7 +7193,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "cdDJV-gi8kA",
     "youtubeUrl": "https://www.youtube.com/watch?v=cdDJV-gi8kA&list=OLAK5uy_kiWWjq8CdlCQOSIpbcphhumZy9e7J170k&index=8",
     "likeViews": 5.0,
     "duration": "07:38",
@@ -7201,7 +7201,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_13",
     "title": "Chhathii maiya ho",
     "singer": "Manoja Tiwari",
     "genre": "chhath",
@@ -7211,7 +7211,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "NEAcaA91V9I",
     "youtubeUrl": "https://www.youtube.com/watch?v=NEAcaA91V9I&list=OLAK5uy_kiWWjq8CdlCQOSIpbcphhumZy9e7J170k&index=2",
     "likeViews": 4.0,
     "duration": "08:03",
@@ -7219,7 +7219,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_14",
     "title": "Ketni Pariksha Leb",
     "singer": "Manoja Tiwari",
     "genre": "chhath",
@@ -7229,7 +7229,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "e6-u31EyNn0",
     "youtubeUrl": "https://www.youtube.com/watch?v=e6-u31EyNn0&list=OLAK5uy_kiWWjq8CdlCQOSIpbcphhumZy9e7J170k&index=3",
     "likeViews": 1.0,
     "duration": "05:26",
@@ -7237,7 +7237,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_15",
     "title": "Kanch hi Bas ke Bahangiya",
     "singer": "Manoja Tiwari",
     "genre": "chhath",
@@ -7247,7 +7247,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "HUZFuwtWjs4",
     "youtubeUrl": "https://www.youtube.com/watch?v=HUZFuwtWjs4&list=OLAK5uy_kiWWjq8CdlCQOSIpbcphhumZy9e7J170k&index=6",
     "likeViews": 42.0,
     "duration": "05:29",
@@ -7255,7 +7255,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_16",
     "title": "Pun Hoi Badi parsadi Dei da",
     "singer": "Manoja Tiwari",
     "genre": "chhath",
@@ -7265,7 +7265,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "EkMJcvC2BMI",
     "youtubeUrl": "https://www.youtube.com/watch?v=EkMJcvC2BMI&list=OLAK5uy_kiWWjq8CdlCQOSIpbcphhumZy9e7J170k&index=7",
     "likeViews": 9.0,
     "duration": "07:06",
@@ -7273,7 +7273,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_17",
     "title": "Chhathi Miaya darshan di",
     "singer": "Radhe Shyam Rasiya",
     "genre": "chhath",
@@ -7283,7 +7283,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "WD5WjHVLWu8",
     "youtubeUrl": "https://www.youtube.com/watch?v=WD5WjHVLWu8&list=RDWD5WjHVLWu8&start_radio=1",
     "likeViews": 13.0,
     "duration": "06:02",
@@ -7291,7 +7291,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_18",
     "title": "Piyare Piyare Dhotiya",
     "singer": "Radhe Shyam Rasiya, indu Sonali",
     "genre": "chhath",
@@ -7301,7 +7301,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "gLkuxEfnrMw",
     "youtubeUrl": "https://www.youtube.com/watch?v=gLkuxEfnrMw&list=RDgLkuxEfnrMw&start_radio=1",
     "likeViews": 4.0,
     "duration": "05:37",
@@ -7309,7 +7309,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_19",
     "title": "Marbo Re Sugwa Dhanukh",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -7319,7 +7319,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6rmBHUl8veg",
     "youtubeUrl": "https://www.youtube.com/watch?v=6rmBHUl8veg&list=RD6rmBHUl8veg&start_radio=1",
     "likeViews": 2972.0,
     "duration": "07:00",
@@ -7327,7 +7327,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_20",
     "title": "Jode Jode Nariyal",
     "singer": "Radhe Shyam Rasiya, indu Sonali",
     "genre": "chhath",
@@ -7337,7 +7337,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jaVhCrqN-Sg",
     "youtubeUrl": "https://www.youtube.com/watch?v=jaVhCrqN-Sg&list=RDjaVhCrqN-Sg&start_radio=1",
     "likeViews": 26.0,
     "duration": "07:30",
@@ -7345,7 +7345,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_21",
     "title": "Gaiya Ke Baathan",
     "singer": "Radhe Shyam Rasiya, indu Sonali",
     "genre": "chhath",
@@ -7355,7 +7355,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2xUb6BBLAUE",
     "youtubeUrl": "https://www.youtube.com/watch?v=2xUb6BBLAUE&list=RD2xUb6BBLAUE&start_radio=1",
     "likeViews": 36.0,
     "duration": "04:08",
@@ -7363,7 +7363,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_22",
     "title": "Kanch hi Bas ke Bahangiya",
     "singer": "Radhe Shyam Rasiya",
     "genre": "chhath",
@@ -7373,7 +7373,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "um5oXI9_7OY",
     "youtubeUrl": "https://www.youtube.com/watch?v=um5oXI9_7OY&list=RDum5oXI9_7OY&start_radio=1",
     "likeViews": 27.0,
     "duration": "06:13",
@@ -7381,7 +7381,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_23",
     "title": "Chaumukah Kalasa Jaraweli",
     "singer": "Radhe Shyam Rasiya, indu Sonali",
     "genre": "chhath",
@@ -7391,7 +7391,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "h4rs09UIl0I",
     "youtubeUrl": "https://www.youtube.com/watch?v=h4rs09UIl0I&list=RDh4rs09UIl0I&start_radio=1",
     "likeViews": 2.0,
     "duration": "06:14",
@@ -7399,7 +7399,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_24",
     "title": "Purab Se Darash Dekhav Ho",
     "singer": "Radhe Shyam Rasiya",
     "genre": "chhath",
@@ -7409,7 +7409,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Q8CyxFzwr-o",
     "youtubeUrl": "https://www.youtube.com/watch?v=Q8CyxFzwr-o&list=RDQ8CyxFzwr-o&start_radio=1",
     "likeViews": 1.0,
     "duration": "04:04",
@@ -7417,7 +7417,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_25",
     "title": "Karab Hum Chhath Ke Bartiya",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -7427,7 +7427,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ApITEjDIjXY",
     "youtubeUrl": "https://www.youtube.com/watch?v=ApITEjDIjXY&list=OLAK5uy_lHLpo1ufQPbaB95IHIbtLlwlxyttrQUrc",
     "likeViews": 12.0,
     "duration": "05:53",
@@ -7435,7 +7435,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_26",
     "title": "Devru Daura Lela",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -7445,7 +7445,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "FNYl4eS9Beo",
     "youtubeUrl": "https://www.youtube.com/watch?v=FNYl4eS9Beo&list=OLAK5uy_lHLpo1ufQPbaB95IHIbtLlwlxyttrQUrc&index=3",
     "likeViews": 20.0,
     "duration": "05:56",
@@ -7453,7 +7453,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_27",
     "title": "Devmoonga Danapur Ongari Sohe",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -7463,7 +7463,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rnYFkpcgcdI",
     "youtubeUrl": "https://www.youtube.com/watch?v=rnYFkpcgcdI&list=OLAK5uy_lHLpo1ufQPbaB95IHIbtLlwlxyttrQUrc&index=6",
     "likeViews": 6124.0,
     "duration": "05:41",
@@ -7471,7 +7471,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_28",
     "title": "Nevta Deke Bolwale Baani",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -7481,7 +7481,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6AnH29rsl0Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=6AnH29rsl0Y&list=OLAK5uy_lHLpo1ufQPbaB95IHIbtLlwlxyttrQUrc&index=7",
     "likeViews": 132.0,
     "duration": "05:03",
@@ -7489,7 +7489,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_29",
     "title": "Piya Aile Naahi",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -7499,7 +7499,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "_1thu2grJqg",
     "youtubeUrl": "https://www.youtube.com/watch?v=_1thu2grJqg&list=OLAK5uy_lHLpo1ufQPbaB95IHIbtLlwlxyttrQUrc&index=2",
     "likeViews": 8.0,
     "duration": "05:35",
@@ -7507,7 +7507,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_30",
     "title": "Jug - Jug Le Rahi Ehivaat",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -7517,7 +7517,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "1YhjkEpt9dw",
     "youtubeUrl": "https://www.youtube.com/watch?v=1YhjkEpt9dw&list=OLAK5uy_lHLpo1ufQPbaB95IHIbtLlwlxyttrQUrc&index=4",
     "likeViews": 10.0,
     "duration": "05:26",
@@ -7525,7 +7525,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_31",
     "title": "Duare Pa Pokhri Khanaib",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -7535,7 +7535,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "M1SX1ImxqUk",
     "youtubeUrl": "https://www.youtube.com/watch?v=M1SX1ImxqUk&list=OLAK5uy_lHLpo1ufQPbaB95IHIbtLlwlxyttrQUrc&index=5",
     "likeViews": 11.0,
     "duration": "04:57",
@@ -7543,7 +7543,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_32",
     "title": "Paniya Mein Thaad Biya Maai Ho Bajhiniya",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -7553,7 +7553,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3UEeNAL3Gw4",
     "youtubeUrl": "https://www.youtube.com/watch?v=3UEeNAL3Gw4&list=OLAK5uy_lHLpo1ufQPbaB95IHIbtLlwlxyttrQUrc&index=8",
     "likeViews": 15.0,
     "duration": "06:13",
@@ -7561,7 +7561,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_33",
     "title": "Ugi - Ugi Surajdev",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -7571,7 +7571,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "28yNCwBvII0",
     "youtubeUrl": "https://www.youtube.com/watch?v=28yNCwBvII0&list=OLAK5uy_lHLpo1ufQPbaB95IHIbtLlwlxyttrQUrc&index=10",
     "likeViews": 17.0,
     "duration": "06:26",
@@ -7579,7 +7579,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_34",
     "title": "Aav Sakhi Chhath Ke Niyam Batala",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -7589,7 +7589,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "u4aTl94Pwzk",
     "youtubeUrl": "https://www.youtube.com/watch?v=u4aTl94Pwzk&list=OLAK5uy_lHLpo1ufQPbaB95IHIbtLlwlxyttrQUrc&index=9",
     "likeViews": 17.0,
     "duration": "06:07",
@@ -7597,7 +7597,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_35",
     "title": "Hara Balaiya Maiya",
     "singer": "Sunil Chhaila Bihari / Tarannum Mallik / Bela Sulakhe",
     "genre": "chhath",
@@ -7607,7 +7607,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "KIOTuyhKcvw",
     "youtubeUrl": "https://www.youtube.com/watch?v=KIOTuyhKcvw&list=RDKIOTuyhKcvw&start_radio=1",
     "likeViews": 21.0,
     "duration": "04:47",
@@ -7615,7 +7615,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_36",
     "title": "Kaache Kaache Baasva Ke",
     "singer": "Sunil Chhaila Bihari / Tarannum Mallik / Bela Sulakhe",
     "genre": "chhath",
@@ -7625,7 +7625,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jwArjgB560s",
     "youtubeUrl": "https://www.youtube.com/watch?v=jwArjgB560s&list=OLAK5uy_lf2vl_3nqR4iDwJRegMvCR9QMmU-RdufU",
     "likeViews": 31.0,
     "duration": "06:02",
@@ -7633,7 +7633,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_37",
     "title": "Aail Chhathi Ke Poojanva",
     "singer": "Sunil Chhaila Bihari / Tarannum Mallik / Bela Sulakhe",
     "genre": "chhath",
@@ -7643,7 +7643,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "BuScy_YeRx8",
     "youtubeUrl": "https://www.youtube.com/watch?v=BuScy_YeRx8&list=OLAK5uy_lf2vl_3nqR4iDwJRegMvCR9QMmU-RdufU&index=2",
     "likeViews": 32.0,
     "duration": "05:46",
@@ -7651,7 +7651,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_38",
     "title": "Godi Mein Lalanva Naikhe",
     "singer": "Sunil Chhaila Bihari / Tarannum Mallik / Bela Sulakhe",
     "genre": "chhath",
@@ -7661,7 +7661,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "R71l29kmGmc",
     "youtubeUrl": "https://www.youtube.com/watch?v=R71l29kmGmc&list=OLAK5uy_lf2vl_3nqR4iDwJRegMvCR9QMmU-RdufU&index=3",
     "likeViews": 95.0,
     "duration": "06:50",
@@ -7669,7 +7669,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_39",
     "title": "Bramha Ji Ke Maanas Kanya",
     "singer": "Sunil Chhaila Bihari / Tarannum Mallik / Bela Sulakhe",
     "genre": "chhath",
@@ -7679,7 +7679,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0MceaSY1bHo",
     "youtubeUrl": "https://www.youtube.com/watch?v=0MceaSY1bHo&list=OLAK5uy_lf2vl_3nqR4iDwJRegMvCR9QMmU-RdufU&index=4",
     "likeViews": 40.0,
     "duration": "06:41",
@@ -7687,7 +7687,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_40",
     "title": "Parbaiteen-Araghaiteen Kahinee",
     "singer": "Sunil Chhaila Bihari / Tarannum Mallik / Bela Sulakhe",
     "genre": "chhath",
@@ -7697,7 +7697,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "UmVPSIvoNrs",
     "youtubeUrl": "https://www.youtube.com/watch?v=UmVPSIvoNrs&list=OLAK5uy_lf2vl_3nqR4iDwJRegMvCR9QMmU-RdufU&index=5",
     "likeViews": 12.0,
     "duration": "05:17",
@@ -7705,7 +7705,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_41",
     "title": "Janlee Je Chati Maiyya",
     "singer": "Sunil Chhaila Bihari / Tarannum Mallik / Bela Sulakhe",
     "genre": "chhath",
@@ -7715,7 +7715,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LBR9lnM3vT8",
     "youtubeUrl": "https://www.youtube.com/watch?v=LBR9lnM3vT8&list=OLAK5uy_lf2vl_3nqR4iDwJRegMvCR9QMmU-RdufU&index=6",
     "likeViews": 1662.0,
     "duration": "08:11",
@@ -7723,7 +7723,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_42",
     "title": "Kare Tyohar Sa Parivar",
     "singer": "Sunil Chhaila Bihari / Tarannum Mallik / Bela Sulakhe",
     "genre": "chhath",
@@ -7733,7 +7733,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "hsfR0hOu7x0",
     "youtubeUrl": "https://www.youtube.com/watch?v=hsfR0hOu7x0&list=OLAK5uy_lf2vl_3nqR4iDwJRegMvCR9QMmU-RdufU&index=7",
     "likeViews": 5.0,
     "duration": "05:04",
@@ -7741,7 +7741,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_43",
     "title": "Aaja Ae Balam Ghare",
     "singer": "Sunil Chhaila Bihari / Tarannum Mallik / Bela Sulakhe",
     "genre": "chhath",
@@ -7751,7 +7751,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jZyLTD2WpoU",
     "youtubeUrl": "https://www.youtube.com/watch?v=jZyLTD2WpoU&list=OLAK5uy_lf2vl_3nqR4iDwJRegMvCR9QMmU-RdufU&index=8",
     "likeViews": 13.0,
     "duration": "04:49",
@@ -7759,7 +7759,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_44",
     "title": "Rakhih Sada Ahivaat",
     "singer": "Sunil Chhaila Bihari / Tarannum Mallik / Bela Sulakhe",
     "genre": "chhath",
@@ -7769,7 +7769,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "kEU8LxDGQ8I",
     "youtubeUrl": "https://www.youtube.com/watch?v=kEU8LxDGQ8I&list=OLAK5uy_lf2vl_3nqR4iDwJRegMvCR9QMmU-RdufU&index=9",
     "likeViews": 10.0,
     "duration": "05:34",
@@ -7777,7 +7777,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_45",
     "title": "Char Hi Kona Ke Pokharava",
     "singer": "Anuradha Paudwal / Kumar Mohit / Khushbu Jain",
     "genre": "chhath",
@@ -7787,7 +7787,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "QY_lnONvOic",
     "youtubeUrl": "https://www.youtube.com/watch?v=QY_lnONvOic&list=RDQY_lnONvOic&start_radio=1",
     "likeViews": 56.0,
     "duration": "04:47",
@@ -7795,7 +7795,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_46",
     "title": "Ghatva Pa Chandni Tanaay",
     "singer": "Anuradha Paudwal / Kumar Mohit / Khushbu Jain",
     "genre": "chhath",
@@ -7805,7 +7805,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "QFW9RnrfQhc",
     "youtubeUrl": "https://www.youtube.com/watch?v=QFW9RnrfQhc&list=RDQFW9RnrfQhc&start_radio=1",
     "likeViews": 37.0,
     "duration": "04:56",
@@ -7813,7 +7813,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_47",
     "title": "Ghatva Sunar Laage",
     "singer": "Anuradha Paudwal / Kumar Mohit / Khushbu Jain",
     "genre": "chhath",
@@ -7823,7 +7823,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LX4hw5pbtpk",
     "youtubeUrl": "https://www.youtube.com/watch?v=LX4hw5pbtpk&list=RDLX4hw5pbtpk&start_radio=1",
     "likeViews": 5.0,
     "duration": "04:22",
@@ -7831,7 +7831,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_48",
     "title": "He Mor Ganga Maai",
     "singer": "Anuradha Paudwal / Kumar Mohit / Khushbu Jain",
     "genre": "chhath",
@@ -7841,7 +7841,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "HeaPRom8txI",
     "youtubeUrl": "https://www.youtube.com/watch?v=HeaPRom8txI&list=RDHeaPRom8txI&start_radio=1",
     "likeViews": 33.0,
     "duration": "06:16",
@@ -7849,7 +7849,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_49",
     "title": "Jode - Jode Nariyal Mangave Lagli",
     "singer": "Anuradha Paudwal / Kumar Mohit / Khushbu Jain",
     "genre": "chhath",
@@ -7859,7 +7859,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "TKPlxE7ipwA",
     "youtubeUrl": "https://www.youtube.com/watch?v=TKPlxE7ipwA&list=RDTKPlxE7ipwA&start_radio=1",
     "likeViews": 9.0,
     "duration": "04:40",
@@ -7867,7 +7867,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_50",
     "title": "Kar Chhat Bartiya Beta Paiboo",
     "singer": "Anuradha Paudwal / Kumar Mohit / Khushbu Jain",
     "genre": "chhath",
@@ -7877,7 +7877,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pHlAKwqbbNg",
     "youtubeUrl": "https://www.youtube.com/watch?v=pHlAKwqbbNg&list=RDpHlAKwqbbNg&start_radio=1",
     "likeViews": 6.0,
     "duration": "07:16",
@@ -7885,7 +7885,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_51",
     "title": "Mahima Chhat Maiyya Ke Apaar",
     "singer": "Anuradha Paudwal / Kumar Mohit / Khushbu Jain",
     "genre": "chhath",
@@ -7895,7 +7895,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "X3-JWD-fkqc",
     "youtubeUrl": "https://www.youtube.com/watch?v=X3-JWD-fkqc&list=RDX3-JWD-fkqc&start_radio=1",
     "likeViews": 5.0,
     "duration": "07:34",
@@ -7903,7 +7903,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_52",
     "title": "Marbo Re Sugwa Dhanukh",
     "singer": "Anuradha Paudwal / Kumar Mohit / Khushbu Jain",
     "genre": "chhath",
@@ -7913,7 +7913,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "lIRuDLY-nOk",
     "youtubeUrl": "https://www.youtube.com/watch?v=lIRuDLY-nOk",
     "likeViews": 2270.0,
     "duration": "06:52",
@@ -7921,7 +7921,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_53",
     "title": "Sundar Suhavan Laage Suraj Mandirava",
     "singer": "Anuradha Paudwal / Kumar Mohit / Khushbu Jain",
     "genre": "chhath",
@@ -7931,7 +7931,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "q5byrAgPrvU",
     "youtubeUrl": "https://www.youtube.com/watch?v=q5byrAgPrvU&list=RDq5byrAgPrvU&start_radio=1",
     "likeViews": 85.0,
     "duration": "05:08",
@@ -7939,7 +7939,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_54",
     "title": "Ugg Ho Suraj Dev",
     "singer": "Anuradha Paudwal / Kumar Mohit / Khushbu Jain",
     "genre": "chhath",
@@ -7949,7 +7949,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "-oga0dNKD0k",
     "youtubeUrl": "https://www.youtube.com/watch?v=-oga0dNKD0k&list=RD-oga0dNKD0k&start_radio=1",
     "likeViews": 29999.0,
     "duration": "05:55",
@@ -7957,7 +7957,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_55",
     "title": "Aava Ho Aditdeva",
     "singer": "Devi",
     "genre": "chhath",
@@ -7967,7 +7967,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "1yoBlu-tmb8",
     "youtubeUrl": "https://www.youtube.com/watch?v=1yoBlu-tmb8&list=RD1yoBlu-tmb8&start_radio=1",
     "likeViews": 11173.0,
     "duration": "06:53",
@@ -7975,7 +7975,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_56",
     "title": "Bini Bini Gehuvaa",
     "singer": "Devi",
     "genre": "chhath",
@@ -7985,7 +7985,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rX3X1PkOg54",
     "youtubeUrl": "https://www.youtube.com/watch?v=rX3X1PkOg54&list=RDrX3X1PkOg54&start_radio=1",
     "likeViews": 16520.0,
     "duration": "06:17",
@@ -7993,7 +7993,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_57",
     "title": "Chaar Hi Konva Ke",
     "singer": "Devi",
     "genre": "chhath",
@@ -8003,7 +8003,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "FIGYq0dsqQM",
     "youtubeUrl": "https://www.youtube.com/watch?v=FIGYq0dsqQM&list=RDFIGYq0dsqQM&start_radio=1",
     "likeViews": 2349.0,
     "duration": "05:15",
@@ -8011,7 +8011,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_58",
     "title": "Hum Ta Mangnee Piyar Sadiya",
     "singer": "Devi",
     "genre": "chhath",
@@ -8021,7 +8021,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "sAoeFSXmY7Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=sAoeFSXmY7Y&list=RDsAoeFSXmY7Y&start_radio=1",
     "likeViews": 20536.0,
     "duration": "07:03",
@@ -8029,7 +8029,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_59",
     "title": "Jode - Jode Nariyar",
     "singer": "Devi",
     "genre": "chhath",
@@ -8039,7 +8039,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "FXVCkz6k_T0",
     "youtubeUrl": "https://www.youtube.com/watch?v=FXVCkz6k_T0&list=RDFXVCkz6k_T0&start_radio=1",
     "likeViews": 11615.0,
     "duration": "06:16",
@@ -8047,7 +8047,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_60",
     "title": "Makdee Ujadee Hum",
     "singer": "Devi",
     "genre": "chhath",
@@ -8057,7 +8057,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "g91ODy0aVuU",
     "youtubeUrl": "https://www.youtube.com/watch?v=g91ODy0aVuU&list=RDg91ODy0aVuU&start_radio=1",
     "likeViews": 353.0,
     "duration": "05:50",
@@ -8065,7 +8065,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_61",
     "title": "Piya More Banle Kheveeya",
     "singer": "Devi",
     "genre": "chhath",
@@ -8075,7 +8075,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "MyidNZdmxKQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=MyidNZdmxKQ&list=RDMyidNZdmxKQ&start_radio=1",
     "likeViews": 7496.0,
     "duration": "07:34",
@@ -8083,7 +8083,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_62",
     "title": "Uga Ho Surujdev",
     "singer": "Devi",
     "genre": "chhath",
@@ -8093,7 +8093,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3HmwKVX3tiI",
     "youtubeUrl": "https://www.youtube.com/watch?v=3HmwKVX3tiI&list=RD3HmwKVX3tiI&start_radio=1",
     "likeViews": 84604.0,
     "duration": "08:19",
@@ -8101,7 +8101,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_63",
     "title": "Aajan Baajan Bajela Kekar Angna",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -8111,7 +8111,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "S_JyTPOAzI0",
     "youtubeUrl": "https://www.youtube.com/watch?v=S_JyTPOAzI0&list=RDS_JyTPOAzI0&start_radio=1",
     "likeViews": 68.0,
     "duration": "07:14",
@@ -8119,7 +8119,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_64",
     "title": "Beta Ke Hum Kiriya",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -8129,7 +8129,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jkeFZzs8nCc",
     "youtubeUrl": "https://www.youtube.com/watch?v=jkeFZzs8nCc&list=RDjkeFZzs8nCc&start_radio=1",
     "likeViews": 86.0,
     "duration": "07:40",
@@ -8137,7 +8137,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_65",
     "title": "Chahe Rahab Dilli Bambe Chahe Rahab Calcutta",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -8147,7 +8147,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "JGR2AWZ7XWg",
     "youtubeUrl": "https://www.youtube.com/watch?v=JGR2AWZ7XWg&list=RDJGR2AWZ7XWg&start_radio=1",
     "likeViews": 42.0,
     "duration": "06:39",
@@ -8155,7 +8155,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_66",
     "title": "Dushehra Diwali Beetal Khushi - Khushi",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -8165,7 +8165,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "VKx_MpKjyGg",
     "youtubeUrl": "https://www.youtube.com/watch?v=VKx_MpKjyGg",
     "likeViews": 130.0,
     "duration": "05:32",
@@ -8173,7 +8173,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_67",
     "title": "Hoke Naahi Kathee Biaah",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -8183,7 +8183,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "UAf7jF8RgEI",
     "youtubeUrl": "https://www.youtube.com/watch?v=UAf7jF8RgEI&list=OLAK5uy_nXIkBNqX8cvfyc6CLozbjHdObUGGuIY1w&index=5",
     "likeViews": 6.0,
     "duration": "07:45",
@@ -8191,7 +8191,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_68",
     "title": "Hum Tose Poocheela Baba Ho Tiwari Baba",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -8201,7 +8201,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "BrY3P9j_knk",
     "youtubeUrl": "https://www.youtube.com/watch?v=BrY3P9j_knk&list=OLAK5uy_nXIkBNqX8cvfyc6CLozbjHdObUGGuIY1w&index=6",
     "likeViews": 87.0,
     "duration": "05:46",
@@ -8209,7 +8209,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_69",
     "title": "Pahila Be Bhookhal Baanee",
     "singer": "Guddu Rangila",
     "genre": "chhath",
@@ -8219,7 +8219,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LEFQmV6EG_w",
     "youtubeUrl": "https://www.youtube.com/watch?v=LEFQmV6EG_w&list=OLAK5uy_nXIkBNqX8cvfyc6CLozbjHdObUGGuIY1w&index=7",
     "likeViews": 11.0,
     "duration": "05:54",
@@ -8227,7 +8227,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2005_70",
     "title": "Angna Mein Kosiya Bharaile",
     "singer": "Indu Sonali",
     "genre": "chhath",
@@ -8237,7 +8237,7 @@ export const BHOJPURI_SONGS = [
     "year": 2005,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "964rxYMsWZc",
     "youtubeUrl": "https://www.youtube.com/watch?v=964rxYMsWZc&list=RD964rxYMsWZc&start_radio=1",
     "likeViews": 167.0,
     "duration": "04:29",
@@ -8245,7 +8245,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_1",
     "title": "Aayiho Suraj Baba",
     "singer": "Sunil Chhaila Bihari / Bela Sulakhe / Anuradha Paudwal",
     "genre": "chhath",
@@ -8255,7 +8255,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0LahYt3oxHI",
     "youtubeUrl": "https://www.youtube.com/watch?v=0LahYt3oxHI&list=RD0LahYt3oxHI&start_radio=1",
     "likeViews": 8.0,
     "duration": "05:44",
@@ -8263,7 +8263,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_2",
     "title": "Babuaa Ke Madna",
     "singer": "Sunil Chhaila Bihari / Bela Sulakhe / Anuradha Paudwal",
     "genre": "chhath",
@@ -8273,7 +8273,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "u9Y019kRZpo",
     "youtubeUrl": "https://www.youtube.com/watch?v=u9Y019kRZpo&list=PLeVhbYBxEs74kMXD3cpFuiL8EBEDHjOKz&index=4",
     "likeViews": 2.0,
     "duration": "05:42",
@@ -8281,7 +8281,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_3",
     "title": "Doodh Ke Samiya",
     "singer": "Sunil Chhaila Bihari / Bela Sulakhe / Anuradha Paudwal",
     "genre": "chhath",
@@ -8291,7 +8291,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "8U8IHCnJ1sU",
     "youtubeUrl": "https://www.youtube.com/watch?v=8U8IHCnJ1sU&list=PLeVhbYBxEs74kMXD3cpFuiL8EBEDHjOKz&index=10",
     "likeViews": 3.0,
     "duration": "05:15",
@@ -8299,7 +8299,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_4",
     "title": "E Gagan Ke Raja",
     "singer": "Sunil Chhaila Bihari / Bela Sulakhe / Anuradha Paudwal",
     "genre": "chhath",
@@ -8309,7 +8309,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "IVK9OL4SIz8",
     "youtubeUrl": "https://www.youtube.com/watch?v=IVK9OL4SIz8&list=PLeVhbYBxEs74kMXD3cpFuiL8EBEDHjOKz&index=5",
     "likeViews": 17.0,
     "duration": "05:17",
@@ -8317,7 +8317,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_5",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Sunil Chhaila Bihari / Bela Sulakhe / Anuradha Paudwal",
     "genre": "chhath",
@@ -8327,7 +8327,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "uhg8k8yXago",
     "youtubeUrl": "https://www.youtube.com/watch?v=uhg8k8yXago&list=PLeVhbYBxEs74kMXD3cpFuiL8EBEDHjOKz&index=8",
     "likeViews": 1577.0,
     "duration": "04:12",
@@ -8335,7 +8335,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_6",
     "title": "Lotat Lotat Hum",
     "singer": "Sunil Chhaila Bihari / Bela Sulakhe / Anuradha Paudwal",
     "genre": "chhath",
@@ -8345,7 +8345,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ZUIGgf7ejGk",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZUIGgf7ejGk&list=PLeVhbYBxEs74kMXD3cpFuiL8EBEDHjOKz&index=3",
     "likeViews": 3.0,
     "duration": "06:13",
@@ -8353,7 +8353,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_7",
     "title": "Neeke Neeke Supwa",
     "singer": "Sunil Chhaila Bihari / Bela Sulakhe / Anuradha Paudwal",
     "genre": "chhath",
@@ -8363,7 +8363,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "92AqB-yikuw",
     "youtubeUrl": "https://www.youtube.com/watch?v=92AqB-yikuw&list=PLeVhbYBxEs74kMXD3cpFuiL8EBEDHjOKz&index=2",
     "likeViews": 30.0,
     "duration": "04:31",
@@ -8371,7 +8371,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_8",
     "title": "Neend Tute Gayil",
     "singer": "Sunil Chhaila Bihari / Bela Sulakhe / Anuradha Paudwal",
     "genre": "chhath",
@@ -8381,7 +8381,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "oaW8swwGX3U",
     "youtubeUrl": "https://www.youtube.com/watch?v=oaW8swwGX3U&list=PLeVhbYBxEs74kMXD3cpFuiL8EBEDHjOKz&index=9",
     "likeViews": 1.0,
     "duration": "04:51",
@@ -8389,7 +8389,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_9",
     "title": "Saiya Duiyo Din Ke",
     "singer": "Sunil Chhaila Bihari / Bela Sulakhe / Anuradha Paudwal",
     "genre": "chhath",
@@ -8399,7 +8399,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DyczNowb4Zs",
     "youtubeUrl": "https://www.youtube.com/watch?v=DyczNowb4Zs&list=PLeVhbYBxEs74kMXD3cpFuiL8EBEDHjOKz&index=6",
     "likeViews": 2.0,
     "duration": "05:18",
@@ -8407,7 +8407,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_10",
     "title": "Supwa Daurava Se",
     "singer": "Sunil Chhaila Bihari / Bela Sulakhe / Anuradha Paudwal",
     "genre": "chhath",
@@ -8417,7 +8417,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "INjXR60USlE",
     "youtubeUrl": "https://www.youtube.com/watch?v=INjXR60USlE&list=PLeVhbYBxEs74kMXD3cpFuiL8EBEDHjOKz&index=1",
     "likeViews": 68.0,
     "duration": "08:06",
@@ -8425,7 +8425,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_11",
     "title": "Surajdev Ke Aayil",
     "singer": "Sunil Chhaila Bihari / Bela Sulakhe / Anuradha Paudwal",
     "genre": "chhath",
@@ -8435,7 +8435,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xOYKsv_Wxho",
     "youtubeUrl": "https://www.youtube.com/watch?v=xOYKsv_Wxho&list=PLeVhbYBxEs74kMXD3cpFuiL8EBEDHjOKz&index=11",
     "likeViews": 3.0,
     "duration": "05:19",
@@ -8443,7 +8443,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_12",
     "title": "Devmunga Danapur Aungari Sohe",
     "singer": "Kalpana / Vinay Bihari",
     "genre": "chhath",
@@ -8453,7 +8453,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "AR3PPjPSzN8",
     "youtubeUrl": "https://www.youtube.com/watch?v=AR3PPjPSzN8&list=RDAR3PPjPSzN8&start_radio=1",
     "likeViews": 25418.0,
     "duration": "05:38",
@@ -8461,7 +8461,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_13",
     "title": "Gobra Se Angna Lipwali",
     "singer": "Kalpana / Vinay Bihari",
     "genre": "chhath",
@@ -8471,7 +8471,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Q9eW0o0EhWc",
     "youtubeUrl": "https://www.youtube.com/watch?v=Q9eW0o0EhWc&list=OLAK5uy_nafTcBpYgXZPeZL8iIzbcRj0OsySB6jjs&index=4",
     "likeViews": 3267.0,
     "duration": "06:37",
@@ -8479,7 +8479,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_14",
     "title": "Jagmag Jare Diyanwa Na Ho",
     "singer": "Kalpana / Vinay Bihari",
     "genre": "chhath",
@@ -8489,7 +8489,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "lFNkdalPySU",
     "youtubeUrl": "https://www.youtube.com/watch?v=lFNkdalPySU&list=OLAK5uy_nafTcBpYgXZPeZL8iIzbcRj0OsySB6jjs&index=3",
     "likeViews": 53.0,
     "duration": "05:35",
@@ -8497,7 +8497,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_15",
     "title": "Maai Ke Jagave",
     "singer": "Kalpana / Vinay Bihari",
     "genre": "chhath",
@@ -8507,7 +8507,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Wv8BB0FmU4Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=Wv8BB0FmU4Q&list=OLAK5uy_nafTcBpYgXZPeZL8iIzbcRj0OsySB6jjs&index=5",
     "likeViews": 73.0,
     "duration": "06:32",
@@ -8515,7 +8515,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_16",
     "title": "Nevta Deke Bolvale Baani",
     "singer": "Kalpana / Vinay Bihari",
     "genre": "chhath",
@@ -8525,7 +8525,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "5pCWcg9sMjI",
     "youtubeUrl": "https://www.youtube.com/watch?v=5pCWcg9sMjI&list=OLAK5uy_nafTcBpYgXZPeZL8iIzbcRj0OsySB6jjs&index=2",
     "likeViews": 40.0,
     "duration": "05:03",
@@ -8533,7 +8533,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_17",
     "title": "Pandi Ji Jaldi Aragh Diwai",
     "singer": "Kalpana / Vinay Bihari",
     "genre": "chhath",
@@ -8543,7 +8543,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "IKOaXBn_5K8",
     "youtubeUrl": "https://www.youtube.com/watch?v=IKOaXBn_5K8&list=OLAK5uy_nafTcBpYgXZPeZL8iIzbcRj0OsySB6jjs&index=6",
     "likeViews": 507.0,
     "duration": "05:22",
@@ -8551,7 +8551,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_18",
     "title": "Haali Haali Naiya",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -8561,7 +8561,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "i9a5_9gBxLo",
     "youtubeUrl": "https://www.youtube.com/watch?v=i9a5_9gBxLo&list=RDi9a5_9gBxLo&start_radio=1",
     "likeViews": 0.0,
     "duration": "08:04",
@@ -8569,7 +8569,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_19",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -8579,7 +8579,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "BOoSmzmm2Jg",
     "youtubeUrl": "https://www.youtube.com/watch?v=BOoSmzmm2Jg&list=RDBOoSmzmm2Jg&start_radio=1",
     "likeViews": 1.0,
     "duration": "06:16",
@@ -8587,7 +8587,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_20",
     "title": "Kerwa Je Ferala",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -8597,7 +8597,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ZPS3fgW0A-I",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZPS3fgW0A-I&list=RDZPS3fgW0A-I&start_radio=1",
     "likeViews": 0.0,
     "duration": "08:48",
@@ -8605,7 +8605,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_21",
     "title": "Naiya Fasal Majhdhaar",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -8615,7 +8615,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "aXXDihCZ2xw",
     "youtubeUrl": "https://www.youtube.com/watch?v=aXXDihCZ2xw&list=RDaXXDihCZ2xw&start_radio=1",
     "likeViews": 0.0,
     "duration": "07:21",
@@ -8623,7 +8623,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_22",
     "title": "Roje Roje Oogila Deva",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -8633,7 +8633,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pQTTNDJeEr4",
     "youtubeUrl": "https://www.youtube.com/watch?v=pQTTNDJeEr4&list=RDpQTTNDJeEr4&start_radio=1",
     "likeViews": 0.0,
     "duration": "07:12",
@@ -8641,7 +8641,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_23",
     "title": "Swarg Mein Aditmal",
     "singer": "Renuka Sahay",
     "genre": "chhath",
@@ -8651,7 +8651,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "fawQf5gmOsM",
     "youtubeUrl": "https://www.youtube.com/watch?v=fawQf5gmOsM&list=RDfawQf5gmOsM&start_radio=1",
     "likeViews": 1.0,
     "duration": "07:39",
@@ -8659,7 +8659,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_24",
     "title": "Bajaav Bhaiya Baajna",
     "singer": "Anand Mohan",
     "genre": "chhath",
@@ -8669,7 +8669,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "CU1WAaeZz5g",
     "youtubeUrl": "https://www.youtube.com/watch?v=CU1WAaeZz5g&list=RDCU1WAaeZz5g&start_radio=1",
     "likeViews": 4.0,
     "duration": "05:13",
@@ -8677,7 +8677,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_25",
     "title": "Chal Chhathi Ghaat Pa",
     "singer": "Anand Mohan",
     "genre": "chhath",
@@ -8687,7 +8687,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "j6LbkU2UlLk",
     "youtubeUrl": "https://www.youtube.com/watch?v=j6LbkU2UlLk&list=OLAK5uy_kkNit0P-Qdu1lUhMab1d8lAd3Ij2Zc4cY&index=3",
     "likeViews": 5.0,
     "duration": "05:51",
@@ -8695,7 +8695,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_26",
     "title": "Chhathi Ke Baratiya Kaeel",
     "singer": "Anand Mohan",
     "genre": "chhath",
@@ -8705,7 +8705,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "MTaqapHWEQ8",
     "youtubeUrl": "https://www.youtube.com/watch?v=MTaqapHWEQ8&list=OLAK5uy_kkNit0P-Qdu1lUhMab1d8lAd3Ij2Zc4cY&index=4",
     "likeViews": 197.0,
     "duration": "05:05",
@@ -8713,7 +8713,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_27",
     "title": "Chhathi Maai Aaveli Anganwa",
     "singer": "Anand Mohan",
     "genre": "chhath",
@@ -8723,7 +8723,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "E_9VPW75tso",
     "youtubeUrl": "https://www.youtube.com/watch?v=E_9VPW75tso&list=OLAK5uy_kkNit0P-Qdu1lUhMab1d8lAd3Ij2Zc4cY&index=5",
     "likeViews": 36.0,
     "duration": "05:13",
@@ -8731,7 +8731,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_28",
     "title": "Daoora Kal Supwa Lihale",
     "singer": "Indu Sonali",
     "genre": "chhath",
@@ -8741,7 +8741,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "IZJHZk2pA3w",
     "youtubeUrl": "https://www.youtube.com/watch?v=IZJHZk2pA3w&list=OLAK5uy_kkNit0P-Qdu1lUhMab1d8lAd3Ij2Zc4cY&index=6",
     "likeViews": 129.0,
     "duration": "05:33",
@@ -8749,7 +8749,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_29",
     "title": "Dom Bhaiya Soop Dehu",
     "singer": "Indu Sonali",
     "genre": "chhath",
@@ -8759,7 +8759,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "H_GvdbHoEXY",
     "youtubeUrl": "https://www.youtube.com/watch?v=H_GvdbHoEXY&list=RDH_GvdbHoEXY&start_radio=1",
     "likeViews": 1830.0,
     "duration": "07:33",
@@ -8767,7 +8767,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_30",
     "title": "Marbo Re Sugwa Dhanukh",
     "singer": "Indu Sonali",
     "genre": "chhath",
@@ -8777,7 +8777,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "J4d76ZMg-4Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=J4d76ZMg-4Y&list=RDJ4d76ZMg-4Y&start_radio=1",
     "likeViews": 2.0,
     "duration": "04:02",
@@ -8785,7 +8785,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_31",
     "title": "Aaditiya Manaile",
     "singer": "Aparnaa Bhaagwat & Vinay Bihari",
     "genre": "chhath",
@@ -8795,7 +8795,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "G6PO2w5L-fI",
     "youtubeUrl": "https://www.youtube.com/watch?v=G6PO2w5L-fI&list=RDW229LipCDeQ&index=5",
     "likeViews": 14.0,
     "duration": "05:27",
@@ -8803,7 +8803,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_32",
     "title": "Aasiya Puran Hoye",
     "singer": "Aparnaa Bhaagwat & Vinay Bihari",
     "genre": "chhath",
@@ -8813,7 +8813,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "tQ1ioXnK1Rs",
     "youtubeUrl": "https://www.youtube.com/watch?v=tQ1ioXnK1Rs&list=RDW229LipCDeQ&index=3",
     "likeViews": 1193.0,
     "duration": "04:35",
@@ -8821,7 +8821,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_33",
     "title": "Darsan Dihi Na Aapan",
     "singer": "Aparnaa Bhaagwat & Vinay Bihari",
     "genre": "chhath",
@@ -8831,7 +8831,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "cNGiYHMHbHI",
     "youtubeUrl": "https://www.youtube.com/watch?v=cNGiYHMHbHI&list=RDW229LipCDeQ&index=8",
     "likeViews": 8.0,
     "duration": "03:18",
@@ -8839,7 +8839,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_34",
     "title": "Domin Beti Sup Le Le Thade Ba",
     "singer": "Aparnaa Bhaagwat & Vinay Bihari",
     "genre": "chhath",
@@ -8849,7 +8849,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3c5_C60Ys5E",
     "youtubeUrl": "https://www.youtube.com/watch?v=3c5_C60Ys5E&list=RDW229LipCDeQ&index=4",
     "likeViews": 30.0,
     "duration": "06:13",
@@ -8857,7 +8857,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_35",
     "title": "Hey Mor Chaati Maiya",
     "singer": "Aparnaa Bhaagwat & Vinay Bihari",
     "genre": "chhath",
@@ -8867,7 +8867,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "mPld7ydHg3c",
     "youtubeUrl": "https://www.youtube.com/watch?v=mPld7ydHg3c&list=RDW229LipCDeQ&index=6",
     "likeViews": 31.0,
     "duration": "06:16",
@@ -8875,7 +8875,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_36",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Aparnaa Bhaagwat & Vinay Bihari",
     "genre": "chhath",
@@ -8885,7 +8885,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "wsQajNB-hyw",
     "youtubeUrl": "https://www.youtube.com/watch?v=wsQajNB-hyw&list=RDW229LipCDeQ&index=9",
     "likeViews": 2.0,
     "duration": "04:17",
@@ -8893,7 +8893,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_37",
     "title": "Kankar Naiya Mein Ierachi Mirchiya",
     "singer": "Aparnaa Bhaagwat & Vinay Bihari",
     "genre": "chhath",
@@ -8903,7 +8903,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "VHZhIh49TJc",
     "youtubeUrl": "https://www.youtube.com/watch?v=VHZhIh49TJc&list=RDW229LipCDeQ&index=11",
     "likeViews": 9.0,
     "duration": "05:15",
@@ -8911,7 +8911,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_38",
     "title": "Maar Bo Re Sugheva Dhanush Se",
     "singer": "Aparnaa Bhaagwat & Vinay Bihari",
     "genre": "chhath",
@@ -8921,7 +8921,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "W229LipCDeQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=W229LipCDeQ&list=RDW229LipCDeQ&index=1",
     "likeViews": 15.0,
     "duration": "06:52",
@@ -8929,7 +8929,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_39",
     "title": "Ooghe Ho Suraj Dev",
     "singer": "Aparnaa Bhaagwat & Vinay Bihari",
     "genre": "chhath",
@@ -8939,7 +8939,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6ec-eL44qiw",
     "youtubeUrl": "https://www.youtube.com/watch?v=6ec-eL44qiw&list=RDW229LipCDeQ&index=2",
     "likeViews": 29.0,
     "duration": "06:07",
@@ -8947,7 +8947,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_40",
     "title": "Rakho Sambhe Chhath Ke Barat",
     "singer": "Aparnaa Bhaagwat & Vinay Bihari",
     "genre": "chhath",
@@ -8957,7 +8957,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ldCFeuHJDtg",
     "youtubeUrl": "https://www.youtube.com/watch?v=ldCFeuHJDtg&list=RDldCFeuHJDtg&start_radio=1",
     "likeViews": 3.0,
     "duration": "03:40",
@@ -8965,7 +8965,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2006_41",
     "title": "Saat Hi Chodva Suraj Dev",
     "singer": "Aparnaa Bhaagwat & Vinay Bihari",
     "genre": "chhath",
@@ -8975,7 +8975,7 @@ export const BHOJPURI_SONGS = [
     "year": 2006,
     "language": "Bihar regional folk",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "wudrJ_BBL-I",
     "youtubeUrl": "https://www.youtube.com/watch?v=wudrJ_BBL-I&list=RDwudrJ_BBL-I&start_radio=1",
     "likeViews": 18.0,
     "duration": "05:12",
@@ -8983,7 +8983,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_1",
     "title": "Chhathi Maiya aitan aaj",
     "singer": "Indu Vishwanath & Vinay Bihari",
     "genre": "chhath",
@@ -8993,7 +8993,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "gvVLxwESFFE",
     "youtubeUrl": "https://www.youtube.com/watch?v=gvVLxwESFFE&list=RDgvVLxwESFFE&start_radio=1",
     "likeViews": 116.0,
     "duration": "03:47",
@@ -9001,7 +9001,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_2",
     "title": "Sama khele",
     "singer": "Indu Vishwanath & Vinay Bihari",
     "genre": "chhath",
@@ -9011,7 +9011,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "PLOWbi0j2l4",
     "youtubeUrl": "https://www.youtube.com/watch?v=PLOWbi0j2l4&list=OLAK5uy_m6ijC3kpB9fy-tsBeKuh8I6baFbfDWHGw&index=2",
     "likeViews": 2.0,
     "duration": "02:48",
@@ -9019,7 +9019,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_3",
     "title": "Kerwa Je Ferala",
     "singer": "Indu Vishwanath & Vinay Bihari",
     "genre": "chhath",
@@ -9029,7 +9029,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "_F9QUpHHriw",
     "youtubeUrl": "https://www.youtube.com/watch?v=_F9QUpHHriw&list=OLAK5uy_m6ijC3kpB9fy-tsBeKuh8I6baFbfDWHGw&index=3",
     "likeViews": 2.0,
     "duration": "03:47",
@@ -9037,7 +9037,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_4",
     "title": "Suna Chhathi Maayi More Binati",
     "singer": "Indu Vishwanath & Vinay Bihari",
     "genre": "chhath",
@@ -9047,7 +9047,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "YhkYzDaDB3o",
     "youtubeUrl": "https://www.youtube.com/watch?v=YhkYzDaDB3o&list=OLAK5uy_m6ijC3kpB9fy-tsBeKuh8I6baFbfDWHGw&index=4",
     "likeViews": 3.0,
     "duration": "04:06",
@@ -9055,7 +9055,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_5",
     "title": "Pura Hoi Aas",
     "singer": "Indu Vishwanath & Vinay Bihari",
     "genre": "chhath",
@@ -9065,7 +9065,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "NYgM6R1FgQ0",
     "youtubeUrl": "https://www.youtube.com/watch?v=NYgM6R1FgQ0&list=OLAK5uy_m6ijC3kpB9fy-tsBeKuh8I6baFbfDWHGw&index=5",
     "likeViews": 2.0,
     "duration": "04:00",
@@ -9073,7 +9073,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_6",
     "title": "Domin Beti Sup Le Le Thade Ba",
     "singer": "Indu Vishwanath & Vinay Bihari",
     "genre": "chhath",
@@ -9083,7 +9083,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "5hZG1S1itxQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=5hZG1S1itxQ&list=OLAK5uy_m6ijC3kpB9fy-tsBeKuh8I6baFbfDWHGw&index=6",
     "likeViews": 127.0,
     "duration": "05:16",
@@ -9091,7 +9091,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_7",
     "title": "Beriya ke ber",
     "singer": "Indu Vishwanath & Vinay Bihari",
     "genre": "chhath",
@@ -9101,7 +9101,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "96ZAxdX2yRk",
     "youtubeUrl": "https://www.youtube.com/watch?v=96ZAxdX2yRk&list=OLAK5uy_m6ijC3kpB9fy-tsBeKuh8I6baFbfDWHGw&index=7",
     "likeViews": 1.0,
     "duration": "04:47",
@@ -9109,7 +9109,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_8",
     "title": "Chhath Pujan Jaye",
     "singer": "Indu Vishwanath & Vinay Bihari",
     "genre": "chhath",
@@ -9119,7 +9119,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "4ej6nFQXkoE",
     "youtubeUrl": "https://www.youtube.com/watch?v=4ej6nFQXkoE&list=OLAK5uy_m6ijC3kpB9fy-tsBeKuh8I6baFbfDWHGw&index=8",
     "likeViews": 2.0,
     "duration": "05:00",
@@ -9127,7 +9127,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_9",
     "title": "Brahma Ke Beti",
     "singer": "Anuradha Paudwal & Udit Narayan",
     "genre": "chhath",
@@ -9137,7 +9137,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "SNcOz-vqkdQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=SNcOz-vqkdQ&list=RDSNcOz-vqkdQ&start_radio=1",
     "likeViews": 20.0,
     "duration": "08:04",
@@ -9145,7 +9145,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_10",
     "title": "Chaleli Matari",
     "singer": "Udit Narayan",
     "genre": "chhath",
@@ -9155,7 +9155,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "qPt78x5QbRU",
     "youtubeUrl": "https://www.youtube.com/watch?v=qPt78x5QbRU&list=RDqPt78x5QbRU&start_radio=1",
     "likeViews": 35.0,
     "duration": "06:46",
@@ -9163,7 +9163,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_11",
     "title": "Chathi Ke Bhail Ba",
     "singer": "Rekha Rao",
     "genre": "chhath",
@@ -9173,7 +9173,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "olHMT0GImIA",
     "youtubeUrl": "https://www.youtube.com/watch?v=olHMT0GImIA&list=RDolHMT0GImIA&start_radio=1",
     "likeViews": 1.0,
     "duration": "07:10",
@@ -9181,7 +9181,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_12",
     "title": "Dagi E Suraj Dev",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -9191,7 +9191,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Y_3DUZLg0JQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=Y_3DUZLg0JQ&list=RDY_3DUZLg0JQ&start_radio=1",
     "likeViews": 1.0,
     "duration": "08:21",
@@ -9199,7 +9199,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_13",
     "title": "Kaise Tu Karbu",
     "singer": "Udit Narayan",
     "genre": "chhath",
@@ -9209,7 +9209,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2lngixZZaPA",
     "youtubeUrl": "https://www.youtube.com/watch?v=2lngixZZaPA&list=RD2lngixZZaPA&start_radio=1",
     "likeViews": 6.0,
     "duration": "07:09",
@@ -9217,7 +9217,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_14",
     "title": "Prtihari Mai Prtihari",
     "singer": "Rup Kumar Rathod & Anuradha Paudwal",
     "genre": "chhath",
@@ -9227,7 +9227,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6McQTu7O_Lk",
     "youtubeUrl": "https://www.youtube.com/watch?v=6McQTu7O_Lk&list=RD6McQTu7O_Lk&start_radio=1",
     "likeViews": 1.0,
     "duration": "07:31",
@@ -9235,7 +9235,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_15",
     "title": "Suna Chathi Maiya Ke",
     "singer": "Rup Kumar Rathod & Anuradha Paudwal",
     "genre": "chhath",
@@ -9245,7 +9245,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "oToRG5xqfbo",
     "youtubeUrl": "https://www.youtube.com/watch?v=oToRG5xqfbo&list=RDoToRG5xqfbo&start_radio=1",
     "likeViews": 3.0,
     "duration": "11:33",
@@ -9253,7 +9253,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_16",
     "title": "Jai Ho Chhath Maiya",
     "singer": "Malini Awasthi & Shailendra Singh",
     "genre": "chhath",
@@ -9263,7 +9263,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ADRJWgrDJow",
     "youtubeUrl": "https://www.youtube.com/watch?v=ADRJWgrDJow&list=RDADRJWgrDJow&start_radio=1",
     "likeViews": 54.0,
     "duration": "05:21",
@@ -9271,7 +9271,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_17",
     "title": "Aanganwa Me Chauka Purayi",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -9281,7 +9281,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "TsbO2rLe2IE",
     "youtubeUrl": "https://www.youtube.com/watch?v=TsbO2rLe2IE&list=PLo5AtPYofiR5e-iD-OrN8rjYkmeh6l9BN",
     "likeViews": 0.0,
     "duration": "05:24",
@@ -9289,7 +9289,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_18",
     "title": "Chhathi Maiya Godiya Bharwayi",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -9299,7 +9299,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "W8wF2tcP4-U",
     "youtubeUrl": "https://www.youtube.com/watch?v=W8wF2tcP4-U&list=PLo5AtPYofiR5e-iD-OrN8rjYkmeh6l9BN&index=2",
     "likeViews": 0.0,
     "duration": "07:13",
@@ -9307,7 +9307,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_19",
     "title": "Chhathi Maiya Kareli Dhan Dhan",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -9317,7 +9317,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "61EGTb237fg",
     "youtubeUrl": "https://www.youtube.com/watch?v=61EGTb237fg&list=PLo5AtPYofiR5e-iD-OrN8rjYkmeh6l9BN&index=3",
     "likeViews": 4.0,
     "duration": "04:53",
@@ -9325,7 +9325,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_20",
     "title": "Darshan Dinhi Na Aapar",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -9335,7 +9335,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "XUJlGCWhlDY",
     "youtubeUrl": "https://www.youtube.com/watch?v=XUJlGCWhlDY&list=PLo5AtPYofiR5e-iD-OrN8rjYkmeh6l9BN&index=4",
     "likeViews": 4.0,
     "duration": "05:40",
@@ -9343,7 +9343,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_21",
     "title": "Doli Chadhi Paschim Ke Deshwa",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -9353,7 +9353,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "YLu_VyI4W9Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=YLu_VyI4W9Y&list=PLo5AtPYofiR5e-iD-OrN8rjYkmeh6l9BN&index=5",
     "likeViews": 2.0,
     "duration": "06:57",
@@ -9361,7 +9361,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_22",
     "title": "E Sakhi Kara Tuhu Chhath Ke",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -9371,7 +9371,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "bK8o4TxthDI",
     "youtubeUrl": "https://www.youtube.com/watch?v=bK8o4TxthDI&list=PLo5AtPYofiR5e-iD-OrN8rjYkmeh6l9BN&index=6",
     "likeViews": 3.0,
     "duration": "05:11",
@@ -9379,7 +9379,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_23",
     "title": "Ghate Ghate Johe Tiwaiya",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -9389,7 +9389,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Gy0tfx7DcLI",
     "youtubeUrl": "https://www.youtube.com/watch?v=Gy0tfx7DcLI&list=PLo5AtPYofiR5e-iD-OrN8rjYkmeh6l9BN&index=7",
     "likeViews": 1.0,
     "duration": "07:20",
@@ -9397,7 +9397,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_24",
     "title": "Nirdhan Ke Chhathi Karwayi",
     "singer": "Rajesh Gupta",
     "genre": "chhath",
@@ -9407,7 +9407,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ZXPl2IyoJ5k",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZXPl2IyoJ5k&list=PLo5AtPYofiR5e-iD-OrN8rjYkmeh6l9BN&index=8",
     "likeViews": 1.0,
     "duration": "05:24",
@@ -9415,7 +9415,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_25",
     "title": "Bhaiyle Aradhiya Ke Ber",
     "singer": "Bharat Sharma Vyas",
     "genre": "chhath",
@@ -9425,7 +9425,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "HyAADXr4eVM",
     "youtubeUrl": "https://www.youtube.com/watch?v=HyAADXr4eVM&list=RDHyAADXr4eVM&start_radio=1",
     "likeViews": 1.0,
     "duration": "07:16",
@@ -9433,7 +9433,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_26",
     "title": "Chhathi Maiya Paar Lagaiha",
     "singer": "Bharat Sharma Vyas",
     "genre": "chhath",
@@ -9443,7 +9443,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jYj1740XYec",
     "youtubeUrl": "https://www.youtube.com/watch?v=jYj1740XYec&list=RDjYj1740XYec&start_radio=1",
     "likeViews": 0.0,
     "duration": "08:04",
@@ -9451,7 +9451,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_27",
     "title": "Choti Muti Domin Bitiya",
     "singer": "Bharat Sharma Vyas",
     "genre": "chhath",
@@ -9461,7 +9461,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "p7VVg1yvpEk",
     "youtubeUrl": "https://www.youtube.com/watch?v=p7VVg1yvpEk&list=RDp7VVg1yvpEk&start_radio=1",
     "likeViews": 1.0,
     "duration": "07:11",
@@ -9469,7 +9469,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_28",
     "title": "Dev Munga Chhathi Mayi",
     "singer": "Bharat Sharma Vyas",
     "genre": "chhath",
@@ -9479,7 +9479,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "r-KvM7ZapmE",
     "youtubeUrl": "https://www.youtube.com/watch?v=r-KvM7ZapmE&list=RDr-KvM7ZapmE&start_radio=1",
     "likeViews": 0.0,
     "duration": "07:08",
@@ -9487,7 +9487,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_29",
     "title": "Dubey Pawe Na Surujwa",
     "singer": "Bharat Sharma Vyas",
     "genre": "chhath",
@@ -9497,7 +9497,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "IjFCWYwoKfE",
     "youtubeUrl": "https://www.youtube.com/watch?v=IjFCWYwoKfE&list=RDIjFCWYwoKfE&start_radio=1",
     "likeViews": 1.0,
     "duration": "07:07",
@@ -9505,7 +9505,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_30",
     "title": "Joda Kalsupwa Lihale",
     "singer": "Bharat Sharma Vyas & Deepa",
     "genre": "chhath",
@@ -9515,7 +9515,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "WJMqfCjI7D4",
     "youtubeUrl": "https://www.youtube.com/watch?v=WJMqfCjI7D4&list=RDWJMqfCjI7D4&start_radio=1",
     "likeViews": 4.0,
     "duration": "07:20",
@@ -9523,7 +9523,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_31",
     "title": "Patna Chaleke Jarur",
     "singer": "Bharat Sharma Vyas & Priya",
     "genre": "chhath",
@@ -9533,7 +9533,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3r7X85LaPNU",
     "youtubeUrl": "https://www.youtube.com/watch?v=3r7X85LaPNU&list=RD3r7X85LaPNU&start_radio=1",
     "likeViews": 2.0,
     "duration": "06:51",
@@ -9541,7 +9541,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2008_32",
     "title": "Pratha Darshan Dinhi E Dinanath",
     "singer": "Bharat Sharma Vyas",
     "genre": "chhath",
@@ -9551,7 +9551,7 @@ export const BHOJPURI_SONGS = [
     "year": 2008,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LH-zs_Xy1C8",
     "youtubeUrl": "https://www.youtube.com/watch?v=LH-zs_Xy1C8&list=RDLH-zs_Xy1C8&start_radio=1",
     "likeViews": 0.0,
     "duration": "06:54",
@@ -9559,7 +9559,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_1",
     "title": "Ae Chhathi Maiya",
     "singer": "Indu Sonali",
     "genre": "chhath",
@@ -9569,7 +9569,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "RKeBVdLLMNU",
     "youtubeUrl": "https://music.youtube.com/watch?v=RKeBVdLLMNU",
     "likeViews": 2.0,
     "duration": "05:45",
@@ -9577,7 +9577,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_2",
     "title": "Angana Mein Chauka Purayi Debo",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -9587,7 +9587,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DltEbmdb7KU",
     "youtubeUrl": "https://www.youtube.com/watch?v=DltEbmdb7KU&list=RDDltEbmdb7KU&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:22",
@@ -9595,7 +9595,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_3",
     "title": "Bhorve Mein Nadiya Nahai",
     "singer": "Indu Sonali",
     "genre": "chhath",
@@ -9605,7 +9605,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "TZZmyaO0els",
     "youtubeUrl": "https://www.youtube.com/watch?v=TZZmyaO0els&list=RDTZZmyaO0els&start_radio=1",
     "likeViews": 0.0,
     "duration": "07:07",
@@ -9613,7 +9613,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_4",
     "title": "Chathia Pujan Ke Bahaar",
     "singer": "Meeta Chatterji",
     "genre": "chhath",
@@ -9623,7 +9623,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "y5Woce_69qw",
     "youtubeUrl": "https://www.youtube.com/watch?v=y5Woce_69qw&list=RDy5Woce_69qw&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:42",
@@ -9631,7 +9631,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_5",
     "title": "Chhat Vrat Hum Karab Sajanji",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -9641,7 +9641,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "py4PEENL39Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=py4PEENL39Y&list=RDpy4PEENL39Y&start_radio=1",
     "likeViews": 0.0,
     "duration": "07:18",
@@ -9649,7 +9649,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_6",
     "title": "Chhath Pooja Katha & Lokgeet",
     "singer": "Indu Sonali",
     "genre": "chhath",
@@ -9659,7 +9659,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nxPVikxDwR0",
     "youtubeUrl": "https://www.youtube.com/watch?v=nxPVikxDwR0&list=RDnxPVikxDwR0&start_radio=1",
     "likeViews": 1.0,
     "duration": "15:21",
@@ -9667,7 +9667,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_7",
     "title": "Chhathi Maiya Kareli Dhan Dhan",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -9677,7 +9677,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "f-I7y58QhvI",
     "youtubeUrl": "https://www.youtube.com/watch?v=f-I7y58QhvI&list=RDf-I7y58QhvI&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:51",
@@ -9685,7 +9685,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_8",
     "title": "Chhathia Ke Din Niyarayil",
     "singer": "Payal Mishra",
     "genre": "chhath",
@@ -9695,7 +9695,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xySD8V9LIyQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=xySD8V9LIyQ&list=OLAK5uy_nzBKaVMqrmnvnpLtCrm--89VshjBXBjxE&index=2",
     "likeViews": 0.0,
     "duration": "09:01",
@@ -9703,7 +9703,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_9",
     "title": "Dev Monga Chhathi Mayee Ke Ghati",
     "singer": "Bharat Sharma Vyas",
     "genre": "chhath",
@@ -9713,7 +9713,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "QAzvrIIHAFc",
     "youtubeUrl": "https://www.youtube.com/watch?v=QAzvrIIHAFc&list=RDQAzvrIIHAFc&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:36",
@@ -9721,7 +9721,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_10",
     "title": "Doli Chade Paschim Ke Deshva",
     "singer": "Meeta Chatterji",
     "genre": "chhath",
@@ -9731,7 +9731,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0Mt0K9VvCY4",
     "youtubeUrl": "https://www.youtube.com/watch?v=0Mt0K9VvCY4&list=RD0Mt0K9VvCY4&start_radio=1",
     "likeViews": 4.0,
     "duration": "06:52",
@@ -9739,7 +9739,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_11",
     "title": "Ganga Bahe Yamuna Bahe",
     "singer": "Payal Mishra",
     "genre": "chhath",
@@ -9749,7 +9749,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "c7B7PL1LrPY",
     "youtubeUrl": "https://www.youtube.com/watch?v=c7B7PL1LrPY&list=OLAK5uy_nzBKaVMqrmnvnpLtCrm--89VshjBXBjxE&index=3",
     "likeViews": 1.0,
     "duration": "06:10",
@@ -9757,7 +9757,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_12",
     "title": "Gaunva Bajaria Mei Ghume Li",
     "singer": "Rekha Rao",
     "genre": "chhath",
@@ -9767,7 +9767,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "MSf9E0VYgUs",
     "youtubeUrl": "https://www.youtube.com/watch?v=MSf9E0VYgUs&list=RDMSf9E0VYgUs&start_radio=1",
     "likeViews": 0.0,
     "duration": "07:52",
@@ -9775,7 +9775,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_13",
     "title": "Hathva Mei Phulva Dalaiya",
     "singer": "Indu Sonali",
     "genre": "chhath",
@@ -9785,7 +9785,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "YU1EKER4ubw",
     "youtubeUrl": "https://www.youtube.com/watch?v=YU1EKER4ubw&list=RDYU1EKER4ubw&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:00",
@@ -9793,7 +9793,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_14",
     "title": "Jode Jode Nariyal Liyahiy Ye Baba",
     "singer": "Aditya Raja",
     "genre": "chhath",
@@ -9803,7 +9803,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "izO5nbVeM-Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=izO5nbVeM-Q&list=RDizO5nbVeM-Q&start_radio=1",
     "likeViews": 0.0,
     "duration": "06:57",
@@ -9811,7 +9811,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_15",
     "title": "Kausi Ke Diyawa Gajab Muskaye",
     "singer": "Meeta Chatterji",
     "genre": "chhath",
@@ -9821,7 +9821,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "4EAasMInsBM",
     "youtubeUrl": "https://www.youtube.com/watch?v=4EAasMInsBM&list=RD4EAasMInsBM&start_radio=1",
     "likeViews": 2.0,
     "duration": "05:23",
@@ -9829,7 +9829,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_16",
     "title": "Kelva Je Pharela Ghavad Se",
     "singer": "Indu Sonali",
     "genre": "chhath",
@@ -9839,7 +9839,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0ZVj4eiR_SU",
     "youtubeUrl": "https://www.youtube.com/watch?v=0ZVj4eiR_SU&list=RD0ZVj4eiR_SU&start_radio=1",
     "likeViews": 0.0,
     "duration": "03:46",
@@ -9847,7 +9847,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_17",
     "title": "Kelva Mangayib Shehar Se",
     "singer": "Payal Mishra",
     "genre": "chhath",
@@ -9857,7 +9857,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "RV-NbJ5uzqY",
     "youtubeUrl": "https://www.youtube.com/watch?v=RV-NbJ5uzqY&list=OLAK5uy_nzBKaVMqrmnvnpLtCrm--89VshjBXBjxE&index=1",
     "likeViews": 0.0,
     "duration": "08:37",
@@ -9865,7 +9865,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_18",
     "title": "Kerva Ji Pharve La",
     "singer": "Priti Pandey",
     "genre": "chhath",
@@ -9875,7 +9875,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "zVkqcWVmzh4",
     "youtubeUrl": "https://www.youtube.com/watch?v=zVkqcWVmzh4&list=RDzVkqcWVmzh4&start_radio=1",
     "likeViews": 1.0,
     "duration": "06:38",
@@ -9883,7 +9883,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_19",
     "title": "Kopi Kopi Sevak Se Kaheli Chhathi",
     "singer": "Priti Pandey",
     "genre": "chhath",
@@ -9893,7 +9893,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jYRD13fYH8A",
     "youtubeUrl": "https://www.youtube.com/watch?v=jYRD13fYH8A&list=RDjYRD13fYH8A&start_radio=1",
     "likeViews": 0.0,
     "duration": "10:01",
@@ -9901,7 +9901,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_20",
     "title": "Lihu Na Araghiya Hamar",
     "singer": "Priti Pandey",
     "genre": "chhath",
@@ -9911,7 +9911,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ygTXaREq4wc",
     "youtubeUrl": "https://www.youtube.com/watch?v=ygTXaREq4wc&list=RDygTXaREq4wc&start_radio=1",
     "likeViews": 0.0,
     "duration": "08:42",
@@ -9919,7 +9919,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_21",
     "title": "Maiya Kahwan Lagaiyo Badi Der",
     "singer": "Rekha Rao",
     "genre": "chhath",
@@ -9929,7 +9929,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "vOfed-zHqRQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=vOfed-zHqRQ&list=RDvOfed-zHqRQ&start_radio=1",
     "likeViews": 0.0,
     "duration": "07:26",
@@ -9937,7 +9937,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_22",
     "title": "Nariyar Wa Je Pharela Ghavad Se",
     "singer": "Meeta Chatterji",
     "genre": "chhath",
@@ -9947,7 +9947,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "VyaBqKzQyJs",
     "youtubeUrl": "https://www.youtube.com/watch?v=VyaBqKzQyJs&list=RDVyaBqKzQyJs&start_radio=1",
     "likeViews": 0.0,
     "duration": "07:53",
@@ -9955,7 +9955,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_23",
     "title": "Patna Se Supva Mangayi He Chhathi",
     "singer": "Aditya Raja",
     "genre": "chhath",
@@ -9965,7 +9965,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "TtANuuUGsmw",
     "youtubeUrl": "https://www.youtube.com/watch?v=TtANuuUGsmw&list=RDTtANuuUGsmw&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:04",
@@ -9973,7 +9973,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_24",
     "title": "Prata Darshan Dehe Ganga Maiya",
     "singer": "Payal Mishra",
     "genre": "chhath",
@@ -9983,7 +9983,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Xe5xrdac3fs",
     "youtubeUrl": "https://www.youtube.com/watch?v=Xe5xrdac3fs&list=OLAK5uy_nzBKaVMqrmnvnpLtCrm--89VshjBXBjxE&index=4",
     "likeViews": 0.0,
     "duration": "04:28",
@@ -9991,7 +9991,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_25",
     "title": "Prata Darshan Dihen Dina Nath",
     "singer": "Bharat Sharma Vyas",
     "genre": "chhath",
@@ -10001,7 +10001,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "VTn42fB666o",
     "youtubeUrl": "https://www.youtube.com/watch?v=VTn42fB666o&list=RDVTn42fB666o&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:05",
@@ -10009,7 +10009,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_26",
     "title": "Saton Behan Chaleli Malin Gharva",
     "singer": "Rekha Rao",
     "genre": "chhath",
@@ -10019,7 +10019,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "9_EvhpQ5rTw",
     "youtubeUrl": "https://www.youtube.com/watch?v=9_EvhpQ5rTw&list=RD9_EvhpQ5rTw&start_radio=1",
     "likeViews": 0.0,
     "duration": "06:16",
@@ -10027,7 +10027,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_27",
     "title": "Suna Chhathi Maayi More Binati",
     "singer": "Indu Sonali",
     "genre": "chhath",
@@ -10037,7 +10037,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "IF9G74MGfSQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=IF9G74MGfSQ&list=RDIF9G74MGfSQ&start_radio=1",
     "likeViews": 1.0,
     "duration": "04:06",
@@ -10045,7 +10045,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_28",
     "title": "Tu Hu Je Hai Bhaiya",
     "singer": "Meeta Chatterji & Damodar Rao",
     "genre": "chhath",
@@ -10055,7 +10055,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Xr1Pk2PFmQI",
     "youtubeUrl": "https://www.youtube.com/watch?v=Xr1Pk2PFmQI&list=RDXr1Pk2PFmQI&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:41",
@@ -10063,7 +10063,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2009_29",
     "title": "Uga Uga Ye Suruj Dev",
     "singer": "Aditya Raja",
     "genre": "chhath",
@@ -10073,7 +10073,7 @@ export const BHOJPURI_SONGS = [
     "year": 2009,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nFTl_Slw-lU",
     "youtubeUrl": "https://www.youtube.com/watch?v=nFTl_Slw-lU&list=RDnFTl_Slw-lU&start_radio=1",
     "likeViews": 1.0,
     "duration": "07:15",
@@ -10081,7 +10081,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_1",
     "title": "Amwa Je Farela",
     "singer": "Manoj Tiwari feat. Vijaya",
     "genre": "chhath",
@@ -10091,7 +10091,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": null,
     "youtubeUrl": "https://music.amazon.com.au/albums/B0752YYW6M?trackAsin=B0752DCHYG",
     "likeViews": NaN,
     "duration": null,
@@ -10099,7 +10099,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_2",
     "title": "Badi Re Sankat Ke",
     "singer": "Manoj Tiwari feat. Vijaya",
     "genre": "chhath",
@@ -10109,7 +10109,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "oUFHsU0Qjj0",
     "youtubeUrl": "https://www.youtube.com/watch?v=oUFHsU0Qjj0&list=RDoUFHsU0Qjj0&start_radio=1",
     "likeViews": 5.0,
     "duration": "07:49",
@@ -10117,7 +10117,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_3",
     "title": "Chhath Maiya Ke Suna Kahani",
     "singer": "Ashwani Mangal",
     "genre": "chhath",
@@ -10127,7 +10127,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "_FLuQjvC7ZA",
     "youtubeUrl": "https://www.youtube.com/watch?v=_FLuQjvC7ZA&list=RD_FLuQjvC7ZA&start_radio=1",
     "likeViews": 12.0,
     "duration": "27:50",
@@ -10135,7 +10135,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_4",
     "title": "Ka Dukh",
     "singer": "Ashwani Mangal",
     "genre": "chhath",
@@ -10145,7 +10145,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": null,
     "youtubeUrl": "https://music.amazon.com.au/albums/B0752YYW6M?trackAsin=B0752DCHYG",
     "likeViews": NaN,
     "duration": null,
@@ -10153,7 +10153,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_5",
     "title": "Kartik Ke Maas",
     "singer": "Ashwani Mangal",
     "genre": "chhath",
@@ -10163,7 +10163,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ggYyl_-aGm8",
     "youtubeUrl": "https://www.youtube.com/watch?v=ggYyl_-aGm8&list=RDggYyl_-aGm8&start_radio=1",
     "likeViews": 7.0,
     "duration": "04:21",
@@ -10171,7 +10171,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_6",
     "title": "Kavna Bane Fare",
     "singer": "Ashwani Mangal",
     "genre": "chhath",
@@ -10181,7 +10181,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": null,
     "youtubeUrl": "https://music.amazon.com.au/albums/B0752YYW6M?trackAsin=B0752DCHYG",
     "likeViews": NaN,
     "duration": null,
@@ -10189,7 +10189,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_7",
     "title": "Pujan Kare Ja Tohar",
     "singer": "Singer unspecified",
     "genre": "chhath",
@@ -10199,7 +10199,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": null,
     "youtubeUrl": "https://music.amazon.com.au/albums/B0752YYW6M?trackAsin=B0752DCHYG",
     "likeViews": NaN,
     "duration": null,
@@ -10207,7 +10207,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_8",
     "title": "Pura Hoi Aas",
     "singer": "Manoj Tiwari feat. Vijaya",
     "genre": "chhath",
@@ -10217,7 +10217,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": null,
     "youtubeUrl": "https://music.amazon.com.au/albums/B0752YYW6M?trackAsin=B0752DCHYG",
     "likeViews": NaN,
     "duration": null,
@@ -10225,7 +10225,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_9",
     "title": "Saat Kothariya",
     "singer": "Manoj Tiwari feat. Vijaya",
     "genre": "chhath",
@@ -10235,7 +10235,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Odam8Wskke8",
     "youtubeUrl": "https://www.youtube.com/watch?v=Odam8Wskke8&list=RDOdam8Wskke8&start_radio=1",
     "likeViews": 2063.0,
     "duration": "07:16",
@@ -10243,7 +10243,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_10",
     "title": "Chala Na Chhathi ghat",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10253,7 +10253,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "yWbhK-ta5HM",
     "youtubeUrl": "https://www.youtube.com/watch?v=yWbhK-ta5HM&list=PLF7Ih9IaaIfbYM8vvrma2SB_sjIeh0cJD",
     "likeViews": 13050.0,
     "duration": "05:06",
@@ -10261,7 +10261,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_11",
     "title": "Hath Jodi Suruj dev ke",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10271,7 +10271,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "BDWt1sf0KIQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=BDWt1sf0KIQ&list=PLF7Ih9IaaIfbYM8vvrma2SB_sjIeh0cJD&index=2",
     "likeViews": 3705.0,
     "duration": "07:27",
@@ -10279,7 +10279,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_12",
     "title": "Thar-Thar Kape Hathe Kalsupwa",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10289,7 +10289,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "L2YtomO_c1s",
     "youtubeUrl": "https://www.youtube.com/watch?v=L2YtomO_c1s&list=PLF7Ih9IaaIfbYM8vvrma2SB_sjIeh0cJD&index=3",
     "likeViews": 251.0,
     "duration": "09:06",
@@ -10297,7 +10297,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_13",
     "title": "Chhathi Mai ke karab pujaniya",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10307,7 +10307,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pJYPxOe60p4",
     "youtubeUrl": "https://www.youtube.com/watch?v=pJYPxOe60p4&list=PLF7Ih9IaaIfbYM8vvrma2SB_sjIeh0cJD&index=5",
     "likeViews": 10540.0,
     "duration": "06:10",
@@ -10315,7 +10315,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_14",
     "title": "Ganga Maiya Ke ",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10325,7 +10325,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "zTa2ZRi6IUA",
     "youtubeUrl": "https://www.youtube.com/watch?v=zTa2ZRi6IUA&list=PLF7Ih9IaaIfbYM8vvrma2SB_sjIeh0cJD&index=6",
     "likeViews": 7046.0,
     "duration": "03:50",
@@ -10333,7 +10333,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_15",
     "title": "Shobhela Ghat Chhath Mai ke",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10343,7 +10343,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pJYPxOe60p4",
     "youtubeUrl": "https://www.youtube.com/watch?v=pJYPxOe60p4&list=RDpJYPxOe60p4&start_radio=1",
     "likeViews": 10540.0,
     "duration": "06:10",
@@ -10351,7 +10351,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_16",
     "title": "Bhaiel Jatta Aragh Ke Beriyaa",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10361,7 +10361,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "UmF9c7RU3x8",
     "youtubeUrl": "https://www.youtube.com/watch?v=UmF9c7RU3x8&list=OLAK5uy_kTS3XymuNwdQbgvdv59bw5Nav1ESFH-5g",
     "likeViews": 192.0,
     "duration": "05:10",
@@ -10369,7 +10369,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_17",
     "title": "Chhathi Mai Ke Karab Hum Pujaniya",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10379,7 +10379,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "u5gSGPKcEBA",
     "youtubeUrl": "https://www.youtube.com/watch?v=u5gSGPKcEBA&list=OLAK5uy_kTS3XymuNwdQbgvdv59bw5Nav1ESFH-5g&index=2",
     "likeViews": 3713.0,
     "duration": "06:13",
@@ -10387,7 +10387,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_18",
     "title": "Ganga Mai Ke Paniya Lahar Mare",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10397,7 +10397,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "yX3fIpJXLKk",
     "youtubeUrl": "https://www.youtube.com/watch?v=yX3fIpJXLKk&list=OLAK5uy_kTS3XymuNwdQbgvdv59bw5Nav1ESFH-5g&index=3",
     "likeViews": 144.0,
     "duration": "04:07",
@@ -10405,7 +10405,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_19",
     "title": "Nariyalwa Je Farela",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10415,7 +10415,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "_gsAPWIfB40",
     "youtubeUrl": "https://www.youtube.com/watch?v=_gsAPWIfB40&list=OLAK5uy_kTS3XymuNwdQbgvdv59bw5Nav1ESFH-5g&index=4",
     "likeViews": 88.0,
     "duration": "04:54",
@@ -10423,7 +10423,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_20",
     "title": "Patana Ke Ghaat Barti",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10433,7 +10433,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "AKyGQJCBCeI",
     "youtubeUrl": "https://www.youtube.com/watch?v=AKyGQJCBCeI&list=OLAK5uy_kTS3XymuNwdQbgvdv59bw5Nav1ESFH-5g&index=5",
     "likeViews": 110.0,
     "duration": "07:47",
@@ -10441,7 +10441,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_21",
     "title": "Pujan Ke Re Beriya",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10451,7 +10451,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "e8s2HHMl4KI",
     "youtubeUrl": "https://www.youtube.com/watch?v=e8s2HHMl4KI&list=RDe8s2HHMl4KI&start_radio=1",
     "likeViews": 266.0,
     "duration": "06:54",
@@ -10459,7 +10459,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_22",
     "title": "Rove Daura Sajake Banjhiniya",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10469,7 +10469,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6KQt7hoKo20",
     "youtubeUrl": "https://www.youtube.com/watch?v=6KQt7hoKo20&list=OLAK5uy_kTS3XymuNwdQbgvdv59bw5Nav1ESFH-5g&index=7",
     "likeViews": 8.0,
     "duration": "05:38",
@@ -10477,7 +10477,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_23",
     "title": "Thar-Thar Kape Hathe Kalsupwa",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10487,7 +10487,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "p-a1hrqzIZg",
     "youtubeUrl": "https://www.youtube.com/watch?v=p-a1hrqzIZg&list=OLAK5uy_kTS3XymuNwdQbgvdv59bw5Nav1ESFH-5g&index=8",
     "likeViews": 18.0,
     "duration": "09:12",
@@ -10495,7 +10495,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_24",
     "title": "Kahele Mahadev Pujan Ke Beriya",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10505,7 +10505,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "JX-wZeVeNh8",
     "youtubeUrl": "https://www.youtube.com/watch?v=JX-wZeVeNh8",
     "likeViews": 79.0,
     "duration": "06:56",
@@ -10513,7 +10513,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_25",
     "title": "Kanch Hi Bans Ke Bahngiya",
     "singer": "Chetna",
     "genre": "chhath",
@@ -10523,7 +10523,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "IDE8k-fKa7E",
     "youtubeUrl": "https://www.youtube.com/watch?v=IDE8k-fKa7E&list=RDIDE8k-fKa7E&start_radio=1",
     "likeViews": 32.0,
     "duration": "06:12",
@@ -10531,7 +10531,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_26",
     "title": "Munger Se Nariyal Mangaibe",
     "singer": "Indu Sonali",
     "genre": "chhath",
@@ -10541,7 +10541,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "AR4Ad94IihQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=AR4Ad94IihQ&list=RDAR4Ad94IihQ&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:58",
@@ -10549,7 +10549,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_27",
     "title": "Nariyalwa Je Farela",
     "singer": "Chetna",
     "genre": "chhath",
@@ -10559,7 +10559,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pUSQ251eHxU",
     "youtubeUrl": "https://www.youtube.com/watch?v=pUSQ251eHxU&list=RDIDE8k-fKa7E&index=2",
     "likeViews": 170.0,
     "duration": "06:11",
@@ -10567,7 +10567,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_28",
     "title": "Oriye Oriye Madhu Chuve",
     "singer": "Pawan Singh & Anuja",
     "genre": "chhath",
@@ -10577,7 +10577,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "N6VQMcopj88",
     "youtubeUrl": "https://www.youtube.com/watch?v=N6VQMcopj88&list=RDN6VQMcopj88&start_radio=1",
     "likeViews": 23.0,
     "duration": "07:34",
@@ -10585,7 +10585,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_29",
     "title": "Prat Darshan Dinhi E Dinanath",
     "singer": "Bharat Sharma Vyas",
     "genre": "chhath",
@@ -10595,7 +10595,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Cx02fuxyiVk",
     "youtubeUrl": "https://www.youtube.com/watch?v=Cx02fuxyiVk&list=RDCx02fuxyiVk&start_radio=1",
     "likeViews": 15.0,
     "duration": "05:44",
@@ -10603,7 +10603,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_30",
     "title": "Roje Roje Ugat Rahi",
     "singer": "Arvind Akela Kallu",
     "genre": "chhath",
@@ -10613,7 +10613,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "vg7nJwR536o",
     "youtubeUrl": "https://www.youtube.com/watch?v=vg7nJwR536o&list=RDvg7nJwR536o&start_radio=1",
     "likeViews": 11.0,
     "duration": "06:19",
@@ -10621,7 +10621,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2010_31",
     "title": "Ugi Jayi He Gosaiya",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -10631,7 +10631,7 @@ export const BHOJPURI_SONGS = [
     "year": 2010,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "fMTCs4RhUj0",
     "youtubeUrl": "https://www.youtube.com/watch?v=fMTCs4RhUj0&list=RDfMTCs4RhUj0&start_radio=1",
     "likeViews": 34.0,
     "duration": "06:32",
@@ -10639,7 +10639,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_1",
     "title": "Chhathi Maiya Kahan Gel Khin",
     "singer": "Anuradha Paudwal & Sunil Chhaila Bihari",
     "genre": "chhath",
@@ -10649,7 +10649,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Rh3pA5r7SGk",
     "youtubeUrl": "https://www.youtube.com/watch?v=Rh3pA5r7SGk&list=RDRh3pA5r7SGk&start_radio=1",
     "likeViews": 7985.0,
     "duration": "05:00",
@@ -10657,7 +10657,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_2",
     "title": "Chhathi Maiya Ke Daura",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -10667,7 +10667,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rThtdHmMDaY",
     "youtubeUrl": "https://www.youtube.com/watch?v=rThtdHmMDaY&list=RDrThtdHmMDaY&start_radio=1",
     "likeViews": 2321.0,
     "duration": "04:34",
@@ -10675,7 +10675,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_3",
     "title": "Chhathi Mai Ke Kare Je Poojanwa",
     "singer": "Rakesh Mishra",
     "genre": "chhath",
@@ -10685,7 +10685,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7enOlrNhvoI",
     "youtubeUrl": "https://www.youtube.com/watch?v=7enOlrNhvoI&list=RD7enOlrNhvoI&start_radio=1",
     "likeViews": 2.0,
     "duration": "07:48",
@@ -10693,7 +10693,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_4",
     "title": "Chhathi Mai Ke Mahima",
     "singer": "Rakesh Mishra",
     "genre": "chhath",
@@ -10703,7 +10703,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6IZe5OK45uA",
     "youtubeUrl": "https://www.youtube.com/watch?v=6IZe5OK45uA&list=RD6IZe5OK45uA&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:05",
@@ -10711,7 +10711,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_5",
     "title": "Chhodi Ke Arab Chhath Ke Parab",
     "singer": "Rakesh Mishra",
     "genre": "chhath",
@@ -10721,7 +10721,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "K3gIsAprfeQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=K3gIsAprfeQ&list=RDK3gIsAprfeQ&start_radio=1",
     "likeViews": 13.0,
     "duration": "06:06",
@@ -10729,7 +10729,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_6",
     "title": "Hath Jodi Kare Bartin Dhyan",
     "singer": "Kalpna",
     "genre": "chhath",
@@ -10739,7 +10739,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "kZX0JXRV4Uc",
     "youtubeUrl": "https://www.youtube.com/watch?v=kZX0JXRV4Uc&list=RDkZX0JXRV4Uc&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:39",
@@ -10747,7 +10747,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_7",
     "title": "Karab Chhath Ke Baratiya",
     "singer": "Rakesh Mishra",
     "genre": "chhath",
@@ -10757,7 +10757,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "YQrlkqEawlk",
     "youtubeUrl": "https://www.youtube.com/watch?v=YQrlkqEawlk&list=RDYQrlkqEawlk&start_radio=1",
     "likeViews": 0.0,
     "duration": "06:01",
@@ -10765,7 +10765,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_8",
     "title": "Mathwa Pe Bandhila Pagariya",
     "singer": "Rakesh Mishra",
     "genre": "chhath",
@@ -10775,7 +10775,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "viXyxDW8xcU",
     "youtubeUrl": "https://www.youtube.com/watch?v=viXyxDW8xcU&list=RDviXyxDW8xcU&start_radio=1",
     "likeViews": 5.0,
     "duration": "07:38",
@@ -10783,7 +10783,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_9",
     "title": "Nariyalwa Je Farrela",
     "singer": "Madhulika",
     "genre": "chhath",
@@ -10793,7 +10793,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0AzgGHILvEQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=0AzgGHILvEQ&list=RD0AzgGHILvEQ&start_radio=1",
     "likeViews": 3807.0,
     "duration": "04:54",
@@ -10801,7 +10801,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_10",
     "title": "Ugi-Ugi He Gosaiya",
     "singer": "Rakesh Mishra",
     "genre": "chhath",
@@ -10811,7 +10811,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "PEJwsBjt5jM",
     "youtubeUrl": "https://www.youtube.com/watch?v=PEJwsBjt5jM&list=RDPEJwsBjt5jM&start_radio=1",
     "likeViews": 1.0,
     "duration": "07:16",
@@ -10819,7 +10819,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_11",
     "title": "Ae Ho Piya",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -10829,7 +10829,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "bEPRMW7FwDc",
     "youtubeUrl": "https://www.youtube.com/watch?v=bEPRMW7FwDc",
     "likeViews": 6.0,
     "duration": "05:19",
@@ -10837,7 +10837,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_12",
     "title": "Bhari Hum Koshiya Tohar",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -10847,7 +10847,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ywXK8Kjabl0",
     "youtubeUrl": "https://www.youtube.com/watch?v=ywXK8Kjabl0",
     "likeViews": 14.0,
     "duration": "05:59",
@@ -10855,7 +10855,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_13",
     "title": "Chhathi Maiya Doli Chadhi Ayili",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -10865,7 +10865,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "4ZLqLnuRAX8",
     "youtubeUrl": "https://www.youtube.com/watch?v=4ZLqLnuRAX8&list=RD4ZLqLnuRAX8&start_radio=1",
     "likeViews": 221.0,
     "duration": "05:56",
@@ -10873,7 +10873,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_14",
     "title": "Chhoti Mutti Sunar Bitiyawa",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -10883,7 +10883,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "c8KjkiYCrJg",
     "youtubeUrl": "https://www.youtube.com/watch?v=c8KjkiYCrJg&list=RDc8KjkiYCrJg&start_radio=1",
     "likeViews": 992.0,
     "duration": "05:28",
@@ -10891,7 +10891,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_15",
     "title": "Gaura Jagaweli Mahadev",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -10901,7 +10901,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "fZZzVF3ZusU",
     "youtubeUrl": "https://www.youtube.com/watch?v=fZZzVF3ZusU&list=RDfZZzVF3ZusU&start_radio=1",
     "likeViews": 127.0,
     "duration": "05:50",
@@ -10909,7 +10909,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_16",
     "title": "Kanch Hi Bass Ke Bahangiya",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -10919,7 +10919,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "MQMrsgFl0Zk",
     "youtubeUrl": "https://www.youtube.com/watch?v=MQMrsgFl0Zk&list=RDMQMrsgFl0Zk&start_radio=1",
     "likeViews": 605.0,
     "duration": "06:11",
@@ -10927,7 +10927,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_17",
     "title": "Mora Lahura Dewarwa",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -10937,7 +10937,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "sm0oMUqoDcY",
     "youtubeUrl": "https://www.youtube.com/watch?v=sm0oMUqoDcY&list=RDsm0oMUqoDcY&start_radio=1",
     "likeViews": 33.0,
     "duration": "06:24",
@@ -10945,7 +10945,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_18",
     "title": "Roi-Roi Daura Sajjawele Banjhiniya",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -10955,7 +10955,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "mToPQZcHzRI",
     "youtubeUrl": "https://www.youtube.com/watch?v=mToPQZcHzRI&list=RDmToPQZcHzRI&start_radio=1",
     "likeViews": 6.0,
     "duration": "07:36",
@@ -10963,7 +10963,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2011_19",
     "title": "Ugi-Ugi Dinanath",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -10973,7 +10973,7 @@ export const BHOJPURI_SONGS = [
     "year": 2011,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "EeXk0hPuMvY",
     "youtubeUrl": "https://www.youtube.com/watch?v=EeXk0hPuMvY&list=RDEeXk0hPuMvY&start_radio=1",
     "likeViews": 63.0,
     "duration": "05:58",
@@ -10981,7 +10981,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_1",
     "title": "Kar Da Bera Paar",
     "singer": "Shilpi Chaudhary",
     "genre": "chhath",
@@ -10991,7 +10991,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "TgdRtG4-UCU",
     "youtubeUrl": "https://www.youtube.com/watch?v=TgdRtG4-UCU&list=RDTgdRtG4-UCU&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:24",
@@ -10999,7 +10999,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_2",
     "title": "Sun La Pukar Hey Chhathi Maiya",
     "singer": "Shilpi Chaudhary",
     "genre": "chhath",
@@ -11009,7 +11009,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "sd7pXPh8-kU",
     "youtubeUrl": "https://www.youtube.com/watch?v=sd7pXPh8-kU&list=RDsd7pXPh8-kU&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:25",
@@ -11017,7 +11017,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_3",
     "title": "Bhej Di Na",
     "singer": "Anjna Aarya & Prefull Champarni",
     "genre": "chhath",
@@ -11027,7 +11027,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xasd7S5C6-Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=xasd7S5C6-Q&list=OLAK5uy_nEJ-vnwbYm0kKvvM6YTfpbubtrYbKECSw",
     "likeViews": 1.0,
     "duration": "06:01",
@@ -11035,7 +11035,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_4",
     "title": "Boleli Chhathi Maiya",
     "singer": "Anjna Aarya & Prefull Champarni",
     "genre": "chhath",
@@ -11045,7 +11045,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "kCgg2G4s2JA",
     "youtubeUrl": "https://www.youtube.com/watch?v=kCgg2G4s2JA&list=RDkCgg2G4s2JA&start_radio=1",
     "likeViews": 7.0,
     "duration": "06:26",
@@ -11053,7 +11053,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_5",
     "title": "Ganga Maa Ke Paniya",
     "singer": "Anjna Aarya & Prefull Champarni",
     "genre": "chhath",
@@ -11063,7 +11063,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "fsG3GLZ_wq8",
     "youtubeUrl": "https://www.youtube.com/watch?v=fsG3GLZ_wq8&list=OLAK5uy_nEJ-vnwbYm0kKvvM6YTfpbubtrYbKECSw&index=6",
     "likeViews": 0.0,
     "duration": "05:30",
@@ -11071,7 +11071,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_6",
     "title": "Ganga Re Jamuna",
     "singer": "Anjna Aarya & Prefull Champarni",
     "genre": "chhath",
@@ -11081,7 +11081,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "NnHcWxfAA64",
     "youtubeUrl": "https://www.youtube.com/watch?v=NnHcWxfAA64&list=OLAK5uy_nEJ-vnwbYm0kKvvM6YTfpbubtrYbKECSw&index=2",
     "likeViews": 2.0,
     "duration": "06:05",
@@ -11089,7 +11089,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_7",
     "title": "Kamal Chhathi Maiya Ke",
     "singer": "Anjna Aarya & Prefull Champarni",
     "genre": "chhath",
@@ -11099,7 +11099,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "wQwTYRE-aRI",
     "youtubeUrl": "https://www.youtube.com/watch?v=wQwTYRE-aRI&list=OLAK5uy_nEJ-vnwbYm0kKvvM6YTfpbubtrYbKECSw&index=3",
     "likeViews": 1.0,
     "duration": "05:30",
@@ -11107,7 +11107,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_8",
     "title": "Kekar Badi Badi Aakhiya",
     "singer": "Anjna Aarya & Prefull Champarni",
     "genre": "chhath",
@@ -11117,7 +11117,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "qwokNyqmdUU",
     "youtubeUrl": "https://www.youtube.com/watch?v=qwokNyqmdUU&list=OLAK5uy_nEJ-vnwbYm0kKvvM6YTfpbubtrYbKECSw&index=9",
     "likeViews": 2.0,
     "duration": "06:31",
@@ -11125,7 +11125,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_9",
     "title": "Larleyo Chhat Bartiya",
     "singer": "Anjna Aarya & Prefull Champarni",
     "genre": "chhath",
@@ -11135,7 +11135,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "qF8t6H_jHno",
     "youtubeUrl": "https://www.youtube.com/watch?v=qF8t6H_jHno&list=OLAK5uy_nEJ-vnwbYm0kKvvM6YTfpbubtrYbKECSw&index=5",
     "likeViews": 3.0,
     "duration": "06:45",
@@ -11143,7 +11143,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_10",
     "title": "Ugele Patna Ke Ghat",
     "singer": "Anjna Aarya & Prefull Champarni",
     "genre": "chhath",
@@ -11153,7 +11153,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "4Msu3-eINY8",
     "youtubeUrl": "https://www.youtube.com/watch?v=4Msu3-eINY8&list=OLAK5uy_nEJ-vnwbYm0kKvvM6YTfpbubtrYbKECSw&index=4",
     "likeViews": 1.0,
     "duration": "07:25",
@@ -11161,7 +11161,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_11",
     "title": "Ugi Dina Nath",
     "singer": "Anjna Aarya & Prefull Champarni",
     "genre": "chhath",
@@ -11171,7 +11171,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "gC7FJ3ZFiXg",
     "youtubeUrl": "https://www.youtube.com/watch?v=gC7FJ3ZFiXg&list=OLAK5uy_nEJ-vnwbYm0kKvvM6YTfpbubtrYbKECSw&index=8",
     "likeViews": 1.0,
     "duration": "05:21",
@@ -11179,7 +11179,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_12",
     "title": "Aini Naiharwa",
     "singer": "Dipu Sagar & Sanjay Lal Yadav",
     "genre": "chhath",
@@ -11189,7 +11189,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "FjRB4kdWlwc",
     "youtubeUrl": "https://www.youtube.com/watch?v=FjRB4kdWlwc&list=RDFjRB4kdWlwc&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:35",
@@ -11197,7 +11197,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_13",
     "title": "Babuwa Ganesh Lihale Mathe Daura",
     "singer": "Dipu Sagar & Sanjay Lal Yadav",
     "genre": "chhath",
@@ -11207,7 +11207,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3nBe51VhmCY",
     "youtubeUrl": "https://www.youtube.com/watch?v=3nBe51VhmCY&list=RD3nBe51VhmCY&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:47",
@@ -11215,7 +11215,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_14",
     "title": "Bole Chuchuhiya Dekhi",
     "singer": "Dipu Sagar & Sanjay Lal Yadav",
     "genre": "chhath",
@@ -11225,7 +11225,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ySPXeaEE_mE",
     "youtubeUrl": "https://www.youtube.com/watch?v=ySPXeaEE_mE&list=RDySPXeaEE_mE&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:33",
@@ -11233,7 +11233,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_15",
     "title": "Daura Aragh Wala",
     "singer": "Dipu Sagar & Sanjay Lal Yadav",
     "genre": "chhath",
@@ -11243,7 +11243,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "JhmtO0TRNZE",
     "youtubeUrl": "https://www.youtube.com/watch?v=JhmtO0TRNZE&list=RDJhmtO0TRNZE&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:39",
@@ -11251,7 +11251,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_16",
     "title": "Hawe Aaj Chhath",
     "singer": "Dipu Sagar & Sanjay Lal Yadav",
     "genre": "chhath",
@@ -11261,7 +11261,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "qfCLVo5D2AQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=qfCLVo5D2AQ&list=RDqfCLVo5D2AQ&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:25",
@@ -11269,7 +11269,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_17",
     "title": "Leke Araghiya Tiwai",
     "singer": "Dipu Sagar & Sanjay Lal Yadav",
     "genre": "chhath",
@@ -11279,7 +11279,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "TuDWO5S_GRo",
     "youtubeUrl": "https://www.youtube.com/watch?v=TuDWO5S_GRo&list=RDTuDWO5S_GRo&start_radio=1",
     "likeViews": 0.0,
     "duration": "06:00",
@@ -11287,7 +11287,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_18",
     "title": "Mangale Ba Nanhaka",
     "singer": "Dipu Sagar & Sanjay Lal Yadav",
     "genre": "chhath",
@@ -11297,7 +11297,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "FfrsFe6uq5Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=FfrsFe6uq5Y&list=RDFfrsFe6uq5Y&start_radio=1",
     "likeViews": 0.0,
     "duration": "06:07",
@@ -11305,7 +11305,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_19",
     "title": "Pujab Chhathi Mai",
     "singer": "Dipu Sagar & Sanjay Lal Yadav",
     "genre": "chhath",
@@ -11315,7 +11315,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Ul95T0v5-44",
     "youtubeUrl": "https://www.youtube.com/watch?v=Ul95T0v5-44&list=RDUl95T0v5-44&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:48",
@@ -11323,7 +11323,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_20",
     "title": "Saiya Ji Daura Dhala",
     "singer": "Dipu Sagar & Sanjay Lal Yadav",
     "genre": "chhath",
@@ -11333,7 +11333,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rz9CjzHks2o",
     "youtubeUrl": "https://www.youtube.com/watch?v=rz9CjzHks2o&list=RDrz9CjzHks2o&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:56",
@@ -11341,7 +11341,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_21",
     "title": "Ugi Ae Suruj Baba Patana Ke Ghat",
     "singer": "Dipu Sagar & Sanjay Lal Yadav",
     "genre": "chhath",
@@ -11351,7 +11351,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "U9EI8G7zhSM",
     "youtubeUrl": "https://www.youtube.com/watch?v=U9EI8G7zhSM&list=RDU9EI8G7zhSM&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:51",
@@ -11359,7 +11359,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_22",
     "title": "Mora Bhaiya Jayela",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -11369,7 +11369,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "VZJtud9H9Yc",
     "youtubeUrl": "https://www.youtube.com/watch?v=VZJtud9H9Yc&list=OLAK5uy_mKABTsk5mKWL9it4h70v6p8tFQBDdk8m4&index=11",
     "likeViews": 24188.0,
     "duration": "05:00",
@@ -11377,7 +11377,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_23",
     "title": "Hajipur Kelwa Mahang",
     "singer": "Anuradha Paudwal, Ajit Kumar",
     "genre": "chhath",
@@ -11387,7 +11387,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2UwmLFJrsWs",
     "youtubeUrl": "https://www.youtube.com/watch?v=2UwmLFJrsWs&list=OLAK5uy_lqEvw3imb1HBQz9IKjpt6ko-6xbK-8ZBI&index=2",
     "likeViews": 5687.0,
     "duration": "03:30",
@@ -11395,7 +11395,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_24",
     "title": "Mahima Ba Agam Apar",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -11405,7 +11405,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "s9diws-AqQ4",
     "youtubeUrl": "https://www.youtube.com/watch?v=s9diws-AqQ4&list=OLAK5uy_mKABTsk5mKWL9it4h70v6p8tFQBDdk8m4&index=9",
     "likeViews": 942.0,
     "duration": "05:23",
@@ -11413,7 +11413,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_25",
     "title": "Chaar Pahar Jal Thal Sevila",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -11423,7 +11423,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "S_YA76qkqr8",
     "youtubeUrl": "https://www.youtube.com/watch?v=S_YA76qkqr8&list=OLAK5uy_mKABTsk5mKWL9it4h70v6p8tFQBDdk8m4",
     "likeViews": 35328.0,
     "duration": "04:16",
@@ -11431,7 +11431,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_26",
     "title": "Ae Saiyaji Jaldi Pahireen Piyariya",
     "singer": "Palak",
     "genre": "chhath",
@@ -11441,7 +11441,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "g-qHT0GbnrU",
     "youtubeUrl": "https://www.youtube.com/watch?v=g-qHT0GbnrU&list=RDg-qHT0GbnrU&start_radio=1",
     "likeViews": 2621.0,
     "duration": "04:13",
@@ -11449,7 +11449,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_27",
     "title": "Hum Tohse Puchhi Bhauji",
     "singer": "Palak & Vinay Bihari",
     "genre": "chhath",
@@ -11459,7 +11459,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "MmNb-qXt1S4",
     "youtubeUrl": "https://www.youtube.com/watch?v=MmNb-qXt1S4&list=PLa6xn1VDWA9uHLhh7lEVvCA3jt4AyBwi9&index=7",
     "likeViews": 8364.0,
     "duration": "04:41",
@@ -11467,7 +11467,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_28",
     "title": "Jagmag Jarela Deeyariya",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -11477,7 +11477,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "st3QsmFpiY8",
     "youtubeUrl": "https://www.youtube.com/watch?v=st3QsmFpiY8&list=PLa6xn1VDWA9uHLhh7lEVvCA3jt4AyBwi9&index=9",
     "likeViews": 2406.0,
     "duration": "04:29",
@@ -11485,7 +11485,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_29",
     "title": "Jal Beech Khada Hoee (Jode Jode Phalwa)",
     "singer": "Pawan Singh & Palak",
     "genre": "chhath",
@@ -11495,7 +11495,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "mFqvZp8FLhg",
     "youtubeUrl": "https://www.youtube.com/watch?v=mFqvZp8FLhg&list=PLa6xn1VDWA9uHLhh7lEVvCA3jt4AyBwi9&index=8",
     "likeViews": 77731.0,
     "duration": "05:28",
@@ -11503,7 +11503,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_30",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Pawan Singh & Palak",
     "genre": "chhath",
@@ -11513,7 +11513,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "dXo04-s_fX0",
     "youtubeUrl": "https://www.youtube.com/watch?v=dXo04-s_fX0&list=PLa6xn1VDWA9uHLhh7lEVvCA3jt4AyBwi9&index=5",
     "likeViews": 3177.0,
     "duration": "04:29",
@@ -11521,7 +11521,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_31",
     "title": "Mehangai Dayain Julum Ka Dihlas",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -11531,7 +11531,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "bUpSMeqLEBw",
     "youtubeUrl": "https://www.youtube.com/watch?v=bUpSMeqLEBw&list=PLa6xn1VDWA9uHLhh7lEVvCA3jt4AyBwi9&index=2",
     "likeViews": 210.0,
     "duration": "04:20",
@@ -11539,7 +11539,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_32",
     "title": "Nevta Bilaai Mausi Aa Gailee Baate",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -11549,7 +11549,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nvMly-Q55YU",
     "youtubeUrl": "https://www.youtube.com/watch?v=nvMly-Q55YU&list=PLa6xn1VDWA9uHLhh7lEVvCA3jt4AyBwi9&index=1",
     "likeViews": 645.0,
     "duration": "03:35",
@@ -11557,7 +11557,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_33",
     "title": "Re Maai Kaahe Royele",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -11567,7 +11567,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "R7-TeEMAZyM",
     "youtubeUrl": "https://www.youtube.com/watch?v=R7-TeEMAZyM&list=PLa6xn1VDWA9uHLhh7lEVvCA3jt4AyBwi9&index=6",
     "likeViews": 920.0,
     "duration": "03:18",
@@ -11575,7 +11575,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_34",
     "title": "Tivee Pukaare Dev Jaldi Se Aava",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -11585,7 +11585,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "EkxCzwy8jXQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=EkxCzwy8jXQ&list=PLa6xn1VDWA9uHLhh7lEVvCA3jt4AyBwi9&index=10",
     "likeViews": 189.0,
     "duration": "04:56",
@@ -11593,7 +11593,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_35",
     "title": "Aadit Mal Hoeehan Sahay",
     "singer": "Babita Pandey & Mukesh Pandey",
     "genre": "chhath",
@@ -11603,7 +11603,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rfJArgM1gw4",
     "youtubeUrl": "https://music.youtube.com/watch?v=rfJArgM1gw4",
     "likeViews": 2.0,
     "duration": "03:43",
@@ -11611,7 +11611,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_36",
     "title": "Chala Na Sakhi Hali Hali",
     "singer": "Surendra Sugam",
     "genre": "chhath",
@@ -11621,7 +11621,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "w_QdBdl38kc",
     "youtubeUrl": "https://www.youtube.com/watch?v=w_QdBdl38kc&list=OLAK5uy_ltAZZb_c5hv7hDvqHSfgREhrGvKPDUMzo&index=9",
     "likeViews": 2.0,
     "duration": "06:34",
@@ -11629,7 +11629,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_37",
     "title": "Chhath Ghat Par",
     "singer": "Surendra Sugam",
     "genre": "chhath",
@@ -11639,7 +11639,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "wStbSPilnWg",
     "youtubeUrl": "https://www.youtube.com/watch?v=wStbSPilnWg&list=OLAK5uy_ltAZZb_c5hv7hDvqHSfgREhrGvKPDUMzo&index=7",
     "likeViews": 3.0,
     "duration": "06:23",
@@ -11647,7 +11647,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_38",
     "title": "Chhath Ke Parab",
     "singer": "Babita Pandey & Mukesh Pandey",
     "genre": "chhath",
@@ -11657,7 +11657,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "StZOl8L-SD8",
     "youtubeUrl": "https://www.youtube.com/watch?v=StZOl8L-SD8&list=RDStZOl8L-SD8&start_radio=1",
     "likeViews": 4.0,
     "duration": "05:18",
@@ -11665,7 +11665,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_39",
     "title": "Darshan Dihi Chhathi Maiya",
     "singer": "Surendra Sugam",
     "genre": "chhath",
@@ -11675,7 +11675,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "V5K_-S0z8Ak",
     "youtubeUrl": "https://www.youtube.com/watch?v=V5K_-S0z8Ak&list=OLAK5uy_ltAZZb_c5hv7hDvqHSfgREhrGvKPDUMzo&index=19",
     "likeViews": 1.0,
     "duration": "04:17",
@@ -11683,7 +11683,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_40",
     "title": "Hoee Jab Lalnwa",
     "singer": "Surendra Sugam",
     "genre": "chhath",
@@ -11693,7 +11693,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "z-T_l0bOUT4",
     "youtubeUrl": "https://www.youtube.com/watch?v=z-T_l0bOUT4&list=OLAK5uy_ltAZZb_c5hv7hDvqHSfgREhrGvKPDUMzo&index=6",
     "likeViews": 2.0,
     "duration": "04:45",
@@ -11701,7 +11701,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_41",
     "title": "Hoke Nimuaa",
     "singer": "Sakshi",
     "genre": "chhath",
@@ -11711,7 +11711,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "mB0Yi1PZ5bM",
     "youtubeUrl": "https://www.youtube.com/watch?v=mB0Yi1PZ5bM&list=RDmB0Yi1PZ5bM&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:26",
@@ -11719,7 +11719,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_42",
     "title": "Jhalak Dekhaiti",
     "singer": "Surendra Sugam",
     "genre": "chhath",
@@ -11729,7 +11729,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xhfjRC8YnTU",
     "youtubeUrl": "https://www.youtube.com/watch?v=xhfjRC8YnTU&list=RDxhfjRC8YnTU&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:20",
@@ -11737,7 +11737,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_43",
     "title": "Jutal Bhid Bariyar",
     "singer": "Surendra Sugam",
     "genre": "chhath",
@@ -11747,7 +11747,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jet0hPTD9tM",
     "youtubeUrl": "https://www.youtube.com/watch?v=jet0hPTD9tM&list=OLAK5uy_ltAZZb_c5hv7hDvqHSfgREhrGvKPDUMzo&index=4",
     "likeViews": 3.0,
     "duration": "04:42",
@@ -11755,7 +11755,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_44",
     "title": "Kahnwa Lagaeebo",
     "singer": "Surendra Sugam",
     "genre": "chhath",
@@ -11765,7 +11765,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "CQQGMYwARB4",
     "youtubeUrl": "https://www.youtube.com/watch?v=CQQGMYwARB4&list=OLAK5uy_ltAZZb_c5hv7hDvqHSfgREhrGvKPDUMzo&index=5",
     "likeViews": 3.0,
     "duration": "08:05",
@@ -11773,7 +11773,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_45",
     "title": "Kar Jori Binati",
     "singer": "Surendra Sugam",
     "genre": "chhath",
@@ -11783,7 +11783,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "WHfkr_mAlHw",
     "youtubeUrl": "https://www.youtube.com/watch?v=WHfkr_mAlHw&list=RDWHfkr_mAlHw&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:41",
@@ -11791,7 +11791,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_46",
     "title": "Lagal Bahut Bhidiya",
     "singer": "Surendra Sugam",
     "genre": "chhath",
@@ -11801,7 +11801,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2eZOa8NBRZw",
     "youtubeUrl": "https://www.youtube.com/watch?v=2eZOa8NBRZw&list=OLAK5uy_ltAZZb_c5hv7hDvqHSfgREhrGvKPDUMzo&index=14",
     "likeViews": 1.0,
     "duration": "05:18",
@@ -11809,7 +11809,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_47",
     "title": "Mathe Par Dauriya",
     "singer": "Surendra Sugam & Mukesh Pandey",
     "genre": "chhath",
@@ -11819,7 +11819,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "HBdIgPZ5Sag",
     "youtubeUrl": "https://www.youtube.com/watch?v=HBdIgPZ5Sag&list=OLAK5uy_ltAZZb_c5hv7hDvqHSfgREhrGvKPDUMzo&index=8",
     "likeViews": 0.0,
     "duration": "05:49",
@@ -11827,7 +11827,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_48",
     "title": "Piya Pardesi",
     "singer": "Sakshi",
     "genre": "chhath",
@@ -11837,7 +11837,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "tTH-qE2AOpE",
     "youtubeUrl": "https://www.youtube.com/watch?v=tTH-qE2AOpE&list=RDtTH-qE2AOpE&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:07",
@@ -11845,7 +11845,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_49",
     "title": "Rachi Rachi Sajawle Bani",
     "singer": "Surendra Sugam",
     "genre": "chhath",
@@ -11855,7 +11855,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "OWhqhRNOh0o",
     "youtubeUrl": "https://www.youtube.com/watch?v=OWhqhRNOh0o&list=OLAK5uy_ltAZZb_c5hv7hDvqHSfgREhrGvKPDUMzo&index=3",
     "likeViews": 2.0,
     "duration": "04:29",
@@ -11863,7 +11863,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_50",
     "title": "Suni Ye Anjan Dev",
     "singer": "Surendra Sugam",
     "genre": "chhath",
@@ -11873,7 +11873,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "5dZtk-McK74",
     "youtubeUrl": "https://www.youtube.com/watch?v=5dZtk-McK74&list=RD5dZtk-McK74&start_radio=1",
     "likeViews": 4.0,
     "duration": "06:47",
@@ -11881,7 +11881,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_51",
     "title": "Suraj Baba Ke",
     "singer": "Surendra Sugam",
     "genre": "chhath",
@@ -11891,7 +11891,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7o6IbDTNCIo",
     "youtubeUrl": "https://www.youtube.com/watch?v=7o6IbDTNCIo&list=RD7o6IbDTNCIo&start_radio=1",
     "likeViews": 1.0,
     "duration": "04:48",
@@ -11899,7 +11899,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_52",
     "title": "Chhathi Maiya Kal Jodi",
     "singer": "Vijaya Bharti",
     "genre": "chhath",
@@ -11909,7 +11909,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3-cx4FSE5lo",
     "youtubeUrl": "https://www.youtube.com/watch?v=3-cx4FSE5lo&list=RD3-cx4FSE5lo&start_radio=1",
     "likeViews": 212.0,
     "duration": "06:43",
@@ -11917,7 +11917,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_53",
     "title": "Deenanath Ho Kahia",
     "singer": "Vijaya Bharti",
     "genre": "chhath",
@@ -11927,7 +11927,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "N-eM-39uEr8",
     "youtubeUrl": "https://www.youtube.com/watch?v=N-eM-39uEr8&list=OLAK5uy_mlY7DJCH3DwjcIST1KUaLLCePecVqKVsI&index=2",
     "likeViews": 523.0,
     "duration": "07:43",
@@ -11935,7 +11935,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_54",
     "title": "Ganga Kinare Ek Nagariya",
     "singer": "Vijaya Bharti",
     "genre": "chhath",
@@ -11945,7 +11945,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "hAx_4jo2b0M",
     "youtubeUrl": "https://www.youtube.com/watch?v=hAx_4jo2b0M&list=RDhAx_4jo2b0M&start_radio=1",
     "likeViews": 147.0,
     "duration": "09:41",
@@ -11953,7 +11953,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_55",
     "title": "Kahia Sukhaeb Deenanath",
     "singer": "Vijaya Bharti",
     "genre": "chhath",
@@ -11963,7 +11963,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "D0gP5EfJARM",
     "youtubeUrl": "https://www.youtube.com/watch?v=D0gP5EfJARM&list=OLAK5uy_mlY7DJCH3DwjcIST1KUaLLCePecVqKVsI&index=4",
     "likeViews": 45.0,
     "duration": "06:05",
@@ -11971,7 +11971,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_56",
     "title": "Paatar Suroojdev Ho",
     "singer": "Vijaya Bharti",
     "genre": "chhath",
@@ -11981,7 +11981,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "o5W3BPtRdCI",
     "youtubeUrl": "https://www.youtube.com/watch?v=o5W3BPtRdCI&list=OLAK5uy_mlY7DJCH3DwjcIST1KUaLLCePecVqKVsI&index=5",
     "likeViews": 193.0,
     "duration": "07:45",
@@ -11989,7 +11989,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_57",
     "title": "Patna Ke Pakki Sadak Kakiya",
     "singer": "Vijaya Bharti",
     "genre": "chhath",
@@ -11999,7 +11999,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "q4NqqrkjyP0",
     "youtubeUrl": "https://www.youtube.com/watch?v=q4NqqrkjyP0&list=OLAK5uy_mlY7DJCH3DwjcIST1KUaLLCePecVqKVsI&index=6",
     "likeViews": 271.0,
     "duration": "07:02",
@@ -12007,7 +12007,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_58",
     "title": "Piyari Piyariya Pahir",
     "singer": "Vijaya Bharti",
     "genre": "chhath",
@@ -12017,7 +12017,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rGwej0v5qZc",
     "youtubeUrl": "https://www.youtube.com/watch?v=rGwej0v5qZc&list=OLAK5uy_mlY7DJCH3DwjcIST1KUaLLCePecVqKVsI&index=7",
     "likeViews": 186.0,
     "duration": "05:56",
@@ -12025,7 +12025,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2012_59",
     "title": "Tohra Sevte Ho Deenanath",
     "singer": "Vijaya Bharti",
     "genre": "chhath",
@@ -12035,7 +12035,7 @@ export const BHOJPURI_SONGS = [
     "year": 2012,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "_J90Jck72o4",
     "youtubeUrl": "https://www.youtube.com/watch?v=_J90Jck72o4&list=OLAK5uy_mlY7DJCH3DwjcIST1KUaLLCePecVqKVsI&index=8",
     "likeViews": 293.0,
     "duration": "06:08",
@@ -12043,7 +12043,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_1",
     "title": "Aditya Ko Manati Hoon Main",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -12053,7 +12053,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri/Hindi",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "gQeQZVAxius",
     "youtubeUrl": "https://www.youtube.com/watch?v=gQeQZVAxius&list=RDgQeQZVAxius&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:57",
@@ -12061,7 +12061,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_2",
     "title": "Bahangi Lachke Hai Jee",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -12071,7 +12071,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri/Hindi",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "vQaHpvp7XX8",
     "youtubeUrl": "https://www.youtube.com/watch?v=vQaHpvp7XX8&list=RDvQaHpvp7XX8&start_radio=1",
     "likeViews": 7.0,
     "duration": "07:41",
@@ -12079,7 +12079,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_3",
     "title": "De Do Ab Darshan Payar",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -12089,7 +12089,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri/Hindi",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "w2sU7l_Rr6g",
     "youtubeUrl": "https://www.youtube.com/watch?v=w2sU7l_Rr6g&list=RDw2sU7l_Rr6g&start_radio=1",
     "likeViews": 0.0,
     "duration": "03:15",
@@ -12097,7 +12097,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_4",
     "title": "He Chhathi Maiya Tujhe Araj Main Dungi",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -12107,7 +12107,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri/Hindi",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nGoyyUOakNo",
     "youtubeUrl": "https://www.youtube.com/watch?v=nGoyyUOakNo&list=RDnGoyyUOakNo&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:07",
@@ -12115,7 +12115,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_5",
     "title": "Karo Sabhi Chhathi Vrat",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -12125,7 +12125,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri/Hindi",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "OOo7h9wBYsg",
     "youtubeUrl": "https://www.youtube.com/watch?v=OOo7h9wBYsg&list=RDOOo7h9wBYsg&start_radio=1",
     "likeViews": 1.0,
     "duration": "07:29",
@@ -12133,7 +12133,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_6",
     "title": "Main Bhi Ye Chhath Vrat Karungi",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -12143,7 +12143,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri/Hindi",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "OGo0ciz5QpY",
     "youtubeUrl": "https://www.youtube.com/watch?v=OGo0ciz5QpY&list=RDOGo0ciz5QpY&start_radio=1",
     "likeViews": 1.0,
     "duration": "03:58",
@@ -12151,7 +12151,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_7",
     "title": "Manbhavan Man Bhaye",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -12161,7 +12161,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri/Hindi",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0o_1LJrMrV4",
     "youtubeUrl": "https://www.youtube.com/watch?v=0o_1LJrMrV4&list=RD0o_1LJrMrV4&start_radio=1",
     "likeViews": 3.0,
     "duration": "05:55",
@@ -12169,7 +12169,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_8",
     "title": "Marungi Main Tota Dhanush Se",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -12179,7 +12179,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri/Hindi",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "o-IEQcg2MEk",
     "youtubeUrl": "https://www.youtube.com/watch?v=o-IEQcg2MEk&list=RDo-IEQcg2MEk&start_radio=1",
     "likeViews": 0.0,
     "duration": "07:20",
@@ -12187,7 +12187,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_9",
     "title": "Suno Chhathi Maiya Meri Vinti",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -12197,7 +12197,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri/Hindi",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "5zhVtt0qu5Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=5zhVtt0qu5Q&list=RD5zhVtt0qu5Q&start_radio=1",
     "likeViews": 2.0,
     "duration": "07:47",
@@ -12205,7 +12205,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_10",
     "title": "Ugiye Suraj Dev Hua Hai Savera",
     "singer": "Tripti Shakya",
     "genre": "chhath",
@@ -12215,7 +12215,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri/Hindi",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "A8AfqO7LJqQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=A8AfqO7LJqQ&list=RDA8AfqO7LJqQ&start_radio=1",
     "likeViews": 3.0,
     "duration": "03:17",
@@ -12223,7 +12223,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_11",
     "title": "Chhathiyar Sasu Ji",
     "singer": "Tarun Toofani",
     "genre": "chhath",
@@ -12233,7 +12233,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "yOQI5CGSiYg",
     "youtubeUrl": "https://www.youtube.com/watch?v=yOQI5CGSiYg&list=RDyOQI5CGSiYg&start_radio=1",
     "likeViews": 9.0,
     "duration": "04:54",
@@ -12241,7 +12241,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_12",
     "title": "Dukhwa Bhagave Ho Laal",
     "singer": "Tarun Toofani",
     "genre": "chhath",
@@ -12251,7 +12251,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6yVid-5Jgpw",
     "youtubeUrl": "https://www.youtube.com/watch?v=6yVid-5Jgpw&list=RD6yVid-5Jgpw&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:51",
@@ -12259,7 +12259,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_13",
     "title": "Kalkta Me Kaali",
     "singer": "Tarun Toofani",
     "genre": "chhath",
@@ -12269,7 +12269,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "K6smvBZiTro",
     "youtubeUrl": "https://www.youtube.com/watch?v=K6smvBZiTro&list=RDK6smvBZiTro&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:53",
@@ -12277,7 +12277,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_14",
     "title": "Aa Jai Patna Ke Ghat",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12287,7 +12287,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DFwlx77mA50",
     "youtubeUrl": "https://www.youtube.com/watch?v=DFwlx77mA50&list=RDDFwlx77mA50&start_radio=1",
     "likeViews": 94.0,
     "duration": "05:16",
@@ -12295,7 +12295,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_15",
     "title": "Aihe Suruj Gosai",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12305,7 +12305,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jcFX1X_eUbk",
     "youtubeUrl": "https://www.youtube.com/watch?v=jcFX1X_eUbk&list=RDjcFX1X_eUbk&start_radio=1",
     "likeViews": 33.0,
     "duration": "04:37",
@@ -12313,7 +12313,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_16",
     "title": "Babuwa La Chhurchhuri",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12323,7 +12323,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "NZoTqswN8BQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=NZoTqswN8BQ&list=RDNZoTqswN8BQ&start_radio=1",
     "likeViews": 95.0,
     "duration": "04:43",
@@ -12331,7 +12331,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_17",
     "title": "Chhath Kare Jaib Naihar Raja Ji",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12341,7 +12341,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "gabkfTZr0gA",
     "youtubeUrl": "https://www.youtube.com/watch?v=gabkfTZr0gA&list=RDgabkfTZr0gA&start_radio=1",
     "likeViews": 48.0,
     "duration": "11:04",
@@ -12349,7 +12349,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_18",
     "title": "Chhathi Maiya Ainhe Jarur",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12359,7 +12359,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "KyaF5WdrR6E",
     "youtubeUrl": "https://www.youtube.com/watch?v=KyaF5WdrR6E&list=RDKyaF5WdrR6E&start_radio=1",
     "likeViews": 23.0,
     "duration": "06:09",
@@ -12367,7 +12367,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_19",
     "title": "Chhathi Maiya Hoinhe Naraj",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12377,7 +12377,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "z9xMZxSRIfI",
     "youtubeUrl": "https://www.youtube.com/watch?v=z9xMZxSRIfI&list=RDz9xMZxSRIfI&start_radio=1",
     "likeViews": 48.0,
     "duration": "06:30",
@@ -12385,7 +12385,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_20",
     "title": "Der Kahe Kaile Bani",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12395,7 +12395,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "woqtvsq69R0",
     "youtubeUrl": "https://www.youtube.com/watch?v=woqtvsq69R0&list=RDwoqtvsq69R0&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:09",
@@ -12403,7 +12403,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_21",
     "title": "Dewaru Ghate Chal Na Ho",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12413,7 +12413,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "9bp2-O5BjhY",
     "youtubeUrl": "https://www.youtube.com/watch?v=9bp2-O5BjhY&list=RD9bp2-O5BjhY&start_radio=1",
     "likeViews": 8.0,
     "duration": "05:56",
@@ -12421,7 +12421,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_22",
     "title": "Godiya Mein Ego Munna Ho",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12431,7 +12431,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "VGLRmOpxD4g",
     "youtubeUrl": "https://www.youtube.com/watch?v=VGLRmOpxD4g&list=RDVGLRmOpxD4g&start_radio=1",
     "likeViews": 56.0,
     "duration": "06:31",
@@ -12439,7 +12439,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_23",
     "title": "Jora Kalsupawa Leke",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12449,7 +12449,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "t20Liy2TcUY",
     "youtubeUrl": "https://www.youtube.com/watch?v=t20Liy2TcUY&list=RDt20Liy2TcUY&start_radio=1",
     "likeViews": 0.0,
     "duration": "06:24",
@@ -12457,7 +12457,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_24",
     "title": "Sawa Lakh Ke Chunari Bhinje",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12467,7 +12467,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "d0VjpYROVAU",
     "youtubeUrl": "https://www.youtube.com/watch?v=d0VjpYROVAU&list=RDd0VjpYROVAU&start_radio=1",
     "likeViews": 524.0,
     "duration": "05:10",
@@ -12475,7 +12475,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_25",
     "title": "Tiwai Kareli Karijore",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12485,7 +12485,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2ECoc3_xLM0",
     "youtubeUrl": "https://www.youtube.com/watch?v=2ECoc3_xLM0&list=RD2ECoc3_xLM0&start_radio=1",
     "likeViews": 19.0,
     "duration": "06:33",
@@ -12493,7 +12493,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_26",
     "title": "Unakar Mahima Ba Apar",
     "singer": "Alam Raj",
     "genre": "chhath",
@@ -12503,7 +12503,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Fhd4xjLz3Nk",
     "youtubeUrl": "https://www.youtube.com/watch?v=Fhd4xjLz3Nk&list=RDFhd4xjLz3Nk&start_radio=1",
     "likeViews": 10.0,
     "duration": "07:34",
@@ -12511,7 +12511,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_27",
     "title": "Bhauji Chhathi Ghaate Jaali",
     "singer": "Devi raja ",
     "genre": "chhath",
@@ -12521,7 +12521,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2mKSM0odRGM",
     "youtubeUrl": "https://www.youtube.com/watch?v=2mKSM0odRGM",
     "likeViews": 3.0,
     "duration": "03:14",
@@ -12529,7 +12529,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2013_28",
     "title": "Chhathi Maiya Ki Jai Ho",
     "singer": "Anil Singh",
     "genre": "chhath",
@@ -12539,7 +12539,7 @@ export const BHOJPURI_SONGS = [
     "year": 2013,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "EAIILVzaB-w",
     "youtubeUrl": "https://www.youtube.com/watch?v=EAIILVzaB-w",
     "likeViews": 45.0,
     "duration": "06:20",
@@ -12547,7 +12547,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_1",
     "title": "Aisan Aail Dahad Ho",
     "singer": "Ruchi Singh",
     "genre": "chhath",
@@ -12557,7 +12557,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LNnFla9RkIk",
     "youtubeUrl": "https://www.youtube.com/watch?v=LNnFla9RkIk&list=RDLNnFla9RkIk&start_radio=1",
     "likeViews": 1.0,
     "duration": "06:57",
@@ -12565,7 +12565,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_2",
     "title": "Batawa Tikat Kahiya Hoi",
     "singer": "Ruchi Singh",
     "genre": "chhath",
@@ -12575,7 +12575,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "8UEdv36xugI",
     "youtubeUrl": "https://www.youtube.com/watch?v=8UEdv36xugI&list=RD8UEdv36xugI&start_radio=1",
     "likeViews": 118.0,
     "duration": "05:56",
@@ -12583,7 +12583,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_3",
     "title": "Chali Ae Raja Ji",
     "singer": "Ruchi Singh",
     "genre": "chhath",
@@ -12593,7 +12593,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "IqNdclF9jfI",
     "youtubeUrl": "https://www.youtube.com/watch?v=IqNdclF9jfI&list=RDIqNdclF9jfI&start_radio=1",
     "likeViews": 115.0,
     "duration": "05:34",
@@ -12601,7 +12601,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_4",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Ruchi Singh",
     "genre": "chhath",
@@ -12611,7 +12611,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "SEZNAtbMAAA",
     "youtubeUrl": "https://www.youtube.com/watch?v=SEZNAtbMAAA&list=RDSEZNAtbMAAA&start_radio=1",
     "likeViews": 168.0,
     "duration": "05:55",
@@ -12619,7 +12619,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_5",
     "title": "Kerwa Se Farela",
     "singer": "Ruchi Singh",
     "genre": "chhath",
@@ -12629,7 +12629,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nSmzo3N06Ks",
     "youtubeUrl": "https://www.youtube.com/watch?v=nSmzo3N06Ks&list=RDnSmzo3N06Ks&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:55",
@@ -12637,7 +12637,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_6",
     "title": "Kopi Kopi",
     "singer": "Ruchi Singh",
     "genre": "chhath",
@@ -12647,7 +12647,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "9_G9pIgnDms",
     "youtubeUrl": "https://www.youtube.com/watch?v=9_G9pIgnDms&list=OLAK5uy_kTeLPw_vYD3jvkToAT-zLmblIz5uS6abA&index=8",
     "likeViews": 2.0,
     "duration": "05:14",
@@ -12655,7 +12655,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_7",
     "title": "Saiya Hamar Bate",
     "singer": "Ruchi Singh",
     "genre": "chhath",
@@ -12665,7 +12665,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "T9uTEtrb7iA",
     "youtubeUrl": "https://www.youtube.com/watch?v=T9uTEtrb7iA&list=OLAK5uy_kTeLPw_vYD3jvkToAT-zLmblIz5uS6abA&index=4",
     "likeViews": 0.0,
     "duration": "04:55",
@@ -12673,7 +12673,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_8",
     "title": "Ugi Ugi Ae Suruj Dev",
     "singer": "Ruchi Singh",
     "genre": "chhath",
@@ -12683,7 +12683,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "hfjxeoXv0ik",
     "youtubeUrl": "https://www.youtube.com/watch?v=hfjxeoXv0ik&list=OLAK5uy_kTeLPw_vYD3jvkToAT-zLmblIz5uS6abA&index=1",
     "likeViews": 6.0,
     "duration": "06:32",
@@ -12691,7 +12691,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_9",
     "title": "Chhathi Ghate Jana Balamuwa",
     "singer": "Sanjay Lal Yadav",
     "genre": "chhath",
@@ -12701,7 +12701,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DcpWzqMLVdA",
     "youtubeUrl": "https://www.youtube.com/watch?v=DcpWzqMLVdA&list=RDDcpWzqMLVdA&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:54",
@@ -12709,7 +12709,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_10",
     "title": "Chhathi Maiya Aa Gaili",
     "singer": "Sanjay Lal Yadav",
     "genre": "chhath",
@@ -12719,7 +12719,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "lEzt4_hjyrU",
     "youtubeUrl": "https://www.youtube.com/watch?v=lEzt4_hjyrU&list=RDlEzt4_hjyrU&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:10",
@@ -12727,7 +12727,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_11",
     "title": "Chhodab Padaka Mai",
     "singer": "Sanjay Lal Yadav",
     "genre": "chhath",
@@ -12737,7 +12737,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "lpWUxyvPjTA",
     "youtubeUrl": "https://www.youtube.com/watch?v=lpWUxyvPjTA&list=RDlpWUxyvPjTA&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:10",
@@ -12745,7 +12745,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_12",
     "title": "Ganga Bahe Jamuna Bahe",
     "singer": "Sanjay Lal Yadav",
     "genre": "chhath",
@@ -12755,7 +12755,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2p5cnYzEdoA",
     "youtubeUrl": "https://www.youtube.com/watch?v=2p5cnYzEdoA&list=RD2p5cnYzEdoA&start_radio=1",
     "likeViews": 8.0,
     "duration": "05:35",
@@ -12763,7 +12763,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_13",
     "title": "Karab Baratiya Na",
     "singer": "Sanjay Lal Yadav",
     "genre": "chhath",
@@ -12773,7 +12773,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Iu4_f7XcO7E",
     "youtubeUrl": "https://www.youtube.com/watch?v=Iu4_f7XcO7E&list=RDIu4_f7XcO7E&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:01",
@@ -12781,7 +12781,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_14",
     "title": "Kaushlya Mai Chhath Karas",
     "singer": "Sanjay Lal Yadav",
     "genre": "chhath",
@@ -12791,7 +12791,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jluqs7qhJD8",
     "youtubeUrl": "https://www.youtube.com/watch?v=jluqs7qhJD8&list=RDjluqs7qhJD8&start_radio=1",
     "likeViews": 5.0,
     "duration": "04:28",
@@ -12799,7 +12799,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_15",
     "title": "Patna Ke Ghat Aai Na",
     "singer": "Sanjay Lal Yadav",
     "genre": "chhath",
@@ -12809,7 +12809,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "1xglmvsKZUg",
     "youtubeUrl": "https://www.youtube.com/watch?v=1xglmvsKZUg&list=RD1xglmvsKZUg&start_radio=1",
     "likeViews": 5.0,
     "duration": "06:19",
@@ -12817,7 +12817,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_16",
     "title": "Pawan Mai Ke Parabiya",
     "singer": "Sanjay Lal Yadav",
     "genre": "chhath",
@@ -12827,7 +12827,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "EbHA71Br7As",
     "youtubeUrl": "https://www.youtube.com/watch?v=EbHA71Br7As&list=RDEbHA71Br7As&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:47",
@@ -12835,7 +12835,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_17",
     "title": "Pawan Parabiya Ae Dhaniya",
     "singer": "Sanjay Lal Yadav",
     "genre": "chhath",
@@ -12845,7 +12845,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DQzssdeSHkM",
     "youtubeUrl": "https://www.youtube.com/watch?v=DQzssdeSHkM&list=RDDQzssdeSHkM&start_radio=1",
     "likeViews": 0.0,
     "duration": "07:13",
@@ -12853,7 +12853,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_18",
     "title": "Bhore Bhore Bahe",
     "singer": "Radha Pandeya & Mukesh Pandey",
     "genre": "chhath",
@@ -12863,7 +12863,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "QZJP7nbKxCM",
     "youtubeUrl": "https://www.youtube.com/watch?v=QZJP7nbKxCM&list=RDQZJP7nbKxCM&start_radio=1",
     "likeViews": 1616.0,
     "duration": "05:26",
@@ -12871,7 +12871,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_19",
     "title": "Chadhte Katikwa",
     "singer": "Tinku Singh & Mukesh Pandey",
     "genre": "chhath",
@@ -12881,7 +12881,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "VHGhyDkZUaw",
     "youtubeUrl": "https://www.youtube.com/watch?v=VHGhyDkZUaw&list=RDVHGhyDkZUaw&start_radio=1",
     "likeViews": 1.0,
     "duration": "06:28",
@@ -12889,7 +12889,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_20",
     "title": "Chalali Gaura",
     "singer": "Raju Raseya & Mukesh Pandey",
     "genre": "chhath",
@@ -12899,7 +12899,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "JDfpeIlbvBQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=JDfpeIlbvBQ&list=RDJDfpeIlbvBQ&start_radio=1",
     "likeViews": 17.0,
     "duration": "05:19",
@@ -12907,7 +12907,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_21",
     "title": "Chhath Maaee Ke Baratiya",
     "singer": "Radha Pandeya & Mukesh Pandey",
     "genre": "chhath",
@@ -12917,7 +12917,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "HwA7m_4U_J4",
     "youtubeUrl": "https://www.youtube.com/watch?v=HwA7m_4U_J4&list=RDHwA7m_4U_J4&start_radio=1",
     "likeViews": 40.0,
     "duration": "06:11",
@@ -12925,7 +12925,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_22",
     "title": "Chhath Me Aajao",
     "singer": "Rekha Singh, Rakesh Mishra & Mukesh Pandey",
     "genre": "chhath",
@@ -12935,7 +12935,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DG8o4Bb_wWw",
     "youtubeUrl": "https://www.youtube.com/watch?v=DG8o4Bb_wWw&list=RDDG8o4Bb_wWw&start_radio=1",
     "likeViews": 3.0,
     "duration": "05:15",
@@ -12943,7 +12943,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_23",
     "title": "Aso Ke Leke Jai Daura",
     "singer": "Dipu Dehati",
     "genre": "chhath",
@@ -12953,7 +12953,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "XfToeXxpHNc",
     "youtubeUrl": "https://www.youtube.com/watch?v=XfToeXxpHNc&list=RDXfToeXxpHNc&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:49",
@@ -12961,7 +12961,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_24",
     "title": "Aso Naihar Me Uthaib Chhath Raja Ji",
     "singer": "Dipu Dehati",
     "genre": "chhath",
@@ -12971,7 +12971,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "4OSXRTMFE_U",
     "youtubeUrl": "https://www.youtube.com/watch?v=4OSXRTMFE_U&list=RD4OSXRTMFE_U&start_radio=1",
     "likeViews": 2.0,
     "duration": "06:30",
@@ -12979,7 +12979,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_25",
     "title": "Bahara Se Ghare Chali Aai",
     "singer": "Dipu Dehati",
     "genre": "chhath",
@@ -12989,7 +12989,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "bDWZfpW_1co",
     "youtubeUrl": "https://www.youtube.com/watch?v=bDWZfpW_1co&list=RDbDWZfpW_1co&start_radio=1",
     "likeViews": 1.0,
     "duration": "04:53",
@@ -12997,7 +12997,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_26",
     "title": "Jode Kalasupawa Saja Ke",
     "singer": "Dipu Dehati",
     "genre": "chhath",
@@ -13007,7 +13007,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "QkqEyGNXTIk",
     "youtubeUrl": "https://www.youtube.com/watch?v=QkqEyGNXTIk&list=RDQkqEyGNXTIk&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:21",
@@ -13015,7 +13015,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_27",
     "title": "Nanhaka Rowe Diwali Se",
     "singer": "Dipu Dehati",
     "genre": "chhath",
@@ -13025,7 +13025,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0LGRIw1N2H8",
     "youtubeUrl": "https://www.youtube.com/watch?v=0LGRIw1N2H8&list=RD0LGRIw1N2H8&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:25",
@@ -13033,7 +13033,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_28",
     "title": "Parab Chhathi Ke Karab",
     "singer": "Dipu Dehati",
     "genre": "chhath",
@@ -13043,7 +13043,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "TF3G-istz-w",
     "youtubeUrl": "https://www.youtube.com/watch?v=TF3G-istz-w&list=RDTF3G-istz-w&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:56",
@@ -13051,7 +13051,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2014_29",
     "title": "Ugi Ugi Suruj Baba",
     "singer": "Dipu Dehati",
     "genre": "chhath",
@@ -13061,7 +13061,7 @@ export const BHOJPURI_SONGS = [
     "year": 2014,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "C6hzZIfdHHU",
     "youtubeUrl": "https://www.youtube.com/watch?v=C6hzZIfdHHU&list=RDC6hzZIfdHHU&start_radio=1",
     "likeViews": 1.0,
     "duration": "06:00",
@@ -13069,7 +13069,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_1",
     "title": "Best of Sharda Sinha (Chhath Video Songs Jukebox 2015)",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -13079,7 +13079,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "rOo9hgfq3e0",
     "youtubeUrl": "https://www.youtube.com/watch?v=rOo9hgfq3e0",
     "likeViews": 12715.0,
     "duration": "01:09:30",
@@ -13087,7 +13087,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Sharda Sinha"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_2",
     "title": "Aadit Manaila",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -13097,7 +13097,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Surinder Kohli",
-    "youtubeId": NaN,
+    "youtubeId": "poJwkanrYAU",
     "youtubeUrl": "https://www.youtube.com/watch?v=poJwkanrYAU&t=330s",
     "likeViews": 317690.0,
     "duration": "47:25",
@@ -13105,7 +13105,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Anuradha Paudwal"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_3",
     "title": "Chaar Pahar Hum Jal Thal Sevila",
     "singer": "Anuradha Paudwal, Kavita Paudwal, Ajit Kumar Akela",
     "genre": "chhath",
@@ -13115,7 +13115,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "xOZOX5MCu3Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=xOZOX5MCu3Q&t=0s",
     "likeViews": 37507.0,
     "duration": "59:11",
@@ -13123,7 +13123,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Anuradha Paudwal"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_4",
     "title": "Ghatwa Ke Aari Aari",
     "singer": "Anuradha Paudwal, Kavita Paudwal, Ajit Kumar Akela",
     "genre": "chhath",
@@ -13133,7 +13133,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "xOZOX5MCu3Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=xOZOX5MCu3Q&t=260s",
     "likeViews": 37507.0,
     "duration": "59:11",
@@ -13141,7 +13141,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Anuradha Paudwal"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_5",
     "title": "Best of Sharda Sinha (Chhath Video Songs Jukebox 2015)",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -13151,7 +13151,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rOo9hgfq3e0",
     "youtubeUrl": "https://www.youtube.com/watch?v=rOo9hgfq3e0",
     "likeViews": 12715.0,
     "duration": "01:09:30",
@@ -13159,7 +13159,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_6",
     "title": "Aadit Manaila",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -13169,7 +13169,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "poJwkanrYAU",
     "youtubeUrl": "https://www.youtube.com/watch?v=poJwkanrYAU&t=330s",
     "likeViews": 317690.0,
     "duration": "47:25",
@@ -13177,7 +13177,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_7",
     "title": "Chaar Pahar Hum Jal Thal Sevila",
     "singer": "Anuradha Paudwal, Kavita Paudwal, Ajit Kumar Akela",
     "genre": "chhath",
@@ -13187,7 +13187,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xOZOX5MCu3Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=xOZOX5MCu3Q&t=0s",
     "likeViews": 37507.0,
     "duration": "59:11",
@@ -13195,7 +13195,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_8",
     "title": "Ghatwa Ke Aari Aari",
     "singer": "Anuradha Paudwal, Kavita Paudwal, Ajit Kumar Akela",
     "genre": "chhath",
@@ -13205,7 +13205,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xOZOX5MCu3Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=xOZOX5MCu3Q&t=260s",
     "likeViews": 37507.0,
     "duration": "59:11",
@@ -13213,7 +13213,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_9",
     "title": "Best of Sharda Sinha (Chhath Video Songs Jukebox 2015)",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -13223,7 +13223,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "rOo9hgfq3e0",
     "youtubeUrl": "https://www.youtube.com/watch?v=rOo9hgfq3e0",
     "likeViews": 12715.0,
     "duration": "01:09:30",
@@ -13231,7 +13231,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_10",
     "title": "Aadit Manaila",
     "singer": "Anuradha Paudwal",
     "genre": "chhath",
@@ -13241,7 +13241,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Surinder Kohli",
-    "youtubeId": NaN,
+    "youtubeId": "poJwkanrYAU",
     "youtubeUrl": "https://www.youtube.com/watch?v=poJwkanrYAU&t=330s",
     "likeViews": 317690.0,
     "duration": "47:25",
@@ -13249,7 +13249,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_11",
     "title": "Chaar Pahar Hum Jal Thal Sevila",
     "singer": "Anuradha Paudwal, Kavita Paudwal, Ajit Kumar Akela",
     "genre": "chhath",
@@ -13259,7 +13259,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "xOZOX5MCu3Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=xOZOX5MCu3Q&t=0s",
     "likeViews": 37507.0,
     "duration": "59:11",
@@ -13267,7 +13267,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_12",
     "title": "Ghatwa Ke Aari Aari",
     "singer": "Anuradha Paudwal, Kavita Paudwal, Ajit Kumar Akela",
     "genre": "chhath",
@@ -13277,7 +13277,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "xOZOX5MCu3Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=xOZOX5MCu3Q&t=260s",
     "likeViews": 37507.0,
     "duration": "59:11",
@@ -13285,7 +13285,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_13",
     "title": "Kerawa Ke Patawa Pa Newta Pethawani",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -13295,7 +13295,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "uWtMR3iQT-I",
     "youtubeUrl": "https://www.youtube.com/watch?v=uWtMR3iQT-I&list=OLAK5uy_mbG6Mg306N7E9FhgHxCXFmS8LIWoHbCbs&index=3",
     "likeViews": 194377.0,
     "duration": "04:27",
@@ -13303,7 +13303,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_14",
     "title": "Godiya Me Hoihe Balakawa",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -13313,7 +13313,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6diXoexNQ58",
     "youtubeUrl": "https://www.youtube.com/watch?v=6diXoexNQ58&list=OLAK5uy_mbG6Mg306N7E9FhgHxCXFmS8LIWoHbCbs&index=2",
     "likeViews": 236857.0,
     "duration": "04:36",
@@ -13321,7 +13321,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_15",
     "title": "Ugi He Suruj Mal Naiyo Na Dole",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -13331,7 +13331,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "B90gprL5XBE",
     "youtubeUrl": "https://www.youtube.com/watch?v=B90gprL5XBE&list=RDB90gprL5XBE&start_radio=1",
     "likeViews": 119886.0,
     "duration": "05:16",
@@ -13339,7 +13339,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_16",
     "title": "Dihi Darshan Suruj Gosaiya",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -13349,7 +13349,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LAd7sk20Vqo",
     "youtubeUrl": "https://www.youtube.com/watch?v=LAd7sk20Vqo&list=OLAK5uy_mbG6Mg306N7E9FhgHxCXFmS8LIWoHbCbs",
     "likeViews": 12357.0,
     "duration": "04:37",
@@ -13357,7 +13357,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_17",
     "title": "Bhukal Bani Chhath",
     "singer": "Rahul Hulchal",
     "genre": "chhath",
@@ -13367,7 +13367,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "lvqUlkPbgZo",
     "youtubeUrl": "https://www.youtube.com/watch?v=lvqUlkPbgZo&list=OLAK5uy_ldMNtqBKze0ANlDx1cEflSeS4mKDlOLI0",
     "likeViews": 4.0,
     "duration": "06:17",
@@ -13375,7 +13375,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_18",
     "title": "Chhathi mai aa jai anganawa mein",
     "singer": "Rahul Hulchal",
     "genre": "chhath",
@@ -13385,7 +13385,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xXUvZ55ypfY",
     "youtubeUrl": "https://www.youtube.com/watch?v=xXUvZ55ypfY&list=OLAK5uy_ldMNtqBKze0ANlDx1cEflSeS4mKDlOLI0&index=2",
     "likeViews": 1.0,
     "duration": "05:37",
@@ -13393,7 +13393,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_19",
     "title": "Chhathi maiya aiha jarur",
     "singer": "Rahul Hulchal",
     "genre": "chhath",
@@ -13403,7 +13403,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "9Gv3fG7CYoU",
     "youtubeUrl": "https://www.youtube.com/watch?v=9Gv3fG7CYoU&list=OLAK5uy_ldMNtqBKze0ANlDx1cEflSeS4mKDlOLI0&index=3",
     "likeViews": 2.0,
     "duration": "08:52",
@@ -13411,7 +13411,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_20",
     "title": "Dhan Dhan Chhathi Maiya",
     "singer": "Rahul Hulchal",
     "genre": "chhath",
@@ -13421,7 +13421,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ikioImB92d8",
     "youtubeUrl": "https://www.youtube.com/watch?v=ikioImB92d8&list=OLAK5uy_ldMNtqBKze0ANlDx1cEflSeS4mKDlOLI0&index=4",
     "likeViews": 0.0,
     "duration": "04:19",
@@ -13429,7 +13429,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_21",
     "title": "Hamhu Chhath karab e sakhi",
     "singer": "Rahul Hulchal",
     "genre": "chhath",
@@ -13439,7 +13439,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "hOriPXqbin8",
     "youtubeUrl": "https://www.youtube.com/watch?v=hOriPXqbin8&list=OLAK5uy_ldMNtqBKze0ANlDx1cEflSeS4mKDlOLI0&index=5",
     "likeViews": 1.0,
     "duration": "05:17",
@@ -13447,7 +13447,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_22",
     "title": "Kahwa paibo sone ke katorwa",
     "singer": "Rahul Hulchal",
     "genre": "chhath",
@@ -13457,7 +13457,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "bn2mchyzpzs",
     "youtubeUrl": "https://www.youtube.com/watch?v=bn2mchyzpzs&list=OLAK5uy_ldMNtqBKze0ANlDx1cEflSeS4mKDlOLI0&index=6",
     "likeViews": 2.0,
     "duration": "05:23",
@@ -13465,7 +13465,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_23",
     "title": "Kartik Mahina Bade pawan",
     "singer": "Rahul Hulchal",
     "genre": "chhath",
@@ -13475,7 +13475,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "I7mzRPuBJqc",
     "youtubeUrl": "https://www.youtube.com/watch?v=I7mzRPuBJqc&list=OLAK5uy_ldMNtqBKze0ANlDx1cEflSeS4mKDlOLI0&index=7",
     "likeViews": 0.0,
     "duration": "04:29",
@@ -13483,7 +13483,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_24",
     "title": "Kelwa ke paat par",
     "singer": "Rahul Hulchal",
     "genre": "chhath",
@@ -13493,7 +13493,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "n2VG9kT8IZ0",
     "youtubeUrl": "https://www.youtube.com/watch?v=n2VG9kT8IZ0&list=OLAK5uy_ldMNtqBKze0ANlDx1cEflSeS4mKDlOLI0&index=8",
     "likeViews": 1.0,
     "duration": "06:19",
@@ -13501,7 +13501,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_25",
     "title": "Ugi he suruj dev",
     "singer": "Rahul Hulchal",
     "genre": "chhath",
@@ -13511,7 +13511,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0T8i4cCGroc",
     "youtubeUrl": "https://www.youtube.com/watch?v=0T8i4cCGroc&list=OLAK5uy_ldMNtqBKze0ANlDx1cEflSeS4mKDlOLI0&index=10",
     "likeViews": 0.0,
     "duration": "06:58",
@@ -13519,7 +13519,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_26",
     "title": "Ugi he dinanth",
     "singer": "Rahul Hulchal",
     "genre": "chhath",
@@ -13529,7 +13529,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7JWpeFhpjJY",
     "youtubeUrl": "https://www.youtube.com/watch?v=7JWpeFhpjJY&list=OLAK5uy_ldMNtqBKze0ANlDx1cEflSeS4mKDlOLI0&index=11",
     "likeViews": 2.0,
     "duration": "05:43",
@@ -13537,7 +13537,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_27",
     "title": "Bhaile Aargha Ke Ber",
     "singer": "Ram Kumar Bablu",
     "genre": "chhath",
@@ -13547,7 +13547,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "qm6Hh8tYG60",
     "youtubeUrl": "https://www.youtube.com/watch?v=qm6Hh8tYG60",
     "likeViews": 24.0,
     "duration": "05:44",
@@ -13555,7 +13555,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_28",
     "title": "Kanch Ke Bahangiya",
     "singer": "Ram Kumar Bablu",
     "genre": "chhath",
@@ -13565,7 +13565,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "bvy_uflfn0U",
     "youtubeUrl": "https://www.youtube.com/watch?v=bvy_uflfn0U",
     "likeViews": 31.0,
     "duration": "05:42",
@@ -13573,7 +13573,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_29",
     "title": "Bhayile Aragh Ke Berr",
     "singer": "Arvind Akela Kallu & Nisha",
     "genre": "chhath",
@@ -13583,7 +13583,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "WlMzDuy1dy8",
     "youtubeUrl": "https://www.youtube.com/watch?v=WlMzDuy1dy8&list=RDWlMzDuy1dy8&start_radio=1",
     "likeViews": 96490.0,
     "duration": "06:17",
@@ -13591,7 +13591,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_30",
     "title": "Saat Ghoda Wala Rath Pe",
     "singer": "Arvind Akela Kallu & Nisha",
     "genre": "chhath",
@@ -13601,7 +13601,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "bq34P-bUZTc",
     "youtubeUrl": "https://www.youtube.com/watch?v=bq34P-bUZTc&list=RDbq34P-bUZTc&start_radio=1",
     "likeViews": 1789.0,
     "duration": "06:18",
@@ -13609,7 +13609,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_31",
     "title": "De-Da Namariya Ego Hamra Ke Kaka",
     "singer": "Arvind Akela Kallu & Nisha",
     "genre": "chhath",
@@ -13619,7 +13619,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7QbG9ME-o-Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=7QbG9ME-o-Y&list=RD7QbG9ME-o-Y&start_radio=1",
     "likeViews": 4.0,
     "duration": "04:31",
@@ -13627,7 +13627,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_32",
     "title": "Gadi Aaj Jani-Tu Chalayeha Ho",
     "singer": "Arvind Akela Kallu & Nisha",
     "genre": "chhath",
@@ -13637,7 +13637,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "GTTRovNlGXs",
     "youtubeUrl": "https://www.youtube.com/watch?v=GTTRovNlGXs&list=RDGTTRovNlGXs&start_radio=1",
     "likeViews": 21.0,
     "duration": "06:16",
@@ -13645,7 +13645,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_33",
     "title": "Sobhela Ghat Chhathi Mai Ke",
     "singer": "Arvind Akela Kallu & Nisha",
     "genre": "chhath",
@@ -13655,7 +13655,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3t0VMmi9E5Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=3t0VMmi9E5Q&list=RD3t0VMmi9E5Q&start_radio=1",
     "likeViews": 6.0,
     "duration": "06:19",
@@ -13663,7 +13663,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_34",
     "title": "Chhathi Maiya Bhardi Godiya Hamar",
     "singer": "Arvind Akela Kallu & Nisha",
     "genre": "chhath",
@@ -13673,7 +13673,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DKyGD-sWgDw",
     "youtubeUrl": "https://www.youtube.com/watch?v=DKyGD-sWgDw&list=RDDKyGD-sWgDw&start_radio=1",
     "likeViews": 9.0,
     "duration": "06:00",
@@ -13681,7 +13681,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_35",
     "title": "Patna Ke Ghat Karab Chhath Ke Baratiya",
     "singer": "Arvind Akela Kallu & Nisha",
     "genre": "chhath",
@@ -13691,7 +13691,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "E3RS3aMbNns",
     "youtubeUrl": "https://www.youtube.com/watch?v=E3RS3aMbNns&list=RDE3RS3aMbNns&start_radio=1",
     "likeViews": 1655.0,
     "duration": "06:26",
@@ -13699,7 +13699,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_36",
     "title": "Hum Koshi Bharayeb Na",
     "singer": "Arvind Akela Kallu & Nisha",
     "genre": "chhath",
@@ -13709,7 +13709,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "aHNMmqJh0Wg",
     "youtubeUrl": "https://www.youtube.com/watch?v=aHNMmqJh0Wg&list=RDaHNMmqJh0Wg&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:22",
@@ -13717,7 +13717,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_37",
     "title": "Parwati Kareli Baratiya",
     "singer": "Arvind Akela Kallu & Nisha",
     "genre": "chhath",
@@ -13727,7 +13727,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "4AFeOpBdZFE",
     "youtubeUrl": "https://www.youtube.com/watch?v=4AFeOpBdZFE&list=RD4AFeOpBdZFE&start_radio=1",
     "likeViews": 6.0,
     "duration": "04:40",
@@ -13735,7 +13735,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_38",
     "title": "Bediya Bana Da Chhathi Ghaat",
     "singer": "Khesari Lal Yadav",
     "genre": "chhath",
@@ -13745,7 +13745,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "mdNpcONEMRA",
     "youtubeUrl": "https://www.youtube.com/watch?v=mdNpcONEMRA&list=RDmdNpcONEMRA&start_radio=1",
     "likeViews": 23999.0,
     "duration": "04:57",
@@ -13753,7 +13753,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_39",
     "title": "Chhath Ghata",
     "singer": "Khesari Lal Yadav",
     "genre": "chhath",
@@ -13763,7 +13763,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ho1ZWo_sRPQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=ho1ZWo_sRPQ&list=RDho1ZWo_sRPQ&start_radio=1",
     "likeViews": 10.0,
     "duration": "06:27",
@@ -13771,7 +13771,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_40",
     "title": "Chhur-Chhuri Chhodaratari Bhauji",
     "singer": "Khesari Lal Yadav",
     "genre": "chhath",
@@ -13781,7 +13781,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "bTfBE3-gVYo",
     "youtubeUrl": "https://www.youtube.com/watch?v=bTfBE3-gVYo&list=RDmdNpcONEMRA&index=2",
     "likeViews": 17464.0,
     "duration": "04:48",
@@ -13789,7 +13789,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_41",
     "title": "Dharati Swarg Banal Ba",
     "singer": "Khesari Lal Yadav",
     "genre": "chhath",
@@ -13799,7 +13799,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "c4myQxfclXI",
     "youtubeUrl": "https://www.youtube.com/watch?v=c4myQxfclXI&list=RDmdNpcONEMRA&index=4",
     "likeViews": 6950.0,
     "duration": "04:38",
@@ -13807,7 +13807,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_42",
     "title": "Fauji Mor Balamuwa",
     "singer": "Khesari Lal Yadav",
     "genre": "chhath",
@@ -13817,7 +13817,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2FjvABIvDG4",
     "youtubeUrl": "https://www.youtube.com/watch?v=2FjvABIvDG4&list=RD2FjvABIvDG4&start_radio=1",
     "likeViews": 11.0,
     "duration": "06:27",
@@ -13825,7 +13825,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_43",
     "title": "Ghata Faar Ke Bahari Aai",
     "singer": "Khesari Lal Yadav",
     "genre": "chhath",
@@ -13835,7 +13835,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "oMDHyOrF6ho",
     "youtubeUrl": "https://www.youtube.com/watch?v=oMDHyOrF6ho&list=RDmdNpcONEMRA&index=5",
     "likeViews": 4513.0,
     "duration": "04:32",
@@ -13843,7 +13843,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_44",
     "title": "Joda Koshi Bharawe Ke",
     "singer": "Khesari Lal Yadav",
     "genre": "chhath",
@@ -13853,7 +13853,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Zwv-FZDAVXA",
     "youtubeUrl": "https://www.youtube.com/watch?v=Zwv-FZDAVXA&list=RDZwv-FZDAVXA&start_radio=1",
     "likeViews": 3660.0,
     "duration": "04:28",
@@ -13861,7 +13861,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_45",
     "title": "Kei Laihe Bans Ke Supuliya",
     "singer": "Khesari Lal Yadav",
     "genre": "chhath",
@@ -13871,7 +13871,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "N63oL4D8jvY",
     "youtubeUrl": "https://www.youtube.com/watch?v=N63oL4D8jvY&list=RDmdNpcONEMRA&index=7",
     "likeViews": 24684.0,
     "duration": "04:08",
@@ -13879,7 +13879,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_46",
     "title": "Shobhe Piyari Pagariya",
     "singer": "Khesari Lal Yadav",
     "genre": "chhath",
@@ -13889,7 +13889,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "gYalGZiHug8",
     "youtubeUrl": "https://www.youtube.com/watch?v=gYalGZiHug8&list=RDmdNpcONEMRA&index=3",
     "likeViews": 14670.0,
     "duration": "05:02",
@@ -13897,7 +13897,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_47",
     "title": "Chadhte Kartik Ghare Aiha",
     "singer": "Bharat Bhawani",
     "genre": "chhath",
@@ -13907,7 +13907,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "633yOJNegkI",
     "youtubeUrl": "https://www.youtube.com/watch?v=633yOJNegkI&list=OLAK5uy_kOQYK7QabjmTNSjoBXokZv1RjG0xtWXUY",
     "likeViews": 1.0,
     "duration": "06:50",
@@ -13915,7 +13915,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_48",
     "title": "Ghate Raura Penhab Maiya",
     "singer": "Bharat Bhawani",
     "genre": "chhath",
@@ -13925,7 +13925,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "yw7T29LSo00",
     "youtubeUrl": "https://www.youtube.com/watch?v=yw7T29LSo00&list=OLAK5uy_kOQYK7QabjmTNSjoBXokZv1RjG0xtWXUY&index=2",
     "likeViews": 0.0,
     "duration": "06:28",
@@ -13933,7 +13933,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_49",
     "title": "Har La Balaiya Hamro",
     "singer": "Amrita Dixit",
     "genre": "chhath",
@@ -13943,7 +13943,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "JvKnRIFZJvo",
     "youtubeUrl": "https://www.youtube.com/watch?v=JvKnRIFZJvo&list=RDJvKnRIFZJvo&start_radio=1",
     "likeViews": 7.0,
     "duration": "06:12",
@@ -13951,7 +13951,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_50",
     "title": "Jaai Na Balam Ji Bazariya",
     "singer": "Amrita Dixit",
     "genre": "chhath",
@@ -13961,7 +13961,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "1pFm8DynusE",
     "youtubeUrl": "https://www.youtube.com/watch?v=1pFm8DynusE&list=OLAK5uy_kOQYK7QabjmTNSjoBXokZv1RjG0xtWXUY&index=4",
     "likeViews": 0.0,
     "duration": "05:49",
@@ -13969,7 +13969,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_51",
     "title": "Kawne Munh Dinanath Ugat Hoihe",
     "singer": "Amrita Dixit",
     "genre": "chhath",
@@ -13979,7 +13979,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "EmVFIjU9_Hg",
     "youtubeUrl": "https://www.youtube.com/watch?v=EmVFIjU9_Hg&list=OLAK5uy_kOQYK7QabjmTNSjoBXokZv1RjG0xtWXUY&index=5",
     "likeViews": 0.0,
     "duration": "04:58",
@@ -13987,7 +13987,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_52",
     "title": "Kelwa Mahang Bhaile",
     "singer": "Bharat Bhawani",
     "genre": "chhath",
@@ -13997,7 +13997,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ahhjWTdh4NI",
     "youtubeUrl": "https://www.youtube.com/watch?v=ahhjWTdh4NI&list=OLAK5uy_kOQYK7QabjmTNSjoBXokZv1RjG0xtWXUY&index=6",
     "likeViews": 0.0,
     "duration": "05:49",
@@ -14005,7 +14005,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_53",
     "title": "Sanjhi Beri Argha Ho",
     "singer": "Bharat Bhawani",
     "genre": "chhath",
@@ -14015,7 +14015,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "cBbrf2G8Zo0",
     "youtubeUrl": "https://www.youtube.com/watch?v=cBbrf2G8Zo0&list=OLAK5uy_kOQYK7QabjmTNSjoBXokZv1RjG0xtWXUY&index=7",
     "likeViews": 0.0,
     "duration": "06:36",
@@ -14023,7 +14023,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_54",
     "title": "Suruj Ho Suruj Pukarila",
     "singer": "Bharat Bhawani",
     "genre": "chhath",
@@ -14033,7 +14033,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7ZnGFG_5l84",
     "youtubeUrl": "https://www.youtube.com/watch?v=7ZnGFG_5l84&list=OLAK5uy_kOQYK7QabjmTNSjoBXokZv1RjG0xtWXUY&index=8",
     "likeViews": 1.0,
     "duration": "06:40",
@@ -14041,7 +14041,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_55",
     "title": "Chhathi Maiya Aihe Hamar",
     "singer": "Sunny Sagar",
     "genre": "chhath",
@@ -14051,7 +14051,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "5a_2WvnOhjU",
     "youtubeUrl": "https://www.youtube.com/watch?v=5a_2WvnOhjU&list=RD5a_2WvnOhjU&start_radio=1",
     "likeViews": 0.0,
     "duration": "07:08",
@@ -14059,7 +14059,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_56",
     "title": "Kaisae Jaibu Chhathi Mai Ke Ghat",
     "singer": "Sunny Sagar",
     "genre": "chhath",
@@ -14069,7 +14069,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "JtlEIZfLgDE",
     "youtubeUrl": "https://www.youtube.com/watch?v=JtlEIZfLgDE&list=RDJtlEIZfLgDE&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:33",
@@ -14077,7 +14077,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_57",
     "title": "Ara Ke Ghat Chla",
     "singer": "Sunny Sagar",
     "genre": "chhath",
@@ -14087,7 +14087,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "dl3NxNRWj1M",
     "youtubeUrl": "https://www.youtube.com/watch?v=dl3NxNRWj1M&list=RDdl3NxNRWj1M&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:26",
@@ -14095,7 +14095,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_58",
     "title": "Chhathi Ghate",
     "singer": "Sunny Sagar",
     "genre": "chhath",
@@ -14105,7 +14105,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "YNl9ld5eHyk",
     "youtubeUrl": "https://www.youtube.com/watch?v=YNl9ld5eHyk&list=RDYNl9ld5eHyk&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:02",
@@ -14113,7 +14113,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_59",
     "title": "Ghate Aihe Chhathi Maiya",
     "singer": "Sunny Sagar",
     "genre": "chhath",
@@ -14123,7 +14123,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Lry2-LY7O3A",
     "youtubeUrl": "https://www.youtube.com/watch?v=Lry2-LY7O3A&list=RDLry2-LY7O3A&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:31",
@@ -14131,7 +14131,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_60",
     "title": "Chali Ae Saiya Gi",
     "singer": "Sunny Sagar",
     "genre": "chhath",
@@ -14141,7 +14141,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "5jm1r_l9bh8",
     "youtubeUrl": "https://www.youtube.com/watch?v=5jm1r_l9bh8&list=RD5jm1r_l9bh8&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:10",
@@ -14149,7 +14149,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_61",
     "title": "Hath Jori Kaheli Tiwaiya Nu Ho",
     "singer": "Sunny Sagar",
     "genre": "chhath",
@@ -14159,7 +14159,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "XXN8mCUEmg4",
     "youtubeUrl": "https://www.youtube.com/watch?v=XXN8mCUEmg4&list=RDXXN8mCUEmg4&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:58",
@@ -14167,7 +14167,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_62",
     "title": "Kahawa Se Rath Saj",
     "singer": "Sunny Sagar",
     "genre": "chhath",
@@ -14177,7 +14177,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Pyiyq2Xn1AU",
     "youtubeUrl": "https://www.youtube.com/watch?v=Pyiyq2Xn1AU&list=RDPyiyq2Xn1AU&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:00",
@@ -14185,7 +14185,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_63",
     "title": "Bahangi Chhathi Maiya Ke Jaye",
     "singer": "Ramesh Pardesi",
     "genre": "chhath",
@@ -14195,7 +14195,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "eo5pXOor1FE",
     "youtubeUrl": "http://youtube.com/watch?v=eo5pXOor1FE&list=RDeo5pXOor1FE&start_radio=1",
     "likeViews": 36.0,
     "duration": "04:08",
@@ -14203,7 +14203,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_64",
     "title": "Ugi ho suruj dev",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14213,7 +14213,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DNZDhMUHKc4",
     "youtubeUrl": "https://www.youtube.com/watch?v=DNZDhMUHKc4&list=RDDNZDhMUHKc4&start_radio=1",
     "likeViews": 32740.0,
     "duration": "05:09",
@@ -14221,7 +14221,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_65",
     "title": "Ghuti bhar dhoti bheeje",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14231,7 +14231,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "qZQllfGs5mI",
     "youtubeUrl": "https://www.youtube.com/watch?v=qZQllfGs5mI&list=RDqZQllfGs5mI&start_radio=1",
     "likeViews": 3844.0,
     "duration": "06:12",
@@ -14239,7 +14239,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_66",
     "title": "A Kalkatiya Piya",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14249,7 +14249,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "f6NzGfZ9Kog",
     "youtubeUrl": "https://www.youtube.com/watch?v=f6NzGfZ9Kog&list=OLAK5uy_ky783SY4yozDOWjhm-svuTATCJUVhEf38",
     "likeViews": 1818.0,
     "duration": "08:39",
@@ -14257,7 +14257,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_67",
     "title": "Bada Nik Lagela",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14267,7 +14267,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "y8gVmSWHKV0",
     "youtubeUrl": "https://www.youtube.com/watch?v=y8gVmSWHKV0&list=OLAK5uy_ky783SY4yozDOWjhm-svuTATCJUVhEf38&index=2",
     "likeViews": 131.0,
     "duration": "05:51",
@@ -14275,7 +14275,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_68",
     "title": "Chadhati Katik Mahinawa",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14285,7 +14285,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6V2HibWFYzI",
     "youtubeUrl": "https://www.youtube.com/watch?v=6V2HibWFYzI&list=OLAK5uy_ky783SY4yozDOWjhm-svuTATCJUVhEf38&index=3",
     "likeViews": 32217.0,
     "duration": "06:46",
@@ -14293,7 +14293,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_69",
     "title": "Chhath Ghate Chodiha Chocolate Bam",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14303,7 +14303,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Gz3q-2MFAu0",
     "youtubeUrl": "https://www.youtube.com/watch?v=Gz3q-2MFAu0&list=OLAK5uy_ky783SY4yozDOWjhm-svuTATCJUVhEf38&index=4",
     "likeViews": 454.0,
     "duration": "05:01",
@@ -14311,7 +14311,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_70",
     "title": "Sawa Lakh Ke Saadi Bhije",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14321,7 +14321,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "aAnoW6E3M1o",
     "youtubeUrl": "https://www.youtube.com/watch?v=aAnoW6E3M1o&list=OLAK5uy_ky783SY4yozDOWjhm-svuTATCJUVhEf38&index=5",
     "likeViews": 522017.0,
     "duration": "06:12",
@@ -14329,7 +14329,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_71",
     "title": "He Ganaga Maiya Tohe Piyari Chadhaibo",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14339,7 +14339,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "hYwUu_z3RCQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=hYwUu_z3RCQ&list=OLAK5uy_ky783SY4yozDOWjhm-svuTATCJUVhEf38&index=6",
     "likeViews": 187.0,
     "duration": "05:39",
@@ -14347,7 +14347,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_72",
     "title": "Kail Chahat Bani Chhath Ke Baratiya",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14357,7 +14357,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nPuLRzKRqa4",
     "youtubeUrl": "https://www.youtube.com/watch?v=nPuLRzKRqa4&list=OLAK5uy_ky783SY4yozDOWjhm-svuTATCJUVhEf38&index=7",
     "likeViews": 123.0,
     "duration": "05:09",
@@ -14365,7 +14365,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_73",
     "title": "Pahila Arag Lihi",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14375,7 +14375,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Ap3zHWv1p2g",
     "youtubeUrl": "https://www.youtube.com/watch?v=Ap3zHWv1p2g&list=OLAK5uy_ky783SY4yozDOWjhm-svuTATCJUVhEf38&index=8",
     "likeViews": 1597.0,
     "duration": "03:16",
@@ -14383,7 +14383,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_74",
     "title": "Patna Se Nimbua Mangayini",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14393,7 +14393,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "epQB_o53AX8",
     "youtubeUrl": "https://www.youtube.com/watch?v=epQB_o53AX8&list=OLAK5uy_ky783SY4yozDOWjhm-svuTATCJUVhEf38&index=9",
     "likeViews": 153449.0,
     "duration": "07:27",
@@ -14401,7 +14401,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_75",
     "title": "Aawa Tari Ghate Chhathi Maiya",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -14411,7 +14411,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "G6rlJhdIA8Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=G6rlJhdIA8Y&list=RDG6rlJhdIA8Y&start_radio=1",
     "likeViews": 285.0,
     "duration": "04:57",
@@ -14419,7 +14419,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_76",
     "title": "Bahangi Hilor Mare",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -14429,7 +14429,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "akZwvY4VvQk",
     "youtubeUrl": "https://www.youtube.com/watch?v=akZwvY4VvQk&list=OLAK5uy_kmm6nZlZJAwW_Eww_pRSs0zYpOZ5qa7qY&index=2",
     "likeViews": 1662.0,
     "duration": "05:14",
@@ -14437,7 +14437,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_77",
     "title": "Bhaile Aragh Ke Ber",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -14447,7 +14447,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rBaPKtWM1ts",
     "youtubeUrl": "https://www.youtube.com/watch?v=rBaPKtWM1ts&list=OLAK5uy_kmm6nZlZJAwW_Eww_pRSs0zYpOZ5qa7qY&index=3",
     "likeViews": 62.0,
     "duration": "06:44",
@@ -14455,7 +14455,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_78",
     "title": "Daura Uthai Mathe",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -14465,7 +14465,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "eyws4zljjQI",
     "youtubeUrl": "https://www.youtube.com/watch?v=eyws4zljjQI&list=OLAK5uy_kmm6nZlZJAwW_Eww_pRSs0zYpOZ5qa7qY&index=4",
     "likeViews": 26.0,
     "duration": "05:10",
@@ -14473,7 +14473,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_79",
     "title": "Hath Jodi Kaheli Tiwaiya",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -14483,7 +14483,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "YW076N8H8Og",
     "youtubeUrl": "https://www.youtube.com/watch?v=YW076N8H8Og&list=OLAK5uy_kmm6nZlZJAwW_Eww_pRSs0zYpOZ5qa7qY&index=5",
     "likeViews": 31.0,
     "duration": "06:10",
@@ -14491,7 +14491,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_80",
     "title": "Kaise Karabu Chhath Dhaniya",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -14501,7 +14501,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "hZYCTOQMPUw",
     "youtubeUrl": "https://www.youtube.com/watch?v=hZYCTOQMPUw&list=OLAK5uy_kmm6nZlZJAwW_Eww_pRSs0zYpOZ5qa7qY&index=6",
     "likeViews": 24956.0,
     "duration": "04:09",
@@ -14509,7 +14509,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_81",
     "title": "Le Jai Ghatiya Tohar Ho",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -14519,7 +14519,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "IJwCmqHQZa4",
     "youtubeUrl": "https://www.youtube.com/watch?v=IJwCmqHQZa4&list=OLAK5uy_kmm6nZlZJAwW_Eww_pRSs0zYpOZ5qa7qY&index=7",
     "likeViews": 43.0,
     "duration": "05:29",
@@ -14527,7 +14527,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_82",
     "title": "Shobhe Ganga Ke Kinaar",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -14537,7 +14537,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "egEIogyYCc4",
     "youtubeUrl": "https://www.youtube.com/watch?v=egEIogyYCc4&list=OLAK5uy_kmm6nZlZJAwW_Eww_pRSs0zYpOZ5qa7qY&index=8",
     "likeViews": 1851.0,
     "duration": "04:00",
@@ -14545,7 +14545,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_83",
     "title": "Ugi Aadit Gosaiy",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -14555,7 +14555,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "jDfLKgrUlqU",
     "youtubeUrl": "https://www.youtube.com/watch?v=jDfLKgrUlqU&list=OLAK5uy_kmm6nZlZJAwW_Eww_pRSs0zYpOZ5qa7qY&index=9",
     "likeViews": 45.0,
     "duration": "03:56",
@@ -14563,7 +14563,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_84",
     "title": "A karelu Chhath bratiya se Kekra lagi",
     "singer": "Devi",
     "genre": "chhath",
@@ -14573,7 +14573,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "4WqkrXiYq3E",
     "youtubeUrl": "https://www.youtube.com/watch?v=4WqkrXiYq3E",
     "likeViews": 1887.0,
     "duration": "57:42",
@@ -14581,7 +14581,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_85",
     "title": "Kerwa Je Farela",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14591,7 +14591,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "vjsSN2upSb8",
     "youtubeUrl": "https://www.youtube.com/watch?v=vjsSN2upSb8&list=RDvjsSN2upSb8&start_radio=1",
     "likeViews": 14398.0,
     "duration": "06:55",
@@ -14599,7 +14599,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_86",
     "title": "Kerwa Jan Juthayiha Sugna",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14609,7 +14609,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xnUbv9VNe9E",
     "youtubeUrl": "https://www.youtube.com/watch?v=xnUbv9VNe9E&list=RDxnUbv9VNe9E&start_radio=1",
     "likeViews": 1535.0,
     "duration": "07:14",
@@ -14617,7 +14617,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_87",
     "title": "Aadit Linhi Na aragiya",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14627,7 +14627,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0CpMxj-tEzc",
     "youtubeUrl": "https://www.youtube.com/watch?v=0CpMxj-tEzc&list=OLAK5uy_k0KGgaQunb52k_9FfniccC66gxOYhYXSw",
     "likeViews": 538.0,
     "duration": "06:27",
@@ -14635,7 +14635,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_88",
     "title": "Aawe Padi Saiyan",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14645,7 +14645,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "q2KgE3v1rX0",
     "youtubeUrl": "https://www.youtube.com/watch?v=q2KgE3v1rX0&list=OLAK5uy_k0KGgaQunb52k_9FfniccC66gxOYhYXSw&index=2",
     "likeViews": 1309.0,
     "duration": "07:15",
@@ -14653,7 +14653,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_89",
     "title": "Chhath Vrat Ke Mahima",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14663,7 +14663,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "qT_0dKqXsBU",
     "youtubeUrl": "https://www.youtube.com/watch?v=qT_0dKqXsBU&list=OLAK5uy_k0KGgaQunb52k_9FfniccC66gxOYhYXSw&index=4",
     "likeViews": 240.0,
     "duration": "07:30",
@@ -14671,7 +14671,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_90",
     "title": "Daura Math Pe Uthala Nando Ke Bhaiya",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14681,7 +14681,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "PUj-fXtBV9s",
     "youtubeUrl": "https://www.youtube.com/watch?v=PUj-fXtBV9s&list=OLAK5uy_k0KGgaQunb52k_9FfniccC66gxOYhYXSw&index=5",
     "likeViews": 5.0,
     "duration": "05:07",
@@ -14689,7 +14689,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_91",
     "title": "Devru Chhodi Jani Padaka",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14699,7 +14699,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "_npjle1Mb3Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=_npjle1Mb3Y&list=OLAK5uy_k0KGgaQunb52k_9FfniccC66gxOYhYXSw&index=6",
     "likeViews": 237.0,
     "duration": "04:40",
@@ -14707,7 +14707,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_92",
     "title": "A Chhathi Maiya Aihein",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14717,7 +14717,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "mPPElM2tcc0",
     "youtubeUrl": "https://www.youtube.com/watch?v=mPPElM2tcc0&list=OLAK5uy_k0KGgaQunb52k_9FfniccC66gxOYhYXSw&index=7",
     "likeViews": 4827.0,
     "duration": "06:28",
@@ -14725,7 +14725,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_93",
     "title": "Marbo Re Sugwa Dhanukh",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14735,7 +14735,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "9B4aBOYhU9Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=9B4aBOYhU9Y&list=OLAK5uy_k0KGgaQunb52k_9FfniccC66gxOYhYXSw&index=8",
     "likeViews": 30841.0,
     "duration": "06:55",
@@ -14743,7 +14743,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_94",
     "title": "Kosiya Bhari Hum Angnawa",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14753,7 +14753,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "sLxJdvJk1Sw",
     "youtubeUrl": "https://www.youtube.com/watch?v=sLxJdvJk1Sw&list=OLAK5uy_k0KGgaQunb52k_9FfniccC66gxOYhYXSw&index=9",
     "likeViews": 398.0,
     "duration": "05:54",
@@ -14761,7 +14761,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_95",
     "title": "Lachkela Bahangiya Bihariya Ke",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14771,7 +14771,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "VxyrvpRsADg",
     "youtubeUrl": "https://www.youtube.com/watch?v=VxyrvpRsADg&list=OLAK5uy_k0KGgaQunb52k_9FfniccC66gxOYhYXSw&index=10",
     "likeViews": 77.0,
     "duration": "05:36",
@@ -14779,7 +14779,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_96",
     "title": "Penhele Mahadev Piyariya",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14789,7 +14789,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0z-KMS2JRO0",
     "youtubeUrl": "https://www.youtube.com/watch?v=0z-KMS2JRO0&list=RD0z-KMS2JRO0&start_radio=1",
     "likeViews": 5489.0,
     "duration": "08:03",
@@ -14797,7 +14797,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2015_97",
     "title": "Bada Nik Lagela",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -14807,7 +14807,7 @@ export const BHOJPURI_SONGS = [
     "year": 2015,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "SGMO07cWr3g",
     "youtubeUrl": "https://www.youtube.com/watch?v=SGMO07cWr3g&list=RDSGMO07cWr3g&start_radio=1",
     "likeViews": 2428.0,
     "duration": "05:50",
@@ -14815,7 +14815,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_1",
     "title": "Pahile Pahil Chhathi Maiya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -14825,7 +14825,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "WYkrgIZFcZw",
     "youtubeUrl": "https://www.youtube.com/watch?v=WYkrgIZFcZw",
     "likeViews": 49458.0,
     "duration": "04:51",
@@ -14833,7 +14833,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Sharda Sinha"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_2",
     "title": "Chhath Maiya Ke Dware",
     "singer": "Manoj Tiwari Mridul",
     "genre": "chhath",
@@ -14843,7 +14843,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "oSovT1qp154",
     "youtubeUrl": "https://www.youtube.com/watch?v=oSovT1qp154&t=719s",
     "likeViews": 1439.0,
     "duration": "01:00:06",
@@ -14851,7 +14851,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_3",
     "title": "He Chhathi Maiya",
     "singer": "Anshu Jha",
     "genre": "chhath",
@@ -14861,7 +14861,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7AW-VANlL3k",
     "youtubeUrl": "https://www.youtube.com/watch?v=7AW-VANlL3k",
     "likeViews": 38.0,
     "duration": "05:58",
@@ -14869,7 +14869,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_4",
     "title": "Babuwa Ke Kosi Bharaih Ho",
     "singer": "Akhilesh Ajnabi & Rani Gupta",
     "genre": "chhath",
@@ -14879,7 +14879,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "94rZK35VHuI",
     "youtubeUrl": "https://www.youtube.com/watch?v=94rZK35VHuI",
     "likeViews": 8.0,
     "duration": "04:26",
@@ -14887,7 +14887,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_5",
     "title": "Chadhte Kartikwa",
     "singer": "Deepak Dildar / Khushboo Uttam / Khushboo Singh",
     "genre": "chhath",
@@ -14897,7 +14897,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "X-x1Tg2IOC8",
     "youtubeUrl": "https://www.youtube.com/watch?v=X-x1Tg2IOC8",
     "likeViews": 25.0,
     "duration": "06:10",
@@ -14905,7 +14905,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_6",
     "title": "Chalali Gaura Chhatwa Kare Naiharwa Ho",
     "singer": "Deepak Dildar / Khushboo Uttam / Khushboo Singh",
     "genre": "chhath",
@@ -14915,7 +14915,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "4ZZSxqj0sCc",
     "youtubeUrl": "https://www.youtube.com/watch?v=4ZZSxqj0sCc",
     "likeViews": 0.0,
     "duration": "07:40",
@@ -14923,7 +14923,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_7",
     "title": "Chhathi Ghate",
     "singer": "Deepak Dildar / Khushboo Uttam / Khushboo Singh",
     "genre": "chhath",
@@ -14933,7 +14933,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "fe-roxi1yK8",
     "youtubeUrl": "https://www.youtube.com/watch?v=fe-roxi1yK8",
     "likeViews": 16.0,
     "duration": "06:16",
@@ -14941,7 +14941,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_8",
     "title": "Ganga Teere Aayi",
     "singer": "Deepak Dildar / Khushboo Uttam / Khushboo Singh",
     "genre": "chhath",
@@ -14951,7 +14951,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "evXtxu9axNY",
     "youtubeUrl": "https://www.youtube.com/watch?v=evXtxu9axNY",
     "likeViews": 9.0,
     "duration": "05:31",
@@ -14959,7 +14959,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_9",
     "title": "Ghat Par Chhodeb Chhur Chhuri Na",
     "singer": "Deepak Dildar / Khushboo Uttam / Khushboo Singh",
     "genre": "chhath",
@@ -14969,7 +14969,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "tkh_fktZiZk",
     "youtubeUrl": "https://www.youtube.com/watch?v=tkh_fktZiZk",
     "likeViews": 5.0,
     "duration": "06:25",
@@ -14977,7 +14977,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_10",
     "title": "Modi Ji Chhth Kare",
     "singer": "Deepak Dildar / Khushboo Uttam / Khushboo Singh",
     "genre": "chhath",
@@ -14987,7 +14987,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pAlM8Vf9tsQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=pAlM8Vf9tsQ",
     "likeViews": 951.0,
     "duration": "05:01",
@@ -14995,7 +14995,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_11",
     "title": "Sab Duppatta Mai Dh La",
     "singer": "Deepak Dildar / Khushboo Uttam / Khushboo Singh",
     "genre": "chhath",
@@ -15005,7 +15005,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "fWHW_xHTdGs",
     "youtubeUrl": "https://www.youtube.com/watch?v=fWHW_xHTdGs",
     "likeViews": 55.0,
     "duration": "06:37",
@@ -15013,7 +15013,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_12",
     "title": "Kelwa Ke Paat Par",
     "singer": "Devi",
     "genre": "chhath",
@@ -15023,7 +15023,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "WsvuH5QO23I",
     "youtubeUrl": "https://www.youtube.com/watch?v=WsvuH5QO23I",
     "likeViews": 146939.0,
     "duration": "08:47",
@@ -15031,7 +15031,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Devi"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_13",
     "title": "Sajal Daura",
     "singer": "Deepak Dildar / Khushboo Uttam / Khushboo Singh",
     "genre": "chhath",
@@ -15041,7 +15041,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "X-x1Tg2IOC8",
     "youtubeUrl": "https://www.youtube.com/watch?v=X-x1Tg2IOC8",
     "likeViews": 25.0,
     "duration": "06:10",
@@ -15049,7 +15049,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_14",
     "title": "Jiya Bhaiya Lakh Barish",
     "singer": "Subhash Kumar Raja",
     "genre": "chhath",
@@ -15059,7 +15059,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "__P4ZcYeKjg",
     "youtubeUrl": "https://www.youtube.com/watch?v=__P4ZcYeKjg",
     "likeViews": 144.0,
     "duration": "09:29",
@@ -15067,7 +15067,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_15",
     "title": "[Album tracklist pending]",
     "singer": "Rakesh Mishra",
     "genre": "chhath",
@@ -15077,7 +15077,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "uml62r1O22w",
     "youtubeUrl": "https://www.youtube.com/watch?v=uml62r1O22w",
     "likeViews": 8644.0,
     "duration": "05:15",
@@ -15085,7 +15085,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_16",
     "title": "Daura Uthai Jaldi Chala Ae Chintu Ke Papa",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15095,7 +15095,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "MtMDzATYIvM",
     "youtubeUrl": "https://www.youtube.com/watch?v=MtMDzATYIvM&list=RDMtMDzATYIvM&start_radio=1",
     "likeViews": 235.0,
     "duration": "04:31",
@@ -15103,7 +15103,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_17",
     "title": "Naihar Me Apana Chhath Kare Ke",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15113,7 +15113,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "KiKyIUSaiAo",
     "youtubeUrl": "https://www.youtube.com/watch?v=KiKyIUSaiAo&list=RDKiKyIUSaiAo&start_radio=1",
     "likeViews": 67.0,
     "duration": "04:22",
@@ -15121,7 +15121,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_18",
     "title": "Sardha Se Kaini Baratiya",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15131,7 +15131,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "xM_jJYjq0dM",
     "youtubeUrl": "https://www.youtube.com/watch?v=xM_jJYjq0dM&list=RDxM_jJYjq0dM&start_radio=1",
     "likeViews": 18.0,
     "duration": "04:31",
@@ -15139,7 +15139,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_19",
     "title": "Baki Aso Hamahu Karab Chhathi Ke Pujanawa",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15149,7 +15149,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "g1VGrz5RcM8",
     "youtubeUrl": "https://www.youtube.com/watch?v=g1VGrz5RcM8&list=RDg1VGrz5RcM8&start_radio=1",
     "likeViews": 6264.0,
     "duration": "05:53",
@@ -15157,7 +15157,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_20",
     "title": "Badi Bhir Hola Chhathi Ghatiya",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15167,7 +15167,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Tls2RPa9eJg",
     "youtubeUrl": "https://www.youtube.com/watch?v=Tls2RPa9eJg&list=RDTls2RPa9eJg&start_radio=1",
     "likeViews": 19400.0,
     "duration": "04:31",
@@ -15175,7 +15175,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_21",
     "title": "Ho Gosaiyan Aaja",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15185,7 +15185,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ULPTmg98i7s",
     "youtubeUrl": "https://www.youtube.com/watch?v=ULPTmg98i7s&list=RDULPTmg98i7s&start_radio=1",
     "likeViews": 19.0,
     "duration": "05:13",
@@ -15193,7 +15193,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_22",
     "title": "Kari Chhathiya Ke Kaise Barat",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15203,7 +15203,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "CR-uR_kFmr8",
     "youtubeUrl": "https://www.youtube.com/watch?v=CR-uR_kFmr8&list=RDCR-uR_kFmr8&start_radio=1",
     "likeViews": 4.0,
     "duration": "04:41",
@@ -15211,7 +15211,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_23",
     "title": "Kekra Laagi Tu Karelu Chhath",
     "singer": "Manoj Tiwari Mridul",
     "genre": "chhath",
@@ -15221,7 +15221,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "oSovT1qp154",
     "youtubeUrl": "https://www.youtube.com/watch?v=oSovT1qp154&t=0s",
     "likeViews": 1439.0,
     "duration": "01:00:06",
@@ -15229,7 +15229,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Manoj Tiwari Mridul"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_24",
     "title": "Kare Chali Chhathi Ke Pujaiya Ye Raja Ji",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15239,7 +15239,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rfFYDVCtYfs",
     "youtubeUrl": "https://www.youtube.com/watch?v=rfFYDVCtYfs&list=RDrfFYDVCtYfs&start_radio=1",
     "likeViews": 166.0,
     "duration": "07:45",
@@ -15247,7 +15247,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_25",
     "title": "Ehe Asisawa Da Chhathi Maai",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15257,7 +15257,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "tGaKsxNDRMM",
     "youtubeUrl": "https://www.youtube.com/watch?v=tGaKsxNDRMM&list=RDtGaKsxNDRMM&start_radio=1",
     "likeViews": 124.0,
     "duration": "05:06",
@@ -15265,7 +15265,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_26",
     "title": "Bajta Aaja Baja Phul Leke Taja Taja",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15275,7 +15275,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "JYQC1-XrOZg",
     "youtubeUrl": "https://www.youtube.com/watch?v=JYQC1-XrOZg&list=RDJYQC1-XrOZg&start_radio=1",
     "likeViews": 9.0,
     "duration": "05:28",
@@ -15283,7 +15283,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_27",
     "title": "Badari Chir Ke Bahari Aai",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15293,7 +15293,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "-7k_zzrz0BM",
     "youtubeUrl": "https://www.youtube.com/watch?v=-7k_zzrz0BM&list=RD-7k_zzrz0BM&start_radio=1",
     "likeViews": 456.0,
     "duration": "04:33",
@@ -15301,7 +15301,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_28",
     "title": "Aaihe Chhatiye Maiya",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15311,7 +15311,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "q17oyM3Br0k",
     "youtubeUrl": "https://www.youtube.com/watch?v=q17oyM3Br0k&list=OLAK5uy_mABfYXIU87lHZesiTDzb-zg-t1qMVmxR8&index=6",
     "likeViews": 0.0,
     "duration": "05:42",
@@ -15319,7 +15319,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_29",
     "title": "Ugi a Suruj Dev Darash Dekhai",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -15329,7 +15329,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "anBORd6VK3k",
     "youtubeUrl": "https://www.youtube.com/watch?v=anBORd6VK3k&list=OLAK5uy_mABfYXIU87lHZesiTDzb-zg-t1qMVmxR8&index=2",
     "likeViews": 2.0,
     "duration": "04:34",
@@ -15337,7 +15337,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_30",
     "title": "Chala Na Tuhu Chhathi Ghat",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -15347,7 +15347,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "IaZMJ0ElxAg",
     "youtubeUrl": "https://www.youtube.com/watch?v=IaZMJ0ElxAg",
     "likeViews": 147.0,
     "duration": "02:48",
@@ -15355,7 +15355,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_31",
     "title": "Chhath Ke Ba Ratiya Saiya",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -15365,7 +15365,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "JGsHIwJjy1Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=JGsHIwJjy1Q",
     "likeViews": 6.0,
     "duration": "04:11",
@@ -15373,7 +15373,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_32",
     "title": "Chhathi Maiya Hokhi Na Sahaiya",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -15383,7 +15383,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "wQjaslBRkE8",
     "youtubeUrl": "https://www.youtube.com/watch?v=wQjaslBRkE8",
     "likeViews": 22.0,
     "duration": "05:46",
@@ -15391,7 +15391,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_33",
     "title": "Chhathi Maiya Tohra Se Mangila",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -15401,7 +15401,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Tm4h1MTdlDg",
     "youtubeUrl": "https://www.youtube.com/watch?v=Tm4h1MTdlDg",
     "likeViews": 24.0,
     "duration": "07:33",
@@ -15409,7 +15409,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_34",
     "title": "Ganga Ji Ke Nirmal Jalwa",
     "singer": "Manoj Tiwari Mridul",
     "genre": "chhath",
@@ -15419,7 +15419,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "oSovT1qp154",
     "youtubeUrl": "https://www.youtube.com/watch?v=oSovT1qp154&t=416s",
     "likeViews": 1439.0,
     "duration": "01:00:06",
@@ -15427,7 +15427,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Manoj Tiwari Mridul"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_35",
     "title": "Desh Ke Bachawa Ae Mai",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -15437,7 +15437,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "D_7LaA8XQrM",
     "youtubeUrl": "https://www.youtube.com/watch?v=D_7LaA8XQrM",
     "likeViews": 2.0,
     "duration": "06:16",
@@ -15445,7 +15445,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_36",
     "title": "Hathwa Me Lele Bani",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -15455,7 +15455,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "SJh-Wwx9Rrc",
     "youtubeUrl": "https://www.youtube.com/watch?v=SJh-Wwx9Rrc",
     "likeViews": 3.0,
     "duration": "04:43",
@@ -15463,7 +15463,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_37",
     "title": "Lagal Bate Manwa Me Aas",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -15473,7 +15473,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "PuUsHviImqM",
     "youtubeUrl": "https://www.youtube.com/watch?v=PuUsHviImqM",
     "likeViews": 0.0,
     "duration": "05:59",
@@ -15481,7 +15481,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_38",
     "title": "Teen Din Barat Karbu",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -15491,7 +15491,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "utQtU4wzYKM",
     "youtubeUrl": "https://www.youtube.com/watch?v=utQtU4wzYKM",
     "likeViews": 11.0,
     "duration": "03:56",
@@ -15499,7 +15499,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_39",
     "title": "Har Lehe Dukhwa Gosaiya Ho",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -15509,7 +15509,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "zE-zelQ_yNw",
     "youtubeUrl": "https://www.youtube.com/watch?v=zE-zelQ_yNw",
     "likeViews": 38.0,
     "duration": "05:31",
@@ -15517,7 +15517,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_40",
     "title": "Hariyar Hariyar Nimbu Nariyarwa",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -15527,7 +15527,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ODVkvxFQwj4",
     "youtubeUrl": "https://www.youtube.com/watch?v=ODVkvxFQwj4",
     "likeViews": 66.0,
     "duration": "05:21",
@@ -15535,7 +15535,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_41",
     "title": "Hum Ta Karab Ho Chhath Tewahar",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -15545,7 +15545,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "UwsUIlhwzp0",
     "youtubeUrl": "https://www.youtube.com/watch?v=UwsUIlhwzp0",
     "likeViews": 2.0,
     "duration": "04:57",
@@ -15553,7 +15553,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_42",
     "title": "Jode Jode Kalsup Leke",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -15563,7 +15563,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "l1PAjuF0lNs",
     "youtubeUrl": "https://www.youtube.com/watch?v=l1PAjuF0lNs",
     "likeViews": 16.0,
     "duration": "05:54",
@@ -15571,7 +15571,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_43",
     "title": "Karjori Kareli Tiwaiya Gohar",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -15581,7 +15581,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "17aOHj93b6E",
     "youtubeUrl": "https://www.youtube.com/watch?v=17aOHj93b6E",
     "likeViews": 21.0,
     "duration": "05:44",
@@ -15589,7 +15589,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_44",
     "title": "Lahura Dewarwa Ke Kanh Kamjor",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -15599,7 +15599,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ppz8_8IoSUQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=ppz8_8IoSUQ",
     "likeViews": 24.0,
     "duration": "05:36",
@@ -15607,7 +15607,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_45",
     "title": "Chhath Maiya Ke Dware",
     "singer": "Manoj Tiwari Mridul",
     "genre": "chhath",
@@ -15617,7 +15617,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "oSovT1qp154",
     "youtubeUrl": "https://www.youtube.com/watch?v=oSovT1qp154&t=719s",
     "likeViews": 1439.0,
     "duration": "01:00:06",
@@ -15625,7 +15625,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Manoj Tiwari Mridul"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_46",
     "title": "Paawan Pavitar Hatte Gangaji Ke Ghatiya",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -15635,7 +15635,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ONWRUghhA7k",
     "youtubeUrl": "https://www.youtube.com/watch?v=ONWRUghhA7k",
     "likeViews": 10.0,
     "duration": "05:07",
@@ -15643,7 +15643,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_47",
     "title": "Ugi Hey Dinanath",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -15653,7 +15653,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "yzjUzK13CF8",
     "youtubeUrl": "https://www.youtube.com/watch?v=yzjUzK13CF8",
     "likeViews": 298.0,
     "duration": "05:24",
@@ -15661,7 +15661,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_48",
     "title": "Yuge Yuge Rakhiha Suhag",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -15671,7 +15671,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "s2ScYJWxLc4",
     "youtubeUrl": "https://www.youtube.com/watch?v=s2ScYJWxLc4",
     "likeViews": 181.0,
     "duration": "04:52",
@@ -15679,7 +15679,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_49",
     "title": "Aragh Ke Aile Bahar",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -15689,7 +15689,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "E-pManyCXa0",
     "youtubeUrl": "https://www.youtube.com/watch?v=E-pManyCXa0",
     "likeViews": 1.0,
     "duration": "03:35",
@@ -15697,7 +15697,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_50",
     "title": "Chhath Je Karaichhe",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -15707,7 +15707,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "5PXzgGuiSA0",
     "youtubeUrl": "https://www.youtube.com/watch?v=5PXzgGuiSA0",
     "likeViews": 17.0,
     "duration": "03:28",
@@ -15715,7 +15715,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_51",
     "title": "Chhathi Maai Ke Baratiya",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -15725,7 +15725,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "a4NywoJDzpw",
     "youtubeUrl": "https://www.youtube.com/watch?v=a4NywoJDzpw",
     "likeViews": 4.0,
     "duration": "04:36",
@@ -15733,7 +15733,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_52",
     "title": "Chhathi Maiya Ke Pujan",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -15743,7 +15743,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "EIdfeepaM4Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=EIdfeepaM4Q",
     "likeViews": 0.0,
     "duration": "07:16",
@@ -15751,7 +15751,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_53",
     "title": "De Do Toy Darshan",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -15761,7 +15761,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "w-Qf8EBSfN0",
     "youtubeUrl": "https://www.youtube.com/watch?v=w-Qf8EBSfN0",
     "likeViews": 0.0,
     "duration": "03:08",
@@ -15769,7 +15769,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_54",
     "title": "He Chhathi Maiya",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -15779,7 +15779,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "CPBM6sZO5WU",
     "youtubeUrl": "https://www.youtube.com/watch?v=CPBM6sZO5WU",
     "likeViews": 25.0,
     "duration": "05:17",
@@ -15787,7 +15787,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_55",
     "title": "Jaibe Hum Ganga Ke Tir",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -15797,7 +15797,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "_cFebo0J8ZQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=_cFebo0J8ZQ",
     "likeViews": 1.0,
     "duration": "03:56",
@@ -15805,7 +15805,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_56",
     "title": "Pahile Pahil Chhathi Maiya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -15815,7 +15815,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "WYkrgIZFcZw",
     "youtubeUrl": "https://www.youtube.com/watch?v=WYkrgIZFcZw",
     "likeViews": 49458.0,
     "duration": "04:51",
@@ -15823,7 +15823,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_57",
     "title": "Kara Sab Chhath Vrat",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -15833,7 +15833,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "vAj40g7YBLk",
     "youtubeUrl": "https://www.youtube.com/watch?v=vAj40g7YBLk",
     "likeViews": 11.0,
     "duration": "03:24",
@@ -15841,7 +15841,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_58",
     "title": "Nadi Hum Nahay Chhiya",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -15851,7 +15851,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "TKgoXXu8iMA",
     "youtubeUrl": "https://www.youtube.com/watch?v=TKgoXXu8iMA",
     "likeViews": 0.0,
     "duration": "05:11",
@@ -15859,7 +15859,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_59",
     "title": "Sugga Marbo Hum Tora",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -15869,7 +15869,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ffKiux0SxaI",
     "youtubeUrl": "https://www.youtube.com/watch?v=ffKiux0SxaI",
     "likeViews": 11.0,
     "duration": "07:20",
@@ -15877,7 +15877,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_60",
     "title": "Uga Ho Suraj Dev",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -15887,7 +15887,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "fd10gLgTf0o",
     "youtubeUrl": "https://www.youtube.com/watch?v=fd10gLgTf0o",
     "likeViews": 6.0,
     "duration": "05:00",
@@ -15895,7 +15895,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_61",
     "title": "Bahangi Uthai La Ae Saiya",
     "singer": "Rahul Ojha & Sai Sumi",
     "genre": "chhath",
@@ -15905,7 +15905,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "OMY_GkLpWS4",
     "youtubeUrl": "https://www.youtube.com/watch?v=OMY_GkLpWS4",
     "likeViews": 1.0,
     "duration": "03:00",
@@ -15913,7 +15913,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_62",
     "title": "Chhathi Mai Ke Ghate",
     "singer": "Rahul Ojha & Sai Sumi",
     "genre": "chhath",
@@ -15923,7 +15923,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "GA6_-j9eiaw",
     "youtubeUrl": "https://www.youtube.com/watch?v=GA6_-j9eiaw",
     "likeViews": 0.0,
     "duration": "04:14",
@@ -15931,7 +15931,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_63",
     "title": "Bana Na Pawan Babu Kahariya",
     "singer": "Pawan Pardeshi & Bijendra Singh",
     "genre": "chhath",
@@ -15941,7 +15941,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "OuUCxcK089I",
     "youtubeUrl": "https://www.youtube.com/watch?v=OuUCxcK089I",
     "likeViews": 56.0,
     "duration": "05:19",
@@ -15949,7 +15949,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_64",
     "title": "Bhukhal Piyasal Aail Bani",
     "singer": "Pawan Pardeshi & Bijendra Singh",
     "genre": "chhath",
@@ -15959,7 +15959,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "y_rBd6GpnLE",
     "youtubeUrl": "https://www.youtube.com/watch?v=y_rBd6GpnLE",
     "likeViews": 19053.0,
     "duration": "06:23",
@@ -15967,7 +15967,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_65",
     "title": "Chhathi Maiya Ke Pujayi",
     "singer": "Pawan Pardeshi & Bijendra Singh",
     "genre": "chhath",
@@ -15977,7 +15977,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "AvqQsWsUd5s",
     "youtubeUrl": "https://www.youtube.com/watch?v=AvqQsWsUd5s",
     "likeViews": 0.0,
     "duration": "06:51",
@@ -15985,7 +15985,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_66",
     "title": "Hamra Aas Lagal Ba",
     "singer": "Pawan Pardeshi & Bijendra Singh",
     "genre": "chhath",
@@ -15995,7 +15995,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7C1-Aa6bVgI",
     "youtubeUrl": "https://www.youtube.com/watch?v=7C1-Aa6bVgI",
     "likeViews": 1.0,
     "duration": "05:11",
@@ -16003,7 +16003,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_67",
     "title": "Kelwa Ke Paat Par",
     "singer": "Devi",
     "genre": "chhath",
@@ -16013,7 +16013,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "WsvuH5QO23I",
     "youtubeUrl": "https://www.youtube.com/watch?v=WsvuH5QO23I",
     "likeViews": 146939.0,
     "duration": "08:47",
@@ -16021,7 +16021,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_68",
     "title": "Rowela Sugwa",
     "singer": "Pawan Pardeshi & Bijendra Singh",
     "genre": "chhath",
@@ -16031,7 +16031,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "E70hgz6aVHM",
     "youtubeUrl": "https://www.youtube.com/watch?v=E70hgz6aVHM",
     "likeViews": 2.0,
     "duration": "07:10",
@@ -16039,7 +16039,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_69",
     "title": "Saiya Bade Bahra",
     "singer": "Pawan Pardeshi & Bijendra Singh",
     "genre": "chhath",
@@ -16049,7 +16049,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0xkqel7sdrQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=0xkqel7sdrQ",
     "likeViews": 0.0,
     "duration": "04:49",
@@ -16057,7 +16057,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_70",
     "title": "Pahile Pahil Chhathi Maiya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -16067,7 +16067,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DG8F-csoRAQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=DG8F-csoRAQ",
     "likeViews": 732860.0,
     "duration": "07:01",
@@ -16075,7 +16075,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_71",
     "title": "Supawo Na Mile Maai",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -16085,7 +16085,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Y--BclhdHJk",
     "youtubeUrl": "https://www.youtube.com/watch?v=Y--BclhdHJk",
     "likeViews": 4950.0,
     "duration": "06:01",
@@ -16093,7 +16093,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_72",
     "title": "Kekra Laagi Tu Karelu Chhath",
     "singer": "Manoj Tiwari Mridul",
     "genre": "chhath",
@@ -16103,7 +16103,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "oSovT1qp154",
     "youtubeUrl": "https://www.youtube.com/watch?v=oSovT1qp154&t=0s",
     "likeViews": 1439.0,
     "duration": "01:00:06",
@@ -16111,7 +16111,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_73",
     "title": "Ganga Ji Ke Nirmal Jalwa",
     "singer": "Manoj Tiwari Mridul",
     "genre": "chhath",
@@ -16121,7 +16121,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "oSovT1qp154",
     "youtubeUrl": "https://www.youtube.com/watch?v=oSovT1qp154&t=416s",
     "likeViews": 1439.0,
     "duration": "01:00:06",
@@ -16129,7 +16129,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_74",
     "title": "Pahile Pahil Chhathi Maiya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -16139,7 +16139,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "WYkrgIZFcZw",
     "youtubeUrl": "https://www.youtube.com/watch?v=WYkrgIZFcZw",
     "likeViews": 49458.0,
     "duration": "04:51",
@@ -16147,7 +16147,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_75",
     "title": "Kelwa Ke Paat Par",
     "singer": "Devi",
     "genre": "chhath",
@@ -16157,7 +16157,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "WsvuH5QO23I",
     "youtubeUrl": "https://www.youtube.com/watch?v=WsvuH5QO23I",
     "likeViews": 146939.0,
     "duration": "08:47",
@@ -16165,7 +16165,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_76",
     "title": "Kekra Laagi Tu Karelu Chhath",
     "singer": "Manoj Tiwari Mridul",
     "genre": "chhath",
@@ -16175,7 +16175,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "oSovT1qp154",
     "youtubeUrl": "https://www.youtube.com/watch?v=oSovT1qp154&t=0s",
     "likeViews": 1439.0,
     "duration": "01:00:06",
@@ -16183,7 +16183,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_77",
     "title": "Ganga Ji Ke Nirmal Jalwa",
     "singer": "Manoj Tiwari Mridul",
     "genre": "chhath",
@@ -16193,7 +16193,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "oSovT1qp154",
     "youtubeUrl": "https://www.youtube.com/watch?v=oSovT1qp154&t=416s",
     "likeViews": 1439.0,
     "duration": "01:00:06",
@@ -16201,7 +16201,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_78",
     "title": "Chhath Maiya Ke Dware",
     "singer": "Manoj Tiwari Mridul",
     "genre": "chhath",
@@ -16211,7 +16211,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "oSovT1qp154",
     "youtubeUrl": "https://www.youtube.com/watch?v=oSovT1qp154&t=719s",
     "likeViews": 1439.0,
     "duration": "01:00:06",
@@ -16219,7 +16219,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_79",
     "title": "Chanwa Tane Ram Charu Bhaiya",
     "singer": "Ajeet Anand",
     "genre": "chhath",
@@ -16229,7 +16229,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "4Q0BvhyOsbs",
     "youtubeUrl": "https://www.youtube.com/watch?v=4Q0BvhyOsbs&list=RD4Q0BvhyOsbs&start_radio=1",
     "likeViews": 712.0,
     "duration": "06:53",
@@ -16237,7 +16237,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_80",
     "title": "Chhathi Mai Ke Sathe",
     "singer": "Mithlesh Raj & Sunil Kumar",
     "genre": "chhath",
@@ -16247,7 +16247,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7BLv7gxSwCc",
     "youtubeUrl": "https://www.youtube.com/watch?v=7BLv7gxSwCc&list=RD7BLv7gxSwCc&start_radio=1",
     "likeViews": 1.0,
     "duration": "03:00",
@@ -16255,7 +16255,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_81",
     "title": "Pire Phool Pire Aangi Aan Diya Piya",
     "singer": "Anju & Mithilesh",
     "genre": "chhath",
@@ -16265,7 +16265,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Maithili",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "g-S7Pk8pqD0",
     "youtubeUrl": "https://www.youtube.com/watch?v=g-S7Pk8pqD0&list=RDg-S7Pk8pqD0&start_radio=1",
     "likeViews": 0.0,
     "duration": "05:16",
@@ -16273,7 +16273,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_82",
     "title": "Pire Saare Pire Aangi Aan Diya Piya",
     "singer": "Anju & Mithilesh",
     "genre": "chhath",
@@ -16283,7 +16283,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Maithili",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "GKRkKDdVZKk",
     "youtubeUrl": "https://www.youtube.com/watch?v=GKRkKDdVZKk&list=RDGKRkKDdVZKk&start_radio=1",
     "likeViews": 0.0,
     "duration": "06:11",
@@ -16291,7 +16291,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_83",
     "title": "Aile Na Piya Pardesiya",
     "singer": "Subhash Kumar Raja",
     "genre": "chhath",
@@ -16301,7 +16301,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DnojD2R3piM",
     "youtubeUrl": "https://www.youtube.com/watch?v=DnojD2R3piM&list=RDDnojD2R3piM&start_radio=1",
     "likeViews": 43.0,
     "duration": "05:42",
@@ -16309,7 +16309,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_84",
     "title": "Chakwa",
     "singer": "Subhash Kumar Raja",
     "genre": "chhath",
@@ -16319,7 +16319,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "vsEBY4KRY8o",
     "youtubeUrl": "https://www.youtube.com/watch?v=vsEBY4KRY8o&list=RDvsEBY4KRY8o&start_radio=1",
     "likeViews": 83.0,
     "duration": "05:45",
@@ -16327,7 +16327,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_85",
     "title": "Jai Betiya Bazaar",
     "singer": "Subhash Kumar Raja",
     "genre": "chhath",
@@ -16337,7 +16337,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "pl55Df4KTsU",
     "youtubeUrl": "https://www.youtube.com/watch?v=pl55Df4KTsU&list=RDpl55Df4KTsU&start_radio=1",
     "likeViews": 32.0,
     "duration": "05:40",
@@ -16345,7 +16345,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_86",
     "title": "Dhan Bhag Baswa Ke",
     "singer": "Subhash Kumar Raja",
     "genre": "chhath",
@@ -16355,7 +16355,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2YOH2K33wPA",
     "youtubeUrl": "https://www.youtube.com/watch?v=2YOH2K33wPA&list=RD2YOH2K33wPA&start_radio=1",
     "likeViews": 31.0,
     "duration": "07:10",
@@ -16363,7 +16363,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_87",
     "title": "Chhath Humho Bhukhal Bani",
     "singer": "Kalpana Pandey",
     "genre": "chhath",
@@ -16373,7 +16373,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "VJW-ZUQGGKQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=VJW-ZUQGGKQ&list=RDVJW-ZUQGGKQ&start_radio=1",
     "likeViews": 1.0,
     "duration": "05:26",
@@ -16381,7 +16381,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_88",
     "title": "Kalsup Chadhaib Ham",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -16391,7 +16391,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Djiu-a-kn38",
     "youtubeUrl": "https://www.youtube.com/watch?v=Djiu-a-kn38&list=OLAK5uy_l6N-Yfj1se_hKmApPnDIZ3Xx3cxxOUBUw&index=4",
     "likeViews": 28099.0,
     "duration": "06:13",
@@ -16399,7 +16399,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_89",
     "title": "Nariyarawa Le Aiha Ae Raja",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -16409,7 +16409,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "yOLVQPjs8fI",
     "youtubeUrl": "https://www.youtube.com/watch?v=yOLVQPjs8fI&list=OLAK5uy_l6N-Yfj1se_hKmApPnDIZ3Xx3cxxOUBUw",
     "likeViews": 20365.0,
     "duration": "04:31",
@@ -16417,7 +16417,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_90",
     "title": "Chhoti Muti Devra Dularua",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -16427,7 +16427,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2C_xg-DY77Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=2C_xg-DY77Q&list=RD2C_xg-DY77Q&start_radio=1",
     "likeViews": 976.0,
     "duration": "05:51",
@@ -16435,7 +16435,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_91",
     "title": "Rakhiha Senura Aawad",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -16445,7 +16445,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "QLmyI1LF0TM",
     "youtubeUrl": "https://www.youtube.com/watch?v=QLmyI1LF0TM&list=OLAK5uy_l6N-Yfj1se_hKmApPnDIZ3Xx3cxxOUBUw&index=2",
     "likeViews": 112.0,
     "duration": "05:48",
@@ -16453,7 +16453,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_92",
     "title": "Jai Ho Ganga Maiya",
     "singer": "Anu Dubey",
     "genre": "chhath",
@@ -16463,7 +16463,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "REarPGuPcwQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=REarPGuPcwQ&list=OLAK5uy_l6N-Yfj1se_hKmApPnDIZ3Xx3cxxOUBUw&index=5",
     "likeViews": 1687.0,
     "duration": "04:33",
@@ -16471,7 +16471,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_93",
     "title": "Naihar Me Apana Chhath Kare Ke",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -16481,7 +16481,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "KiKyIUSaiAo",
     "youtubeUrl": "https://www.youtube.com/watch?v=KiKyIUSaiAo&list=RDKiKyIUSaiAo&start_radio=1",
     "likeViews": 67.0,
     "duration": "04:22",
@@ -16489,7 +16489,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_94",
     "title": "Katik mas chhath kar dhaniya",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -16499,7 +16499,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "z110W955D6E",
     "youtubeUrl": "https://www.youtube.com/watch?v=z110W955D6E&list=RDz110W955D6E&start_radio=1",
     "likeViews": 15871.0,
     "duration": "06:22",
@@ -16507,7 +16507,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_95",
     "title": "Kare Chali Chhathi Ke Pujaiya Ye Raja Ji",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -16517,7 +16517,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rfFYDVCtYfs",
     "youtubeUrl": "https://www.youtube.com/watch?v=rfFYDVCtYfs&list=RDrfFYDVCtYfs&start_radio=1",
     "likeViews": 166.0,
     "duration": "07:45",
@@ -16525,7 +16525,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_96",
     "title": "Ehe Asisawa Da Chhathi Maai",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -16535,7 +16535,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "tGaKsxNDRMM",
     "youtubeUrl": "https://www.youtube.com/watch?v=tGaKsxNDRMM&list=RDtGaKsxNDRMM&start_radio=1",
     "likeViews": 124.0,
     "duration": "05:06",
@@ -16543,7 +16543,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_97",
     "title": "Chala Na Tuhu Chhathi Ghat",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -16553,7 +16553,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "iLX_KjLXTeE",
     "youtubeUrl": "https://www.youtube.com/watch?v=iLX_KjLXTeE&list=RDiLX_KjLXTeE&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:54",
@@ -16561,7 +16561,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_98",
     "title": "Chhath Ke Ba Ratiya Saiya",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -16571,7 +16571,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "i1kRM7rejpU",
     "youtubeUrl": "https://www.youtube.com/watch?v=i1kRM7rejpU",
     "likeViews": 0.0,
     "duration": "04:12",
@@ -16579,7 +16579,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_99",
     "title": "Chhathi Maiya Hokhi Na Sahaiya",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -16589,7 +16589,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "F5pemYEF-GI",
     "youtubeUrl": "https://www.youtube.com/watch?v=F5pemYEF-GI&list=RDF5pemYEF-GI&start_radio=1",
     "likeViews": 11.0,
     "duration": "05:32",
@@ -16597,7 +16597,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_100",
     "title": "Chhathi Maiya Tohra Se Mangila",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -16607,7 +16607,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "OrNn2x5u5EY",
     "youtubeUrl": "https://www.youtube.com/watch?v=OrNn2x5u5EY&list=RDOrNn2x5u5EY&start_radio=1",
     "likeViews": 1.0,
     "duration": "07:34",
@@ -16615,7 +16615,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_101",
     "title": "Desh Ke Bachawa Ae Mai",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -16625,7 +16625,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "WTUWUuidbiI",
     "youtubeUrl": "https://www.youtube.com/watch?v=WTUWUuidbiI&list=OLAK5uy_najshFGmsR4MclW19uBZUWIjbvqQLedn4&index=4",
     "likeViews": 0.0,
     "duration": "06:19",
@@ -16633,7 +16633,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_102",
     "title": "Hathwa Me Lele Bani",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -16643,7 +16643,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "blcFS35HOfE",
     "youtubeUrl": "https://www.youtube.com/watch?v=blcFS35HOfE&list=OLAK5uy_najshFGmsR4MclW19uBZUWIjbvqQLedn4&index=3",
     "likeViews": 0.0,
     "duration": "04:46",
@@ -16651,7 +16651,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_103",
     "title": "Lagal Bate Manwa Me Aas",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -16661,7 +16661,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "PuUsHviImqM",
     "youtubeUrl": "https://www.youtube.com/watch?v=PuUsHviImqM&list=OLAK5uy_najshFGmsR4MclW19uBZUWIjbvqQLedn4&index=7",
     "likeViews": 0.0,
     "duration": "05:59",
@@ -16669,7 +16669,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_104",
     "title": "Teen Din Barat Karbu",
     "singer": "Suman Singh",
     "genre": "chhath",
@@ -16679,7 +16679,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "I7GOGJGn_wA",
     "youtubeUrl": "https://www.youtube.com/watch?v=I7GOGJGn_wA&list=OLAK5uy_najshFGmsR4MclW19uBZUWIjbvqQLedn4",
     "likeViews": 0.0,
     "duration": "03:56",
@@ -16687,7 +16687,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_105",
     "title": "Har Lehe Dukhwa Gosaiya Ho",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -16697,7 +16697,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "zE-zelQ_yNw",
     "youtubeUrl": "https://www.youtube.com/watch?v=zE-zelQ_yNw&list=PLnuurZcelxb-0EWnu6rNokO2rQbVqj4ou&index=2",
     "likeViews": 38.0,
     "duration": "05:31",
@@ -16705,7 +16705,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_106",
     "title": "Hariyar Hariyar Nimbu Nariyarwa",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -16715,7 +16715,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ODVkvxFQwj4",
     "youtubeUrl": "https://www.youtube.com/watch?v=ODVkvxFQwj4&list=PLnuurZcelxb-0EWnu6rNokO2rQbVqj4ou",
     "likeViews": 66.0,
     "duration": "05:21",
@@ -16723,7 +16723,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_107",
     "title": "Hum Ta Karab Ho Chhath Tewahar",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -16733,7 +16733,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nRnCC48R-8M",
     "youtubeUrl": "https://www.youtube.com/watch?v=nRnCC48R-8M&list=PLnuurZcelxb-0EWnu6rNokO2rQbVqj4ou&index=4",
     "likeViews": 22.0,
     "duration": "04:57",
@@ -16741,7 +16741,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_108",
     "title": "Jode Jode Kalsup Leke",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -16751,7 +16751,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "l1PAjuF0lNs",
     "youtubeUrl": "https://www.youtube.com/watch?v=l1PAjuF0lNs&list=PLnuurZcelxb-0EWnu6rNokO2rQbVqj4ou&index=5",
     "likeViews": 16.0,
     "duration": "05:54",
@@ -16759,7 +16759,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_109",
     "title": "Karjori Kareli Tiwaiya Gohar",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -16769,7 +16769,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "17aOHj93b6E",
     "youtubeUrl": "https://www.youtube.com/watch?v=17aOHj93b6E&list=PLnuurZcelxb-0EWnu6rNokO2rQbVqj4ou&index=6",
     "likeViews": 21.0,
     "duration": "05:44",
@@ -16777,7 +16777,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_110",
     "title": "Lahura Dewarwa Ke Kanh Kamjor",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -16787,7 +16787,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "RJa5DjRdvDM",
     "youtubeUrl": "https://www.youtube.com/watch?v=RJa5DjRdvDM&list=PLnuurZcelxb-0EWnu6rNokO2rQbVqj4ou&index=7",
     "likeViews": 32.0,
     "duration": "05:36",
@@ -16795,7 +16795,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_111",
     "title": "Paawan Pavitar Hatte Gangaji Ke Ghatiya",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -16805,7 +16805,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "QoTDloix1hM",
     "youtubeUrl": "https://www.youtube.com/watch?v=QoTDloix1hM&list=PLnuurZcelxb-0EWnu6rNokO2rQbVqj4ou&index=8",
     "likeViews": 11.0,
     "duration": "05:07",
@@ -16813,7 +16813,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_112",
     "title": "Ugi Hey Dinanath",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -16823,7 +16823,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "XgCQSxFUQAw",
     "youtubeUrl": "https://www.youtube.com/watch?v=XgCQSxFUQAw&list=PLnuurZcelxb-0EWnu6rNokO2rQbVqj4ou&index=9",
     "likeViews": 1640.0,
     "duration": "05:54",
@@ -16831,7 +16831,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_113",
     "title": "Yuge Yuge Rakhiha Suhag",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -16841,7 +16841,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "dkD6I25gsGE",
     "youtubeUrl": "https://www.youtube.com/watch?v=dkD6I25gsGE&list=PLnuurZcelxb-0EWnu6rNokO2rQbVqj4ou&index=10",
     "likeViews": 318.0,
     "duration": "04:52",
@@ -16849,7 +16849,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_114",
     "title": "Aragh Ke Aile Bahar",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -16859,7 +16859,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "E-pManyCXa0",
     "youtubeUrl": "https://www.youtube.com/watch?v=E-pManyCXa0&list=OLAK5uy_lpd2ATQDLNbVjdaataeItlEn8Lom6oPmo",
     "likeViews": 1.0,
     "duration": "03:35",
@@ -16867,7 +16867,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_115",
     "title": "Chhath Je Karaichhe",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -16877,7 +16877,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "VtcMNCPL6eQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=VtcMNCPL6eQ&list=OLAK5uy_lpd2ATQDLNbVjdaataeItlEn8Lom6oPmo&index=2",
     "likeViews": 0.0,
     "duration": "03:25",
@@ -16885,7 +16885,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_116",
     "title": "Chhathi Maai Ke Baratiya",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -16895,7 +16895,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6shMNKMc7lI",
     "youtubeUrl": "https://www.youtube.com/watch?v=6shMNKMc7lI&list=OLAK5uy_lpd2ATQDLNbVjdaataeItlEn8Lom6oPmo&index=3",
     "likeViews": 0.0,
     "duration": "04:35",
@@ -16903,7 +16903,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_117",
     "title": "Chhathi Maiya Ke Pujan",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -16913,7 +16913,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "DREjuMi0vKg",
     "youtubeUrl": "https://www.youtube.com/watch?v=DREjuMi0vKg&list=RDDREjuMi0vKg&start_radio=1",
     "likeViews": 18.0,
     "duration": "06:48",
@@ -16921,7 +16921,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_118",
     "title": "De Do Toy Darshan",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -16931,7 +16931,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3H_HhiGSCYg",
     "youtubeUrl": "https://www.youtube.com/watch?v=3H_HhiGSCYg&list=OLAK5uy_lpd2ATQDLNbVjdaataeItlEn8Lom6oPmo&index=4",
     "likeViews": 0.0,
     "duration": "03:05",
@@ -16939,7 +16939,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_119",
     "title": "He Chhathi Maiya",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -16949,7 +16949,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3rD9aNQIMk0",
     "youtubeUrl": "https://www.youtube.com/watch?v=3rD9aNQIMk0&list=OLAK5uy_lpd2ATQDLNbVjdaataeItlEn8Lom6oPmo&index=5",
     "likeViews": 0.0,
     "duration": "04:16",
@@ -16957,7 +16957,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_120",
     "title": "Jaibe Hum Ganga Ke Tir",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -16967,7 +16967,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "uFObkC8kmJ0",
     "youtubeUrl": "https://www.youtube.com/watch?v=uFObkC8kmJ0&list=OLAK5uy_lpd2ATQDLNbVjdaataeItlEn8Lom6oPmo&index=6",
     "likeViews": 0.0,
     "duration": "03:52",
@@ -16975,7 +16975,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_121",
     "title": "Kara Sab Chhath Vrat",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -16985,7 +16985,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "YlazbbpSv5Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=YlazbbpSv5Q&list=OLAK5uy_lpd2ATQDLNbVjdaataeItlEn8Lom6oPmo&index=7",
     "likeViews": 0.0,
     "duration": "03:24",
@@ -16993,7 +16993,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_122",
     "title": "Nadi Hum Nahay Chhiya",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -17003,7 +17003,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "TKgoXXu8iMA",
     "youtubeUrl": "https://www.youtube.com/watch?v=TKgoXXu8iMA&list=OLAK5uy_lpd2ATQDLNbVjdaataeItlEn8Lom6oPmo&index=8",
     "likeViews": 0.0,
     "duration": "05:11",
@@ -17011,7 +17011,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_123",
     "title": "Sugga Marbo Hum Tora",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -17021,7 +17021,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Yyq-gggKb0M",
     "youtubeUrl": "https://www.youtube.com/watch?v=Yyq-gggKb0M&list=OLAK5uy_lpd2ATQDLNbVjdaataeItlEn8Lom6oPmo&index=9",
     "likeViews": 0.0,
     "duration": "07:18",
@@ -17029,7 +17029,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_124",
     "title": "Uga Ho Suraj Dev",
     "singer": "Tripti Shakya & Trilok Pridarshi",
     "genre": "chhath",
@@ -17039,7 +17039,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Angika",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "kiKCjrSnvbw",
     "youtubeUrl": "https://www.youtube.com/watch?v=kiKCjrSnvbw&list=OLAK5uy_lpd2ATQDLNbVjdaataeItlEn8Lom6oPmo&index=10",
     "likeViews": 0.0,
     "duration": "04:59",
@@ -17047,7 +17047,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_125",
     "title": "Bahangi Uthai La Ae Saiya",
     "singer": "Rahul Ojha & Sai Sumi",
     "genre": "chhath",
@@ -17057,7 +17057,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "OMY_GkLpWS4",
     "youtubeUrl": "https://www.youtube.com/watch?v=OMY_GkLpWS4&list=RDOMY_GkLpWS4&start_radio=1",
     "likeViews": 1.0,
     "duration": "03:00",
@@ -17065,7 +17065,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_126",
     "title": "Chhathi Mai Ke Ghate",
     "singer": "Rahul Ojha & Sai Sumi",
     "genre": "chhath",
@@ -17075,7 +17075,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "GA6_-j9eiaw",
     "youtubeUrl": "https://www.youtube.com/watch?v=GA6_-j9eiaw&list=RDGA6_-j9eiaw&start_radio=1",
     "likeViews": 0.0,
     "duration": "04:14",
@@ -17083,7 +17083,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_127",
     "title": "Bana Na Pawan Babu Kahariya",
     "singer": "Pawan Pardeshi & Bijendra Singh",
     "genre": "chhath",
@@ -17093,7 +17093,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "nGoLWC7Xxb8",
     "youtubeUrl": "https://www.youtube.com/watch?v=nGoLWC7Xxb8&list=OLAK5uy_lDM_LaFqMa5ruRRSDr1a8RpgqFkqdYFZQ",
     "likeViews": 0.0,
     "duration": "04:57",
@@ -17101,7 +17101,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_128",
     "title": "Bhukhal Piyasal Aail Bani",
     "singer": "Pawan Pardeshi & Bijendra Singh",
     "genre": "chhath",
@@ -17111,7 +17111,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "8_dIPfMzCoY",
     "youtubeUrl": "https://www.youtube.com/watch?v=8_dIPfMzCoY&list=OLAK5uy_lDM_LaFqMa5ruRRSDr1a8RpgqFkqdYFZQ&index=3",
     "likeViews": 0.0,
     "duration": "04:38",
@@ -17119,7 +17119,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_129",
     "title": "Chhathi Maiya Ke Pujayi",
     "singer": "Pawan Pardeshi & Bijendra Singh",
     "genre": "chhath",
@@ -17129,7 +17129,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "AvqQsWsUd5s",
     "youtubeUrl": "https://www.youtube.com/watch?v=AvqQsWsUd5s&list=OLAK5uy_lDM_LaFqMa5ruRRSDr1a8RpgqFkqdYFZQ&index=5",
     "likeViews": 0.0,
     "duration": "06:51",
@@ -17137,7 +17137,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_130",
     "title": "Hamra Aas Lagal Ba",
     "singer": "Pawan Pardeshi & Bijendra Singh",
     "genre": "chhath",
@@ -17147,7 +17147,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7C1-Aa6bVgI",
     "youtubeUrl": "https://www.youtube.com/watch?v=7C1-Aa6bVgI&list=OLAK5uy_lDM_LaFqMa5ruRRSDr1a8RpgqFkqdYFZQ&index=6",
     "likeViews": 1.0,
     "duration": "05:11",
@@ -17155,7 +17155,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_131",
     "title": "Rowela Sugwa",
     "singer": "Pawan Pardeshi & Bijendra Singh",
     "genre": "chhath",
@@ -17165,7 +17165,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "E70hgz6aVHM",
     "youtubeUrl": "https://www.youtube.com/watch?v=E70hgz6aVHM&list=OLAK5uy_lDM_LaFqMa5ruRRSDr1a8RpgqFkqdYFZQ&index=2",
     "likeViews": 2.0,
     "duration": "07:10",
@@ -17173,7 +17173,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_132",
     "title": "Saiya Bade Bahra",
     "singer": "Pawan Pardeshi & Bijendra Singh",
     "genre": "chhath",
@@ -17183,7 +17183,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0xkqel7sdrQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=0xkqel7sdrQ&list=OLAK5uy_lDM_LaFqMa5ruRRSDr1a8RpgqFkqdYFZQ&index=4",
     "likeViews": 0.0,
     "duration": "04:49",
@@ -17191,7 +17191,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_133",
     "title": "Pahile Pahil Chhathi Maiya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -17201,7 +17201,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6nPhZkZF4kk",
     "youtubeUrl": "https://www.youtube.com/watch?v=6nPhZkZF4kk&list=RD6nPhZkZF4kk&start_radio=1",
     "likeViews": 4576.0,
     "duration": "04:51",
@@ -17209,7 +17209,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2016_134",
     "title": "Supawo Na Mile Maai",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -17219,7 +17219,7 @@ export const BHOJPURI_SONGS = [
     "year": 2016,
     "language": "Bhojpuri",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "KAqVRU2tqC4",
     "youtubeUrl": "https://www.youtube.com/watch?v=KAqVRU2tqC4&list=RDKAqVRU2tqC4&start_radio=1",
     "likeViews": 285.0,
     "duration": "05:25",
@@ -17227,7 +17227,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2017_1",
     "title": "Sakal Jagtarini Hey Chhathi Mata",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -17237,7 +17237,7 @@ export const BHOJPURI_SONGS = [
     "year": 2017,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "gDfLtZyeRCA",
     "youtubeUrl": "https://www.youtube.com/watch?v=gDfLtZyeRCA&t=8s",
     "likeViews": 1795.0,
     "duration": "01:00:05",
@@ -17245,7 +17245,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2017_2",
     "title": "Baat Ghaat Saji Gail Aay He",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -17255,7 +17255,7 @@ export const BHOJPURI_SONGS = [
     "year": 2017,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "gDfLtZyeRCA",
     "youtubeUrl": "https://www.youtube.com/watch?v=gDfLtZyeRCA&t=246s",
     "likeViews": 1795.0,
     "duration": "01:00:05",
@@ -17263,7 +17263,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2017_3",
     "title": "Sakal Jagtarini Hey Chhathi Mata",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -17273,7 +17273,7 @@ export const BHOJPURI_SONGS = [
     "year": 2017,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "gDfLtZyeRCA",
     "youtubeUrl": "https://www.youtube.com/watch?v=gDfLtZyeRCA&t=8s",
     "likeViews": 1795.0,
     "duration": "01:00:05",
@@ -17281,7 +17281,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2017_4",
     "title": "Baat Ghaat Saji Gail Aay He",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -17291,7 +17291,7 @@ export const BHOJPURI_SONGS = [
     "year": 2017,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "gDfLtZyeRCA",
     "youtubeUrl": "https://www.youtube.com/watch?v=gDfLtZyeRCA&t=246s",
     "likeViews": 1795.0,
     "duration": "01:00:05",
@@ -17299,7 +17299,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2017_5",
     "title": "Uga Ho Suruj Dev",
     "singer": "Devi",
     "genre": "chhath",
@@ -17309,7 +17309,7 @@ export const BHOJPURI_SONGS = [
     "year": 2017,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "3HmwKVX3tiI",
     "youtubeUrl": "https://www.youtube.com/watch?v=3HmwKVX3tiI&list=RD3HmwKVX3tiI&start_radio=1",
     "likeViews": 84604.0,
     "duration": "08:19",
@@ -17317,7 +17317,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2018_1",
     "title": "Ghat Lela Chhek Ho",
     "singer": "Ankush Raja",
     "genre": "chhath",
@@ -17327,7 +17327,7 @@ export const BHOJPURI_SONGS = [
     "year": 2018,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "H4iZN0ixF2E",
     "youtubeUrl": "https://www.youtube.com/watch?v=H4iZN0ixF2E",
     "likeViews": 15972.0,
     "duration": "03:33",
@@ -17335,7 +17335,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Ankush Raja"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2018_2",
     "title": "Nirdhan Tiwaiya",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -17345,7 +17345,7 @@ export const BHOJPURI_SONGS = [
     "year": 2018,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Ashish",
-    "youtubeId": NaN,
+    "youtubeId": "Wh5FUqspMtU",
     "youtubeUrl": "https://www.youtube.com/watch?v=Wh5FUqspMtU",
     "likeViews": 5347.0,
     "duration": "03:56",
@@ -17353,7 +17353,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Ritesh Pandey"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2018_3",
     "title": "Koshiya Kahma Me Jaye",
     "singer": "Shilpi Raj",
     "genre": "chhath",
@@ -17363,7 +17363,7 @@ export const BHOJPURI_SONGS = [
     "year": 2018,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Bajrangi Ji",
-    "youtubeId": NaN,
+    "youtubeId": "KVJGQengAVQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=KVJGQengAVQ",
     "likeViews": 3460.0,
     "duration": "05:37",
@@ -17371,7 +17371,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Shilpi Raj"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2018_4",
     "title": "Chanani Taane Chalale",
     "singer": "Devi",
     "genre": "chhath",
@@ -17381,7 +17381,7 @@ export const BHOJPURI_SONGS = [
     "year": 2018,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "FFqLYioLAQE",
     "youtubeUrl": "https://www.youtube.com/watch?v=FFqLYioLAQE&t=536s",
     "likeViews": 184563.0,
     "duration": "48:03",
@@ -17389,7 +17389,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Devi"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2018_5",
     "title": "Ghat Lela Chhek Ho",
     "singer": "Ankush Raja",
     "genre": "chhath",
@@ -17399,7 +17399,7 @@ export const BHOJPURI_SONGS = [
     "year": 2018,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "H4iZN0ixF2E",
     "youtubeUrl": "https://www.youtube.com/watch?v=H4iZN0ixF2E",
     "likeViews": 15972.0,
     "duration": "03:33",
@@ -17407,7 +17407,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2018_6",
     "title": "Nirdhan Tiwaiya",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -17417,7 +17417,7 @@ export const BHOJPURI_SONGS = [
     "year": 2018,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Wh5FUqspMtU",
     "youtubeUrl": "https://www.youtube.com/watch?v=Wh5FUqspMtU",
     "likeViews": 5347.0,
     "duration": "03:56",
@@ -17425,7 +17425,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2018_7",
     "title": "Koshiya Kahma Me Jaye",
     "singer": "Shilpi Raj",
     "genre": "chhath",
@@ -17435,7 +17435,7 @@ export const BHOJPURI_SONGS = [
     "year": 2018,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "KVJGQengAVQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=KVJGQengAVQ",
     "likeViews": 3460.0,
     "duration": "05:37",
@@ -17443,7 +17443,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2018_8",
     "title": "Chanani Taane Chalale",
     "singer": "Devi",
     "genre": "chhath",
@@ -17453,7 +17453,7 @@ export const BHOJPURI_SONGS = [
     "year": 2018,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "FFqLYioLAQE",
     "youtubeUrl": "https://www.youtube.com/watch?v=FFqLYioLAQE&t=536s",
     "likeViews": 184563.0,
     "duration": "48:03",
@@ -17461,7 +17461,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2018_9",
     "title": "Ghat Lela Chhek Ho",
     "singer": "Ankush Raja",
     "genre": "chhath",
@@ -17471,7 +17471,7 @@ export const BHOJPURI_SONGS = [
     "year": 2018,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "H4iZN0ixF2E",
     "youtubeUrl": "https://www.youtube.com/watch?v=H4iZN0ixF2E",
     "likeViews": 15972.0,
     "duration": "03:33",
@@ -17479,7 +17479,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2018_10",
     "title": "Nirdhan Tiwaiya",
     "singer": "Ritesh Pandey",
     "genre": "chhath",
@@ -17489,7 +17489,7 @@ export const BHOJPURI_SONGS = [
     "year": 2018,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Ashish",
-    "youtubeId": NaN,
+    "youtubeId": "Wh5FUqspMtU",
     "youtubeUrl": "https://www.youtube.com/watch?v=Wh5FUqspMtU",
     "likeViews": 5347.0,
     "duration": "03:56",
@@ -17497,7 +17497,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2018_11",
     "title": "Koshiya Kahma Me Jaye",
     "singer": "Shilpi Raj",
     "genre": "chhath",
@@ -17507,7 +17507,7 @@ export const BHOJPURI_SONGS = [
     "year": 2018,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Bajrangi Ji",
-    "youtubeId": NaN,
+    "youtubeId": "KVJGQengAVQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=KVJGQengAVQ",
     "likeViews": 3460.0,
     "duration": "05:37",
@@ -17515,7 +17515,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2018_12",
     "title": "Chanani Taane Chalale",
     "singer": "Devi",
     "genre": "chhath",
@@ -17525,7 +17525,7 @@ export const BHOJPURI_SONGS = [
     "year": 2018,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "FFqLYioLAQE",
     "youtubeUrl": "https://www.youtube.com/watch?v=FFqLYioLAQE&t=536s",
     "likeViews": 184563.0,
     "duration": "48:03",
@@ -17533,7 +17533,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2019_1",
     "title": "Ugi he suruj dev",
     "singer": "Ranjana Singh",
     "genre": "chhath",
@@ -17543,7 +17543,7 @@ export const BHOJPURI_SONGS = [
     "year": 2019,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Bipin Bihari",
-    "youtubeId": NaN,
+    "youtubeId": "TofF3Mhcyw8",
     "youtubeUrl": "https://www.youtube.com/watch?v=TofF3Mhcyw8",
     "likeViews": 96445.0,
     "duration": "07:17",
@@ -17551,7 +17551,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Ranjana Singh"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2019_2",
     "title": "Chhath Puja (Title Song)",
     "singer": "Priyanka Singh",
     "genre": "chhath",
@@ -17561,7 +17561,7 @@ export const BHOJPURI_SONGS = [
     "year": 2019,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Karan Wahi",
-    "youtubeId": NaN,
+    "youtubeId": "JoZ_n4QKkiw",
     "youtubeUrl": "https://www.youtube.com/watch?v=JoZ_n4QKkiw",
     "likeViews": 2167.0,
     "duration": "04:20",
@@ -17569,7 +17569,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Priyanka Singh"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2019_3",
     "title": "Ugi he suruj dev",
     "singer": "Ranjana Singh",
     "genre": "chhath",
@@ -17579,7 +17579,7 @@ export const BHOJPURI_SONGS = [
     "year": 2019,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "TofF3Mhcyw8",
     "youtubeUrl": "https://www.youtube.com/watch?v=TofF3Mhcyw8",
     "likeViews": 96445.0,
     "duration": "07:17",
@@ -17587,7 +17587,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2019_4",
     "title": "Chhath Puja (Title Song)",
     "singer": "Priyanka Singh",
     "genre": "chhath",
@@ -17597,7 +17597,7 @@ export const BHOJPURI_SONGS = [
     "year": 2019,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "JoZ_n4QKkiw",
     "youtubeUrl": "https://www.youtube.com/watch?v=JoZ_n4QKkiw",
     "likeViews": 2167.0,
     "duration": "04:20",
@@ -17605,7 +17605,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2019_5",
     "title": "Ugi he suruj dev",
     "singer": "Ranjana Singh",
     "genre": "chhath",
@@ -17615,7 +17615,7 @@ export const BHOJPURI_SONGS = [
     "year": 2019,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Bipin Bihari",
-    "youtubeId": NaN,
+    "youtubeId": "TofF3Mhcyw8",
     "youtubeUrl": "https://www.youtube.com/watch?v=TofF3Mhcyw8",
     "likeViews": 96445.0,
     "duration": "07:17",
@@ -17623,7 +17623,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2019_6",
     "title": "Chhath Puja (Title Song)",
     "singer": "Priyanka Singh",
     "genre": "chhath",
@@ -17633,7 +17633,7 @@ export const BHOJPURI_SONGS = [
     "year": 2019,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Karan Wahi",
-    "youtubeId": NaN,
+    "youtubeId": "JoZ_n4QKkiw",
     "youtubeUrl": "https://www.youtube.com/watch?v=JoZ_n4QKkiw",
     "likeViews": 2167.0,
     "duration": "04:20",
@@ -17641,7 +17641,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_1",
     "title": "Nevta Deke Bolawale Baani",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -17651,7 +17651,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Rajesh Gupta",
-    "youtubeId": NaN,
+    "youtubeId": "tS8Z9Lj8O30",
     "youtubeUrl": "https://www.youtube.com/watch?v=tS8Z9Lj8O30",
     "likeViews": 2160.0,
     "duration": "01:00:08",
@@ -17659,7 +17659,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Kalpana"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_2",
     "title": "Kadua Bhaat Ge Rania",
     "singer": "Gunjan Singh, Antra Singh Priyanka",
     "genre": "chhath",
@@ -17669,7 +17669,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rxR9jEyg5pQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=rxR9jEyg5pQ",
     "likeViews": 38413.0,
     "duration": "03:54",
@@ -17677,7 +17677,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_3",
     "title": "Rakho Sabhe Chhath Ke Barat",
     "singer": "Kavita Paudwal",
     "genre": "chhath",
@@ -17687,7 +17687,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "iTffu3kgU7s",
     "youtubeUrl": "https://www.youtube.com/watch?v=iTffu3kgU7s",
     "likeViews": 637.0,
     "duration": "03:39",
@@ -17695,7 +17695,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_4",
     "title": "Marbo Re Sugwa Dhanukh",
     "singer": "Anuradha Paudwal, Kavita Paudwal",
     "genre": "chhath",
@@ -17705,7 +17705,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "lxjgHAeABmc",
     "youtubeUrl": "https://www.youtube.com/watch?v=lxjgHAeABmc&t=335s",
     "likeViews": 46770.0,
     "duration": "40:05",
@@ -17713,7 +17713,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_5",
     "title": "Aso Chhath Karab Naihar Mein",
     "singer": "Ankush Raja, Shilpi Raj",
     "genre": "chhath",
@@ -17723,7 +17723,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "TZC1_Og2Pm0",
     "youtubeUrl": "https://www.youtube.com/watch?v=TZC1_Og2Pm0",
     "likeViews": 143978.0,
     "duration": "04:12",
@@ -17731,7 +17731,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Ankush Raja"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_6",
     "title": "Kadua Bhaat Ge Rania",
     "singer": "Gunjan Singh, Antra Singh Priyanka",
     "genre": "chhath",
@@ -17741,7 +17741,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "rxR9jEyg5pQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=rxR9jEyg5pQ",
     "likeViews": 38413.0,
     "duration": "03:54",
@@ -17749,7 +17749,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Gunjan Singh, Antra Singh Priyanka"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_7",
     "title": "Rakho Sabhe Chhath Ke Barat",
     "singer": "Kavita Paudwal",
     "genre": "chhath",
@@ -17759,7 +17759,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "iTffu3kgU7s",
     "youtubeUrl": "https://www.youtube.com/watch?v=iTffu3kgU7s",
     "likeViews": 637.0,
     "duration": "03:39",
@@ -17767,7 +17767,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Kavita Paudwal"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_8",
     "title": "Marbo Re Sugwa Dhanukh",
     "singer": "Anuradha Paudwal, Kavita Paudwal",
     "genre": "chhath",
@@ -17777,7 +17777,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Surinder Kohli",
-    "youtubeId": NaN,
+    "youtubeId": "lxjgHAeABmc",
     "youtubeUrl": "https://www.youtube.com/watch?v=lxjgHAeABmc&t=335s",
     "likeViews": 46770.0,
     "duration": "40:05",
@@ -17785,7 +17785,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Anuradha Paudwal, Kavita Paudwal"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_9",
     "title": "Nevta Deke Bolawale Baani",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -17795,7 +17795,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "tS8Z9Lj8O30",
     "youtubeUrl": "https://www.youtube.com/watch?v=tS8Z9Lj8O30",
     "likeViews": 2160.0,
     "duration": "01:00:08",
@@ -17803,7 +17803,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_10",
     "title": "Aso Chhath Karab Naihar Mein",
     "singer": "Ankush Raja, Shilpi Raj",
     "genre": "chhath",
@@ -17813,7 +17813,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "TZC1_Og2Pm0",
     "youtubeUrl": "https://www.youtube.com/watch?v=TZC1_Og2Pm0",
     "likeViews": 143978.0,
     "duration": "04:12",
@@ -17821,7 +17821,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_11",
     "title": "Nevta Deke Bolawale Baani",
     "singer": "Kalpana",
     "genre": "chhath",
@@ -17831,7 +17831,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Rajesh Gupta",
-    "youtubeId": NaN,
+    "youtubeId": "tS8Z9Lj8O30",
     "youtubeUrl": "https://www.youtube.com/watch?v=tS8Z9Lj8O30",
     "likeViews": 2160.0,
     "duration": "01:00:08",
@@ -17839,7 +17839,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_12",
     "title": "Aso Chhath Karab Naihar Mein",
     "singer": "Ankush Raja, Shilpi Raj",
     "genre": "chhath",
@@ -17849,7 +17849,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "TZC1_Og2Pm0",
     "youtubeUrl": "https://www.youtube.com/watch?v=TZC1_Og2Pm0",
     "likeViews": 143978.0,
     "duration": "04:12",
@@ -17857,7 +17857,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_13",
     "title": "Kadua Bhaat Ge Rania",
     "singer": "Gunjan Singh, Antra Singh Priyanka",
     "genre": "chhath",
@@ -17867,7 +17867,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "rxR9jEyg5pQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=rxR9jEyg5pQ",
     "likeViews": 38413.0,
     "duration": "03:54",
@@ -17875,7 +17875,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_14",
     "title": "Rakho Sabhe Chhath Ke Barat",
     "singer": "Kavita Paudwal",
     "genre": "chhath",
@@ -17885,7 +17885,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "iTffu3kgU7s",
     "youtubeUrl": "https://www.youtube.com/watch?v=iTffu3kgU7s",
     "likeViews": 637.0,
     "duration": "03:39",
@@ -17893,7 +17893,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2020_15",
     "title": "Marbo Re Sugwa Dhanukh",
     "singer": "Anuradha Paudwal, Kavita Paudwal",
     "genre": "chhath",
@@ -17903,7 +17903,7 @@ export const BHOJPURI_SONGS = [
     "year": 2020,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Surinder Kohli",
-    "youtubeId": NaN,
+    "youtubeId": "lxjgHAeABmc",
     "youtubeUrl": "https://www.youtube.com/watch?v=lxjgHAeABmc&t=335s",
     "likeViews": 46770.0,
     "duration": "40:05",
@@ -17911,7 +17911,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_1",
     "title": "Ghutti Bhar Mor Dhoti Bhije",
     "singer": "Khesari Lal Yadav, Shilpi Raj",
     "genre": "chhath",
@@ -17921,7 +17921,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "IKAJdLAviYw",
     "youtubeUrl": "https://www.youtube.com/watch?v=IKAJdLAviYw",
     "likeViews": 345028.0,
     "duration": "03:54",
@@ -17929,7 +17929,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Khesari Lal Yadav, Chandni Singh"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_2",
     "title": "Jai Chhath Maiya",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -17939,7 +17939,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "RDEGuUGZQ1Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=RDEGuUGZQ1Q",
     "likeViews": 250.0,
     "duration": "04:20",
@@ -17947,7 +17947,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_3",
     "title": "Kerwa Je Farela Ghawad Se",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -17957,7 +17957,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Guy4cYHNEEM",
     "youtubeUrl": "https://www.youtube.com/watch?v=Guy4cYHNEEM",
     "likeViews": 201.0,
     "duration": "04:22",
@@ -17965,7 +17965,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_4",
     "title": "Beta De Da Ye Maai",
     "singer": "Ankush Raja, Kajal Raghwani",
     "genre": "chhath",
@@ -17975,7 +17975,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "eUIlTcL9UsE",
     "youtubeUrl": "https://www.youtube.com/watch?v=eUIlTcL9UsE",
     "likeViews": 136672.0,
     "duration": "06:17",
@@ -17983,7 +17983,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_5",
     "title": "Aiha Sasurari Jija Ji",
     "singer": "Ankush Raja, Shilpi Raj",
     "genre": "chhath",
@@ -17993,7 +17993,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "7mbNrE7tdXQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=7mbNrE7tdXQ",
     "likeViews": 307837.0,
     "duration": "03:46",
@@ -18001,7 +18001,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_6",
     "title": "Chhath Ke Barat Kaise Saiya Hola",
     "singer": "Golu Gold, Antra Singh Priyanka",
     "genre": "chhath",
@@ -18011,7 +18011,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "QFogw-VugbU",
     "youtubeUrl": "https://www.youtube.com/watch?v=QFogw-VugbU",
     "likeViews": 8299.0,
     "duration": "05:04",
@@ -18019,7 +18019,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_7",
     "title": "Kholi Najariya",
     "singer": "Shilpi Raj, Neelam Giri",
     "genre": "chhath",
@@ -18029,7 +18029,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "_4zhuXzbGes",
     "youtubeUrl": "https://www.youtube.com/watch?v=_4zhuXzbGes",
     "likeViews": 58017.0,
     "duration": "03:35",
@@ -18037,7 +18037,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_8",
     "title": "Bedi Ready Kaila Na",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -18047,7 +18047,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "_tq9B22YTDg",
     "youtubeUrl": "https://www.youtube.com/watch?v=_tq9B22YTDg",
     "likeViews": 20472.0,
     "duration": "03:21",
@@ -18055,7 +18055,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_9",
     "title": "Jai Chhath Maiya",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -18065,7 +18065,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "RDEGuUGZQ1Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=RDEGuUGZQ1Q",
     "likeViews": 250.0,
     "duration": "04:20",
@@ -18073,7 +18073,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Manoj Tiwari"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_10",
     "title": "Kerwa Je Farela Ghawad Se",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -18083,7 +18083,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Guy4cYHNEEM",
     "youtubeUrl": "https://www.youtube.com/watch?v=Guy4cYHNEEM",
     "likeViews": 201.0,
     "duration": "04:22",
@@ -18091,7 +18091,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Manoj Tiwari"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_11",
     "title": "Beta De Da Ye Maai",
     "singer": "Ankush Raja, Kajal Raghwani",
     "genre": "chhath",
@@ -18101,7 +18101,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "eUIlTcL9UsE",
     "youtubeUrl": "https://www.youtube.com/watch?v=eUIlTcL9UsE",
     "likeViews": 136672.0,
     "duration": "06:17",
@@ -18109,7 +18109,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Ankush Raja, Kajal Raghwani"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_12",
     "title": "Aiha Sasurari Jija Ji",
     "singer": "Ankush Raja, Shilpi Raj",
     "genre": "chhath",
@@ -18119,7 +18119,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "7mbNrE7tdXQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=7mbNrE7tdXQ",
     "likeViews": 307837.0,
     "duration": "03:46",
@@ -18127,7 +18127,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Ankush Raja"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_13",
     "title": "Chhath Ke Barat Kaise Saiya Hola",
     "singer": "Golu Gold, Antra Singh Priyanka",
     "genre": "chhath",
@@ -18137,7 +18137,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "QFogw-VugbU",
     "youtubeUrl": "https://www.youtube.com/watch?v=QFogw-VugbU",
     "likeViews": 8299.0,
     "duration": "05:04",
@@ -18145,7 +18145,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Antra Singh Priyanka"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_14",
     "title": "Kholi Najariya",
     "singer": "Shilpi Raj, Neelam Giri",
     "genre": "chhath",
@@ -18155,7 +18155,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "_4zhuXzbGes",
     "youtubeUrl": "https://www.youtube.com/watch?v=_4zhuXzbGes",
     "likeViews": 58017.0,
     "duration": "03:35",
@@ -18163,7 +18163,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Shilpi Raj, Neelam Giri"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_15",
     "title": "Bedi Ready Kaila Na",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -18173,7 +18173,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "_tq9B22YTDg",
     "youtubeUrl": "https://www.youtube.com/watch?v=_tq9B22YTDg",
     "likeViews": 20472.0,
     "duration": "03:21",
@@ -18181,7 +18181,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Pramod Premi Yadav"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_16",
     "title": "Ghutti Bhar Mor Dhoti Bhije",
     "singer": "Khesari Lal Yadav, Shilpi Raj",
     "genre": "chhath",
@@ -18191,7 +18191,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "IKAJdLAviYw",
     "youtubeUrl": "https://www.youtube.com/watch?v=IKAJdLAviYw",
     "likeViews": 345028.0,
     "duration": "03:54",
@@ -18199,7 +18199,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_17",
     "title": "Ghutti Bhar Mor Dhoti Bhije",
     "singer": "Khesari Lal Yadav, Shilpi Raj",
     "genre": "chhath",
@@ -18209,7 +18209,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "IKAJdLAviYw",
     "youtubeUrl": "https://www.youtube.com/watch?v=IKAJdLAviYw",
     "likeViews": 345028.0,
     "duration": "03:54",
@@ -18217,7 +18217,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_18",
     "title": "Jai Chhath Maiya",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -18227,7 +18227,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "RDEGuUGZQ1Q",
     "youtubeUrl": "https://www.youtube.com/watch?v=RDEGuUGZQ1Q",
     "likeViews": 250.0,
     "duration": "04:20",
@@ -18235,7 +18235,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_19",
     "title": "Kerwa Je Farela Ghawad Se",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -18245,7 +18245,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Guy4cYHNEEM",
     "youtubeUrl": "https://www.youtube.com/watch?v=Guy4cYHNEEM",
     "likeViews": 201.0,
     "duration": "04:22",
@@ -18253,7 +18253,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_20",
     "title": "Beta De Da Ye Maai",
     "singer": "Ankush Raja, Kajal Raghwani",
     "genre": "chhath",
@@ -18263,7 +18263,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "eUIlTcL9UsE",
     "youtubeUrl": "https://www.youtube.com/watch?v=eUIlTcL9UsE",
     "likeViews": 136672.0,
     "duration": "06:17",
@@ -18271,7 +18271,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_21",
     "title": "Aiha Sasurari Jija Ji",
     "singer": "Ankush Raja, Shilpi Raj",
     "genre": "chhath",
@@ -18281,7 +18281,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "7mbNrE7tdXQ",
     "youtubeUrl": "https://www.youtube.com/watch?v=7mbNrE7tdXQ",
     "likeViews": 307837.0,
     "duration": "03:46",
@@ -18289,7 +18289,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_22",
     "title": "Chhath Ke Barat Kaise Saiya Hola",
     "singer": "Golu Gold, Antra Singh Priyanka",
     "genre": "chhath",
@@ -18299,7 +18299,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "QFogw-VugbU",
     "youtubeUrl": "https://www.youtube.com/watch?v=QFogw-VugbU",
     "likeViews": 8299.0,
     "duration": "05:04",
@@ -18307,7 +18307,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_23",
     "title": "Kholi Najariya",
     "singer": "Shilpi Raj, Neelam Giri",
     "genre": "chhath",
@@ -18317,7 +18317,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "_4zhuXzbGes",
     "youtubeUrl": "https://www.youtube.com/watch?v=_4zhuXzbGes",
     "likeViews": 58017.0,
     "duration": "03:35",
@@ -18325,7 +18325,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2021_24",
     "title": "Bedi Ready Kaila Na",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -18335,7 +18335,7 @@ export const BHOJPURI_SONGS = [
     "year": 2021,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "_tq9B22YTDg",
     "youtubeUrl": "https://www.youtube.com/watch?v=_tq9B22YTDg",
     "likeViews": 20472.0,
     "duration": "03:21",
@@ -18343,7 +18343,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_1",
     "title": "Ugi Suruj Dev",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -18353,7 +18353,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "z3TKq9LVbzM",
     "youtubeUrl": "https://www.youtube.com/watch?v=z3TKq9LVbzM",
     "likeViews": 518414.0,
     "duration": "04:39",
@@ -18361,7 +18361,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Pawan Singh"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_2",
     "title": "Jode Jode Phalwa",
     "singer": "Neelkamal Singh",
     "genre": "chhath",
@@ -18371,7 +18371,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Shubham Raj",
-    "youtubeId": NaN,
+    "youtubeId": "ccTKJYCp4xc",
     "youtubeUrl": "https://www.youtube.com/watch?v=ccTKJYCp4xc",
     "likeViews": 60172.0,
     "duration": "06:08",
@@ -18379,7 +18379,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Neelkamal Singh"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_3",
     "title": "Mathwa Pa Leke Daurwa",
     "singer": "Neelkamal Singh",
     "genre": "chhath",
@@ -18389,7 +18389,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "SFd9-Auy__4",
     "youtubeUrl": "https://www.youtube.com/watch?v=SFd9-Auy__4",
     "likeViews": 108532.0,
     "duration": "04:34",
@@ -18397,7 +18397,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Neelkamal Singh"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_4",
     "title": "Chhathi Maai Aaili Naiharva",
     "singer": "Kalpana, Kavita Paudwal",
     "genre": "chhath",
@@ -18407,7 +18407,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Im2vK7_QZpE",
     "youtubeUrl": "https://www.youtube.com/watch?v=Im2vK7_QZpE&t=0s",
     "likeViews": 1439.0,
     "duration": "37:34",
@@ -18415,7 +18415,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Kalpana, Kavita Paudwal"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_5",
     "title": "Angna Mein Pokhri Khonaib",
     "singer": "Kalpana, Kavita Paudwal",
     "genre": "chhath",
@@ -18425,7 +18425,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Im2vK7_QZpE",
     "youtubeUrl": "https://www.youtube.com/watch?v=Im2vK7_QZpE&t=284s",
     "likeViews": 1439.0,
     "duration": "37:34",
@@ -18433,7 +18433,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Kalpana, Kavita Paudwal"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_6",
     "title": "Kari Je Chhath Ke Baratiya Ho",
     "singer": "Kalpana, Kavita Paudwal",
     "genre": "chhath",
@@ -18443,7 +18443,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Im2vK7_QZpE",
     "youtubeUrl": "https://www.youtube.com/watch?v=Im2vK7_QZpE&t=441s",
     "likeViews": 1439.0,
     "duration": "37:34",
@@ -18451,7 +18451,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Kalpana, Kavita Paudwal"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_7",
     "title": "Ugi Suruj Dev",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -18461,7 +18461,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "z3TKq9LVbzM",
     "youtubeUrl": "https://www.youtube.com/watch?v=z3TKq9LVbzM",
     "likeViews": 518414.0,
     "duration": "04:39",
@@ -18469,7 +18469,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_8",
     "title": "Jal Beech Khada Hoee (Jode Jode Phalwa)",
     "singer": "Pawan Singh, Palak Muchhal",
     "genre": "chhath",
@@ -18479,7 +18479,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "BKoD7bTLc2k",
     "youtubeUrl": "https://www.youtube.com/watch?v=BKoD7bTLc2k",
     "likeViews": 1125833.0,
     "duration": "05:26",
@@ -18487,7 +18487,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_9",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -18497,7 +18497,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Vc8wNTgKG1k",
     "youtubeUrl": "https://www.youtube.com/watch?v=Vc8wNTgKG1k",
     "likeViews": 23994.0,
     "duration": "03:58",
@@ -18505,7 +18505,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_10",
     "title": "Sanghe Debu Piya Ji Arghiya",
     "singer": "Ankush Raja, Shilpi Raj",
     "genre": "chhath",
@@ -18515,7 +18515,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ituXQUrXCf0",
     "youtubeUrl": "https://www.youtube.com/watch?v=ituXQUrXCf0",
     "likeViews": 98131.0,
     "duration": "04:09",
@@ -18523,7 +18523,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_11",
     "title": "Chhath Ke Baratiya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -18533,7 +18533,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "bL6rp6eI_2k",
     "youtubeUrl": "https://www.youtube.com/watch?v=bL6rp6eI_2k",
     "likeViews": 144595.0,
     "duration": "06:28",
@@ -18541,7 +18541,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_12",
     "title": "Jal Beech Khada Hoee (Jode Jode Phalwa)",
     "singer": "Pawan Singh, Palak Muchhal",
     "genre": "chhath",
@@ -18551,7 +18551,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "BKoD7bTLc2k",
     "youtubeUrl": "https://www.youtube.com/watch?v=BKoD7bTLc2k",
     "likeViews": 1125833.0,
     "duration": "05:26",
@@ -18559,7 +18559,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Pawan Singh"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_13",
     "title": "Nariyal",
     "singer": "Khesari Lal Yadav, Shilpi Raj",
     "genre": "chhath",
@@ -18569,7 +18569,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Z752z_dAQrY",
     "youtubeUrl": "https://www.youtube.com/watch?v=Z752z_dAQrY",
     "likeViews": 562652.0,
     "duration": "03:57",
@@ -18577,7 +18577,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_14",
     "title": "Aargiya Ke Beriya Nu Ho",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -18587,7 +18587,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "PTNfOCzN_GI",
     "youtubeUrl": "https://www.youtube.com/watch?v=PTNfOCzN_GI",
     "likeViews": 43.0,
     "duration": "02:37",
@@ -18595,7 +18595,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_15",
     "title": "Kara Tani Pahila Baratiya",
     "singer": "Arvind Akela Kallu, Priyanka Singh",
     "genre": "chhath",
@@ -18605,7 +18605,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "q2H71hwnqV4",
     "youtubeUrl": "https://www.youtube.com/watch?v=q2H71hwnqV4",
     "likeViews": 132953.0,
     "duration": "07:31",
@@ -18613,7 +18613,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_16",
     "title": "Aragh Dehab Surujdev Ke",
     "singer": "Arvind Akela Kallu",
     "genre": "chhath",
@@ -18623,7 +18623,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "rag33RzFZiU",
     "youtubeUrl": "https://www.youtube.com/watch?v=rag33RzFZiU",
     "likeViews": 1076.0,
     "duration": "51:58",
@@ -18631,7 +18631,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_17",
     "title": "Jode Jode Phalwa",
     "singer": "Neelkamal Singh",
     "genre": "chhath",
@@ -18641,7 +18641,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ccTKJYCp4xc",
     "youtubeUrl": "https://www.youtube.com/watch?v=ccTKJYCp4xc",
     "likeViews": 60172.0,
     "duration": "06:08",
@@ -18649,7 +18649,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_18",
     "title": "Mathwa Pa Leke Daurwa",
     "singer": "Neelkamal Singh",
     "genre": "chhath",
@@ -18659,7 +18659,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "SFd9-Auy__4",
     "youtubeUrl": "https://www.youtube.com/watch?v=SFd9-Auy__4",
     "likeViews": 108532.0,
     "duration": "04:34",
@@ -18667,7 +18667,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_19",
     "title": "Chhathi Maai Aaili Naiharva",
     "singer": "Kalpana, Kavita Paudwal",
     "genre": "chhath",
@@ -18677,7 +18677,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Im2vK7_QZpE",
     "youtubeUrl": "https://www.youtube.com/watch?v=Im2vK7_QZpE&t=0s",
     "likeViews": 1439.0,
     "duration": "37:34",
@@ -18685,7 +18685,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_20",
     "title": "Angna Mein Pokhri Khonaib",
     "singer": "Kalpana, Kavita Paudwal",
     "genre": "chhath",
@@ -18695,7 +18695,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Im2vK7_QZpE",
     "youtubeUrl": "https://www.youtube.com/watch?v=Im2vK7_QZpE&t=284s",
     "likeViews": 1439.0,
     "duration": "37:34",
@@ -18703,7 +18703,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_21",
     "title": "Kari Je Chhath Ke Baratiya Ho",
     "singer": "Kalpana, Kavita Paudwal",
     "genre": "chhath",
@@ -18713,7 +18713,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Im2vK7_QZpE",
     "youtubeUrl": "https://www.youtube.com/watch?v=Im2vK7_QZpE&t=441s",
     "likeViews": 1439.0,
     "duration": "37:34",
@@ -18721,7 +18721,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_22",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -18731,7 +18731,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Vc8wNTgKG1k",
     "youtubeUrl": "https://www.youtube.com/watch?v=Vc8wNTgKG1k",
     "likeViews": 23994.0,
     "duration": "03:58",
@@ -18739,7 +18739,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Kalpana Patowary"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_23",
     "title": "Sanghe Debu Piya Ji Arghiya",
     "singer": "Ankush Raja, Shilpi Raj",
     "genre": "chhath",
@@ -18749,7 +18749,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "ituXQUrXCf0",
     "youtubeUrl": "https://www.youtube.com/watch?v=ituXQUrXCf0",
     "likeViews": 98131.0,
     "duration": "04:09",
@@ -18757,7 +18757,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Ankush Raja"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_24",
     "title": "Chhath Ke Baratiya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -18767,7 +18767,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Aditya Dev",
-    "youtubeId": NaN,
+    "youtubeId": "bL6rp6eI_2k",
     "youtubeUrl": "https://www.youtube.com/watch?v=bL6rp6eI_2k",
     "likeViews": 144595.0,
     "duration": "06:28",
@@ -18775,7 +18775,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Sharda Sinha"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_25",
     "title": "Nariyal",
     "singer": "Khesari Lal Yadav, Shilpi Raj",
     "genre": "chhath",
@@ -18785,7 +18785,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Z752z_dAQrY",
     "youtubeUrl": "https://www.youtube.com/watch?v=Z752z_dAQrY",
     "likeViews": 562652.0,
     "duration": "03:57",
@@ -18793,7 +18793,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Khesari Lal Yadav"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_26",
     "title": "Aargiya Ke Beriya Nu Ho",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -18803,7 +18803,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "PTNfOCzN_GI",
     "youtubeUrl": "https://www.youtube.com/watch?v=PTNfOCzN_GI",
     "likeViews": 43.0,
     "duration": "02:37",
@@ -18811,7 +18811,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Manoj Tiwari"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_27",
     "title": "Kara Tani Pahila Baratiya",
     "singer": "Arvind Akela Kallu, Priyanka Singh",
     "genre": "chhath",
@@ -18821,7 +18821,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "q2H71hwnqV4",
     "youtubeUrl": "https://www.youtube.com/watch?v=q2H71hwnqV4",
     "likeViews": 132953.0,
     "duration": "07:31",
@@ -18829,7 +18829,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Arvind Akela Kallu, Priyanka Singh"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_28",
     "title": "Aragh Dehab Surujdev Ke",
     "singer": "Arvind Akela Kallu",
     "genre": "chhath",
@@ -18839,7 +18839,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "rag33RzFZiU",
     "youtubeUrl": "https://www.youtube.com/watch?v=rag33RzFZiU",
     "likeViews": 1076.0,
     "duration": "51:58",
@@ -18847,7 +18847,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Arvind Akela Kallu"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_29",
     "title": "Ugi Suruj Dev",
     "singer": "Pawan Singh",
     "genre": "chhath",
@@ -18857,7 +18857,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "z3TKq9LVbzM",
     "youtubeUrl": "https://www.youtube.com/watch?v=z3TKq9LVbzM",
     "likeViews": 518414.0,
     "duration": "04:39",
@@ -18865,7 +18865,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_30",
     "title": "Jal Beech Khada Hoee (Jode Jode Phalwa)",
     "singer": "Pawan Singh, Palak Muchhal",
     "genre": "chhath",
@@ -18875,7 +18875,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "BKoD7bTLc2k",
     "youtubeUrl": "https://www.youtube.com/watch?v=BKoD7bTLc2k",
     "likeViews": 1125833.0,
     "duration": "05:26",
@@ -18883,7 +18883,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_31",
     "title": "Kaanch Hi Baans Ke Bahangiya",
     "singer": "Kalpana Patowary",
     "genre": "chhath",
@@ -18893,7 +18893,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Vc8wNTgKG1k",
     "youtubeUrl": "https://www.youtube.com/watch?v=Vc8wNTgKG1k",
     "likeViews": 23994.0,
     "duration": "03:58",
@@ -18901,7 +18901,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_32",
     "title": "Sanghe Debu Piya Ji Arghiya",
     "singer": "Ankush Raja, Shilpi Raj",
     "genre": "chhath",
@@ -18911,7 +18911,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "ituXQUrXCf0",
     "youtubeUrl": "https://www.youtube.com/watch?v=ituXQUrXCf0",
     "likeViews": 98131.0,
     "duration": "04:09",
@@ -18919,7 +18919,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_33",
     "title": "Chhath Ke Baratiya",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -18929,7 +18929,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Aditya Dev",
-    "youtubeId": NaN,
+    "youtubeId": "bL6rp6eI_2k",
     "youtubeUrl": "https://www.youtube.com/watch?v=bL6rp6eI_2k",
     "likeViews": 144595.0,
     "duration": "06:28",
@@ -18937,7 +18937,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_34",
     "title": "Nariyal",
     "singer": "Khesari Lal Yadav, Shilpi Raj",
     "genre": "chhath",
@@ -18947,7 +18947,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Z752z_dAQrY",
     "youtubeUrl": "https://www.youtube.com/watch?v=Z752z_dAQrY",
     "likeViews": 562652.0,
     "duration": "03:57",
@@ -18955,7 +18955,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_35",
     "title": "Aargiya Ke Beriya Nu Ho",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -18965,7 +18965,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "PTNfOCzN_GI",
     "youtubeUrl": "https://www.youtube.com/watch?v=PTNfOCzN_GI",
     "likeViews": 43.0,
     "duration": "02:37",
@@ -18973,7 +18973,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_36",
     "title": "Kara Tani Pahila Baratiya",
     "singer": "Arvind Akela Kallu, Priyanka Singh",
     "genre": "chhath",
@@ -18983,7 +18983,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "q2H71hwnqV4",
     "youtubeUrl": "https://www.youtube.com/watch?v=q2H71hwnqV4",
     "likeViews": 132953.0,
     "duration": "07:31",
@@ -18991,7 +18991,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_37",
     "title": "Aragh Dehab Surujdev Ke",
     "singer": "Arvind Akela Kallu",
     "genre": "chhath",
@@ -19001,7 +19001,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "rag33RzFZiU",
     "youtubeUrl": "https://www.youtube.com/watch?v=rag33RzFZiU",
     "likeViews": 1076.0,
     "duration": "51:58",
@@ -19009,7 +19009,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_38",
     "title": "Jode Jode Phalwa",
     "singer": "Neelkamal Singh",
     "genre": "chhath",
@@ -19019,7 +19019,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Shubham Raj",
-    "youtubeId": NaN,
+    "youtubeId": "ccTKJYCp4xc",
     "youtubeUrl": "https://www.youtube.com/watch?v=ccTKJYCp4xc",
     "likeViews": 60172.0,
     "duration": "06:08",
@@ -19027,7 +19027,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_39",
     "title": "Mathwa Pa Leke Daurwa",
     "singer": "Neelkamal Singh",
     "genre": "chhath",
@@ -19037,7 +19037,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "SFd9-Auy__4",
     "youtubeUrl": "https://www.youtube.com/watch?v=SFd9-Auy__4",
     "likeViews": 108532.0,
     "duration": "04:34",
@@ -19045,7 +19045,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_40",
     "title": "Chhathi Maai Aaili Naiharva",
     "singer": "Kalpana, Kavita Paudwal",
     "genre": "chhath",
@@ -19055,7 +19055,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Im2vK7_QZpE",
     "youtubeUrl": "https://www.youtube.com/watch?v=Im2vK7_QZpE&t=0s",
     "likeViews": 1439.0,
     "duration": "37:34",
@@ -19063,7 +19063,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_41",
     "title": "Angna Mein Pokhri Khonaib",
     "singer": "Kalpana, Kavita Paudwal",
     "genre": "chhath",
@@ -19073,7 +19073,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Im2vK7_QZpE",
     "youtubeUrl": "https://www.youtube.com/watch?v=Im2vK7_QZpE&t=284s",
     "likeViews": 1439.0,
     "duration": "37:34",
@@ -19081,7 +19081,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2022_42",
     "title": "Kari Je Chhath Ke Baratiya Ho",
     "singer": "Kalpana, Kavita Paudwal",
     "genre": "chhath",
@@ -19091,7 +19091,7 @@ export const BHOJPURI_SONGS = [
     "year": 2022,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Im2vK7_QZpE",
     "youtubeUrl": "https://www.youtube.com/watch?v=Im2vK7_QZpE&t=441s",
     "likeViews": 1439.0,
     "duration": "37:34",
@@ -19099,7 +19099,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_1",
     "title": "Kopi Kopi Boleli",
     "singer": "Devi",
     "genre": "chhath",
@@ -19109,7 +19109,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Ajay Prasanna",
-    "youtubeId": NaN,
+    "youtubeId": "FBe15Pu1MJU",
     "youtubeUrl": "https://www.youtube.com/watch?v=FBe15Pu1MJU",
     "likeViews": 59537.0,
     "duration": "06:36",
@@ -19117,7 +19117,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Devi"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_2",
     "title": "Suruj Bhaile Bihaan",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -19127,7 +19127,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "u2rkSu5LYbk",
     "youtubeUrl": "https://www.youtube.com/watch?v=u2rkSu5LYbk",
     "likeViews": 15570.0,
     "duration": "01:12:24",
@@ -19135,7 +19135,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_3",
     "title": "Piyare Piyare Dhotiya",
     "singer": "Shilpi Raj",
     "genre": "chhath",
@@ -19145,7 +19145,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "edfpj0NKIhM",
     "youtubeUrl": "https://www.youtube.com/watch?v=edfpj0NKIhM",
     "likeViews": 1301.0,
     "duration": "04:47",
@@ -19153,7 +19153,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_4",
     "title": "Chhathi Maiya Ke Kripa",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -19163,7 +19163,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "ZwV59RvoQpI",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZwV59RvoQpI",
     "likeViews": 196.0,
     "duration": "03:32",
@@ -19171,7 +19171,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_5",
     "title": "Jaldi Jaldi Chalo Re Kahara",
     "singer": "Neelkamal Singh, Shrishti Uttrakhandi",
     "genre": "chhath",
@@ -19181,7 +19181,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "LjfBuMI36XM",
     "youtubeUrl": "https://www.youtube.com/watch?v=LjfBuMI36XM",
     "likeViews": 3068.0,
     "duration": "03:49",
@@ -19189,7 +19189,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_6",
     "title": "Koshiya Bharaye Lagal",
     "singer": "Neelkamal Singh, Priyanka Singh",
     "genre": "chhath",
@@ -19199,7 +19199,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "9hwAiJ4fzog",
     "youtubeUrl": "https://www.youtube.com/watch?v=9hwAiJ4fzog",
     "likeViews": 246500.0,
     "duration": "04:37",
@@ -19207,7 +19207,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_7",
     "title": "Darshan Dekhai Dihi",
     "singer": "Kalpana Patowary, Ritu Chauhan",
     "genre": "chhath",
@@ -19217,7 +19217,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "T_YXL_blE3A",
     "youtubeUrl": "https://www.youtube.com/watch?v=T_YXL_blE3A",
     "likeViews": 101315.0,
     "duration": "04:50",
@@ -19225,7 +19225,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Kalpana Patowary, Ritu Chauhan"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_8",
     "title": "Suruj Bhaile Bihaan",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -19235,7 +19235,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "u2rkSu5LYbk",
     "youtubeUrl": "https://www.youtube.com/watch?v=u2rkSu5LYbk",
     "likeViews": 15570.0,
     "duration": "01:12:24",
@@ -19243,7 +19243,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Sharda Sinha"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_9",
     "title": "Piyare Piyare Dhotiya",
     "singer": "Shilpi Raj",
     "genre": "chhath",
@@ -19253,7 +19253,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "edfpj0NKIhM",
     "youtubeUrl": "https://www.youtube.com/watch?v=edfpj0NKIhM",
     "likeViews": 1301.0,
     "duration": "04:47",
@@ -19261,7 +19261,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Shilpi Raj"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_10",
     "title": "Chhathi Maiya Ke Kripa",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -19271,7 +19271,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "ZwV59RvoQpI",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZwV59RvoQpI",
     "likeViews": 196.0,
     "duration": "03:32",
@@ -19279,7 +19279,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Pramod Premi Yadav"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_11",
     "title": "Jaldi Jaldi Chalo Re Kahara",
     "singer": "Neelkamal Singh, Shrishti Uttrakhandi",
     "genre": "chhath",
@@ -19289,7 +19289,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "LjfBuMI36XM",
     "youtubeUrl": "https://www.youtube.com/watch?v=LjfBuMI36XM",
     "likeViews": 3068.0,
     "duration": "03:49",
@@ -19297,7 +19297,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Neelkamal Singh, Shrishti Uttrakhandi"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_12",
     "title": "Koshiya Bharaye Lagal",
     "singer": "Neelkamal Singh, Priyanka Singh",
     "genre": "chhath",
@@ -19307,7 +19307,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Priyanshu Singh",
-    "youtubeId": NaN,
+    "youtubeId": "9hwAiJ4fzog",
     "youtubeUrl": "https://www.youtube.com/watch?v=9hwAiJ4fzog",
     "likeViews": 246500.0,
     "duration": "04:37",
@@ -19315,7 +19315,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Neelkamal Singh, Shristhi Uttarakhandi"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_13",
     "title": "Kopi Kopi Boleli",
     "singer": "Devi",
     "genre": "chhath",
@@ -19325,7 +19325,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "FBe15Pu1MJU",
     "youtubeUrl": "https://www.youtube.com/watch?v=FBe15Pu1MJU",
     "likeViews": 59537.0,
     "duration": "06:36",
@@ -19333,7 +19333,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_14",
     "title": "Darshan Dekhai Dihi",
     "singer": "Kalpana Patowary, Ritu Chauhan",
     "genre": "chhath",
@@ -19343,7 +19343,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "T_YXL_blE3A",
     "youtubeUrl": "https://www.youtube.com/watch?v=T_YXL_blE3A",
     "likeViews": 101315.0,
     "duration": "04:50",
@@ -19351,7 +19351,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_15",
     "title": "Kopi Kopi Boleli",
     "singer": "Devi",
     "genre": "chhath",
@@ -19361,7 +19361,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Ajay Prasanna",
-    "youtubeId": NaN,
+    "youtubeId": "FBe15Pu1MJU",
     "youtubeUrl": "https://www.youtube.com/watch?v=FBe15Pu1MJU",
     "likeViews": 59537.0,
     "duration": "06:36",
@@ -19369,7 +19369,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_16",
     "title": "Darshan Dekhai Dihi",
     "singer": "Kalpana Patowary, Ritu Chauhan",
     "genre": "chhath",
@@ -19379,7 +19379,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "T_YXL_blE3A",
     "youtubeUrl": "https://www.youtube.com/watch?v=T_YXL_blE3A",
     "likeViews": 101315.0,
     "duration": "04:50",
@@ -19387,7 +19387,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_17",
     "title": "Suruj Bhaile Bihaan",
     "singer": "Sharda Sinha",
     "genre": "chhath",
@@ -19397,7 +19397,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Sharda Sinha",
-    "youtubeId": NaN,
+    "youtubeId": "u2rkSu5LYbk",
     "youtubeUrl": "https://www.youtube.com/watch?v=u2rkSu5LYbk",
     "likeViews": 15570.0,
     "duration": "01:12:24",
@@ -19405,7 +19405,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_18",
     "title": "Piyare Piyare Dhotiya",
     "singer": "Shilpi Raj",
     "genre": "chhath",
@@ -19415,7 +19415,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "edfpj0NKIhM",
     "youtubeUrl": "https://www.youtube.com/watch?v=edfpj0NKIhM",
     "likeViews": 1301.0,
     "duration": "04:47",
@@ -19423,7 +19423,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_19",
     "title": "Chhathi Maiya Ke Kripa",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -19433,7 +19433,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "ZwV59RvoQpI",
     "youtubeUrl": "https://www.youtube.com/watch?v=ZwV59RvoQpI",
     "likeViews": 196.0,
     "duration": "03:32",
@@ -19441,7 +19441,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_20",
     "title": "Jaldi Jaldi Chalo Re Kahara",
     "singer": "Neelkamal Singh, Shrishti Uttrakhandi",
     "genre": "chhath",
@@ -19451,7 +19451,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "LjfBuMI36XM",
     "youtubeUrl": "https://www.youtube.com/watch?v=LjfBuMI36XM",
     "likeViews": 3068.0,
     "duration": "03:49",
@@ -19459,7 +19459,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2023_21",
     "title": "Koshiya Bharaye Lagal",
     "singer": "Neelkamal Singh, Priyanka Singh",
     "genre": "chhath",
@@ -19469,7 +19469,7 @@ export const BHOJPURI_SONGS = [
     "year": 2023,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Priyanshu Singh",
-    "youtubeId": NaN,
+    "youtubeId": "9hwAiJ4fzog",
     "youtubeUrl": "https://www.youtube.com/watch?v=9hwAiJ4fzog",
     "likeViews": 246500.0,
     "duration": "04:37",
@@ -19477,7 +19477,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_1",
     "title": "Jai Chhathi Maiya",
     "singer": "Pawan Singh, Sonu Nigam, Khushboo Jain",
     "genre": "chhath",
@@ -19487,7 +19487,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "yEfWCUUUTDM",
     "youtubeUrl": "https://www.youtube.com/watch?v=yEfWCUUUTDM",
     "likeViews": 18602.0,
     "duration": "04:26",
@@ -19495,7 +19495,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Pawan Singh"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_2",
     "title": "Aragh Ke Bera",
     "singer": "Khesari Lal Yadav, Shilpi Raj",
     "genre": "chhath",
@@ -19505,7 +19505,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "KjT19KB4Zdg",
     "youtubeUrl": "https://www.youtube.com/watch?v=KjT19KB4Zdg",
     "likeViews": 103948.0,
     "duration": "03:44",
@@ -19513,7 +19513,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_3",
     "title": "Chhath Ghate Chali",
     "singer": "Khesari Lal Yadav, Antra Singh Priyanka",
     "genre": "chhath",
@@ -19523,7 +19523,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "tKInh7YThog",
     "youtubeUrl": "https://www.youtube.com/watch?v=tKInh7YThog",
     "likeViews": 8967.0,
     "duration": "04:29",
@@ -19531,7 +19531,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_4",
     "title": "Chhathi Maiya Bhar Da Na Godiya",
     "singer": "Arvind Akela Kallu, Aastha Singh",
     "genre": "chhath",
@@ -19541,7 +19541,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "1RNWGDK3piM",
     "youtubeUrl": "https://www.youtube.com/watch?v=1RNWGDK3piM",
     "likeViews": 245.0,
     "duration": "05:41",
@@ -19549,7 +19549,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_5",
     "title": "Bajhin Tiwai (Beta Ke Viyog Chhathi Maai)",
     "singer": "Arvind Akela Kallu, Aastha Singh",
     "genre": "chhath",
@@ -19559,7 +19559,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "0hULiWX5l3s",
     "youtubeUrl": "https://www.youtube.com/watch?v=0hULiWX5l3s",
     "likeViews": 306.0,
     "duration": "05:41",
@@ -19567,7 +19567,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_6",
     "title": "Piyas Lagal Paniye Me",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -19577,7 +19577,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "Tp91KPND4UA",
     "youtubeUrl": "https://www.youtube.com/watch?v=Tp91KPND4UA",
     "likeViews": 8443.0,
     "duration": "03:15",
@@ -19585,7 +19585,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_7",
     "title": "Sona Chhath Kareli",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -19595,7 +19595,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "2w9cjdvDJ48",
     "youtubeUrl": "https://www.youtube.com/watch?v=2w9cjdvDJ48",
     "likeViews": 31567.0,
     "duration": "03:04",
@@ -19603,7 +19603,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_8",
     "title": "Jode Jode Supwa",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -19613,7 +19613,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "SnEqq0Swo1Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=SnEqq0Swo1Y",
     "likeViews": 4356.0,
     "duration": "05:13",
@@ -19621,7 +19621,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_9",
     "title": "Aragh Ke Bera",
     "singer": "Khesari Lal Yadav, Shilpi Raj",
     "genre": "chhath",
@@ -19631,7 +19631,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "KjT19KB4Zdg",
     "youtubeUrl": "https://www.youtube.com/watch?v=KjT19KB4Zdg",
     "likeViews": 103948.0,
     "duration": "03:44",
@@ -19639,7 +19639,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Khesari Lal Yadav"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_10",
     "title": "Chhath Ghate Chali",
     "singer": "Khesari Lal Yadav, Antra Singh Priyanka",
     "genre": "chhath",
@@ -19649,7 +19649,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "tKInh7YThog",
     "youtubeUrl": "https://www.youtube.com/watch?v=tKInh7YThog",
     "likeViews": 8967.0,
     "duration": "04:29",
@@ -19657,7 +19657,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Khesari Lal Yadav, Antra Singh Priyanka"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_11",
     "title": "Chhathi Maiya Bhar Da Na Godiya",
     "singer": "Arvind Akela Kallu, Aastha Singh",
     "genre": "chhath",
@@ -19667,7 +19667,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Priyansh (partial confirmation)",
-    "youtubeId": NaN,
+    "youtubeId": "1RNWGDK3piM",
     "youtubeUrl": "https://www.youtube.com/watch?v=1RNWGDK3piM",
     "likeViews": 245.0,
     "duration": "05:41",
@@ -19675,7 +19675,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Arvind Akela Kallu, Aastha Singh"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_12",
     "title": "Bajhin Tiwai (Beta Ke Viyog Chhathi Maai)",
     "singer": "Arvind Akela Kallu, Aastha Singh",
     "genre": "chhath",
@@ -19685,7 +19685,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "0hULiWX5l3s",
     "youtubeUrl": "https://www.youtube.com/watch?v=0hULiWX5l3s",
     "likeViews": 306.0,
     "duration": "05:41",
@@ -19693,7 +19693,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Arvind Akela Kallu, Aastha Singh"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_13",
     "title": "Piyas Lagal Paniye Me",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -19703,7 +19703,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Tp91KPND4UA",
     "youtubeUrl": "https://www.youtube.com/watch?v=Tp91KPND4UA",
     "likeViews": 8443.0,
     "duration": "03:15",
@@ -19711,7 +19711,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Pramod Premi Yadav"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_14",
     "title": "Sona Chhath Kareli",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -19721,7 +19721,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Kanha (partial confirmation)",
-    "youtubeId": NaN,
+    "youtubeId": "2w9cjdvDJ48",
     "youtubeUrl": "https://www.youtube.com/watch?v=2w9cjdvDJ48",
     "likeViews": 31567.0,
     "duration": "03:04",
@@ -19729,7 +19729,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Pramod Premi Yadav"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_15",
     "title": "Jode Jode Supwa",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -19739,7 +19739,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "SnEqq0Swo1Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=SnEqq0Swo1Y",
     "likeViews": 4356.0,
     "duration": "05:13",
@@ -19747,7 +19747,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Pramod Premi Yadav"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_16",
     "title": "Jai Chhathi Maiya",
     "singer": "Pawan Singh, Sonu Nigam, Khushboo Jain",
     "genre": "chhath",
@@ -19757,7 +19757,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "yEfWCUUUTDM",
     "youtubeUrl": "https://www.youtube.com/watch?v=yEfWCUUUTDM",
     "likeViews": 18602.0,
     "duration": "04:26",
@@ -19765,7 +19765,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_17",
     "title": "Jai Chhathi Maiya",
     "singer": "Pawan Singh, Sonu Nigam, Khushboo Jain",
     "genre": "chhath",
@@ -19775,7 +19775,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "yEfWCUUUTDM",
     "youtubeUrl": "https://www.youtube.com/watch?v=yEfWCUUUTDM",
     "likeViews": 18602.0,
     "duration": "04:26",
@@ -19783,7 +19783,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_18",
     "title": "Aragh Ke Bera",
     "singer": "Khesari Lal Yadav, Shilpi Raj",
     "genre": "chhath",
@@ -19793,7 +19793,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "KjT19KB4Zdg",
     "youtubeUrl": "https://www.youtube.com/watch?v=KjT19KB4Zdg",
     "likeViews": 103948.0,
     "duration": "03:44",
@@ -19801,7 +19801,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_19",
     "title": "Chhath Ghate Chali",
     "singer": "Khesari Lal Yadav, Antra Singh Priyanka",
     "genre": "chhath",
@@ -19811,7 +19811,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "tKInh7YThog",
     "youtubeUrl": "https://www.youtube.com/watch?v=tKInh7YThog",
     "likeViews": 8967.0,
     "duration": "04:29",
@@ -19819,7 +19819,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_20",
     "title": "Chhathi Maiya Bhar Da Na Godiya",
     "singer": "Arvind Akela Kallu, Aastha Singh",
     "genre": "chhath",
@@ -19829,7 +19829,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Priyansh (partial confirmation)",
-    "youtubeId": NaN,
+    "youtubeId": "1RNWGDK3piM",
     "youtubeUrl": "https://www.youtube.com/watch?v=1RNWGDK3piM",
     "likeViews": 245.0,
     "duration": "05:41",
@@ -19837,7 +19837,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_21",
     "title": "Bajhin Tiwai (Beta Ke Viyog Chhathi Maai)",
     "singer": "Arvind Akela Kallu, Aastha Singh",
     "genre": "chhath",
@@ -19847,7 +19847,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "0hULiWX5l3s",
     "youtubeUrl": "https://www.youtube.com/watch?v=0hULiWX5l3s",
     "likeViews": 306.0,
     "duration": "05:41",
@@ -19855,7 +19855,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_22",
     "title": "Piyas Lagal Paniye Me",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -19865,7 +19865,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "Tp91KPND4UA",
     "youtubeUrl": "https://www.youtube.com/watch?v=Tp91KPND4UA",
     "likeViews": 8443.0,
     "duration": "03:15",
@@ -19873,7 +19873,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_23",
     "title": "Sona Chhath Kareli",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -19883,7 +19883,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Kanha (partial confirmation)",
-    "youtubeId": NaN,
+    "youtubeId": "2w9cjdvDJ48",
     "youtubeUrl": "https://www.youtube.com/watch?v=2w9cjdvDJ48",
     "likeViews": 31567.0,
     "duration": "03:04",
@@ -19891,7 +19891,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2024_24",
     "title": "Jode Jode Supwa",
     "singer": "Pramod Premi Yadav",
     "genre": "chhath",
@@ -19901,7 +19901,7 @@ export const BHOJPURI_SONGS = [
     "year": 2024,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "SnEqq0Swo1Y",
     "youtubeUrl": "https://www.youtube.com/watch?v=SnEqq0Swo1Y",
     "likeViews": 4356.0,
     "duration": "05:13",
@@ -19909,7 +19909,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2025_1",
     "title": "Chaar Kona Pokhra Khanaibo Chhathaiya",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -19919,7 +19919,7 @@ export const BHOJPURI_SONGS = [
     "year": 2025,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "6OZAxvviUb0",
     "youtubeUrl": "https://www.youtube.com/watch?v=6OZAxvviUb0",
     "likeViews": 3885.0,
     "duration": "08:12",
@@ -19927,7 +19927,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Manoj Tiwari"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2025_2",
     "title": "Kavana Kalamwa Se Likhala Karamwa",
     "singer": "Pawan Singh, Priyanka Singh",
     "genre": "chhath",
@@ -19937,7 +19937,7 @@ export const BHOJPURI_SONGS = [
     "year": 2025,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "FPDKM5NidYM",
     "youtubeUrl": "https://www.youtube.com/watch?v=FPDKM5NidYM",
     "likeViews": 211232.0,
     "duration": "04:40",
@@ -19945,7 +19945,7 @@ export const BHOJPURI_SONGS = [
     "starring": "Pawan Singh, Priyanka Singh"
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2025_3",
     "title": "Chaar Kona Pokhra Khanaibo Chhathaiya",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -19955,7 +19955,7 @@ export const BHOJPURI_SONGS = [
     "year": 2025,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "6OZAxvviUb0",
     "youtubeUrl": "https://www.youtube.com/watch?v=6OZAxvviUb0",
     "likeViews": 3885.0,
     "duration": "08:12",
@@ -19963,7 +19963,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2025_4",
     "title": "Kavana Kalamwa Se Likhala Karamwa",
     "singer": "Pawan Singh, Priyanka Singh",
     "genre": "chhath",
@@ -19973,7 +19973,7 @@ export const BHOJPURI_SONGS = [
     "year": 2025,
     "language": "Bhojpuri/Magahi regional",
     "composer": null,
-    "youtubeId": NaN,
+    "youtubeId": "FPDKM5NidYM",
     "youtubeUrl": "https://www.youtube.com/watch?v=FPDKM5NidYM",
     "likeViews": 211232.0,
     "duration": "04:40",
@@ -19981,7 +19981,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2025_5",
     "title": "Chaar Kona Pokhra Khanaibo Chhathaiya",
     "singer": "Manoj Tiwari",
     "genre": "chhath",
@@ -19991,7 +19991,7 @@ export const BHOJPURI_SONGS = [
     "year": 2025,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "6OZAxvviUb0",
     "youtubeUrl": "https://www.youtube.com/watch?v=6OZAxvviUb0",
     "likeViews": 3885.0,
     "duration": "08:12",
@@ -19999,7 +19999,7 @@ export const BHOJPURI_SONGS = [
     "starring": null
   },
   {
-    "id": NaN,
+    "id": "chhath_track_2025_6",
     "title": "Kavana Kalamwa Se Likhala Karamwa",
     "singer": "Pawan Singh, Priyanka Singh",
     "genre": "chhath",
@@ -20009,7 +20009,7 @@ export const BHOJPURI_SONGS = [
     "year": 2025,
     "language": "Bhojpuri/Magahi regional",
     "composer": "Not confirmed",
-    "youtubeId": NaN,
+    "youtubeId": "FPDKM5NidYM",
     "youtubeUrl": "https://www.youtube.com/watch?v=FPDKM5NidYM",
     "likeViews": 211232.0,
     "duration": "04:40",
