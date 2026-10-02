@@ -5,7 +5,7 @@
 .hero-showcase-container {
   position: absolute;
   top: 0;
-  right: 28px;
+  right: 24px;
   bottom: 0;
   height: 100%;
   width: 46%;
@@ -65,7 +65,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 10px 30px 10px 0;
+  padding: 10px 20px;
   background: transparent !important;
   border: none !important;
   box-shadow: none !important;
@@ -89,13 +89,15 @@
 
 @keyframes heroShowcaseFloat {
   0% {
-    transform: translate(-18px, 0px);
+    transform: translateY(0px);
   }
+
   50% {
-    transform: translate(-18px, -6px);
+    transform: translateY(-6px);
   }
+
   100% {
-    transform: translate(-18px, 0px);
+    transform: translateY(0px);
   }
 }
 
@@ -153,10 +155,58 @@
 /* Responsive */
 @media (max-width: 768px) {
   .hero-showcase-container {
-    position: static;
+    position: relative;
+    right: auto;
+    top: auto;
+    bottom: auto;
     order: 2;
     width: 100%;
     max-width: 100%;
-    height: 170px;
+    height: 180px;
+    margin: 8px auto 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .hero-showcase-slides {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .hero-showcase-slide {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .hero-showcase-img-wrap {
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+  .hero-showcase-img {
+    margin: 0 auto;
+    object-position: center center;
+  }
+
+  .hero-showcase-text-wrap {
+    align-items: center;
+    text-align: center;
+    padding: 10px 16px;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .hero-showcase-heading {
+    text-align: center;
+  }
+
+  .hero-showcase-desc {
+    text-align: center;
   }
 }

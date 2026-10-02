@@ -156,17 +156,79 @@
 /* Responsive */
 @media (max-width: 768px) {
   .filter-toolbar-container {
-    padding: 12px 14px;
-    gap: 10px;
+    padding: 10px 12px;
+    gap: 8px;
+    margin-bottom: 12px;
+    border-radius: var(--radius-md);
   }
 
   .vision-filter-bar {
     flex-direction: column;
     align-items: stretch;
-    gap: 10px;
+    gap: 8px;
+  }
+
+  .filter-eras {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    width: 100%;
+  }
+
+  .filter-label {
+    font-size: 0.74rem;
+  }
+
+  .filter-eras-scroll {
+    display: flex;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    width: 100%;
+    padding: 2px 0 4px;
+    gap: 6px;
+  }
+
+  .filter-eras-scroll::-webkit-scrollbar {
+    display: none;
+  }
+
+  .filter-btn {
+    white-space: nowrap !important;
+    flex-shrink: 0;
+    padding: 5px 12px;
+    font-size: 0.76rem;
   }
 
   .filter-sort-and-view {
+    display: flex;
+    align-items: center;
     justify-content: space-between;
+    gap: 8px;
+    width: 100%;
+  }
+
+  .sort-wrapper {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .vision-select-pill {
+    width: 100%;
+    max-width: 220px;
+    font-size: 0.78rem;
+    padding: 5px 10px;
+  }
+
+  .view-toggle-btns {
+    flex-shrink: 0;
+  }
+
+  .view-btn {
+    width: 28px;
+    height: 28px;
+    font-size: 0.78rem;
   }
 }

@@ -30,7 +30,7 @@
 }
 
 .hero-minimal-content {
-  flex: 1 1 500px;
+  flex: 1 1;
   max-width: 58%;
   min-width: 0;
   position: relative;
