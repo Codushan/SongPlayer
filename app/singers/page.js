@@ -15,6 +15,9 @@ const ARTIST_COLORS = {
   'Kalpana Patowary': 'linear-gradient(135deg, #9333ea 0%, #7e22ce 100%)',
   'Priyanka Singh': 'linear-gradient(135deg, #0891b2 0%, #0e7490 100%)',
   'Ritesh Pandey': 'linear-gradient(135deg, #65a30d 0%, #4d7c0f 100%)',
+  'Anjali Bharadwaj': 'linear-gradient(135deg, #f43f5e 0%, #be123c 100%)',
+  'Devi': 'linear-gradient(135deg, #f59e0b 0%, #b45309 100%)',
+  'Anu Dubey': 'linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%)',
 };
 
 export default function SingersPage() {
