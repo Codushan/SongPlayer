@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useMemo } from 'react';
 import heroShowcaseConfig from '@/data/heroShowcase.config';
+import './HeroShowcase.css';
 
 export default function HeroShowcase() {
   const {

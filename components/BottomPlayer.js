@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useRef, useEffect } from 'react';
+import './BottomPlayer.css';
 
 function formatTime(totalSeconds) {
   if (!isFinite(totalSeconds) || totalSeconds < 0) return '0:00';
@@ -271,19 +272,25 @@ export default function BottomPlayer({
                 className={`exp-tab-btn${activeTab === 'upnext' ? ' active' : ''}`}
                 onClick={() => setActiveTab('upnext')}
               >
-                <i className="fa-solid fa-list-ul" /> Up Next ({queue ? queue.length : 0})
+                <i className="fa-solid fa-list-ul" />
+                <span className="tab-label-full">Up Next ({queue ? queue.length : 0})</span>
+                <span className="tab-label-short">Queue ({queue ? queue.length : 0})</span>
               </button>
               <button
                 className={`exp-tab-btn${activeTab === 'details' ? ' active' : ''}`}
                 onClick={() => setActiveTab('details')}
               >
-                <i className="fa-solid fa-circle-info" /> Credits &amp; Details
+                <i className="fa-solid fa-circle-info" />
+                <span className="tab-label-full">Credits &amp; Details</span>
+                <span className="tab-label-short">Details</span>
               </button>
               <button
                 className={`exp-tab-btn${activeTab === 'vibes' ? ' active' : ''}`}
                 onClick={() => setActiveTab('vibes')}
               >
-                <i className="fa-solid fa-sparkles" /> Sur Vibes
+                <i className="fa-solid fa-sparkles" />
+                <span className="tab-label-full">Sur Vibes</span>
+                <span className="tab-label-short">Vibes</span>
               </button>
             </div>
 

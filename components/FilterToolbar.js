@@ -1,4 +1,5 @@
 'use client';
+import './FilterToolbar.css';
 
 const ERA_OPTIONS = [
   { id: 'all', label: 'All Eras' },

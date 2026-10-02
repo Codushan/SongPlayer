@@ -1,6 +1,7 @@
 'use client';
 
 import { useMemo } from 'react';
+import './AlbumSection.css';
 
 export default function AlbumSection({
   songs,
@@ -65,7 +66,6 @@ export default function AlbumSection({
               tabIndex={0}
             >
               <div className="album-art-wrap">
-                <div className="album-vinyl-disc" />
                 {coverYt ? (
                   <img
                     src={`https://img.youtube.com/vi/${coverYt}/mqdefault.jpg`}

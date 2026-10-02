@@ -7,6 +7,7 @@ import { CURATED_PLAYLISTS, getSongsForCategory } from '@/data/playlists';
 import { useAudio } from '@/components/AudioContext';
 import HeroShowcase from '@/components/HeroShowcase';
 import SongGrid from '@/components/SongGrid';
+import './page.css';
 
 export default function HomePage() {
   const { currentSong, isPlaying, playSong, togglePlayPause, favorites, toggleFavorite, handleShuffleAll } = useAudio();

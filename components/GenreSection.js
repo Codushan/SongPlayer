@@ -1,4 +1,5 @@
 'use client';
+import './GenreSection.css';
 
 export function GenreCards({ genres, songCounts, activeGenre, onSelectGenre }) {
   const nonAllGenres = genres.filter((g) => g.id !== 'all');

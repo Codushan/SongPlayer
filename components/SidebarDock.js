@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
+import './SidebarDock.css';
 
 export default function SidebarDock({
   activeNav,
@@ -35,44 +36,98 @@ export default function SidebarDock({
     return idx !== -1 ? idx : 0;
   }, [activeNav, pathname, navItems]);
 
+  const navRef = useRef(null);
   const itemRefs = useRef([]);
+  const [isMounted, setIsMounted] = useState(false);
   const [bubblePos, setBubblePos] = useState({
-    x: 8,
-    y: 12 + activeIndex * 60,
+    x: 0,
+    y: 0,
     width: 48,
     height: 48,
-    ready: true,
+    ready: false,
   });
 
   const updateBubble = useCallback(() => {
+    const navEl = navRef.current;
     const el = itemRefs.current[activeIndex];
-    if (el) {
+    if (navEl && el && el.offsetWidth > 0 && el.offsetHeight > 0) {
+      const navRect = navEl.getBoundingClientRect();
+      const itemRect = el.getBoundingClientRect();
+      const diameter = 48;
+      const clientLeft = navEl.clientLeft || 0;
+      const clientTop = navEl.clientTop || 0;
+      const centerX = itemRect.left + itemRect.width / 2 - (navRect.left + clientLeft);
+      const centerY = itemRect.top + itemRect.height / 2 - (navRect.top + clientTop);
+      const x = Math.round(centerX - diameter / 2);
+      const y = Math.round(centerY - diameter / 2);
+
       setBubblePos({
-        x: el.offsetLeft,
-        y: el.offsetTop,
-        width: el.offsetWidth || 48,
-        height: el.offsetHeight || 48,
+        x,
+        y,
+        width: diameter,
+        height: diameter,
         ready: true,
       });
+      return true;
+    } else {
+      setBubblePos((prev) => (prev.ready ? { ...prev, ready: false } : prev));
+      return false;
     }
   }, [activeIndex]);
 
   useEffect(() => {
+    // Initial measurement
     updateBubble();
+
+    // Schedule frame update once DOM layout paints
+    const rafId = requestAnimationFrame(() => {
+      updateBubble();
+      setIsMounted(true);
+    });
+
+    // Safety checks for webfont loading and responsive viewport reflow
+    const t1 = setTimeout(updateBubble, 60);
+    const t2 = setTimeout(updateBubble, 180);
+    const t3 = setTimeout(updateBubble, 350);
+
+    if (typeof document !== 'undefined' && document.fonts) {
+      document.fonts.ready.then(() => updateBubble()).catch(() => {});
+    }
+
+    // Auto-update if dock size changes (e.g. orientation or window resize)
+    let resizeObserver = null;
+    if (typeof ResizeObserver !== 'undefined' && navRef.current) {
+      resizeObserver = new ResizeObserver(() => {
+        updateBubble();
+      });
+      resizeObserver.observe(navRef.current);
+    }
+
     window.addEventListener('resize', updateBubble);
-    return () => window.removeEventListener('resize', updateBubble);
+    window.addEventListener('orientationchange', updateBubble);
+
+    return () => {
+      cancelAnimationFrame(rafId);
+      clearTimeout(t1);
+      clearTimeout(t2);
+      clearTimeout(t3);
+      if (resizeObserver) resizeObserver.disconnect();
+      window.removeEventListener('resize', updateBubble);
+      window.removeEventListener('orientationchange', updateBubble);
+    };
   }, [updateBubble]);
 
   return (
     <aside className="vision-dock-container" aria-label="Main Navigation">
-      <nav className="vision-dock">
+      <nav className="vision-dock" ref={navRef}>
         {/* Dynamic flowing liquid bubble indicator */}
         <div
-          className="dock-bubble-indicator"
+          className={`dock-bubble-indicator${isMounted ? '' : ' no-transition'}`}
           style={{
             transform: `translate3d(${bubblePos.x}px, ${bubblePos.y}px, 0)`,
             width: `${bubblePos.width}px`,
             height: `${bubblePos.height}px`,
+            borderRadius: '50%',
             opacity: bubblePos.ready ? 1 : 0,
           }}
           aria-hidden="true"
@@ -91,7 +146,8 @@ export default function SidebarDock({
                 itemRefs.current[idx] = el;
               }}
               href={item.href}
-              className={`vision-dock-item${isActive ? ' active' : ''}`}
+              className={`vision-dock-item vision-dock-item-${item.id}${isActive ? ' active' : ''}`}
+              data-nav-id={item.id}
               onClick={() => {
                 if (onSelectNav) onSelectNav(item.id);
               }}

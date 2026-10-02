@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import './page.css';
 import { BHOJPURI_ARTISTS } from '@/data/songs';
 
 const ARTIST_COLORS = {

@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import './page.css';
 import { BHOJPURI_SONGS, BHOJPURI_GENRES } from '@/data/songs';
 import { useAudio } from '@/components/AudioContext';
 import AlbumSection from '@/components/AlbumSection';

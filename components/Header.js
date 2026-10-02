@@ -6,6 +6,7 @@ import { useState, useRef, useEffect, useMemo, useCallback } from 'react';
 import { BHOJPURI_SONGS, BHOJPURI_ARTISTS } from '@/data/songs';
 import { CURATED_PLAYLISTS } from '@/data/playlists';
 import { useAudio } from '@/components/AudioContext';
+import './Header.css';
 
 const TRENDING_SEARCHES = [
   'Pawan Singh',
@@ -328,7 +329,7 @@ export default function Header({
       <div className="header-actions">
         <Link
           href="/favorites"
-          className="header-btn vision-header-pill"
+          className="header-btn vision-header-pill header-favorites-btn"
           id="btn-favorites"
           title="Liked Songs"
         >

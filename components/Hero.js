@@ -1,4 +1,5 @@
 'use client';
+import './Hero.css';
 
 export default function Hero({ onDj, onChhath, onClassics }) {
   return (

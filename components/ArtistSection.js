@@ -1,4 +1,5 @@
 'use client';
+import './ArtistSection.css';
 
 // Unique gradient per artist — gives each star their own visual identity
 const ARTIST_COLORS = {

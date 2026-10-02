@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useMemo, Suspense } from 'react';
+import './page.css';
 import { useSearchParams } from 'next/navigation';
 import { BHOJPURI_SONGS, BHOJPURI_GENRES } from '@/data/songs';
 import { useAudio } from '@/components/AudioContext';

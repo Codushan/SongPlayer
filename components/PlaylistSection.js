@@ -2,6 +2,7 @@
 
 import { useMemo } from 'react';
 import { getSongsForCategory } from '@/data/playlists';
+import './PlaylistSection.css';
 
 export default function PlaylistSection({
   playlists,

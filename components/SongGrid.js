@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from 'react';
 import { CURATED_CATEGORIES, CENTURY_ERAS, songMatchesCategory, filterSongsByEra } from '@/data/playlists';
+import './SongGrid.css';
 
 export default function SongGrid({
   songs,

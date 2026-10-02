@@ -2,6 +2,7 @@ import './globals.css';
 import { AudioProvider } from '@/components/AudioContext';
 import Header from '@/components/Header';
 import SidebarDock from '@/components/SidebarDock';
+import Footer from '@/components/Footer';
 
 export const metadata = {
   title: 'Bhojpuri Sur — 1,500+ Bhojpuri Songs | Genre-Wise Music Hub',
@@ -40,6 +41,7 @@ export default function RootLayout({ children }) {
             <div className="main-content-wrapper">
               <main className="main-container">
                 {children}
+                <Footer />
               </main>
             </div>
           </div>

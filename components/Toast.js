@@ -1,4 +1,5 @@
 'use client';
+import './Toast.css';
 
 export default function Toast({ message, show }) {
   return (

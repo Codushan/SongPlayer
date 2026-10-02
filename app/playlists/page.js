@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import './page.css';
 import { BHOJPURI_SONGS } from '@/data/songs';
 import { CURATED_PLAYLISTS, getSongsForCategory } from '@/data/playlists';
 import { useAudio } from '@/components/AudioContext';

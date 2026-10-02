@@ -1,0 +1,199 @@
+/* ==========================================================================
+   ArtistSection Component Styles (Bhojpuri Stars & Singers)
+   ========================================================================== */
+
+.artist-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 24px 24px 26px;
+  border-radius: var(--radius-lg);
+  background: linear-gradient(162deg, rgba(255, 255, 255, 0.28) 0%, rgba(255, 255, 255, 0.16) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.46);
+  backdrop-filter: var(--glass-blur-lg);
+  /* -webkit-backdrop-filter: var(--glass-blur-lg); */
+  box-shadow:
+    0 22px 50px -22px rgba(15, 23, 42, 0.3),
+    var(--glass-bevel);
+}
+
+.artist-section .artist-card {
+  backdrop-filter: var(--glass-blur-sm);
+  -webkit-backdrop-filter: var(--glass-blur-sm);
+}
+
+.artists-scroll-wrap {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 16px;
+}
+
+.artist-card {
+  background: linear-gradient(162deg, rgba(255, 255, 255, 0.42) 0%, rgba(255, 255, 255, 0.28) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  backdrop-filter: var(--glass-blur-md);
+  -webkit-backdrop-filter: var(--glass-blur-md);
+  border-radius: var(--radius-lg);
+  padding: 24px 16px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  box-shadow:
+    0 8px 32px -8px rgba(15, 23, 42, 0.14),
+    var(--glass-bevel);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+  overflow: hidden;
+  text-decoration: none !important;
+}
+
+.artist-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  background: var(--artist-color, linear-gradient(135deg, #e11d48 0%, #be123c 100%));
+  opacity: 0.12;
+  border-radius: var(--radius-lg) var(--radius-lg) 50% 50%;
+  transition: opacity 0.3s ease;
+}
+
+.artist-card:hover {
+  background: #ffffff;
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+.artist-card:hover::before {
+  opacity: 0.22;
+}
+
+.artist-card.active {
+  border-color: var(--accent-primary);
+  background: #ffffff;
+  box-shadow: 0 10px 35px rgba(225, 29, 72, 0.18);
+}
+
+.artist-avatar-wrap {
+  position: relative;
+  margin-bottom: 14px;
+}
+
+.artist-avatar {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #fff;
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.artist-card:hover .artist-avatar {
+  transform: scale(1.06);
+}
+
+.artist-play-indicator {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--accent-primary);
+  color: #fff;
+  font-size: 0.72rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transform: scale(0.6);
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: var(--shadow-glow-pink);
+  border: 2px solid #ffffff;
+}
+
+.artist-card:hover .artist-play-indicator {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.artist-avatar-glow {
+  position: absolute;
+  inset: -4px;
+  border-radius: 50%;
+  background: var(--artist-color, var(--gradient-primary));
+  opacity: 0;
+  filter: blur(12px);
+  transition: opacity 0.3s ease;
+  z-index: -1;
+}
+
+.artist-card:hover .artist-avatar-glow {
+  opacity: 0.45;
+}
+
+.artist-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  width: 100%;
+}
+
+.artist-name {
+  font-size: 0.96rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.artist-hindi-name {
+  font-family: var(--font-hindi);
+  font-size: 0.85rem;
+  color: var(--accent-primary);
+  font-weight: 600;
+}
+
+.artist-badge-pill {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  background: rgba(148, 163, 184, 0.16);
+  padding: 3px 10px;
+  border-radius: var(--radius-full);
+  margin-top: 4px;
+}
+
+.artist-mic-icon {
+  color: var(--accent-gold);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .artist-section {
+    padding: 18px 14px;
+    border-radius: var(--radius-md);
+  }
+
+  .artists-scroll-wrap {
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 12px;
+  }
+
+  .artist-avatar {
+    width: 74px;
+    height: 74px;
+    font-size: 1.8rem;
+  }
+}

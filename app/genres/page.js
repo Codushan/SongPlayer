@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useMemo } from 'react';
+import './page.css';
 import { BHOJPURI_SONGS, BHOJPURI_GENRES } from '@/data/songs';
 import { songMatchesCategory } from '@/data/playlists';
 import { useAudio } from '@/components/AudioContext';
