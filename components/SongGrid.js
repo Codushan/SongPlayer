@@ -198,9 +198,9 @@ export default function SongGrid({
         <div className="singer-genre-filter-bar" id="singer-genre-filter-bar">
           <div className="drilldown-bar-header">
             <span className="drilldown-bar-title">
-              <i className="fa-solid fa-sliders" /> Filter by Category:
+              {/* <i className="fa-solid fa-sliders" /> Filter by Category: */}
             </span>
-            <span className="drilldown-bar-hint">16 Curated Bhojpuri Categories &middot; Auto Sorted</span>
+            {/* <span className="drilldown-bar-hint">16 Curated Bhojpuri Categories &middot; Auto Sorted</span> */}
           </div>
           <div className="singer-genre-pills-scroll">
             <button
@@ -457,7 +457,7 @@ export default function SongGrid({
                 </div>
               );
             })
-          : /* MODERN VISION-OS SONG BARS */
+            : /* MODERN VISION-OS SONG BARS */
             visibleSongs.map((song, idx) => {
               const playing = isPlaying && currentSong && currentSong.id === song.id;
               const liked = favorites ? favorites.has(song.id) : false;
