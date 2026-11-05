@@ -127,6 +127,30 @@ export function AudioProvider({ children }) {
     [persistFavorites, showToast]
   );
 
+  // HTML5 Silent Audio Carrier for Mobile OS AudioSession Lock-Screen Keepalive
+  const carrierRef = useRef(null);
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    try {
+      // 44-byte minimal silent WAV audio loop to keep mobile AudioSession active when locked
+      const audio = new Audio('data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA');
+      audio.loop = true;
+      audio.volume = 0.001;
+      carrierRef.current = audio;
+    } catch (e) {
+      /* ignore audio context restrictions */
+    }
+  }, []);
+
+  const syncCarrierPlayback = useCallback((shouldPlay) => {
+    if (!carrierRef.current) return;
+    if (shouldPlay) {
+      carrierRef.current.play().catch(() => {});
+    } else {
+      carrierRef.current.pause();
+    }
+  }, []);
+
   // Play a song with optional custom playlist queue and title
   const playSong = useCallback(
     (song, autoPlay = true, newQueue = null, newQueueTitle = null) => {
@@ -143,6 +167,7 @@ export function AudioProvider({ children }) {
       const songKey = song.youtubeId || song.id;
       setDuration(parseDurationToSeconds(song.duration));
       setIsPlaying(autoPlay);
+      syncCarrierPlayback(autoPlay);
       if (engineRef.current) {
         engineRef.current.load(song.youtubeId, autoPlay);
       }
@@ -150,7 +175,7 @@ export function AudioProvider({ children }) {
         showToast(`🎶 Playing: "${song.title}"`);
       }
     },
-    [showToast]
+    [showToast, syncCarrierPlayback]
   );
 
   // Cue default song on mount (Pawan Singh's Sheetli Bayariya Chhath song)
@@ -183,13 +208,14 @@ export function AudioProvider({ children }) {
     }
     setIsPlaying((prev) => {
       const next = !prev;
+      syncCarrierPlayback(next);
       if (engineRef.current) {
         if (next) engineRef.current.play();
         else engineRef.current.pause();
       }
       return next;
     });
-  }, [currentSong, playSong]);
+  }, [currentSong, playSong, syncCarrierPlayback]);
 
   const playNext = useCallback(() => {
     const q = queue.length > 0 ? queue : BHOJPURI_SONGS;
@@ -272,6 +298,88 @@ export function AudioProvider({ children }) {
       }
     );
   }, [currentSong]);
+
+  // Synchronize Mobile Lock-Screen & Media Notification Controller
+  useEffect(() => {
+    if (typeof window === 'undefined' || !('mediaSession' in navigator)) return;
+
+    if (currentSong) {
+      try {
+        navigator.mediaSession.metadata = new window.MediaMetadata({
+          title: currentSong.title,
+          artist: currentSong.singer || 'Bhojpuri Sur',
+          album: currentSong.album || 'Chhath Mahaparv Special',
+          artwork: [
+            { src: '/favicon.png', sizes: '96x96', type: 'image/png' },
+            { src: '/favicon.png', sizes: '128x128', type: 'image/png' },
+            { src: '/favicon.png', sizes: '192x192', type: 'image/png' },
+            { src: '/favicon.png', sizes: '512x512', type: 'image/png' },
+            { src: '/favicon.svg', sizes: 'any', type: 'image/svg+xml' },
+          ],
+        });
+      } catch (e) {
+        /* ignore metadata construction errors */
+      }
+    }
+
+    try {
+      navigator.mediaSession.playbackState = isPlaying ? 'playing' : 'paused';
+    } catch (e) {}
+
+    const setAction = (action, handler) => {
+      try {
+        navigator.mediaSession.setActionHandler(action, handler);
+      } catch (e) {}
+    };
+
+    setAction('play', () => {
+      togglePlayPause();
+    });
+    setAction('pause', () => {
+      togglePlayPause();
+    });
+    setAction('previoustrack', () => {
+      playPrev();
+    });
+    setAction('nexttrack', () => {
+      playNext();
+    });
+    setAction('seekto', (details) => {
+      if (details.seekTime !== undefined) {
+        seekTo(details.seekTime);
+      }
+    });
+  }, [currentSong, isPlaying, playNext, playPrev, togglePlayPause, seekTo]);
+
+  // Sync Mobile MediaSession Position State (for mobile lock screen scrub bar)
+  useEffect(() => {
+    if (
+      typeof window !== 'undefined' &&
+      'mediaSession' in navigator &&
+      typeof navigator.mediaSession.setPositionState === 'function' &&
+      duration > 0
+    ) {
+      try {
+        navigator.mediaSession.setPositionState({
+          duration: Math.max(1, duration),
+          playbackRate: 1,
+          position: Math.min(Math.max(0, currentTime), duration),
+        });
+      } catch (e) {}
+    }
+  }, [currentTime, duration]);
+
+  // Ensure carrier stays active if mobile screen turns off / tab is backgrounded
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    const handleVisibility = () => {
+      if (document.hidden && isPlaying && carrierRef.current && carrierRef.current.paused) {
+        carrierRef.current.play().catch(() => {});
+      }
+    };
+    document.addEventListener('visibilitychange', handleVisibility);
+    return () => document.removeEventListener('visibilitychange', handleVisibility);
+  }, [isPlaying]);
 
   // Global Keyboard Shortcuts
   useEffect(() => {

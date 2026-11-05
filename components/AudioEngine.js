@@ -23,6 +23,7 @@ const AudioEngine = forwardRef(function AudioEngine(
   const apiReadyRef = useRef(false);
   const pendingVideoIdRef = useRef(null);
   const pollRef = useRef(null);
+  const expectedPlayingRef = useRef(false);
 
   // Audio Context & Fallback Synthesizer State
   const audioCtxRef = useRef(null);
@@ -75,6 +76,21 @@ const AudioEngine = forwardRef(function AudioEngine(
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  // Resume primary stream when user unlocks mobile phone or returns to tab
+  useEffect(() => {
+    const handleVis = () => {
+      if (!document.hidden && expectedPlayingRef.current && isFallbackActiveRef.current) {
+        if (playerRef.current && typeof playerRef.current.playVideo === 'function') {
+          try {
+            playerRef.current.playVideo();
+          } catch (e) {}
+        }
+      }
+    };
+    document.addEventListener('visibilitychange', handleVis);
+    return () => document.removeEventListener('visibilitychange', handleVis);
+  }, []);
+
   function createPlayer() {
     if (!containerRef.current || playerRef.current) return;
 
@@ -114,11 +130,18 @@ const AudioEngine = forwardRef(function AudioEngine(
           };
 
           if (e.data === YT.PlayerState.PLAYING) {
+            expectedPlayingRef.current = true;
             stopSynthFallback();
             startPolling();
             checkDuration();
             if (cb.onStateChange) cb.onStateChange('playing');
           } else if (e.data === YT.PlayerState.PAUSED) {
+            // When mobile device is locked or user switches apps, YouTube forcefully pauses the iframe.
+            // If user intended playback to continue, activate audio stream seamlessly!
+            if (document.hidden && expectedPlayingRef.current) {
+              startSynthFallback(synthDurationRef.current, true);
+              return;
+            }
             stopPolling();
             checkDuration();
             if (cb.onStateChange) cb.onStateChange('paused');
@@ -268,17 +291,16 @@ const AudioEngine = forwardRef(function AudioEngine(
 
     if (!playerRef.current || !apiReadyRef.current || !playerRef.current.loadVideoById) {
       pendingVideoIdRef.current = { videoId, autoPlay };
-      if (autoPlay) {
-        startSynthFallback(synthDurationRef.current, true);
-      }
       return;
     }
 
     try {
       if (autoPlay) {
+        expectedPlayingRef.current = true;
         playerRef.current.loadVideoById(videoId, 0);
         playerRef.current.playVideo();
       } else {
+        expectedPlayingRef.current = false;
         playerRef.current.cueVideoById(videoId, 0);
       }
     } catch (e) {
@@ -292,6 +314,7 @@ const AudioEngine = forwardRef(function AudioEngine(
       loadVideo(videoId, autoPlay);
     },
     play() {
+      expectedPlayingRef.current = true;
       if (isFallbackActiveRef.current) {
         synthPlayingRef.current = true;
         getAudioContext();
@@ -305,6 +328,7 @@ const AudioEngine = forwardRef(function AudioEngine(
       }
     },
     pause() {
+      expectedPlayingRef.current = false;
       if (isFallbackActiveRef.current) {
         synthPlayingRef.current = false;
         if (callbacksRef.current.onStateChange) callbacksRef.current.onStateChange('paused');
@@ -342,10 +366,12 @@ const AudioEngine = forwardRef(function AudioEngine(
         width: '200px',
         height: '200px',
         bottom: 0,
-        left: '-9999px',
+        right: 0,
         opacity: 0.001,
         pointerEvents: 'none',
         zIndex: -9999,
+        transform: 'scale(0.01)',
+        transformOrigin: 'bottom right',
       }}
     >
       <div ref={containerRef} />
