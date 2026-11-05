@@ -135,7 +135,8 @@ export function AudioProvider({ children }) {
       // 44-byte minimal silent WAV audio loop to keep mobile AudioSession active when locked
       const audio = new Audio('data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA');
       audio.loop = true;
-      audio.volume = 0.001;
+      audio.volume = 0;
+      audio.muted = true;
       carrierRef.current = audio;
     } catch (e) {
       /* ignore audio context restrictions */
