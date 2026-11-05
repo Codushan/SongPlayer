@@ -10,10 +10,56 @@ import SongGrid from '@/components/SongGrid';
 import './page.css';
 
 export default function HomePage() {
-  const { currentSong, isPlaying, playSong, togglePlayPause, favorites, toggleFavorite, handleShuffleAll } = useAudio();
+  const {
+    currentSong,
+    isPlaying,
+    playSong,
+    togglePlayPause,
+    favorites,
+    toggleFavorite,
+    handleShuffleAll,
+    handlePlayAll,
+  } = useAudio();
 
   const homeTrendingSongs = useMemo(() => {
     return BHOJPURI_SONGS.slice(0, 6);
+  }, []);
+
+  // All Chhath Mahaparv songs
+  const allChhathSongs = useMemo(() => {
+    return getSongsForCategory(BHOJPURI_SONGS, 'chhath_geet');
+  }, []);
+
+  // Curated showcase of highest-streamed & iconic Chhath songs based on verified web popularity
+  const homeChhathSongs = useMemo(() => {
+    const priorityIds = [
+      'chhath_track_2022_8', // Sheetli Bayariya (Jal Beech Khada Hoee) - Pawan Singh, Palak Muchhal
+      'chhath_track_1986_4', // Kelwa Ke Paat Par - Sharda Sinha (~210M+ plays, all-time #1 anthem)
+      'chhath_track_2016_1', // Pahile Pahil Chhathi Maiya - Sharda Sinha (~80M+ views)
+      'chhath_track_1986_3', // Ho Deenanath - Sharda Sinha (~170M+ plays)
+      'chhath_track_1998_2', // Uga Ho Surujdev Bhel Bhinsarva - Anuradha Paudwal (~480M+ cumulative plays)
+      'pawan_chhath_track_2012_3', // Kaanch Hi Baans Ke Bahangiya - Pawan Singh, Palak
+      'pawan_chhath_track_2021_1', // Jai Chhathi Maiya - Sonu Nigam, Pawan Singh
+      'pawan_chhath_track_2021_2', // Babua Je Rahite - Pawan Singh (~45M+ views)
+      'chhath_track_1986_1', // Baanjhin Kewdawa Dhaile Thaadh - Sharda Sinha (~30M+ views)
+    ];
+
+    const topPicks = priorityIds
+      .map((id) => allChhathSongs.find((s) => s.id === id))
+      .filter(Boolean);
+
+    const remaining = allChhathSongs.filter((s) => !priorityIds.includes(s.id));
+    return [...topPicks, ...remaining].slice(0, 6);
+  }, [allChhathSongs]);
+
+  // Featured Curated Playlists for Home (ensuring Chhath Geet is featured up front)
+  const homeFeaturedPlaylists = useMemo(() => {
+    const featuredIds = ['chhath_geet', 'dj', 'bhakti', 'love_song'];
+    const featured = featuredIds
+      .map((id) => CURATED_PLAYLISTS.find((p) => p.id === id))
+      .filter(Boolean);
+    const others = CURATED_PLAYLISTS.filter((p) => !featuredIds.includes(p.id));
+    return [...featured, ...others].slice(0, 4);
   }, []);
 
   return (
@@ -38,6 +84,9 @@ export default function HomePage() {
             >
               <i className="fa-solid fa-play" /> Start Radio
             </button>
+            <Link href="/playlists/chhath_geet" className="btn-secondary btn-chhath-pill">
+              <i className="fa-solid fa-sun" style={{ color: '#f59e0b' }} /> Chhath Special
+            </Link>
             <Link href="/playlists" className="btn-secondary">
               <i className="fa-solid fa-list-check" /> Browse Playlists
             </Link>
@@ -51,7 +100,69 @@ export default function HomePage() {
         <HeroShowcase />
       </div>
 
-      {/* Featured Curated Playlists (First 4 by default on Home) */}
+      {/* Chhath Mahaparv Special Section in Main Panel */}
+      <div className="home-section-block home-chhath-section">
+        <div className="home-section-header">
+          <div>
+            <div className="home-festival-badge">
+              <i className="fa-solid fa-sun" /> आस्था का महापर्व &middot; Chhath Mahaparv Special
+            </div>
+            <h3 className="home-section-title">
+              <i className="fa-solid fa-sun" style={{ color: '#f59e0b' }} />{' '}
+              Pavitra Chhath Mahaparv Geetein
+            </h3>
+            <p className="home-section-subtitle">
+              Sacred Ganga-ghat hymns and traditional offerings by Sharda Sinha, Anuradha Paudwal, Pawan Singh &amp; legends
+            </p>
+          </div>
+          <div className="home-section-actions">
+            <button
+              type="button"
+              className="home-play-all-pill"
+              onClick={() => {
+                if (allChhathSongs.length > 0) {
+                  handlePlayAll(allChhathSongs, 'Chhath Mahaparv');
+                }
+              }}
+              title="Play All Chhath Songs"
+            >
+              <i className="fa-solid fa-play" /> Play All
+            </button>
+            <button
+              type="button"
+              className="home-play-all-pill home-shuffle-pill"
+              onClick={() => {
+                if (allChhathSongs.length > 0) {
+                  handleShuffleAll(allChhathSongs, 'Chhath Mahaparv');
+                }
+              }}
+              title="Shuffle Chhath Songs"
+            >
+              <i className="fa-solid fa-shuffle" /> Shuffle
+            </button>
+            <Link href="/playlists/chhath_geet" className="home-see-all-btn">
+              All Chhath Songs ({allChhathSongs.length}) <i className="fa-solid fa-chevron-right" />
+            </Link>
+          </div>
+        </div>
+
+        <SongGrid
+          songs={homeChhathSongs}
+          visibleCount={6}
+          viewMode="bars"
+          genres={BHOJPURI_GENRES}
+          currentSong={currentSong}
+          isPlaying={isPlaying}
+          favorites={favorites}
+          onPlaySong={(song) => {
+            if (currentSong && currentSong.id === song.id) togglePlayPause();
+            else playSong(song, true, allChhathSongs, 'Chhath Mahaparv');
+          }}
+          onToggleFavorite={toggleFavorite}
+        />
+      </div>
+
+      {/* Featured Curated Playlists */}
       <div className="home-section-block">
         <div className="home-section-header">
           <div>
@@ -66,7 +177,7 @@ export default function HomePage() {
         </div>
 
         <div className="playlist-grid home-playlist-grid">
-          {CURATED_PLAYLISTS.slice(0, 4).map((pl) => {
+          {homeFeaturedPlaylists.map((pl) => {
             const plSongs = getSongsForCategory(BHOJPURI_SONGS, pl.id);
             return (
               <Link

@@ -83,6 +83,86 @@
   gap: 18px;
 }
 
+/* Chhath Mahaparv Special Section Styling */
+.home-chhath-section {
+  position: relative;
+  background: linear-gradient(162deg, rgba(254, 243, 199, 0.42) 0%, rgba(255, 255, 255, 0.25) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.38);
+  box-shadow:
+    0 22px 50px -22px rgba(217, 119, 6, 0.22),
+    var(--glass-bevel);
+}
+
+.home-festival-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.74rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #b45309;
+  background: rgba(245, 158, 11, 0.16);
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  padding: 3px 10px;
+  border-radius: var(--radius-full);
+  margin-bottom: 6px;
+}
+
+.home-section-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.home-play-all-pill {
+  background: linear-gradient(135deg, #f59e0b, #d97706);
+  border: none;
+  color: #ffffff;
+  font-size: 0.82rem;
+  font-weight: 700;
+  font-family: var(--font-sans);
+  padding: 6px 16px;
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  box-shadow: 0 4px 12px rgba(245, 158, 11, 0.3);
+  transition: all 0.2s ease;
+}
+
+.home-play-all-pill:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(245, 158, 11, 0.45);
+}
+
+.home-shuffle-pill {
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  color: #b45309;
+  box-shadow: 0 2px 6px rgba(15, 23, 42, 0.04);
+}
+
+.home-shuffle-pill:hover {
+  background: #ffffff;
+  color: #d97706;
+  border-color: #f59e0b;
+}
+
+.btn-chhath-pill {
+  border-color: rgba(245, 158, 11, 0.45) !important;
+  color: #b45309 !important;
+  background: rgba(254, 243, 199, 0.4) !important;
+}
+
+.btn-chhath-pill:hover {
+  border-color: #f59e0b !important;
+  background: rgba(254, 243, 199, 0.75) !important;
+  color: #d97706 !important;
+}
+
 @media (max-width: 768px) {
   .home-minimal-view {
     gap: 24px;

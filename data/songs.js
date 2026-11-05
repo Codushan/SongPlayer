@@ -14515,8 +14515,8 @@ export const BHOJPURI_SONGS = [
     "writer": "Sharda Sinha",
     "label": "T-Series Hamaar Bhojpuri",
     "starring": "Sharda Sinha",
-    "youtubeId": "WYkrgIZFcZw",
-    "youtubeUrl": "https://www.youtube.com/watch?v=WYkrgIZFcZw",
+    "youtubeId": "6nPhZkZF4kk",
+    "youtubeUrl": "https://www.youtube.com/watch?v=6nPhZkZF4kk&list=RD6nPhZkZF4kk&start_radio=1",
     "searchUrl": "https://www.youtube.com/results?search_query=Pahile%20Pahil%20Chhathi%20Maiya%20Sharda%20Sinha%20Bhojpuri%20Song"
   },
   {
@@ -16421,22 +16421,22 @@ export const BHOJPURI_SONGS = [
   },
   {
     "id": "chhath_track_2022_8",
-    "title": "Jal Beech Khada Hoee (Jode Jode Phalwa)",
+    "title": "Sheetli Bayariya (Jal Beech Khada Hoee)",
     "singer": "Pawan Singh, Palak Muchhal",
     "genreId": "chhath",
     "genreName": "Chhath Mahaparv",
     "genreHindi": "छठ महापर्व",
     "rawGenre": "Chhath Mahaparv",
-    "album": "Jal Beech Khada Hoee (Jode Jode Phalwa) - Single",
+    "album": "Daras Dekhava Ae Deenanath / Jode Jode Falwa",
     "year": 2022,
     "duration": "05:26",
     "composer": "Priyanshu Singh",
-    "writer": "Ashutosh Tiwari",
-    "label": "Wave Music",
+    "writer": "Vinay Bihari",
+    "label": "T-Series / Wave Music",
     "starring": "Pawan Singh",
     "youtubeId": "BKoD7bTLc2k",
     "youtubeUrl": "https://www.youtube.com/watch?v=BKoD7bTLc2k",
-    "searchUrl": "https://www.youtube.com/results?search_query=Jal%20Beech%20Khada%20Hoee%20(Jode%20Jode%20Phalwa)%20Pawan%20Singh%2C%20Palak%20Muchhal%20Bhojpuri%20Song"
+    "searchUrl": "https://www.youtube.com/results?search_query=Sheetli%20Bayariya%20Pawan%20Singh%20Chhath%20Song"
   },
   {
     "id": "chhath_track_2022_9",

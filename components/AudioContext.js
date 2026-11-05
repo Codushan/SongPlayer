@@ -19,6 +19,12 @@ function parseDurationToSeconds(duration) {
 
 const AudioContext = createContext(null);
 
+// Default featured track: Pawan Singh's iconic Chhath song "Sheetli Bayariya"
+const DEFAULT_SONG =
+  BHOJPURI_SONGS.find((s) => s.id === 'chhath_track_2022_8') ||
+  BHOJPURI_SONGS.find((s) => (s.title || '').toLowerCase().includes('sheetli bayariya')) ||
+  BHOJPURI_SONGS[0];
+
 export function AudioProvider({ children }) {
   const engineRef = useRef(null);
 
@@ -32,8 +38,14 @@ export function AudioProvider({ children }) {
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
   const [favorites, setFavorites] = useState(() => new Set());
-  const [queue, setQueue] = useState(BHOJPURI_SONGS);
-  const [queueTitle, setQueueTitle] = useState('Bhojpuri Hits');
+  const [queue, setQueue] = useState(() => {
+    if (DEFAULT_SONG) {
+      const rest = BHOJPURI_SONGS.filter((s) => s.id !== DEFAULT_SONG.id);
+      return [DEFAULT_SONG, ...rest];
+    }
+    return BHOJPURI_SONGS;
+  });
+  const [queueTitle, setQueueTitle] = useState('Chhath Mahaparv Special');
   const [isPlayerExpanded, setIsPlayerExpanded] = useState(false);
 
   // Global Toast State
@@ -141,13 +153,13 @@ export function AudioProvider({ children }) {
     [showToast]
   );
 
-  // Cue first song on mount
+  // Cue default song on mount (Pawan Singh's Sheetli Bayariya Chhath song)
   useEffect(() => {
-    if (BHOJPURI_SONGS.length > 0 && !currentSong) {
-      playSong(BHOJPURI_SONGS[0], false);
-    }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+      if (!currentSong && DEFAULT_SONG) {
+        playSong(DEFAULT_SONG, false, null, 'Chhath Mahaparv Special');
+      }
+      // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, []);
 
   // Sync volume with engine
   const setVolume = useCallback((val) => {
@@ -166,7 +178,7 @@ export function AudioProvider({ children }) {
 
   const togglePlayPause = useCallback(() => {
     if (!currentSong) {
-      if (BHOJPURI_SONGS.length > 0) playSong(BHOJPURI_SONGS[0]);
+      if (DEFAULT_SONG) playSong(DEFAULT_SONG, true, null, 'Chhath Mahaparv Special');
       return;
     }
     setIsPlaying((prev) => {

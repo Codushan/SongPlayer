@@ -50,19 +50,6 @@ export const heroShowcaseConfig = {
   items: [
     {
       type: 'image',
-      id: 'item-1',
-      src: '/showcase/diwali_diya.png',
-      alt: 'Happy Diwali Celebrations',
-    },
-    {
-      type: 'text',
-      id: 'item-2',
-      badge: '🪔 शुभ दीपावली',
-      title: 'दीपों का पावन महापर्व',
-      subtitle: 'भोजपुरी सुर के संग मनाएं रोशनी, उल्लास और भक्ति भरी पावन दिवाली।',
-    },
-    {
-      type: 'image',
       id: 'item-3',
       src: '/showcase/chhath_sun.png',
       alt: 'Chhath Mahaparv Special',
@@ -73,6 +60,19 @@ export const heroShowcaseConfig = {
       badge: '🙏 आस्था का महापर्व',
       title: 'जय छठी मइया',
       subtitle: 'शारदा सिन्हा और अनुराधा पौडवाल के सुप्रसिद्ध छठ गीतों के साथ पावन अर्घ्य।',
+    },
+    {
+      type: 'image',
+      id: 'item-1',
+      src: '/showcase/diwali_diya.png',
+      alt: 'Happy Diwali Celebrations',
+    },
+    {
+      type: 'text',
+      id: 'item-2',
+      badge: '🪔 शुभ दीपावली',
+      title: 'दीपों का पावन महापर्व',
+      subtitle: 'भोजपुरी सुर के संग मनाएं रोशनी, उल्लास और भक्ति भरी पावन दिवाली।',
     },
     {
       type: 'image',
@@ -93,6 +93,11 @@ export const heroShowcaseConfig = {
   // 🖼️ PURE IMAGES ONLY (Used when mode: 'images')
   // ===========================================================================
   images: [
+    {
+      id: 'img-2',
+      src: '/showcase/chhath_sun.png',
+      alt: 'Chhath Mahaparv Special',
+    },
     {
       id: 'img-1',
       src: '/showcase/diwali_diya.png',

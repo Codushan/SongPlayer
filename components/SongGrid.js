@@ -60,6 +60,7 @@ export default function SongGrid({
 
   const quickFilterTabs = [
     { id: 'all', label: 'All Songs', icon: 'fa-solid fa-list' },
+    { id: 'chhath', label: '🪔 Chhath Mahaparv', icon: 'fa-solid fa-sun' },
     { id: 'popular', label: '🔥 Popular & Viral', icon: 'fa-solid fa-fire' },
     { id: 'chartbusters', label: '⭐ Chartbusters', icon: 'fa-solid fa-star' },
     { id: 'recent', label: '🆕 Latest (2020+)', icon: 'fa-solid fa-sparkles' },

@@ -4,6 +4,7 @@ import { useState, useMemo, Suspense } from 'react';
 import './page.css';
 import { useSearchParams } from 'next/navigation';
 import { BHOJPURI_SONGS, BHOJPURI_GENRES } from '@/data/songs';
+import { songMatchesCategory } from '@/data/playlists';
 import { useAudio } from '@/components/AudioContext';
 import FilterToolbar from '@/components/FilterToolbar';
 import SongGrid from '@/components/SongGrid';
@@ -13,6 +14,7 @@ const PAGE_SIZE = 40;
 function AllSongsContent() {
   const searchParams = useSearchParams();
   const initialQuery = searchParams?.get('q') || '';
+  const initialFilter = searchParams?.get('filter') || 'all';
 
   const {
     currentSong,
@@ -26,7 +28,7 @@ function AllSongsContent() {
   } = useAudio();
 
   const [activeEra, setActiveEra] = useState('all');
-  const [quickFilter, setQuickFilter] = useState('all');
+  const [quickFilter, setQuickFilter] = useState(initialFilter);
   const [sortBy, setSortBy] = useState('default');
   const [viewMode, setViewMode] = useState('bars');
   const [page, setPage] = useState(1);
@@ -44,7 +46,9 @@ function AllSongsContent() {
     }
 
     // Quick Filter Tabs
-    if (quickFilter === 'popular') {
+    if (quickFilter === 'chhath') {
+      list = list.filter((s) => songMatchesCategory(s, 'chhath_geet'));
+    } else if (quickFilter === 'popular') {
       list = list.filter(
         (s) =>
           s.genreId === 'dj_party' ||
